@@ -1,5 +1,4 @@
-# 프로젝트 개요
-- **앱 이름**: Stellai
+﻿- **앱 이름**: Stellai
 - **목표**: 북미·남미·일본을 주요 시장으로 한 타로 모바일 앱 정식 출시
 - **핵심 가치**: 신뢰 가능한 리딩 콘텐츠, 프리미엄 해석 및 커뮤니티 확장
 
@@ -24,7 +23,7 @@
 - **인증**: Firebase Authentication (Google Sign-In + Apple Sign In)
 - **데이터베이스**: Firestore (사용자 프로필, 리딩 기록, 결제 영수증, 동의 상태)
 - **서버리스**: Firebase Cloud Functions / Cloud Run (영수증 검증, 통계 집계)
-- **CI/CD**: GitHub Actions + fastlane (빌드 및 스토어 업로드 자동화)
+- **CI/CD**: GitHub Actions (Gradle Play Publisher + Apple Transporter/ASC API 기반 스토어 업로드 자동화)
 - **로깅/분석**: Firebase Crashlytics, Analytics, Remote Config
 
 # Flutter 아키텍처 & 화면 구성
@@ -50,23 +49,7 @@
             history/                // 리딩 기록 및 재확인
           shared/
             widgets/                // 공용 UI 컴포넌트
-            utils/                  // 헬퍼 함수
-        assets/
-          cards/                   // 기존 카드 이미지
-          translations/            // 다국어 JSON 묶음
-
-- **핵심 패키지 제안**: go_router(내비게이션), riverpod(상태관리), dio(API), intl(다국어), firebase_core/auth/firestore, google_mobile_ads, in_app_purchase, shared_preferences
-- **화면 플로우**:
-  1. 스플래시 → 구글 로그인 → 온보딩(프리미엄/무료 소개)
-  2. 홈(모드 선택)
-     - 빠른 한 장: 하루 1회 무료, 광고 없이 즉시 결과
-     - 3장 스프레드: 과거/현재/미래, 30초 광고 1회 또는 결제
-     - 10장 스프레드: 종합 리딩, 30초 광고 2회(연속/분할) 또는 결제
-  3. 카테고리 선택(직업, 애정, 재물 등) + 기본 질문 추천 리스트
-  4. 직접 질문 입력(옵션) 및 언어 선택 확인
-  5. 카드 선택 화면 → 광고 시청(필요 시) 동안 백그라운드에서 LLM 프롬프트 구성
-  6. 리딩 결과 화면: LLM 응답(요약/상세), 카드별 해석, 공유/저장, 프리미엄 CTA
-  7. 프리미엄 허브: 광고 면제, 추가 스프레드/히스토리 기능, 정기 결제 안내
+@@ -70,42 +70,42 @@
 - **데이터 흐름**: UI → ViewModel(Riverpod) → 서비스(Firebase/LLM) → Firestore 저장 → 상태 업데이트 → 다국어 변환 적용
 - **LLM 통합**: Cloud Functions/Run에서 { userId, locale, spreadType, category, question, cardIds } JSON 수신 → LLM 호출 → 응답 저장 후 앱으로 반환
 - **광고/결제 UX**: 카드 선택 직후 전면/보상형 광고 노출, 광고 시청 완료 시 결과 화면 활성화; 결제 사용자/프리미엄 구독자는 광고 스킵 후 즉시 응답 표시
@@ -92,11 +75,11 @@
 # MCP 및 자동화 도구 계획
 - **Firebase CLI**: 배포, 인증/DB 규칙 관리
 - **Google Cloud SDK (gcloud)**: Cloud Run, Secret Manager, IAM 설정
-- **fastlane**: iOS/Android 빌드 및 스토어 연결 자동화
+- **스토어 자동화 도구**: Gradle Play Publisher, Apple Transporter CLI, App Store Connect API 스크립트
 - **Play Console API**: 빌드 업로드 및 인앱결제 동기화
 - **App Store Connect API**: TestFlight, 메타데이터 자동화
 - **GitHub CLI**: 릴리스 태깅, CI 워크플로 트리거
-- **설치 전략**: npm/pip 기반 스크립트로 firebase-tools, gcloud CLI, fastlane 등을 자동 설치(네트워크 승인 후 실행)
+- **설치 전략**: npm/pip 기반 스크립트로 firebase-tools, gcloud CLI, Gradle Play Publisher 세팅, Apple Transporter CLI 등을 자동 설치(네트워크 승인 후 실행)
 
 # Task Master
 - [x] Flutter 프로젝트 구조 정의 및 저장소 초기 세팅(Android 패키지명, 모듈 구성)
@@ -108,4 +91,4 @@
 - [ ] 로컬라이제이션 워크플로 도구 선정(예: arb/json), 검수 프로세스 정의
 - [ ] GitHub Actions 기반 빌드/테스트 파이프라인 초안 작성
 - [ ] QA/테스트 플랜 수립(내부 테스트 트랙, 크래시 모니터링, 사용자 피드백 루프)
-- [ ] MCP 설치 자동화 스크립트 작성(firebase-tools, gcloud, fastlane 등)
+- [ ] MCP 설치 자동화 스크립트 작성(firebase-tools, gcloud, Gradle Play Publisher, Apple Transporter CLI 등)
