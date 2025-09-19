@@ -24,7 +24,7 @@
 - **인증**: Firebase Authentication (Google Sign-In + Apple Sign In)
 - **데이터베이스**: Firestore (사용자 프로필, 리딩 기록, 결제 영수증, 동의 상태)
 - **서버리스**: Firebase Cloud Functions / Cloud Run (영수증 검증, 통계 집계)
-- **CI/CD**: GitHub Actions + fastlane (빌드 및 스토어 업로드 자동화)
+- **CI/CD**: GitHub Actions (Gradle Play Publisher + Apple Transporter/ASC API 기반 스토어 업로드 자동화)
 - **로깅/분석**: Firebase Crashlytics, Analytics, Remote Config
 
 # Flutter 아키텍처 & 화면 구성
@@ -92,11 +92,11 @@
 # MCP 및 자동화 도구 계획
 - **Firebase CLI**: 배포, 인증/DB 규칙 관리
 - **Google Cloud SDK (gcloud)**: Cloud Run, Secret Manager, IAM 설정
-- **fastlane**: iOS/Android 빌드 및 스토어 연결 자동화
+- **스토어 자동화 도구**: Gradle Play Publisher, Apple Transporter CLI, App Store Connect API 스크립트
 - **Play Console API**: 빌드 업로드 및 인앱결제 동기화
 - **App Store Connect API**: TestFlight, 메타데이터 자동화
 - **GitHub CLI**: 릴리스 태깅, CI 워크플로 트리거
-- **설치 전략**: npm/pip 기반 스크립트로 firebase-tools, gcloud CLI, fastlane 등을 자동 설치(네트워크 승인 후 실행)
+- **설치 전략**: npm/pip 기반 스크립트로 firebase-tools, gcloud CLI, Gradle Play Publisher 세팅, Apple Transporter CLI 등을 자동 설치(네트워크 승인 후 실행)
 
 # Task Master
 - [x] Flutter 프로젝트 구조 정의 및 저장소 초기 세팅(Android 패키지명, 모듈 구성)
@@ -108,4 +108,4 @@
 - [ ] 로컬라이제이션 워크플로 도구 선정(예: arb/json), 검수 프로세스 정의
 - [ ] GitHub Actions 기반 빌드/테스트 파이프라인 초안 작성
 - [ ] QA/테스트 플랜 수립(내부 테스트 트랙, 크래시 모니터링, 사용자 피드백 루프)
-- [ ] MCP 설치 자동화 스크립트 작성(firebase-tools, gcloud, fastlane 등)
+- [ ] MCP 설치 자동화 스크립트 작성(firebase-tools, gcloud, Gradle Play Publisher, Apple Transporter CLI 등)
