@@ -1,0 +1,130 @@
+{
+  "id": "major19_le_soleil",
+  "meta": {
+    "deck_id": "chat_coreen_tarot_v1",
+    "card_id": "major19",
+    "variant_id": "classic_ornate_final",
+    "titles": {
+      "top_main": "19",
+      "bottom_main": "LE SOLEIL",
+      "native": "해님 고양이",
+      "en": "The Sun Cats",
+      "original_tarot": "THE SUN"
+    }
+  },
+  "frame_v3": {
+    "canvas_size": [ 1400, 2400 ],
+    "padding_sides": 56,
+    "top_band_height": 192,
+    "bottom_band_height": 288,
+    "illustration_y_range": [ 248, 2068 ],
+    "safe_inset": 24,
+    "colors": {
+      "paper": "#FBF5E8",
+      "band": "#F3EADA",
+      "ink": "#4D3B2A"
+    },
+    "title_mode": "ornate_cartouche",
+    "font_scaling_single": 0.41
+  },
+  "structure": {
+    "number": 19,
+    "roman_numeral": "XIX",
+    "arcana": "Major",
+    "suit": null,
+    "cat_breed": "아메리칸 숏헤어 (쌍둥이 - American Shorthair Twins)",
+    "hanbok_style": "아이들의 순수함을 상징하는 색동저고리",
+    "color_theme_keywords": [
+      "황색(기쁨, 성공)",
+      "주황색(활력, 긍정)",
+      "청색(명료함, 진실)",
+      "백색(순수)"
+    ],
+    "cat_personality": "세상에 대한 어떠한 의심이나 걱정도 없이, 순수한 기쁨과 활력으로 가득 찬 존재. 모든 것을 긍정적으로 바라보며, 그들의 존재만으로 주변을 밝게 만든다.",
+    "pose_description": "밝은 태양 아래, 키 큰 해바라기들 사이에서 두 마리의 쌍둥이 고양이가 서로 즐겁게 장난치며 놀고 있다. 한 마리는 나비를 좇고, 다른 한 마리는 해맑게 웃으며 손을 뻗고 있다. 그들의 모습은 순수한 행복 그 자체이다.",
+    "outfit_description": "어린아이의 순수함과 축복을 상징하는 알록달록한 색동저고리를 입고 있다.",
+    "prop_description": "하늘에 떠 있는 거대한 태양은 인자한 미소를 띤 얼굴을 하고 있으며, 모든 것을 명확하게 비추는 진실과 생명의 근원을 상징한다. 고양이들을 둘러싼 해바라기들은 태양을 향한 믿음과 긍정적인 에너지를 나타낸다. 뒤로는 낮은 담장이 있어 안전하고 보호받는 환경임을 보여준다.",
+    "background_scene": "구름 한 점 없이 맑고 푸른 여름날의 해바라기 밭. 모든 것이 밝고 선명하며, 어떠한 그림자나 불안도 찾아볼 수 없는 완벽하게 긍정적인 공간이다.",
+    "color_palette_main": [
+      "#FFD700",
+      "#FFA500",
+      "#87CEEB"
+    ],
+    "color_palette_accent": [
+      "#FFFFFF",
+      "#228B22",
+      "#4D3B2A"
+    ],
+    "symbol_summary_keywords": [
+      "성공",
+      "기쁨",
+      "활력",
+      "긍정",
+      "명료함"
+    ],
+    "cat_quote": "“걱정은 그림자일 뿐, 태양이 뜨면 모두 사라진다!”"
+  },
+  "content": {
+    "story": {
+      "korean": "밤의 불안이 걷히고, 위대한 태양이 떠올라 세상을 환하게 비춘다. 해바라기 밭에서 쌍둥이 고양이들은 숨겨진 것 없이 모든 것이 명료해진 세상에서 순수한 기쁨을 만끽한다. 태양의 따스한 빛은 모든 의심을 녹이고, 성공과 행복을 약속한다. 이 카드는 마침내 어둠의 시간이 끝나고, 당신의 삶에 성공과 기쁨, 활력이 가득 찰 것임을 알리는 최고의 길조이다.",
+      "english": "The anxieties of the night have passed, and the great sun rises to illuminate the world. In a field of sunflowers, the twin cats revel in the pure joy of a world where everything is clear and nothing is hidden. The warm light of the sun melts away all doubts and promises success and happiness. This card is the ultimate good omen, signaling that the time of darkness is finally over, and your life will be filled with success, joy, and vitality."
+    },
+    "keywords": [
+      "행복",
+      "성공",
+      "긍정적인 에너지",
+      "활력",
+      "명료함",
+      "진실",
+      "순수함",
+      "자유"
+    ],
+    "core_message": {
+      "upright": "“마침내 성공과 행복의 빛이 당신을 비춘다. 자신감을 갖고 순수한 기쁨을 만끽하라.”",
+      "reversed": "“일시적인 어려움이나 비관주의에 빠져있다. 긍정적인 면을 보지 못하고 있다. 구름은 곧 걷힐 것이다.”"
+    }
+  },
+  "symbols": {
+    "title": "상징 해설",
+    "items": [
+      {
+        "name": "미소 짓는 태양",
+        "meaning": "모든 것을 명확하게 드러내는 절대적인 진실과 의식의 빛을 상징한다. 생명력과 긍정적인 에너지의 근원이다."
+      },
+      {
+        "name": "쌍둥이 고양이",
+        "meaning": "의식과 무의식, 혹은 이성과 감성의 조화로운 결합을 상징한다. 순수하고 천진난만한 기쁨의 상태를 나타낸다."
+      },
+      {
+        "name": "해바라기",
+        "meaning": "태양(진실과 긍정)을 향한 믿음과 낙관적인 태도를 상징한다. 풍요로운 결실과 성장을 나타낸다."
+      },
+      {
+        "name": "낮은 담장",
+        "meaning": "자유를 억압하는 감옥이 아닌, 외부의 위험으로부터 보호받는 안전한 환경을 의미한다. 이 안에서 마음껏 기쁨을 누릴 수 있음을 보여준다."
+      }
+    ]
+  },
+  "a11y": {
+    "alt_text_kr": "해맑은 쌍둥이 아메리칸 숏헤어 고양이들이 해바라기 밭에서 즐겁게 놀고 있다. 하늘에는 미소 짓는 태양이 떠 있다. 카드 상단엔 19, 하단엔 ‘LE SOLEIL’이 적혀 있다.",
+    "alt_text_en": "Cheerful twin American Shorthair cats are playing joyfully in a sunflower field under a smiling sun. The card shows '19' at the top and 'LE SOLEIL' at the bottom."
+  },
+  "prompts": {
+    "illustration_prompt_en": "High resolution, 1024px minimum width. Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, depicting 'Le Soleil' (The Sun), is designed in the style of a joyful and vibrant antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration features two happy and energetic American Shorthair twin cats, wearing colorful 'saekdong-jeogori' (children's rainbow-striped tops). They are playing joyfully in a field of tall, bright sunflowers under a brilliant, clear blue sky. A large, benevolent sun with a smiling face shines down upon them. The entire scene is filled with bright, clear light, with no shadows. The overall atmosphere is one of pure happiness, vitality, and success. The color palette is dominated by brilliant yellows (#FFD700), warm oranges (#FFA500), and clear sky blues (#87CEEB). -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, an ornate cartouche contains the number '19'. At the bottom, a matching cartouche frames the French title 'LE SOLEIL'. The corners of the main border feature delicate scrollwork. --ar 7:12 --v 6.0 --style raw --quality 1",
+    "title": "태양을 위한 질문",
+    "items": [
+      {
+        "id": "on_joy",
+        "text": "당신의 삶에서 지금 가장 큰 기쁨과 활력을 주는 것은 무엇인가요? 어떻게 하면 그 순수한 행복을 더 키울 수 있을까요?"
+      },
+      {
+        "id": "on_clarity",
+        "text": "최근에 당신이 명확하게 깨닫게 된 진실은 무엇인가요? 그 진실이 당신의 삶을 어떻게 밝혀주고 있나요?"
+      }
+    ]
+  },
+  "assets_slots": {
+    "illustration": "major19_le_soleil_v1_ornate_final.png",
+    "symbol_map": null
+  }
+}

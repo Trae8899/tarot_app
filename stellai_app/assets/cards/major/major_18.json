@@ -1,0 +1,128 @@
+{
+  "id": "major18_la_lune",
+  "meta": {
+    "deck_id": "chat_coreen_tarot_v1",
+    "card_id": "major18",
+    "variant_id": "classic_ornate_final",
+    "titles": {
+      "top_main": "18",
+      "bottom_main": "LA LUNE",
+      "native": "달의 고양이",
+      "en": "The Moon Cat",
+      "original_tarot": "THE MOON"
+    }
+  },
+  "frame_v3": {
+    "canvas_size": [ 1400, 2400 ],
+    "padding_sides": 56,
+    "top_band_height": 192,
+    "bottom_band_height": 288,
+    "illustration_y_range": [ 248, 2068 ],
+    "safe_inset": 24,
+    "colors": {
+      "paper": "#FBF5E8",
+      "band": "#F3EADA",
+      "ink": "#4D3B2A"
+    },
+    "title_mode": "ornate_cartouche",
+    "font_scaling_single": 0.41
+  },
+  "structure": {
+    "number": 18,
+    "roman_numeral": "XVIII",
+    "arcana": "Major",
+    "suit": null,
+    "cat_breed": "페르시안 (친칠라 - Persian Chinchilla)",
+    "hanbok_style": "매혹적이고 몽환적인 분위기의 소복(素服)",
+    "color_theme_keywords": [
+      "남색(무의식, 밤)",
+      "은색(달빛, 환상)",
+      "회색(불안, 그림자)",
+      "적색(숨겨진 욕망)"
+    ],
+    "cat_personality": "진실과 거짓, 현실과 환상의 경계에 서 있는 신비롭고 매혹적인 존재. 그녀의 눈빛은 깊이를 알 수 없는 무의식의 세계로 이끌지만, 그 길은 위험한 환상으로 가득 차 있다.",
+    "pose_description": "달빛이 교교한 호숫가, 물 위에 비친 달 그림자를 배경으로 아홉 개의 꼬리를 우아하게 펼친 채 서 있다. 그녀의 시선은 정면을 향해, 보는 이를 깊은 무의식의 세계로 유혹하는 듯하다.",
+    "outfit_description": "밤안개처럼 몽환적인 느낌을 주는 얇은 흰색 소복을 입고 있다. 옷자락이 부드럽게 흘러내려 그녀의 신비로운 움직임을 강조한다.",
+    "prop_description": "그녀 뒤의 아홉 개 꼬리는 숨겨진 강력한 힘과 본능, 그리고 풀리지 않는 미스터리를 상징한다. 호수에 비친 달은 진실이 아닌 왜곡된 환상을, 물속에서 튀어 오르는 잉어는 무의식 속에 잠재된 원초적인 생명력과 욕망을 나타낸다. 양옆의 두 개의 기둥(혹은 석탑)은 이성과 비이성의 경계를 지키는 문이다.",
+    "background_scene": "보름달이 뜬 고요하지만 어딘가 으스스한 밤의 호숫가. 모든 사물은 달빛 아래 왜곡된 그림자를 드리우고, 현실과 환상이 뒤섞인 혼란스러운 풍경이다.",
+    "color_palette_main": [
+      "#191970",
+      "#C0C0C0",
+      "#808080"
+    ],
+    "color_palette_accent": [
+      "#8B0000",
+      "#ADD8E6",
+      "#4D3B2A"
+    ],
+    "symbol_summary_keywords": [
+      "불안",
+      "환상",
+      "무의식",
+      "속임수",
+      "숨겨진 진실"
+    ],
+    "cat_quote": "“가장 밝은 빛은 가장 짙은 그림자를 만드는 법.”"
+  },
+  "content": {
+    "story": {
+      "korean": "창백한 달빛 아래, 구미호 고양이가 아홉 개의 꼬리를 드러낸다. 호수에 비친 달은 진짜 달이 아니듯, 그녀가 보여주는 세상은 진실과 거짓이 뒤섞인 환상이다. 이성과 본능의 경계에서, 그녀는 우리를 무의식의 가장 깊은 곳으로 이끈다. 그곳에는 숨겨진 두려움과 마주해야 할 그림자가 있다. 이 카드는 불확실한 상황 속에서 불안과 혼란을 겪게 될 수 있음을 경고한다.",
+      "english": "Under the pale moonlight, the Gumiho cat reveals her nine tails. Just as the moon reflected in the lake is not the real moon, the world she presents is an illusion mixed with truth and deceit. At the boundary of reason and instinct, she leads us to the deepest part of our subconscious. There lies the hidden fears and shadows we must confront. This card warns that you may experience anxiety and confusion in an uncertain situation."
+    },
+    "keywords": [
+      "불확실성",
+      "불안",
+      "환영",
+      "숨겨진 적",
+      "무의식의 두려움",
+      "직관의 중요성"
+    ],
+    "core_message": {
+      "upright": "“보이는 것이 전부가 아니다. 불확실함 속에서 당신의 직관을 믿고, 내면의 그림자를 마주할 용기를 가져라.”",
+      "reversed": "“혼란과 불안에서 벗어나고 있다. 숨겨져 있던 진실이 드러나고, 환상이 걷히기 시작한다.”"
+    }
+  },
+  "symbols": {
+    "title": "상징 해설",
+    "items": [
+      {
+        "name": "구미호(九尾狐)",
+        "meaning": "매혹적이지만 위험한 이중성을 가진 존재. 우리 내면의 숨겨진 욕망과 본능, 그리고 우리가 마주해야 할 그림자 자아를 상징한다."
+      },
+      {
+        "name": "물에 비친 달",
+        "meaning": "진실이 아닌, 감정과 무의식에 의해 왜곡되고 굴절된 환상을 상징한다. 사물의 본질을 제대로 보지 못하는 혼란스러운 상태를 나타낸다."
+      },
+      {
+        "name": "물에서 튀어 오르는 잉어",
+        "meaning": "무의식의 깊은 곳에서 솟아오르는 원초적인 에너지, 아이디어, 혹은 억압되었던 기억이나 감정을 상징한다."
+      },
+      {
+        "name": "두 개의 기둥/석탑",
+        "meaning": "이성의 세계와 무의식의 세계, 혹은 안전한 영역과 미지의 영역 사이의 경계를 나타내는 관문이다."
+      }
+    ]
+  },
+  "a11y": {
+    "alt_text_kr": "아름다운 페르시안 고양이가 구미호처럼 아홉 꼬리를 펼친 채 달빛 아래 호숫가에 서있다. 카드 상단엔 18, 하단엔 ‘LA LUNE’이 적혀 있다.",
+    "alt_text_en": "A beautiful Persian cat, like a Gumiho with nine tails, stands by a lakeside under the moonlight. The card shows '18' at the top and 'LA LUNE' at the bottom."
+  },
+  "prompts": {
+    "illustration_prompt_en": "High resolution, 1024px minimum width. Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, depicting 'La Lune' (The Moon), is designed in the style of a mysterious and illusory antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration features an enchanting Persian Chinchilla cat, personifying the Moon as a mystical Korean nine-tailed fox (Gumiho). It stands elegantly by a mysterious lake at night, its nine fluffy tails fanned out behind it. A large, full moon hangs in the sky, its distorted reflection shimmering on the water's surface. A single carp leaps from the water, representing a subconscious thought breaking through. The scene is flanked by two stone pagodas, marking a gateway into the unknown. The overall atmosphere is one of mystery, illusion, anxiety, and dreams. The color palette is dominated by deep night blues (#191970) and pale, silvery moonlight (#C0C0C0). -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, an ornate cartouche contains the number '18'. At the bottom, a matching cartouche frames the French title 'LA LUNE'. The corners of the main border feature delicate scrollwork. --ar 7:12 --v 6.0 --style raw --quality 1",
+    "title": "달을 위한 질문",
+    "items": [
+      {
+        "id": "on_illusion",
+        "text": "지금 당신을 불안하게 만드는 것은 무엇인가요? 그것은 실재하는 위협인가요, 아니면 당신의 마음이 만들어낸 환상(그림자)인가요?"
+      },
+      {
+        "id": "on_subconscious",
+        "text": "당신의 무의식이 당신에게 어떤 메시지를 보내려고 하나요? 당신의 꿈이나 직관이 말해주고 있는 것은 무엇인가요?"
+      }
+    ]
+  },
+  "assets_slots": {
+    "illustration": "major18_la_lune_v1_ornate_final.png",
+    "symbol_map": null
+  }
+}

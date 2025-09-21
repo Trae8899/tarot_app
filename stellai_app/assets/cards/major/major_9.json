@@ -1,0 +1,128 @@
+{
+    "id": "major9_lhermite",
+    "meta": {
+      "deck_id": "chat_coreen_tarot_v1",
+      "card_id": "major9",
+      "variant_id": "classic_ornate_final",
+      "titles": {
+        "top_main": "9",
+        "bottom_main": "L'HERMITE",
+        "native": "은둔자 고양이",
+        "en": "The Hermit Cat",
+        "original_tarot": "THE HERMIT"
+      }
+    },
+    "frame_v3": {
+      "canvas_size": [ 1400, 2400 ],
+      "padding_sides": 56,
+      "top_band_height": 192,
+      "bottom_band_height": 288,
+      "illustration_y_range": [ 248, 2068 ],
+      "safe_inset": 24,
+      "colors": {
+        "paper": "#FBF5E8",
+        "band": "#F3EADA",
+        "ink": "#4D3B2A"
+      },
+      "title_mode": "ornate_cartouche",
+      "font_scaling_single": 0.41
+    },
+    "structure": {
+      "number": 9,
+      "roman_numeral": "IX",
+      "arcana": "Major",
+      "suit": null,
+      "cat_breed": "노르웨이 숲 (Norwegian Forest Cat)",
+      "hanbok_style": "세속을 벗어난 도사(道士)의 소박한 회색 도포(道袍)",
+      "color_theme_keywords": [
+        "회색(고독, 성찰)",
+        "백색(지혜, 진리)",
+        "남색(깊은 밤, 내면)",
+        "황색(깨달음의 빛)"
+      ],
+      "cat_personality": "세상의 소음에서 벗어나 고독 속에서 진정한 지혜를 찾는 현자. 말이 없고 신중하며, 그의 깊은 눈은 외면이 아닌 내면의 진리를 향해 있다.",
+      "pose_description": "아무도 없는 깊은 밤, 눈 덮인 산 정상에서 홀로 서 있다. 한 발로는 긴 지팡이를 짚어 경험의 무게를 지탱하고, 다른 한 발로는 자신의 길을 비추는 등불을 조용히 들어 올리고 있다.",
+      "outfit_description": "세속적인 욕심을 모두 버렸음을 상징하는, 장식 하나 없는 소박한 회색 도포를 입고 있다. 차가운 바람에 긴 털과 옷자락이 살짝 흩날린다.",
+      "prop_description": "그가 든 등불 안에는 여섯 개의 빛줄기를 가진 별이 빛나고 있어, 외부의 빛이 아닌 내면에서 발현된 지혜와 깨달음의 빛임을 보여준다. 그가 짚은 지팡이는 오랜 시간 동안 걸어온 구도의 길과 축적된 경험을 상징한다.",
+      "background_scene": "차가운 공기가 느껴지는 고요한 설산의 정상. 주변에는 아무것도 없으며, 오직 밤하늘의 희미한 별빛과 고양이가 든 등불만이 어둠을 밝히고 있다. 이는 오직 자기 자신에게만 집중하는 깊은 명상의 상태를 나타낸다.",
+      "color_palette_main": [
+        "#808080",
+        "#F0F8FF",
+        "#191970"
+      ],
+      "color_palette_accent": [
+        "#FFD700",
+        "#A0522D",
+        "#4D3B2A"
+      ],
+      "symbol_summary_keywords": [
+        "자기 성찰",
+        "내면 탐구",
+        "지혜",
+        "고독",
+        "안내자"
+      ],
+      "cat_quote": "“가장 시끄러운 답은 가장 깊은 침묵 속에 있다.”"
+    },
+    "content": {
+      "story": {
+        "korean": "세상의 모든 소리를 뒤로하고, 은둔자 고양이는 홀로 눈 덮인 산 정상에 오른다. 그가 든 등불은 다른 누군가를 위한 것이 아닌, 오직 자신의 내면을 비추기 위한 지혜의 빛이다. 이 고독한 여정의 끝에서, 그는 외부 세계에서는 결코 찾을 수 없었던 가장 깊은 진리와 마주한다. 이 카드는 이제 세상의 소음에서 벗어나, 조용히 자기 자신과 마주할 시간이 필요함을 일깨워준다.",
+        "english": "Leaving all the noises of the world behind, the Hermit Cat ascends a snow-covered mountain peak alone. The lantern he holds is not for others, but is a light of wisdom to illuminate his own inner self. At the end of this solitary journey, he confronts the deepest truths that could never be found in the external world. This card reminds you that it is time to withdraw from the noise of the world and quietly face yourself."
+      },
+      "keywords": [
+        "내면 탐구",
+        "자기 성찰",
+        "혼자만의 시간",
+        "지혜로운 조언",
+        "영적 탐구",
+        "신중함"
+      ],
+      "core_message": {
+        "upright": "“세상과 잠시 거리를 두어라. 당신에게 필요한 답은 당신 안에 있다.”",
+        "reversed": "“지나친 고립은 외로움이 될 수 있다. 다시 세상으로 나아갈 준비를 하거나, 지혜를 나누는 것을 두려워하지 마라.”"
+      }
+    },
+    "symbols": {
+      "title": "상징 해설",
+      "items": [
+        {
+          "name": "등불 속의 별",
+          "meaning": "외부의 지식이 아닌, 오랜 성찰을 통해 얻은 내면의 지혜와 깨달음의 빛을 상징한다. 자신의 길을 스스로 밝히는 안내자이다."
+        },
+        {
+          "name": "지팡이",
+          "meaning": "지금의 지혜를 얻기까지 거쳐온 오랜 경험과 구도의 여정을 상징한다. 현실 세계를 단단히 딛고 설 수 있게 하는 실질적인 지식과 권위를 나타낸다."
+        },
+        {
+          "name": "눈 덮인 산 정상",
+          "meaning": "세속적인 욕망과 감정에서 벗어난 고요하고 높은 정신적 경지를 상징한다. 이러한 경지에 오르기 위한 과정이 험난함을 동시에 보여준다."
+        },
+        {
+          "name": "회색 도포",
+          "meaning": "세상의 화려함에서 벗어나 중립적이고 객관적인 시선으로 사물을 바라보는 현자의 태도를 상징한다."
+        }
+      ]
+    },
+    "a11y": {
+      "alt_text_kr": "긴 털을 가진 지혜로운 노르웨이 숲 고양이가 눈 덮인 산 정상에서 등불과 지팡이를 들고 서 있다. 카드 상단엔 9, 하단엔 ‘L'HERMITE’가 적혀 있다.",
+      "alt_text_en": "A wise, long-haired Norwegian Forest Cat stands on a snowy mountain peak holding a lantern and a staff. The card shows '9' at the top and 'L'HERMITE' at the bottom."
+    },
+    "prompts": {
+      "illustration_prompt_en": "High resolution, 1024px minimum width. Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, depicting 'L'Hermite' (The Hermit), is designed in the style of a quiet and profound antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration features a wise and solitary Norwegian Forest Cat, personifying the Hermit as a Korean mountain sage (Dosa). It stands alone on a desolate, snowy mountain peak at night, wearing a simple grey robe (Dopo). In one paw, it holds a long wooden staff for support, and in the other, it holds up a lantern containing a single, brightly glowing star. The background is a vast, silent landscape of snow and dark mountains under a starry sky. The only source of warmth and light comes from the lantern. The overall atmosphere is one of profound peace, solitude, and introspection. The color palette is dominated by deep blues, greys (#808080), and the warm, golden light (#FFD700) of the lantern. -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, an ornate cartouche contains the number '9'. At the bottom, a matching cartouche frames the French title 'L'HERMITE'. The corners of the main border feature delicate scrollwork. --ar 7:12 --v 6.0 --style raw --quality 1",
+      "title": "은둔자를 위한 질문",
+      "items": [
+        {
+          "id": "on_introspection",
+          "text": "지금 당신이 세상의 소음으로부터 벗어나 조용히 귀 기울여야 할 내면의 목소리는 무엇인가요?"
+        },
+        {
+          "id": "on_guidance",
+          "text": "당신의 길을 밝히기 위해, 당신 안에서 어떤 지혜의 등불을 밝혀야 할까요? 누구의 조언을 구하기보다 스스로 찾아야 할 답은 무엇인가요?"
+        }
+      ]
+    },
+    "assets_slots": {
+      "illustration": "major9_lhermite_v1_ornate_final.png",
+      "symbol_map": null
+    }
+  }

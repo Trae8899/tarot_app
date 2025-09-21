@@ -1,0 +1,129 @@
+{
+  "id": "major3_limperatrice",
+  "meta": {
+    "deck_id": "chat_coreen_tarot_v1",
+    "card_id": "major3",
+    "variant_id": "classic_ornate_final",
+    "titles": {
+      "top_main": "3",
+      "bottom_main": "L'IMPÉRATRICE",
+      "native": "풍요의 고양이",
+      "en": "The Bountiful Cat",
+      "original_tarot": "THE EMPRESS"
+    }
+  },
+  "frame_v3": {
+    "canvas_size": [ 1400, 2400 ],
+    "padding_sides": 56,
+    "top_band_height": 192,
+    "bottom_band_height": 288,
+    "illustration_y_range": [ 248, 2068 ],
+    "safe_inset": 24,
+    "colors": {
+      "paper": "#FBF5E8",
+      "band": "#F3EADA",
+      "ink": "#4D3B2A"
+    },
+    "title_mode": "ornate_cartouche",
+    "font_scaling_single": 0.41
+  },
+  "structure": {
+    "number": 3,
+    "roman_numeral": "III",
+    "arcana": "Major",
+    "suit": null,
+    "cat_breed": "랙돌 (Ragdoll)",
+    "hanbok_style": "화려하고 우아한 왕비의 당의(唐衣)",
+    "color_theme_keywords": [
+      "녹색(생명력, 풍요)",
+      "홍색(아름다움, 사랑)",
+      "금색(부귀, 존엄)",
+      "백색(모성)"
+    ],
+    "cat_personality": "모든 생명을 사랑으로 보살피는 따뜻하고 자애로운 성품의 고양이. 그녀가 머무는 곳에는 늘 풍요와 아름다움이 가득하다. 만족스럽고 평화로운 미소를 띠고 있다.",
+    "pose_description": "아름다운 궁궐의 후원(後苑), 만개한 모란꽃 병풍 앞에서 푹신한 비단 방석 위에 편안하고 우아하게 앉아 있다. 한 손으로는 부드럽게 자신의 배를 감싸 안아 생명의 잉태와 모성을 암시한다.",
+    "outfit_description": "부귀와 아름다움을 상징하는 모란꽃 금박 문양이 새겨진 화려한 비단 당의를 입고 있다. 머리에는 용잠(龍簪)을 꽂아 높은 신분을 드러낸다.",
+    "prop_description": "고양이 옆 작은 소반 위에는 다산과 풍요를 상징하는 잘 익은 석류가 놓여있다. 그녀를 둘러싼 정원에는 온갖 꽃들이 만발하고 작은 시냇물이 흘러넘쳐, 마르지 않는 생명력과 풍요를 상징한다.",
+    "background_scene": "따스한 햇살이 가득한 조선 왕실의 아름다운 후원. 흐드러지게 핀 모란꽃과 작약이 가득하며, 모든 것이 풍요롭고 평화로운 지상낙원의 모습이다.",
+    "color_palette_main": [
+      "#4C7F4C",
+      "#E6A8D7",
+      "#FFD700"
+    ],
+    "color_palette_accent": [
+      "#D95E5E",
+      "#FFFFFF",
+      "#4D3B2A"
+    ],
+    "symbol_summary_keywords": [
+      "풍요",
+      "모성",
+      "창조",
+      "아름다움",
+      "자연"
+    ],
+    "cat_quote": "“사랑으로 돌보니, 온 세상이 나의 정원이더라.”"
+  },
+  "content": {
+    "story": {
+      "korean": "궁궐의 가장 깊숙한 정원에서, 풍요의 고양이는 모든 생명의 어머니로서 군림한다. 그녀의 부드러운 손길이 닿는 곳마다 꽃이 피고, 그녀의 평화로운 숨결에 온 자연이 화답한다. 석류는 결실을, 흐르는 물은 마르지 않는 생명력을 약속한다. 이 카드는 창조하고, 사랑하고, 베풀고, 삶의 모든 풍요로움을 만끽할 때임을 알려준다.",
+      "english": "In the deepest palace garden, the Bountiful Cat reigns as the mother of all life. Flowers bloom where her gentle touch lands, and all of nature responds to her peaceful breath. Pomegranates promise fruition, and flowing water signifies endless vitality. This card announces that it is time to create, to love, to give, and to indulge in all the richness life has to offer."
+    },
+    "keywords": [
+      "풍요로움",
+      "모성애",
+      "아름다움",
+      "안정감",
+      "임신과 출산",
+      "자연과의 교감",
+      "관능적인 기쁨"
+    ],
+    "core_message": {
+      "upright": "“당신의 창조성을 믿고, 삶의 풍요로움을 마음껏 누려라. 사랑하고 보살필 때이다.”",
+      "reversed": "“창의력이 막히거나, 아름다움을 돌보지 않고 있다. 이기심이나 과잉보호를 경계하라.”"
+    }
+  },
+  "symbols": {
+    "title": "상징 해설",
+    "items": [
+      {
+        "name": "모란꽃",
+        "meaning": "부귀영화와 아름다움, 여성성의 절정을 상징하는 '꽃의 왕'이다."
+      },
+      {
+        "name": "석류",
+        "meaning": "수많은 씨앗 때문에 다산과 풍요, 자손의 번창을 상징하는 대표적인 길상(吉祥)의 과일이다."
+      },
+      {
+        "name": "흐르는 시냇물",
+        "meaning": "감정과 생명력의 끊임없는 흐름을 상징하며, 마르지 않는 창조성과 풍요를 나타낸다."
+      },
+      {
+        "name": "비단 방석",
+        "meaning": "안락함, 안정감, 그리고 삶의 물질적, 감각적 즐거움을 누리는 상태를 의미한다."
+      }
+    ]
+  },
+  "a11y": {
+    "alt_text_kr": "우아한 랙돌 고양이가 화려한 당의를 입고 궁궐 정원의 방석 위에 앉아있다. 주변에는 모란꽃이 가득하다. 카드 상단엔 3, 하단엔 ‘L'IMPÉRATRICE’가 적혀 있다.",
+    "alt_text_en": "An elegant Ragdoll cat wearing an ornate robe sits on a cushion in a palace garden full of peonies. The card shows '3' at the top and 'L'IMPÉRATRICE' at the bottom."
+  },
+  "prompts": {
+    "illustration_prompt_en": "High resolution, 1024px minimum width. Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, depicting 'L'Impératrice' (The Empress), is designed in the style of a sumptuous and gentle antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration features a beautiful and serene Ragdoll cat, personifying the Empress. She sits gracefully on a plush silk cushion in the heart of a lush royal garden. Her expression is one of gentle contentment and nurturing love. She wears an ornate Queen's robe (Dangui) with golden peony patterns. Beside her, a ripe pomegranate rests on a small table. The background is filled with blooming peonies and a small, clear stream, all under a warm, life-giving sun. The overall atmosphere is one of abundance, fertility, and serene beauty. The color palette is rich with life-giving greens (#4C7F4C), soft pinks (#E6A8D7), and royal gold (#FFD700). -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, an ornate cartouche contains the number '3'. At the bottom, a matching cartouche frames the French title 'L'IMPÉRATRICE'. The corners of the main border feature delicate scrollwork. --ar 7:12 --v 6.0 --style raw --quality 1",
+    "title": "풍요를 위한 질문",
+    "items": [
+      {
+        "id": "on_creation",
+        "text": "당신의 삶에서 지금 무엇을 창조하고 키워나가고 싶나요? 당신의 정원에 무엇을 심겠습니까?"
+      },
+      {
+        "id": "on_nurturing",
+        "text": "당신 자신과 주변 사람들을 어떻게 더 보살피고 사랑을 나눌 수 있을까요? 당신에게 진정한 풍요로움이란 무엇인가요?"
+      }
+    ]
+  },
+  "assets_slots": {
+    "illustration": "major3_imperatrice_v1_ornate_final.png",
+    "symbol_map": null
+  }
+}

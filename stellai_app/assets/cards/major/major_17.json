@@ -1,0 +1,129 @@
+{
+  "id": "major17_letoile",
+  "meta": {
+    "deck_id": "chat_coreen_tarot_v1",
+    "card_id": "major17",
+    "variant_id": "classic_ornate_final",
+    "titles": {
+      "top_main": "17",
+      "bottom_main": "L'ÉTOILE",
+      "native": "희망의 고양이",
+      "en": "The Cat of Hope",
+      "original_tarot": "THE STAR"
+    }
+  },
+  "frame_v3": {
+    "canvas_size": [ 1400, 2400 ],
+    "padding_sides": 56,
+    "top_band_height": 192,
+    "bottom_band_height": 288,
+    "illustration_y_range": [ 248, 2068 ],
+    "safe_inset": 24,
+    "colors": {
+      "paper": "#FBF5E8",
+      "band": "#F3EADA",
+      "ink": "#4D3B2A"
+    },
+    "title_mode": "ornate_cartouche",
+    "font_scaling_single": 0.41
+  },
+  "structure": {
+    "number": 17,
+    "roman_numeral": "XVII",
+    "arcana": "Major",
+    "suit": null,
+    "cat_breed": "싱가푸라 (Singapura)",
+    "hanbok_style": "선녀의 얇고 투명한 날개옷(天衣)",
+    "color_theme_keywords": [
+      "남색(희망, 영성)",
+      "은색(별빛, 치유)",
+      "백색(순수, 정화)",
+      "황색(영감)"
+    ],
+    "cat_personality": "혼돈이 지나간 자리에 순수한 희망과 치유의 에너지를 가져다주는 존재. 그녀의 존재만으로도 주변이 정화되고, 길 잃은 영혼들에게 나아갈 길을 비춰준다.",
+    "pose_description": "한 발은 맑은 은하수 시냇물에, 다른 한 발은 새로운 시작을 상징하는 땅에 딛고 있다. 양손에 든 두 개의 은 주전자에서 생명의 물을 땅과 물에 아낌없이 붓고 있다. 그녀의 시선은 가장 밝은 별을 향해 있으며, 표정은 평온하고 희망에 차 있다.",
+    "outfit_description": "밤하늘의 이슬을 엮어 만든 듯한, 얇고 투명한 소재의 날개옷을 입고 있다. 옷자락에는 작은 별들이 반짝이며 신비로운 분위기를 더한다.",
+    "prop_description": "그녀가 붓는 물은 메마른 땅을 적셔 새로운 생명을 싹틔우고, 흐르는 시냇물을 정화하여 순환시킨다. 그녀의 머리 위에는 유난히 크고 밝게 빛나는 북극성이 길을 안내하고, 주변에는 일곱 개의 작은 별들이 그녀를 돕는다. 멀리, 무너졌던 탑의 잔해가 보이지만 이제는 위협적이지 않다.",
+    "background_scene": "혼돈의 폭풍우가 지나간 뒤, 고요하고 청명하게 갠 밤하늘. 모든 것이 정화되고, 새로운 시작을 위한 희망과 평온이 가득한 풍경이다.",
+    "color_palette_main": [
+      "#191970",
+      "#FFD700",
+      "#E6E6FA"
+    ],
+    "color_palette_accent": [
+      "#2E8B57",
+      "#B0C4DE",
+      "#4D3B2A"
+    ],
+    "symbol_summary_keywords": [
+      "희망",
+      "영감",
+      "치유",
+      "평온",
+      "낙관"
+    ],
+    "cat_quote": "“어둠이 깊을수록, 별은 더욱 빛나는 법.”"
+  },
+  "content": {
+    "story": {
+      "korean": "모든 것이 무너져 내린 캄캄한 밤, 희망의 고양이가 나타나 은하수 물을 붓는다. 그녀의 손에서 흘러나온 물은 상처 입은 땅을 치유하고 영혼을 정화한다. 하늘의 가장 밝은 별은 이제 길을 잃지 않을 것이라 속삭인다. 고통스러운 혼돈의 시간이 지나고, 마침내 평온과 믿음을 되찾는 순간이다. 이 카드는 당신의 상처가 치유되고, 새로운 희망을 발견하게 될 것임을 약속한다.",
+      "english": "In the dark night after everything has collapsed, the Cat of Hope appears, pouring water from the Milky Way. The water flowing from her hands heals the wounded earth and purifies the soul. The brightest star in the sky whispers that you will no longer be lost. The time of painful chaos has passed, and it is finally a moment to regain peace and faith. This card promises that your wounds will be healed and you will find new hope."
+    },
+    "keywords": [
+      "희망",
+      "치유",
+      "영감",
+      "평온함",
+      "낙관주의",
+      "믿음의 회복",
+      "영적인 안내"
+    ],
+    "core_message": {
+      "upright": "“어려운 시간은 지나갔다. 희망을 갖고 당신의 상처를 치유하며, 미래에 대한 믿음을 회복하라.”",
+      "reversed": "“희망을 잃고 절망에 빠져있다. 영적인 연결이 끊어졌다고 느낄 수 있다. 작은 빛부터 다시 찾아보라.”"
+    }
+  },
+  "symbols": {
+    "title": "상징 해설",
+    "items": [
+      {
+        "name": "가장 큰 별 (북극성)",
+        "meaning": "혼돈 속에서 길을 잃지 않도록 안내하는 희망의 등대이자, 신성한 영감을 상징한다."
+      },
+      {
+        "name": "두 개의 은 주전자",
+        "meaning": "의식과 무의식, 정신과 육체에 모두 생명력을 공급하는 치유의 도구. 아낌없이 베푸는 자비와 풍요를 상징한다."
+      },
+      {
+        "name": "땅과 물에 붓는 물",
+        "meaning": "상처 입은 현실(땅)을 치유하고, 고여있던 감정(물)을 정화하여 다시 흐르게 하는 순환과 회복의 과정을 나타낸다."
+      },
+      {
+        "name": "멀리 보이는 무너진 탑",
+        "meaning": "고통스러웠던 과거의 재앙이 이제는 지나갔으며, 더 이상 위협이 아닌 새로운 시작의 기반이 되었음을 상징한다."
+      }
+    ]
+  },
+  "a11y": {
+    "alt_text_kr": "아름다운 싱가푸라 고양이가 선녀처럼 밤하늘 아래 시냇가에서 두 개의 주전자로 물을 붓고 있다. 하늘에는 별들이 빛난다. 카드 상단엔 17, 하단엔 ‘L'ÉTOILE’이 적혀 있다.",
+    "alt_text_en": "A beautiful Singapura cat, like a celestial fairy, pours water from two ewers by a stream under a starry night sky. The card shows '17' at the top and 'L'ÉTOILE' at the bottom."
+  },
+  "prompts": {
+    "illustration_prompt_en": "High resolution, 1024px minimum width. Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, depicting 'L'Étoile' (The Star), is designed in the style of a serene and hopeful antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration features a graceful and luminous Singapura cat, personifying the Star as a celestial fairy (Seonnyeo). It kneels with one paw on the fertile earth and the other dipped in a gently flowing stream of starlit water. From two silver ewers, it pours the water of life onto the land and back into the stream. The cat's expression is one of serene tranquility and profound hope. Above its head shines one large, brilliant guiding star, surrounded by seven smaller stars in a clear, deep-blue night sky. In the far distance, the faint silhouette of a ruined pagoda can be seen. The overall atmosphere is one of serenity, hope, and profound healing. The color palette is dominated by celestial indigos (#191970), starlight yellows (#FFD700), and silvery whites (#E6E6FA). -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, an ornate cartouche contains the number '17'. At the bottom, a matching cartouche frames the French title 'L'ÉTOILE'. The corners of the main border feature delicate scrollwork. --ar 7:12 --v 6.0 --style raw --quality 1",
+    "title": "희망을 위한 질문",
+    "items": [
+      {
+        "id": "on_hope",
+        "text": "혼돈이 지나간 지금, 당신의 삶에 어떤 새로운 희망이 보이나요? 당신을 안내하는 '별'은 무엇인가요?"
+      },
+      {
+        "id": "on_healing",
+        "text": "당신의 몸과 마음, 그리고 영혼을 치유하기 위해 지금 무엇을 해야 할까요? 어떻게 하면 자신에게 더 너그러워질 수 있나요?"
+      }
+    ]
+  },
+  "assets_slots": {
+    "illustration": "major17_letoile_v1_ornate_final.png",
+    "symbol_map": null
+  }
+}

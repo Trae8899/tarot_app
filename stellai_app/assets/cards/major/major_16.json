@@ -1,0 +1,128 @@
+{
+  "id": "major16_la_maison_dieu",
+  "meta": {
+    "deck_id": "chat_coreen_tarot_v1",
+    "card_id": "major16",
+    "variant_id": "classic_ornate_final",
+    "titles": {
+      "top_main": "16",
+      "bottom_main": "LA MAISON DIEU",
+      "native": "무너지는 탑",
+      "en": "The Crumbling Pagoda",
+      "original_tarot": "THE TOWER"
+    }
+  },
+  "frame_v3": {
+    "canvas_size": [ 1400, 2400 ],
+    "padding_sides": 56,
+    "top_band_height": 192,
+    "bottom_band_height": 288,
+    "illustration_y_range": [ 248, 2068 ],
+    "safe_inset": 24,
+    "colors": {
+      "paper": "#FBF5E8",
+      "band": "#F3EADA",
+      "ink": "#4D3B2A"
+    },
+    "title_mode": "ornate_cartouche",
+    "font_scaling_single": 0.41
+  },
+  "structure": {
+    "number": 16,
+    "roman_numeral": "XVI",
+    "arcana": "Major",
+    "suit": null,
+    "cat_breed": "먼치킨 (Munchkin - 놀란 표정)",
+    "hanbok_style": "거짓된 권위를 상징하는 어울리지 않게 화려한 관복",
+    "color_theme_keywords": [
+      "적색(파괴, 혼돈)",
+      "흑색(재앙, 어둠)",
+      "황색(벼락, 진실의 빛)",
+      "회색(폐허)"
+    ],
+    "cat_personality": "자신들이 쌓아 올린 것이 영원할 것이라 믿었던 오만한 존재들. 갑작스러운 재앙 앞에서 충격과 혼란에 빠져 속수무책으로 무너진다.",
+    "pose_description": "하늘에서 떨어진 거대한 번개에 맞아 불타며 무너지는 기와 탑 꼭대기에서, 두 마리의 고양이가 충격에 휩싸여 속수무책으로 떨어지고 있다. 한 마리는 왕을 상징하는 익선관을, 다른 한 마리는 부를 상징하는 비단옷을 입고 있다.",
+    "outfit_description": "그들이 입은 화려한 옷과 왕관은 그들이 집착했던 거짓된 권위와 물질적 부를 상징하며, 이제는 아무 소용이 없음을 보여준다.",
+    "prop_description": "하늘을 찌를 듯 높이 솟은 기와 탑은 인간의 오만함과 잘못된 신념으로 쌓아 올린 불안정한 구조물을 상징한다. 하늘에서 내리치는 번개는 더 이상 거짓을 용납하지 않는 우주의 진실, 혹은 피할 수 없는 외부의 충격이다.",
+    "background_scene": "폭풍우가 몰아치는 어두운 밤. 거센 비바람과 시커먼 먹구름이 절망적인 상황을 극대화한다. 모든 것이 혼돈과 파괴의 소용돌이에 휩싸여 있다.",
+    "color_palette_main": [
+      "#8B0000",
+      "#1C1C1C",
+      "#FFD700"
+    ],
+    "color_palette_accent": [
+      "#FF4500",
+      "#808080",
+      "s#4D3B2A"
+    ],
+    "symbol_summary_keywords": [
+      "갑작스러운 변화",
+      "파괴",
+      "붕괴",
+      "진실의 발견",
+      "혼돈"
+    ],
+    "cat_quote": "“진실의 번개 앞에서는, 가장 높은 탑도 한 줌의 재가 될 뿐.”"
+  },
+  "content": {
+    "story": {
+      "korean": "어두운 폭풍우 속, 인간의 오만함으로 쌓아 올린 탑에 하늘의 번개가 내리꽂힌다. 영원할 것 같던 거짓된 구조는 한순간에 불타며 무너지고, 그 꼭대기에 있던 고양이들은 속수무책으로 추락한다. 이 끔찍한 파괴는 고통스럽지만, 동시에 그들을 가두고 있던 거짓된 감옥을 부수고 진실을 마주하게 하는 계기가 된다. 이 카드는 당신이 믿고 있던 세상이 갑작스럽게 무너져 내릴 수 있음을 경고한다.",
+      "english": "In a dark storm, a bolt of lightning from the heavens strikes a pagoda built on human arrogance. The false structure, which seemed eternal, burns and collapses in an instant, and the cats at its peak fall helplessly. This terrible destruction is painful, but it also becomes the moment that shatters the false prison that confined them and allows them to face the truth. This card warns that the world you have believed in may suddenly come crashing down."
+    },
+    "keywords": [
+      "갑작스러운 붕괴",
+      "충격적인 사건",
+      "잘못된 믿음의 파괴",
+      "혼돈",
+      "진실의 폭로",
+      "새로운 시작을 위한 파괴"
+    ],
+    "core_message": {
+      "upright": "“기존의 모든 것이 무너진다. 고통스럽겠지만, 이 파괴는 진실을 드러내고 새로운 시작을 위한 기반이 될 것이다.”",
+      "reversed": "“재앙을 피하려 하거나, 무너져야 할 것을 억지로 붙들고 있다. 변화를 받아들이지 않으면 더 큰 위기가 온다.”"
+    }
+  },
+  "symbols": {
+    "title": "상징 해설",
+    "items": [
+      {
+        "name": "기와 탑",
+        "meaning": "자만심, 잘못된 신념, 억압적인 구조 등 불안정한 기반 위에 세워진 모든 것을 상징한다. 무너져야만 하는 거짓된 세상이다."
+      },
+      {
+        "name": "번개",
+        "meaning": "더 이상 외면할 수 없는 강력하고 갑작스러운 진실의 깨달음, 혹은 외부에서 오는 피할 수 없는 충격적인 사건을 상징한다."
+      },
+      {
+        "name": "떨어지는 고양이들",
+        "meaning": "거짓된 믿음과 구조에 안주하던 우리의 자아를 나타낸다. 갑작스러운 변화 앞에서 기존의 지위와 부가 아무 소용없음을 보여준다."
+      },
+      {
+        "name": "폭풍우 치는 밤",
+        "meaning": "혼돈, 불안, 그리고 모든 것이 불확실한 위기의 순간을 상징한다. 한치 앞도 내다볼 수 없는 절망적인 상황이다."
+      }
+    ]
+  },
+  "a11y": {
+    "alt_text_kr": "폭풍우 치는 밤, 번개를 맞은 기와 탑에서 화려한 옷을 입은 두 마리 고양이가 떨어지고 있다. 카드 상단엔 16, 하단엔 ‘LA MAISON DIEU’가 적혀 있다.",
+    "alt_text_en": "Two cats in ornate clothes are falling from a lightning-struck pagoda on a stormy night. The card shows '16' at the top and 'LA MAISON DIEU' at the bottom."
+  },
+  "prompts": {
+    "illustration_prompt_en": "High resolution, 1024px minimum width. Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, depicting 'La Maison Dieu' (The Tower), is designed in the style of a chaotic and dramatic antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration features a tall Korean-style pagoda (탑), built on a precarious cliff, being struck by a massive, golden bolt of lightning from a dark, stormy sky. The top of the pagoda explodes in flames and crumbles. Two Munchkin cats, one wearing a king's crown and the other in rich silk robes, are thrown from the top, their faces showing shock and disbelief. The overall atmosphere is one of sudden, chaotic, and unavoidable destruction. The color palette is dominated by destructive reds (#8B0000), stormy blacks (#1C1C1C), and the shocking yellow of the lightning (#FFD700). -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, an ornate cartouche contains the number '16'. At the bottom, a matching cartouche frames the French title 'LA MAISON DIEU'. The corners of the main border feature delicate scrollwork. --ar 7:12 --v 6.0 --style raw --quality 1",
+    "title": "탑을 위한 질문",
+    "items": [
+      {
+        "id": "on_collapse",
+        "text": "당신의 삶에서 지금 불안정하거나 거짓된 기반 위에 세워진 '탑'은 무엇인가요? (관계, 직업, 신념 등)"
+      },
+      {
+        "id": "on_revelation",
+        "text": "이 갑작스러운 붕괴가 당신에게 어떤 진실을 드러내주고 있나요? 이 혼돈 속에서 무엇을 배워야 할까요?"
+      }
+    ]
+  },
+  "assets_slots": {
+    "illustration": "major16_maison_dieu_v1_ornate_final.png",
+    "symbol_map": null
+  }
+}

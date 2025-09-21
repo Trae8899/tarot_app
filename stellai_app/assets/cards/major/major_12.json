@@ -1,0 +1,128 @@
+{
+    "id": "major12_le_pendu",
+    "meta": {
+      "deck_id": "chat_coreen_tarot_v1",
+      "card_id": "major12",
+      "variant_id": "classic_ornate_final",
+      "titles": {
+        "top_main": "12",
+        "bottom_main": "LE PENDU",
+        "native": "구도자 고양이",
+        "en": "The Seeker Cat",
+        "original_tarot": "THE HANGED MAN"
+      }
+    },
+    "frame_v3": {
+      "canvas_size": [ 1400, 2400 ],
+      "padding_sides": 56,
+      "top_band_height": 192,
+      "bottom_band_height": 288,
+      "illustration_y_range": [ 248, 2068 ],
+      "safe_inset": 24,
+      "colors": {
+        "paper": "#FBF5E8",
+        "band": "#F3EADA",
+        "ink": "#4D3B2A"
+      },
+      "title_mode": "ornate_cartouche",
+      "font_scaling_single": 0.41
+    },
+    "structure": {
+      "number": 12,
+      "roman_numeral": "XII",
+      "arcana": "Major",
+      "suit": null,
+      "cat_breed": "아비시니안 (Abyssinian)",
+      "hanbok_style": "수행자의 간소하고 편안한 회색빛 바지저고리",
+      "color_theme_keywords": [
+        "회색(정지, 중립)",
+        "보라색(깨달음, 영성)",
+        "청록색(인내, 치유)",
+        "황색(지혜의 빛)"
+      ],
+      "cat_personality": "세속적인 욕심을 버리고 더 높은 깨달음을 위해 기꺼이 희생하는 구도자. 고통스러운 상황 속에서도 평온함을 잃지 않고, 새로운 관점으로 세상을 바라본다.",
+      "pose_description": "소나무 가지에 한쪽 발목만 묶인 채 거꾸로 매달려 있다. 양손은 등 뒤로 묶여 있지만, 그의 표정은 고통스럽지 않고 오히려 평온하며 깊은 명상에 잠긴 듯하다. 그의 머리 주변에서 은은한 지혜의 빛이 후광처럼 퍼져 나온다.",
+      "outfit_description": "움직임이 편한 간소한 수행자의 회색 바지저고리를 입고 있다. 세속적인 치장을 모두 버리고 오직 깨달음만을 추구하는 그의 자세를 보여준다.",
+      "prop_description": "그가 매달린 소나무는 십장생(十長生) 중 하나로, 굳건한 절개와 영원한 생명력을 상징한다. 발이 묶인 것은 물리적인 속박이지만, 이를 통해 정신적인 자유와 해탈을 얻음을 암시한다. 주머니에서 떨어진 몇 개의 엽전은 그가 기꺼이 포기한 세속적인 가치를 의미한다.",
+      "background_scene": "안개가 자욱한 깊은 산속. 주변 세상과 단절된 채 오직 자기 자신에게만 집중할 수 있는 고요하고 신비로운 공간이다. 그의 희생과 인내의 시간이 끝나면 안개가 걷히고 새로운 세상이 보일 것임을 암시한다.",
+      "color_palette_main": [
+        "#808080",
+        "#8A2BE2",
+        "#20B2AA"
+      ],
+      "color_palette_accent": [
+        "#FFD700",
+        "#F5F5DC",
+        "#4D3B2A"
+      ],
+      "symbol_summary_keywords": [
+        "희생",
+        "새로운 관점",
+        "인내",
+        "정지",
+        "깨달음"
+      ],
+      "cat_quote": "“세상을 거꾸로 보니, 비로소 길이 보이더라.”"
+    },
+    "content": {
+      "story": {
+        "korean": "안개 낀 산속, 구도자 고양이는 소나무에 거꾸로 매달려 세상의 시간을 멈춘다. 발이 묶여 움직일 수 없지만, 그의 정신은 그 어느 때보다 자유롭게 세상을 다른 관점으로 바라본다. 주머니에서 떨어진 엽전은 그가 포기한 낡은 가치들이며, 그 희생을 통해 얻는 것은 더 깊은 깨달음의 빛이다. 이 카드는 지금은 행동을 멈추고, 상황을 완전히 다른 시각으로 바라봐야 할 때임을 조언한다.",
+        "english": "In a misty mountain, the Seeker Cat stops the time of the world by hanging upside down from a pine tree. Though its feet are bound and it cannot move, its spirit is freer than ever, seeing the world from a new perspective. The coins fallen from its pocket are the old values it has sacrificed, and through this sacrifice, it gains the light of deeper enlightenment. This card advises that it is time to pause, suspend action, and look at your situation from a completely different angle."
+      },
+      "keywords": [
+        "관점의 전환",
+        "인내의 시간",
+        "자발적 희생",
+        "상황의 정체",
+        "내려놓기",
+        "영적인 깨달음"
+      ],
+      "core_message": {
+        "upright": "“지금은 움직일 때가 아니다. 한 걸음 물러나 세상을 거꾸로 보라. 새로운 해답이 보일 것이다.”",
+        "reversed": "“의미 없는 희생을 하고 있거나, 아무것도 얻지 못한 채 시간만 보내고 있다. 관점을 바꾸거나, 이제 그만 내려와라.”"
+      }
+    },
+    "symbols": {
+      "title": "상징 해설",
+      "items": [
+        {
+          "name": "거꾸로 매달린 자세",
+          "meaning": "세상을 기존과 완전히 다른 관점으로 바라보는 것을 상징한다. 일상적인 논리와 상식을 뒤집어 새로운 진실을 발견하는 과정이다."
+        },
+        {
+          "name": "머리의 후광",
+          "meaning": "물리적인 고난과 희생을 통해 얻게 되는 영적인 깨달음과 지혜의 빛을 상징한다."
+        },
+        {
+          "name": "소나무",
+          "meaning": "어려운 상황 속에서도 변치 않는 굳건한 의지와 생명력을 상징한다. 이 시련이 무의미하지 않음을 보여주는 믿음의 나무이다."
+        },
+        {
+          "name": "떨어진 엽전",
+          "meaning": "더 높은 가치를 얻기 위해 기꺼이 포기하고 내려놓은 물질적 욕심이나 낡은 사고방식을 의미한다."
+        }
+      ]
+    },
+    "a11y": {
+      "alt_text_kr": "날렵한 아비시니안 고양이가 안개 낀 산속 소나무에 거꾸로 매달려 명상하고 있다. 머리에서 빛이 난다. 카드 상단엔 12, 하단엔 ‘LE PENDU’가 적혀 있다.",
+      "alt_text_en": "A slender Abyssinian cat is meditating while hanging upside down from a pine tree in a misty mountain, with a halo around its head. The card shows '12' at the top and 'LE PENDU' at the bottom."
+    },
+    "prompts": {
+      "illustration_prompt_en": "High resolution, 1024px minimum width. Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, depicting 'Le Pendu' (The Hanged Man), is designed in the style of a serene and spiritual antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration features a slender Abyssinian cat, personifying a spiritual seeker. It hangs peacefully upside down, tied by one ankle to the branch of a sturdy pine tree. Its other leg is bent, and its paws are held calmly behind its back. The cat's expression is one of serene contemplation, not of suffering, and a soft, golden halo glows around its head. A few coins are seen falling from its simple grey robe to the ground below. The background is a mystical, foggy mountain landscape, suggesting a state of suspension from the mundane world. The overall atmosphere is tranquil, surreal, and enlightening. The color palette is dominated by meditative greys (#808080) and spiritual violets (#8A2BE2). -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, an ornate cartouche contains the number '12'. At the bottom, a matching cartouche frames the French title 'LE PENDU'. The corners of the main border feature delicate scrollwork. --ar 7:12 --v 6.0 --style raw --quality 1",
+      "title": "구도자를 위한 질문",
+      "items": [
+        {
+          "id": "on_perspective",
+          "text": "당신의 삶에서 지금 정체되어 있다고 느끼는 것은 무엇인가요? 그 상황을 완전히 다른 각도에서 바라본다면 무엇이 보일까요?"
+        },
+        {
+          "id": "on_sacrifice",
+          "text": "더 큰 깨달음이나 성장을 위해 당신이 기꺼이 내려놓거나 희생해야 할 것은 무엇인가요?"
+        }
+      ]
+    },
+    "assets_slots": {
+      "illustration": "major12_le_pendu_v1_ornate_final.png",
+      "symbol_map": null
+    }
+  }

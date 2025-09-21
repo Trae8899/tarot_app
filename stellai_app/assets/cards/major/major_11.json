@@ -1,0 +1,129 @@
+{
+    "id": "major11_la_justice",
+    "meta": {
+      "deck_id": "chat_coreen_tarot_v1",
+      "card_id": "major11",
+      "variant_id": "classic_ornate_final",
+      "titles": {
+        "top_main": "11",
+        "bottom_main": "LA JUSTICE",
+        "native": "포도대장 고양이",
+        "en": "The Just Cat",
+        "original_tarot": "JUSTICE"
+      }
+    },
+    "frame_v3": {
+      "canvas_size": [ 1400, 2400 ],
+      "padding_sides": 56,
+      "top_band_height": 192,
+      "bottom_band_height": 288,
+      "illustration_y_range": [ 248, 2068 ],
+      "safe_inset": 24,
+      "colors": {
+        "paper": "#FBF5E8",
+        "band": "#F3EADA",
+        "ink": "#4D3B2A"
+      },
+      "title_mode": "ornate_cartouche",
+      "font_scaling_single": 0.41
+    },
+    "structure": {
+      "number": 11,
+      "roman_numeral": "XI",
+      "arcana": "Major",
+      "suit": null,
+      "cat_breed": "브리티시 숏헤어 (British Shorthair)",
+      "hanbok_style": "조선시대 무관(武官)의 권위 있는 푸른색 관복(官服)",
+      "color_theme_keywords": [
+        "청색(이성, 공정)",
+        "백색(진실, 명료함)",
+        "흑색(엄격함, 원칙)",
+        "금색(권위)"
+      ],
+      "cat_personality": "사사로운 감정에 휘둘리지 않고 오직 사실과 법도에 근거하여 판단하는, 공정하고 이성적인 성품. 그의 앞에서는 어떠한 거짓도 통하지 않는다.",
+      "pose_description": "관아(官衙)의 높은 의자에 허리를 꼿꼿이 세우고 정면을 응시하며 앉아있다. 한 발에는 진실의 무게를 재는 놋저울을 수평으로 들고, 다른 한 발에는 옳고 그름을 명확히 가르는 서슬 퍼런 칼을 수직으로 세우고 있다.",
+      "outfit_description": "이성적인 판단을 상징하는 푸른색 관복을 입고 있으며, 가슴의 흉배(胸背)에는 용맹한 호랑이가 수놓아져 있어 그의 직위와 권위를 보여준다.",
+      "prop_description": "그가 든 놋저울은 어느 쪽으로도 기울지 않아 완벽한 공정함을 상징한다. 날카롭게 선 칼은 진실을 가려내는 명료한 이성과, 그 결정에 따르는 엄격한 결과를 의미한다. 배경의 기둥들은 그가 지키는 사회의 법과 질서라는 굳건한 구조를 나타낸다.",
+      "background_scene": "조선시대의 재판이 열리는 대청. 좌우가 완벽하게 대칭을 이루어 치우침 없는 공정함을 강조한다. 불필요한 장식이 없어 오직 진실을 가리는 데만 집중하는 엄숙한 분위기이다.",
+      "color_palette_main": [
+        "#4682B4",
+        "#F5F5DC",
+        "#2F4F4F"
+      ],
+      "color_palette_accent": [
+        "#DAA520",
+        "#A52A2A",
+        "#4D3B2A"
+      ],
+      "symbol_summary_keywords": [
+        "공정함",
+        "진실",
+        "균형",
+        "인과응보",
+        "결정"
+      ],
+      "cat_quote": "“진실의 무게는 결코 가볍지 않다.”"
+    },
+    "content": {
+      "story": {
+        "korean": "엄숙한 대청 위, 포도대장 고양이는 한 치의 흔들림도 없는 눈으로 진실을 판결한다. 그의 저울은 모든 행동의 무게를 정확히 재고, 그의 칼은 모든 결과를 명확하게 가른다. 이곳에서는 동정심이나 편견이 아닌, 오직 인과응보의 법칙만이 존재한다. 이 카드는 이제 감정을 배제하고, 공정하고 이성적인 판단을 내려야 할 때임을 알린다. 모든 행동에는 결과가 따른다.",
+        "english": "In the solemn courthouse, the Just Cat delivers verdicts on truth with an unwavering gaze. Its scales weigh the consequence of every action with precision, and its sword defines every outcome with clarity. Here, there is no room for pity or prejudice, only the law of cause and effect. This card signifies that it is time to set emotions aside and make a fair, rational judgment. Every action has a consequence."
+      },
+      "keywords": [
+        "공정한 결정",
+        "진실",
+        "법적인 문제",
+        "인과응보",
+        "책임",
+        "균형과 조화",
+        "객관성"
+      ],
+      "core_message": {
+        "upright": "“진실을 마주하고, 공정한 결정을 내려라. 당신의 행동에 책임을 져야 할 때이다.”",
+        "reversed": "“불공정한 상황, 편견, 혹은 책임을 회피하고 있다. 진실을 외면하지 마라.”"
+      }
+    },
+    "symbols": {
+      "title": "상징 해설",
+      "items": [
+        {
+          "name": "수평의 놋저울",
+          "meaning": "모든 증거와 주장을 편견 없이 공정하게 비교하고 분석하는 이성적인 균형 감각을 상징한다."
+        },
+        {
+          "name": "수직의 칼",
+          "meaning": "진실을 명확하게 드러내는 날카로운 지성과, 한번 내려진 결정은 반드시 실행되는 엄격한 인과응보의 법칙을 상징한다. 칼의 양날은 결정에 따르는 긍정적, 부정적 결과를 모두 의미한다."
+        },
+        {
+          "name": "호랑이 흉배(胸背)",
+          "meaning": "국가로부터 부여받은 공적인 권위와 그 권위를 집행할 수 있는 힘을 나타낸다."
+        },
+        {
+          "name": "대칭적인 배경",
+          "meaning": "사회의 법, 질서, 규율과 같은 흔들리지 않는 구조를 상징하며, 모든 판결이 이 구조 안에서 이루어짐을 보여준다."
+        }
+      ]
+    },
+    "a11y": {
+      "alt_text_kr": "엄격한 표정의 브리티시 숏헤어 고양이가 푸른 관복을 입고 저울과 칼을 든 채 의자에 앉아있다. 카드 상단엔 11, 하단엔 ‘LA JUSTICE’가 적혀 있다.",
+      "alt_text_en": "A stern-faced British Shorthair cat in a blue official's robe sits on a chair, holding scales and a sword. The card shows '11' at the top and 'LA JUSTICE' at the bottom."
+    },
+    "prompts": {
+      "illustration_prompt_en": "High resolution, 1024px minimum width. Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, depicting 'La Justice' (Justice), is designed in the style of a formal and balanced antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration features a stern and impartial British Shorthair cat, personifying Justice as a high-ranking Joseon official (Podocheong Chief). It sits upright on a formal wooden chair in a courthouse. In one paw, it holds a perfectly balanced set of brass scales. In the other, it holds a sharp, gleaming sword upright. The cat wears a blue official's robe with a tiger insignia patch (hyungbae) on the chest. The background is a symmetrical Korean courtroom with wooden pillars, emphasizing order and impartiality. The overall atmosphere is one of clarity, truth, and consequence. The color palette is dominated by rational blues (#4682B4) and truthful ivories (#F5F5DC). -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, an ornate cartouche contains the number '11'. At the bottom, a matching cartouche frames the French title 'LA JUSTICE'. The corners of the main border feature delicate scrollwork. --ar 7:12 --v 6.0 --style raw --quality 1",
+      "title": "정의를 위한 질문",
+      "items": [
+        {
+          "id": "on_truth",
+          "text": "지금 당신이 마주해야 할 진실은 무엇인가요? 감정을 배제하고 객관적으로 상황을 바라보고 있나요?"
+        },
+        {
+          "id": "on_consequence",
+          "text": "당신의 과거 행동이 현재 어떤 결과를 가져왔나요? 앞으로의 행동에 대해 어떤 책임을 져야 할까요?"
+        }
+      ]
+    },
+    "assets_slots": {
+      "illustration": "major11_la_justice_v1_ornate_final.png",
+      "symbol_map": null
+    }
+  }

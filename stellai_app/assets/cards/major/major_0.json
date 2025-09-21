@@ -1,0 +1,128 @@
+{
+  "id": "major0_le_matouille",
+  "meta": {
+    "deck_id": "chat_coreen_tarot_v1",
+    "card_id": "major0",
+    "variant_id": "classic_ornate_final",
+    "titles": {
+      "top_main": "0",
+      "bottom_main": "LE MATOUILLE",
+      "native": "방랑자 고양이",
+      "en": "The Wanderer Cat",
+      "original_tarot": "THE FOOL"
+    }
+  },
+  "frame_v3": {
+    "canvas_size": [ 1400, 2400 ],
+    "padding_sides": 56,
+    "top_band_height": 192,
+    "bottom_band_height": 288,
+    "illustration_y_range": [ 248, 2068 ],
+    "safe_inset": 24,
+    "colors": {
+      "paper": "#FBF5E8",
+      "band": "#F3EADA",
+      "ink": "#4D3B2A"
+    },
+    "title_mode": "ornate_cartouche",
+    "font_scaling_single": 0.41
+  },
+  "structure": {
+    "number": 0,
+    "roman_numeral": "0",
+    "arcana": "Major",
+    "suit": null,
+    "cat_breed": "코리안 숏헤어 (치즈태비가 섞인 삼색)",
+    "hanbok_style": "자유로운 영혼을 상징하는 색동 조각보 두루마기",
+    "color_theme_keywords": [
+      "청색(자유, 희망)",
+      "황색(낙천성)",
+      "다채로움(가능성)",
+      "백색(순수)"
+    ],
+    "cat_personality": "세상에 대한 두려움이 전혀 없는 천진난만한 낙천가. 모든 것이 신기하고 새로운 모험이다. '길 끝에 뭐가 있는지는 몰라도, 일단 가보는 거야!'라며 즐겁게 발걸음을 옮긴다.",
+    "pose_description": "작은 동산의 낭떠러지 끝에 평화롭게 서서, 앞으로의 여정을 안내할 나비를 향해 호기심 가득한 앞발을 뻗고 있다. 그의 표정은 미지의 세계에 대한 순수한 설렘으로 가득하다.",
+    "outfit_description": "오랜 여행으로 색이 바랜 듯한 여러 색깔의 조각보를 이어 만든 두루마기를 입고 있다. 어깨 너머 나뭇가지 끝에는 소박한 보따리가 달려있어 그의 자유로운 영혼을 보여준다.",
+    "prop_description": "그를 이끄는 나비는 순수한 영감과 직관을 상징한다. 어깨에 멘 작은 보따리는 물질에 얽매이지 않음을, 발치의 들꽃은 어디서든 피어나는 희망을 의미한다.",
+    "background_scene": "화창한 봄날의 시골 언덕길. 푸른 하늘에는 뭉게구름이 평화롭게 떠 있고, 멀리 나지막한 산과 초가집들이 보인다. 왼쪽 상단에는 온화한 태양이 빛나며 그의 여정을 축복한다.",
+    "color_palette_main": [
+      "#87CEEB",
+      "#FDEE87",
+      "#A9D0A9"
+    ],
+    "color_palette_accent": [
+      "#E57373",
+      "#FFFFFF",
+      "#4D3B2A"
+    ],
+    "symbol_summary_keywords": [
+      "시작",
+      "순수",
+      "자유",
+      "모험",
+      "예측불가"
+    ],
+    "cat_quote": "“가장 먼 길도 첫 걸음부터 시작되는 법이지!”"
+  },
+  "content": {
+    "story": {
+      "korean": "조각보 옷을 입은 고양이가 세상 끝에 서서 망설임 없이 첫발을 내딛는다. 그의 눈은 발밑의 낭떠러지가 아닌, 자유롭게 춤추는 나비를 향해 있다. 가벼운 보따리만큼이나 가벼운 마음으로, 그는 계획 없는 여정을 떠난다. 이 카드는 미지의 세계를 향한 순수한 신뢰와 새로운 시작의 용기를 상징한다.",
+      "english": "A cat in a patchwork robe stands at the edge of the world, taking its first step without hesitation. Its eyes are not on the cliff below, but on a freely dancing butterfly above. With a heart as light as its small bundle, it embarks on an unplanned journey. This card symbolizes pure trust in the unknown and the courage of new beginnings."
+    },
+    "keywords": [
+      "새로운 시작",
+      "순수한 마음",
+      "자유로운 영혼",
+      "모험",
+      "무한한 가능성",
+      "낙관주의"
+    ],
+    "core_message": {
+      "upright": "“생각은 그만! 지금은 마음이 이끄는 대로 가볍게 시작할 때.”",
+      "reversed": "“무모한 계획은 위험을 부를 수 있다. 발밑을 한번 돌아볼 필요가 있다.”"
+    }
+  },
+  "symbols": {
+    "title": "상징 해설",
+    "items": [
+      {
+        "name": "낭떠러지",
+        "meaning": "미지의 세계와 그 안에 도사리는 잠재적인 위험. 동시에 새로운 차원으로의 도약을 의미한다."
+      },
+      {
+        "name": "나비",
+        "meaning": "고양이의 영혼을 이끄는 순수한 직관과 영감. 계획이 아닌 마음의 소리를 따르는 여정을 상징한다."
+      },
+      {
+        "name": "조각보 옷과 작은 보따리",
+        "meaning": "과거의 경험(조각들)이 모여 현재를 이루지만, 미래를 위해 많은 것을 짊어지지 않는 자유로운 상태를 나타낸다."
+      },
+      {
+        "name": "태양",
+        "meaning": "새로운 여정을 축복하는 우주의 긍정적인 에너지와 생명력을 상징한다."
+      }
+    ]
+  },
+  "a11y": {
+    "alt_text_kr": "조각보 옷을 입은 고양이가 언덕 끝에서 나비를 향해 손을 뻗고 있다. 장식적인 테두리 안에 그림이 있다. 카드 상단엔 0, 하단엔 ‘LE MATOUILLE’가 적혀 있다.",
+    "alt_text_en": "A cat in a patchwork robe reaches for a butterfly at a cliff's edge, inside a decorative frame. The card shows '0' at the top and 'LE MATOUILLE' at the bottom."
+  },
+  "prompts": {
+    "illustration_prompt_en": "Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, depicting 'Le Matouille' (The Fool), is designed in the style of a bright and cheerful antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration features a naive and cheerful Korean Shorthair cat (calico with cheese tabby patches) in a colorful patchwork robe (Jogakbo). The cat stands peacefully at the edge of a grassy cliff, curiously reaching a paw towards a small butterfly. The background is a sunny Korean countryside with distant mountains and thatched-roof houses under a bright blue sky, with a gentle sun in the top-left corner. The overall atmosphere is joyful, optimistic, and full of the spirit of adventure. -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, an ornate cartouche contains the number '0'. At the bottom, a matching cartouche frames the French title 'LE MATOUILLE'. The corners of the main border feature delicate scrollwork. --ar 7:12 --v 6.0 --style raw --quality 1",
+    "title": "방랑자를 위한 질문",
+    "items": [
+      {
+        "id": "on_new_journey",
+        "text": "결과에 대한 두려움 없이, 순수한 마음으로 시작하고 싶은 새로운 모험은 무엇인가요?"
+      },
+      {
+        "id": "on_taking_risk",
+        "text": "당신의 삶에서 신념을 갖고 과감히 뛰어들어야 할 영역은 어디인가요?"
+      }
+    ]
+  },
+  "assets_slots": {
+    "illustration": "major0_matouille_cat_v1_ornate_final.png",
+    "symbol_map": null
+  }
+}

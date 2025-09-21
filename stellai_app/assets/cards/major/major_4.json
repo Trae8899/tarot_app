@@ -1,0 +1,68 @@
+{
+  "id": "major4_the_emperor",
+  "meta": {
+    "deck_id": "chat_coreen_tarot_v1",
+    "card_id": "major4",
+    "variant_id": "classic",
+    "titles": {
+      "top_main": "4",
+      "bottom_main": "L'EMPEREUR",
+      "native": "임금 고양이",
+      "en": "The Emperor Cat",
+      "original_tarot": "THE EMPEROR"
+    }
+  },
+  "frame_v3": {
+    "canvas_size": [ 1400, 2400 ], "padding_sides": 56, "top_band_height": 192, "bottom_band_height": 288, "illustration_y_range": [ 248, 2068 ], "safe_inset": 24,
+    "colors": { "paper": "#FBF5E8", "band": "#F3EADA", "ink": "#4D3B2A" },
+    "title_mode": "single", "font_scaling_single": 0.41
+  },
+  "structure": {
+    "number": 4, "roman_numeral": "IV", "arcana": "Major", "suit": null,
+    "cat_breed": "메인쿤 (Maine Coon)",
+    "hanbok_style": "조선시대 왕의 정복인 붉은색 곤룡포(龍袍)",
+    "color_theme_keywords": [ "적색(권위, 힘)", "금색(부와 존엄)", "흑색(지혜, 위엄)", "청색(안정)" ],
+    "cat_personality": "자신의 영역(나라)에 대한 책임감이 강하고 위엄 있는 성격. 쉽게 감정을 드러내지 않지만, 백성(집사)을 아끼는 마음이 깊다. '짐의 왕국에서는 모든 것이 질서정연해야 하느니라.'",
+    "pose_description": "화려한 옥좌에 늠름하고 안정적인 자세로 앉아 정면을 응시하고 있다. 한 발은 무릎 위에 편안하게 올려져 있고, 다른 한 발 옆에는 왕의 권위를 상징하는 어보(御寶)가 놓여있다.",
+    "outfit_description": "가슴과 어깨에 용보(龍補)가 달린 붉은색 곤룡포를 입고 있으며, 머리에는 익선관(翼善冠)을 쓰고 있다. 위엄과 품격이 느껴진다.",
+    "prop_description": "고양이의 뒤로는 왕의 권위를 상징하는 '일월오봉도(日月五峯圖)' 병풍이 펼쳐져 있다. 옥좌의 팔걸이는 정교하게 조각되어 있으며, 발치에는 나라의 기틀을 상징하는 주춧돌이 굳건히 놓여있다.",
+    "background_scene": "조선시대 궁궐의 정전 내부. 질서정연하게 배치된 가구와 장식들이 안정감과 구조적인 미를 보여준다.",
+    "color_palette_main": [ "#A52A2A", "#FFD700", "#2C3E50" ],
+    "color_palette_accent": [ "#4682B4", "#FFFFFF", "#4D3B2A" ],
+    "symbol_summary_keywords": [ "권위", "구조", "안정", "리더십", "책임감" ],
+    "cat_quote": "“나의 발 아래, 모든 것이 제자리에 있노라.”"
+  },
+  "content": {
+    "story": {
+      "korean": "일월오봉도 앞에서 임금 고양이는 굳건히 옥좌를 지킨다. 그의 눈빛은 온 나라의 질서와 안정을 꿰뚫어 본다. 해와 달이 그의 어깨를 지키고, 다섯 봉우리가 그의 왕국을 받든다. 이 카드는 혼돈 속에서 질서를 세우고, 강력한 리더십과 책임감으로 자신의 세계를 지켜야 할 때임을 상징한다.",
+      "english": "Before the Sun, Moon, and Five Peaks screen, the Emperor Cat steadfastly guards his throne. His gaze penetrates the order and stability of his entire kingdom. The sun and moon protect his shoulders, and the five peaks support his realm. This card symbolizes the need to establish order out of chaos and protect one's world with strong leadership and responsibility."
+    },
+    "keywords": [ "리더십", "권위", "안정성", "구조화", "책임감", "규칙", "아버지상" ],
+    "core_message": {
+      "upright": "“지금은 감정보다 원칙이 우선. 당신의 영역을 책임지고 질서를 세워라.”",
+      "reversed": "“지나친 통제는 독재가 될 수 있다. 권위를 내려놓고 유연해져라.”"
+    }
+  },
+  "symbols": {
+    "title": "상징 해설",
+    "items": [
+      { "name": "일월오봉도", "meaning": "왕의 절대적인 권위와 온 우주의 질서를 상징한다." },
+      { "name": "옥좌", "meaning": "안정적인 권력의 기반과 높은 지위를 나타낸다." },
+      { "name": "곤룡포", "meaning": "왕으로서의 공적인 책임과 역할을 상징하는 제복이다." },
+      { "name": "주춧돌", "meaning": "왕국의 굳건한 기초와 법, 질서, 시스템을 의미한다." }
+    ]
+  },
+  "a11y": {
+    "alt_text_kr": "붉은 곤룡포를 입은 위엄 있는 고양이가 궁궐의 옥좌에 앉아있다. 배경에는 일월오봉도가 있다. 카드 상단엔 4, 하단엔 ‘L'EMPEREUR’가 적혀 있다.",
+    "alt_text_en": "A majestic cat wearing a red royal robe (Gonryongpo) sits on a throne in a palace, with a Sun, Moon, and Five Peaks screen in the background. The card shows '4' at the top and 'L'EMPEREUR' at the bottom."
+  },
+  "prompts": {
+    "illustration_prompt_en": "A tarot card illustration in the style of a bright and dignified antique Korean folk painting. A majestic Maine Coon cat, personifying the Emperor, sits firmly on an ornate royal throne. The cat is dressed in a red Gonryongpo, the traditional robe of a Joseon king, and wears a formal crown (Ikseongwan). Its expression is stern, wise, and full of authority. Behind the throne is a large, iconic folding screen painting of the Sun, Moon, and Five Peaks ('Irworobongdo'). The setting is the grand throne hall of a Korean palace, emphasizing order and structure. The overall atmosphere is stable, powerful, and majestic. The color palette is dominated by royal red (#A52A2A) and gold (#FFD700). The card is enclosed in a simple frame with the Roman numeral 'IV' at the top and the French title 'L'EMPEREUR' at the bottom.",
+    "title": "임금을 위한 질문",
+    "items": [
+      { "id": "on_leadership", "text": "당신의 삶에서 질서와 구조를 세워야 할 영역은 어디인가요?" },
+      { "id": "on_responsibility", "text": "당신이 책임져야 할 사람이나 상황은 무엇이며, 어떻게 그들을 보호할 수 있나요?" }
+    ]
+  },
+  "assets_slots": { "illustration": "major4_emperor_cat_v1.png", "symbol_map": null }
+}

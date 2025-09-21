@@ -1,0 +1,129 @@
+{
+  "id": "major14_temperance",
+  "meta": {
+    "deck_id": "chat_coreen_tarot_v1",
+    "card_id": "major14",
+    "variant_id": "classic_ornate_final",
+    "titles": {
+      "top_main": "14",
+      "bottom_main": "TEMPÉRANCE",
+      "native": "조화의 고양이",
+      "en": "The Harmonious Cat",
+      "original_tarot": "TEMPERANCE"
+    }
+  },
+  "frame_v3": {
+    "canvas_size": [ 1400, 2400 ],
+    "padding_sides": 56,
+    "top_band_height": 192,
+    "bottom_band_height": 288,
+    "illustration_y_range": [ 248, 2068 ],
+    "safe_inset": 24,
+    "colors": {
+      "paper": "#FBF5E8",
+      "band": "#F3EADA",
+      "ink": "#4D3B2A"
+    },
+    "title_mode": "ornate_cartouche",
+    "font_scaling_single": 0.41
+  },
+  "structure": {
+    "number": 14,
+    "roman_numeral": "XIV",
+    "arcana": "Major",
+    "suit": null,
+    "cat_breed": "버만 (Birman)",
+    "hanbok_style": "단아하고 깨끗한 약사(藥師)의 옥색 도포(道袍)",
+    "color_theme_keywords": [
+      "청록색(조화, 치유)",
+      "금색(연금술, 영성)",
+      "백색(순수, 정화)",
+      "자색(지혜)"
+    ],
+    "cat_personality": "서두르지 않고 인내심을 갖고, 서로 다른 것들을 섞어 완벽한 조화를 이끌어내는 치유사. 그의 눈빛은 깊은 평온과 집중력으로 가득 차 있다.",
+    "pose_description": "한 발은 맑은 시냇물에, 다른 한 발은 마른 땅에 딛고 서서, 두 개의 청자 항아리 사이로 황금빛 액체를 한 방울도 흘리지 않고 완벽하게 옮기고 있다. 이는 물질과 정신, 현실과 이상의 완벽한 균형을 상징한다.",
+    "outfit_description": "치유와 조화를 상징하는 옥색 도포를 단정하게 입고 있으며, 소매를 살짝 걷어 올려 섬세한 작업에 대한 집중력을 보여준다.",
+    "prop_description": "두 개의 청자 항아리는 서로 다른 두 요소를, 그 사이를 오가는 황금빛 액체는 그 요소들이 결합하여 만들어내는 새로운 차원의 조화(연금술)를 상징한다. 시냇가에 피어난 붓꽃은 지혜와 희망을, 멀리 보이는 산으로 이어지는 길은 중용(中庸)의 길을 나타낸다.",
+    "background_scene": "고요한 산속, 약초가 자라는 시냇가. 모든 것이 평화롭고, 자연의 순리대로 완벽한 조화를 이루고 있는 풍경이다. 현실과 이상이 조화롭게 공존하는 공간이다.",
+    "color_palette_main": [
+      "#008080",
+      "#FFD700",
+      "#F5F5DC"
+    ],
+    "color_palette_accent": [
+      "#9370DB",
+      "#A0522D",
+      "#4D3B2A"
+    ],
+    "symbol_summary_keywords": [
+      "조화",
+      "균형",
+      "치유",
+      "절제",
+      "통합"
+    ],
+    "cat_quote": "“서로 다른 두 길이 만나, 하나의 완벽한 길이 된다.”"
+  },
+  "content": {
+    "story": {
+      "korean": "고요한 시냇가에서, 조화의 고양이는 연금술사처럼 두 항아리 사이로 생명의 물을 옮긴다. 한 발은 현실의 땅에, 다른 한 발은 감정의 물에 담근 채, 그는 극단적인 것들을 섞어 완벽한 균형을 창조한다. 그의 인내심 있는 손길 아래, 모든 갈등은 치유되고 새로운 조화가 탄생한다. 이 카드는 극단에 치우치지 말고, 서로 다른 요소들을 통합하여 중용의 길을 찾아야 할 때임을 보여준다.",
+      "english": "By a tranquil stream, the Harmonious Cat, like an alchemist, transfers the water of life between two jars. With one paw in the earth of reality and the other in the water of emotion, it creates perfect balance by mixing extremes. Under its patient touch, all conflicts are healed and a new harmony is born. This card shows that it is time to avoid extremes and find the middle path by integrating different elements."
+    },
+    "keywords": [
+      "균형",
+      "조화",
+      "인내심",
+      "중용",
+      "협력",
+      "치유",
+      "목적 있는 행동"
+    ],
+    "core_message": {
+      "upright": "“인내심을 갖고 조화를 찾아라. 지금은 서로 다른 것들을 통합하여 균형을 맞춰야 할 때이다.”",
+      "reversed": "“불균형과 극단적인 행동을 경계하라. 조화를 잃고 한쪽으로 너무 치우쳐 있다.”"
+    }
+  },
+  "symbols": {
+    "title": "상징 해설",
+    "items": [
+      {
+        "name": "두 개의 청자 항아리",
+        "meaning": "음과 양, 물질과 정신, 의식과 무의식 등 서로 상반되거나 다른 두 가지 요소를 상징한다."
+      },
+      {
+        "name": "옮겨지는 황금빛 액체",
+        "meaning": "두 요소를 단순 혼합하는 것이 아닌, 더 높은 차원으로 통합하여 새로운 가치를 창조하는 연금술적인 과정을 상징한다. 생명력과 치유의 에너지이다."
+      },
+      {
+        "name": "물과 땅에 딛은 발",
+        "meaning": "감정적인 세계(물)와 현실적인 세계(땅) 모두에 기반을 두어, 어느 한쪽에 치우치지 않는 완벽한 균형과 안정된 상태를 나타낸다."
+      },
+      {
+        "name": "붓꽃",
+        "meaning": "신성한 지혜와 희망, 그리고 하늘과 땅을 연결하는 영적인 메시지를 상징한다."
+      }
+    ]
+  },
+  "a11y": {
+    "alt_text_kr": "온화한 버만 고양이가 옥색 도포를 입고 시냇가에서 두 개의 청자 항아리 사이로 황금빛 액체를 옮기고 있다. 카드 상단엔 14, 하단엔 ‘TEMPÉRANCE’가 적혀 있다.",
+    "alt_text_en": "A gentle Birman cat in a jade-green robe transfers a golden liquid between two celadon jars by a stream. The card shows '14' at the top and 'TEMPÉRANCE' at the bottom."
+  },
+  "prompts": {
+    "illustration_prompt_en": "High resolution, 1024px minimum width. Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, depicting 'Tempérance' (Temperance), is designed in the style of a harmonious and serene antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration features a serene and graceful Birman cat, personifying Temperance as a mystical healer or alchemist. It stands with one paw on a stone in a clear stream and the other on the grassy bank. With perfect focus, it masterfully pours a glowing, golden liquid between two beautiful Korean celadon jars, with the stream of liquid forming a continuous, unbroken flow. Iris flowers, symbolizing wisdom, grow nearby. The background is a tranquil mountain landscape with a path leading towards the horizon. The overall atmosphere is one of perfect harmony, balance, and healing. The color palette is dominated by healing teals (#008080) and alchemical golds (#FFD700). -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, an ornate cartouche contains the number '14'. At the bottom, a matching cartouche frames the French title 'TEMPÉRANCE'. The corners of the main border feature delicate scrollwork. --ar 7:12 --v 6.0 --style raw --quality 1",
+    "title": "조화를 위한 질문",
+    "items": [
+      {
+        "id": "on_balance",
+        "text": "당신의 삶에서 지금 어떤 두 가지 요소를 조화롭게 만들어야 하나요? 너무 치우쳐 있는 영역은 어디인가요?"
+      },
+      {
+        "id": "on_patience",
+        "text": "지금 당신에게 가장 필요한 인내심은 무엇인가요? 서두르지 않고 중용의 길을 걸을 준비가 되었나요?"
+      }
+    ]
+  },
+  "assets_slots": {
+    "illustration": "major14_temperance_v1_ornate_final.png",
+    "symbol_map": null
+  }
+}

@@ -1,0 +1,129 @@
+{
+    "id": "major7_le_chariot",
+    "meta": {
+      "deck_id": "chat_coreen_tarot_v1",
+      "card_id": "major7",
+      "variant_id": "classic_ornate_final",
+      "titles": {
+        "top_main": "7",
+        "bottom_main": "LE CHARIOT",
+        "native": "장군 고양이",
+        "en": "The General Cat",
+        "original_tarot": "THE CHARIOT"
+      }
+    },
+    "frame_v3": {
+      "canvas_size": [ 1400, 2400 ],
+      "padding_sides": 56,
+      "top_band_height": 192,
+      "bottom_band_height": 288,
+      "illustration_y_range": [ 248, 2068 ],
+      "safe_inset": 24,
+      "colors": {
+        "paper": "#FBF5E8",
+        "band": "#F3EADA",
+        "ink": "#4D3B2A"
+      },
+      "title_mode": "ornate_cartouche",
+      "font_scaling_single": 0.41
+    },
+    "structure": {
+      "number": 7,
+      "roman_numeral": "VII",
+      "arcana": "Major",
+      "suit": null,
+      "cat_breed": "벵갈 (Bengal)",
+      "hanbok_style": "조선시대 장군의 위엄 있는 갑옷, 두정갑(頭釘甲)과 투구",
+      "color_theme_keywords": [
+        "진홍색(승리, 의지)",
+        "흑색(돌진, 통제력)",
+        "금색(영광, 자신감)",
+        "청색(집중력)"
+      ],
+      "cat_personality": "목표를 향해 모든 장애물을 돌파하는 강력한 의지와 통제력을 지닌 장군. 그의 눈빛은 오직 승리만을 향해 있으며, 어떠한 망설임도 보이지 않는다.",
+      "pose_description": "상반된 힘을 상징하는 흑과 백의 해태(獬豸)가 끄는 전차 위에서 고삐를 굳게 쥐고, 앞으로 돌진하는 역동적인 자세. 굳게 다문 입술에서 강한 의지가 느껴진다.",
+      "outfit_description": "금속 징이 단단하게 박힌 붉은색 두정갑을 입고, 머리에는 용맹함을 상징하는 깃털 장식이 달린 투구를 쓰고 있다. 그의 갑옷은 수많은 전투에서 승리했음을 보여준다.",
+      "prop_description": "전차를 끄는 흑백의 해태는 선과 악, 내면의 갈등 등 서로 다른 방향으로 나아가려는 상반된 힘을 상징한다. 하지만 장군 고양이는 이들을 강력한 의지(고삐)로 통제하며 하나의 목표로 이끈다. 전차 앞면에는 그의 가문을 상징하는 방패 문양이 새겨져 있다.",
+      "background_scene": "성문을 향해 돌진하거나 드넓은 전쟁터를 가로지르는 모습. 그의 뒤로 깃발이 펄럭이고 흙먼지가 휘날리는 등, 엄청난 속도감과 진취적인 에너지가 느껴지는 배경이다.",
+      "color_palette_main": [
+        "#B22222",
+        "#2C3E50",
+        "#DAA520"
+      ],
+      "color_palette_accent": [
+        "#FFFFFF",
+        "#87CEEB",
+        "#4D3B2A"
+      ],
+      "symbol_summary_keywords": [
+        "승리",
+        "의지력",
+        "통제",
+        "돌진",
+        "자신감"
+      ],
+      "cat_quote": "“나의 길을 막는 것은 오직 나 자신뿐.”"
+    },
+    "content": {
+      "story": {
+        "korean": "전장을 가로지르는 먼지 바람 속에서, 장군 고양이는 흔들림 없이 전차를 몬다. 서로 다른 길로 가려는 흑백의 해태는 그의 내면과 외부의 갈등을 상징하지만, 그는 강력한 의지의 고삐로 이들을 통제하고 오직 승리라는 목표를 향해 돌진한다. 이 카드는 강한 의지력으로 상반된 힘들을 통제하고, 목표를 향해 힘차게 나아가야 할 때임을 선언한다.",
+        "english": "Through the dust and wind of the battlefield, the General Cat drives his chariot unwaveringly. The black and white Haetae, pulling in different directions, symbolize his internal and external conflicts. Yet, with the reins of powerful willpower, he controls them, charging only towards the single goal of victory. This card declares that it is time to control opposing forces with a strong will and advance powerfully towards your goal."
+      },
+      "keywords": [
+        "승리",
+        "진취적인 힘",
+        "자기 통제",
+        "의지력",
+        "목표 달성",
+        "자신감",
+        "성공"
+      ],
+      "core_message": {
+        "upright": "“강한 의지로 밀어붙여라. 지금이 바로 당신의 힘으로 승리를 쟁취할 때이다.”",
+        "reversed": "“방향을 잃고 폭주하고 있거나, 의지력을 상실했다. 고삐를 다시 잡고 목표를 재설정하라.”"
+      }
+    },
+    "symbols": {
+      "title": "상징 해설",
+      "items": [
+        {
+          "name": "흑백의 해태(獬豸)",
+          "meaning": "서로 다른 방향으로 나아가려는 내면의 욕구나 외부의 갈등 등, 상반된 두 힘을 상징한다. 이를 통제하는 것이 이 카드의 핵심 과제이다."
+        },
+        {
+          "name": "고삐",
+          "meaning": "상반된 힘들을 하나의 목표로 이끄는 강력한 의지력, 통제력, 그리고 정신력을 상징한다."
+        },
+        {
+          "name": "전차",
+          "meaning": "자신의 의지를 세상에 실현시키기 위한 수단. 야망, 진취성, 그리고 자신을 앞으로 나아가게 하는 원동력을 의미한다."
+        },
+        {
+          "name": "장군의 갑옷",
+          "meaning": "목표를 향해 나아가는 동안 외부의 비판이나 장애물로부터 자신을 보호하는 단단한 결의와 자신감을 상징한다."
+        }
+      ]
+    },
+    "a11y": {
+      "alt_text_kr": "용맹한 벵갈 고양이가 장군 갑옷을 입고, 흑백의 해태가 끄는 전차를 타고 돌진하고 있다. 카드 상단엔 7, 하단엔 ‘LE CHARIOT’가 적혀 있다.",
+      "alt_text_en": "A valiant Bengal cat in general's armor charges forward on a chariot pulled by a black and a white Haetae. The card shows '7' at the top and 'LE CHARIOT' at the bottom."
+    },
+    "prompts": {
+      "illustration_prompt_en": "High resolution, 1024px minimum width. Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, depicting 'Le Chariot' (The Chariot), is designed in the style of a dynamic and powerful antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration features a fierce and determined Bengal cat, personifying a great general. It stands confidently in a war chariot, firmly gripping the reins and charging forward. The chariot is pulled by two powerful mythical Korean beasts, a black Haetae and a white Haetae, symbolizing opposing forces straining in opposite directions but controlled by the cat's willpower. The cat wears ornate Joseon-dynasty general's armor (Dujeong-gap) and a plumed helmet. The background is a dynamic scene of a battlefield, with swirling dust and fluttering banners to convey immense speed and force. The overall atmosphere is powerful, determined, and victorious. The color palette is dominated by victorious crimson (#B22222) and powerful black (#2C3E50). -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, an ornate cartouche contains the number '7'. At the bottom, a matching cartouche frames the French title 'LE CHARIOT'. The corners of the main border feature delicate scrollwork. --ar 7:12 --v 6.0 --style raw --quality 1",
+      "title": "장군을 위한 질문",
+      "items": [
+        {
+          "id": "on_willpower",
+          "text": "당신의 삶에서 어떤 상반된 힘들을 하나로 모아 통제해야 하나요? 당신의 의지력은 어디를 향하고 있나요?"
+        },
+        {
+          "id": "on_victory",
+          "text": "당신이 반드시 쟁취하고 싶은 승리는 무엇인가요? 그 목표를 향해 지금 어떻게 돌진해야 할까요?"
+        }
+      ]
+    },
+    "assets_slots": {
+      "illustration": "major7_chariot_v1_ornate_final.png",
+      "symbol_map": null
+    }
+  }

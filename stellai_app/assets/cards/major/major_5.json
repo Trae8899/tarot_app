@@ -1,0 +1,128 @@
+{
+  "id": "major5_le_pape_celeste",
+  "meta": {
+    "deck_id": "chat_coreen_tarot_v1",
+    "card_id": "major5",
+    "variant_id": "classic_ornate_final",
+    "titles": {
+      "top_main": "5",
+      "bottom_main": "LE PAPE CÉLESTE",
+      "native": "훈장님 고양이",
+      "en": "The Teacher Cat",
+      "original_tarot": "THE HIEROPHANT"
+    }
+  },
+  "frame_v3": {
+    "canvas_size": [ 1400, 2400 ],
+    "padding_sides": 56,
+    "top_band_height": 192,
+    "bottom_band_height": 288,
+    "illustration_y_range": [ 248, 2068 ],
+    "safe_inset": 24,
+    "colors": {
+      "paper": "#FBF5E8",
+      "band": "#F3EADA",
+      "ink": "#4D3B2A"
+    },
+    "title_mode": "ornate_cartouche",
+    "font_scaling_single": 0.41
+  },
+  "structure": {
+    "number": 5,
+    "roman_numeral": "V",
+    "arcana": "Major",
+    "suit": null,
+    "cat_breed": "스코티시 폴드 (Scottish Fold)",
+    "hanbok_style": "단정하고 권위 있는 학자의 심의(深衣)와 정자관(程子冠)",
+    "color_theme_keywords": [
+      "갈색(전통, 지식)",
+      "상아색(지혜, 가르침)",
+      "청록색(학문, 규율)",
+      "흑색(원칙)"
+    ],
+    "cat_personality": "지혜롭고 인자하며, 전통과 규율을 중요하게 생각하는 스승. 오랜 경험에서 우러나오는 깊이 있는 가르침으로 제자들을 이끈다. 근엄하지만 눈빛에는 따뜻함이 묻어난다.",
+    "pose_description": "서당(書堂)의 대청마루 중앙에 점잖게 앉아, 어린 제자 고양이 두 마리에게 가르침을 내리고 있다. 한 발은 점잖게 들어 교훈을 설명하고 있으며, 시선은 제자들을 향해 있다.",
+    "outfit_description": "선비의 학식과 덕망을 상징하는 검소하지만 단정한 심의를 입고, 머리에는 학자의 상징인 정자관을 쓰고 있다.",
+    "prop_description": "훈장님 앞에는 두 어린 고양이가 존경심 가득한 눈빛으로 가르침을 듣고 있다. 뒤에는 '溫故知新(온고지신)'이라 쓰인 족자가 걸려있어 옛것을 익혀 새것을 아는 지혜를 강조한다. 옆에는 글공부에 필요한 벼루와 붓이 단정하게 놓여있다.",
+    "background_scene": "햇살이 부드럽게 들어오는 전통 서당의 내부. 창호지 문 너머로 보이는 대나무 숲이 학자의 굳은 절개와 지조를 상징한다. 모든 것이 정돈되어 있어 학문과 규율의 공간임을 보여준다.",
+    "color_palette_main": [
+      "#8B4513",
+      "#F5F5DC",
+      "#2F4F4F"
+    ],
+    "color_palette_accent": [
+      "#A0522D",
+      "#000000",
+      "#4D3B2A"
+    ],
+    "symbol_summary_keywords": [
+      "전통",
+      "가르침",
+      "신념",
+      "제도",
+      "멘토"
+    ],
+    "cat_quote": "“배움의 길에는 왕도가 없느니라.”"
+  },
+  "content": {
+    "story": {
+      "korean": "고요한 서당에서, 훈장님 고양이는 다음 세대에게 변치 않는 지혜와 전통을 전수한다. 그의 말 한마디 한마디는 사회를 지탱하는 규율과 신념이 된다. 제자들은 스승의 가르침을 통해 세상의 이치를 배우고 자신의 자리를 찾아간다. 이 카드는 믿을 수 있는 스승을 찾거나, 정해진 길을 따르며 배우고 성장해야 할 시기임을 말해준다.",
+      "english": "In the quiet village school, the Teacher Cat passes down timeless wisdom and tradition to the next generation. Each of his words becomes the doctrine and belief that supports society. Through their master's teachings, the disciples learn the ways of the world and find their place within it. This card signifies a time to seek a trustworthy mentor, or to learn and grow by following an established path."
+    },
+    "keywords": [
+      "멘토십",
+      "전통적인 가치",
+      "교육 기관",
+      "신념 체계",
+      "가이드",
+      "규율과 관습"
+    ],
+    "core_message": {
+      "upright": "“전통적인 방식을 따르고, 믿을 만한 조언자의 가르침을 구하라.”",
+      "reversed": "“낡은 규칙에 의문을 제기하고, 자신만의 새로운 길을 찾아라. 틀을 깰 시간이다.”"
+    }
+  },
+  "symbols": {
+    "title": "상징 해설",
+    "items": [
+      {
+        "name": "두 제자 고양이",
+        "meaning": "가르침을 전수받는 학생, 혹은 사회의 규칙을 배우는 개인을 상징한다. 지식의 계승을 의미한다."
+      },
+      {
+        "name": "온고지신(溫故知新) 족자",
+        "meaning": "옛것을 익히고 그것을 미루어 새것을 안다는 뜻. 전통적인 지식과 경험의 중요성을 강조한다."
+      },
+      {
+        "name": "정자관(程子冠)",
+        "meaning": "조선시대 사대부들이 쓰던 관. 사회적으로 공인된 지위와 학문적 권위를 상징한다."
+      },
+      {
+        "name": "대나무 숲",
+        "meaning": "곧고 푸른 대나무는 선비의 굳은 절개와 지조를 상징하며, 변치 않는 원칙과 신념을 나타낸다."
+      }
+    ]
+  },
+  "a11y": {
+    "alt_text_kr": "지혜로운 스코티시 폴드 고양이가 훈장님 복장으로 서당에서 어린 고양이 두 마리를 가르치고 있다. 카드 상단엔 5, 하단엔 ‘LE PAPE CÉLESTE’가 적혀 있다.",
+    "alt_text_en": "A wise Scottish Fold cat dressed as a teacher is teaching two kittens in a village school. The card shows '5' at the top and 'LE PAPE CÉLESTE' at the bottom."
+  },
+  "prompts": {
+    "illustration_prompt_en": "High resolution, 1024px minimum width. Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, depicting 'Le Pape Céleste' (The Hierophant), is designed in the style of a wise and formal antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration features a venerable Scottish Fold cat, personifying the Hierophant as a traditional Korean teacher (Hunjangnim). It sits in a formal, dignified pose in the center of a village school (Seodang), wearing a scholar's robe (Simui) and a tiered hat (Jeongjagwan). With one paw raised, it imparts wisdom upon two small kittens who sit attentively at its feet. Behind the teacher, a scroll with Hanja characters for '溫故知新' hangs on the wall. The atmosphere is one of respectful learning, tradition, and mentorship. The color palette is warm and earthy, featuring scholarly wood browns (#8B4513) and aged paper ivory (#F5F5DC). -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, an ornate cartouche contains the number '5'. At the bottom, a matching cartouche frames the French title 'LE PAPE CÉLESTE'. The corners of the main border feature delicate scrollwork. --ar 7:12 --v 6.0 --style raw --quality 1",
+    "title": "훈장님을 위한 질문",
+    "items": [
+      {
+        "id": "on_mentorship",
+        "text": "지금 당신의 삶에서 누구에게 가르침을 구해야 할까요? 혹은, 당신의 지식을 누구에게 전수해 줄 수 있나요?"
+      },
+      {
+        "id": "on_tradition",
+        "text": "당신이 따르고 있는 전통이나 규칙은 무엇인가요? 그 안에서 무엇을 배우고 있으며, 혹시 그 틀을 벗어나야 할 때는 아닌가요?"
+      }
+    ]
+  },
+  "assets_slots": {
+    "illustration": "major5_pape_celeste_v1_ornate_final.png",
+    "symbol_map": null
+  }
+}

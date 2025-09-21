@@ -1,0 +1,129 @@
+{
+  "id": "major21_le_monde",
+  "meta": {
+    "deck_id": "chat_coreen_tarot_v1",
+    "card_id": "major21",
+    "variant_id": "classic_ornate_final",
+    "titles": {
+      "top_main": "21",
+      "bottom_main": "LE MONDE",
+      "native": "세상 고양이",
+      "en": "The World Cat",
+      "original_tarot": "THE WORLD"
+    }
+  },
+  "frame_v3": {
+    "canvas_size": [ 1400, 2400 ],
+    "padding_sides": 56,
+    "top_band_height": 192,
+    "bottom_band_height": 288,
+    "illustration_y_range": [ 248, 2068 ],
+    "safe_inset": 24,
+    "colors": {
+      "paper": "#FBF5E8",
+      "band": "#F3EADA",
+      "ink": "#4D3B2A"
+    },
+    "title_mode": "ornate_cartouche",
+    "font_scaling_single": 0.41
+  },
+  "structure": {
+    "number": 21,
+    "roman_numeral": "XXI",
+    "arcana": "Major",
+    "suit": null,
+    "cat_breed": "칼리코 (삼색 고양이 - Calico)",
+    "hanbok_style": "우주와 조화를 이루는 무용수의 오방색(五方色) 춤 의상",
+    "color_theme_keywords": [
+      "오방색(완성, 조화)",
+      "자색(우주, 영성)",
+      "금색(성취, 축복)",
+      "백색(순수)"
+    ],
+    "cat_personality": "바보의 여정을 시작하여 마침내 모든 것을 깨닫고 세상과 하나가 된 존재. 그의 춤은 우주의 순리 그 자체이며, 그의 존재는 완벽한 조화와 성취의 기쁨으로 가득 차 있다.",
+    "pose_description": "거대한 태극(太極) 문양의 중심에서, 우주의 모든 에너지를 조화롭게 표현하는 듯한 우아하고 역동적인 춤을 추고 있다. 그의 표정은 더할 나위 없는 완전한 행복과 만족감으로 빛난다.",
+    "outfit_description": "우주의 5가지 기본 요소를 상징하는 오방색(황, 청, 백, 적, 흑) 비단이 어우러진 아름다운 춤 의상을 입고 있다. 그의 삼색 털 또한 다양한 요소의 조화를 상징한다.",
+    "prop_description": "그가 춤추는 거대한 태극 문양은 음과 양의 완벽한 조화와 우주의 순환을 상징한다. 카드의 네 귀퉁이에는 10번 '운명의 수레바퀴'에서 보았던 사천왕 고양이들이 다시 등장하여, 그의 완성을 축복하고 이 세계가 안정적인 법칙 안에서 이루어졌음을 증명한다. 그들은 이제 더 이상 딱딱한 모습이 아닌, 미소 띤 얼굴로 춤을 즐기고 있다.",
+    "background_scene": "지상도 천상도 아닌, 모든 것이 하나로 통합된 완전한 우주 공간. 그의 주변으로 별들이 축복처럼 쏟아지며, 그의 완성과 새로운 시작을 축하한다.",
+    "color_palette_main": [
+      "#DAA520",
+      "#4682B4",
+      "#DC143C"
+    ],
+    "color_palette_accent": [
+      "#FFFFFF",
+      "#000000",
+      "#4D3B2A"
+    ],
+    "symbol_summary_keywords": [
+      "완성",
+      "통합",
+      "성취",
+      "성공",
+      "새로운 시작"
+    ],
+    "cat_quote": "“나는 세상이며, 세상은 나의 춤이다.”"
+  },
+  "content": {
+    "story": {
+      "korean": "바보의 순수한 발걸음으로 시작된 기나긴 여정은 마침내 끝을 맺는다. 세상의 중심에서, 삼색 고양이는 우주와 완벽한 조화를 이루는 기쁨의 춤을 춘다. 그는 이제 세상과 분리된 존재가 아닌, 세상 그 자체가 되었다. 네 수호신은 그의 완성을 축복하며, 모든 것이 제자리로 돌아왔음을 알린다. 이 카드는 하나의 주기가 성공적으로 끝났으며, 그 성취를 마음껏 축하해야 할 시간임을 선언한다.",
+      "english": "The long journey that began with the innocent step of the Fool finally comes to an end. At the center of the universe, the Calico cat dances with joy, in perfect harmony with the cosmos. It is no longer a separate being from the world, but has become the world itself. The four guardians bless its completion, announcing that everything has returned to its rightful place. This card declares that a cycle has been successfully completed, and it is time to celebrate that achievement to the fullest."
+    },
+    "keywords": [
+      "성공적인 마무리",
+      "완성",
+      "통합",
+      "성취감",
+      "목표 달성",
+      "세계 여행",
+      "새로운 시작"
+    ],
+    "core_message": {
+      "upright": "“마침내 여정이 끝났다. 당신의 성공적인 완성을 축하하고, 그 성취를 온전히 느껴라.”",
+      "reversed": "“마무리가 부족하거나, 무언가 빠진 느낌이 든다. 목표를 달성하기 전 마지막 과제가 남아있다. 과정을 다시 점검하라.”"
+    }
+  },
+  "symbols": {
+    "title": "상징 해설",
+    "items": [
+      {
+        "name": "춤추는 삼색 고양이",
+        "meaning": "모든 여정을 통해 성장하여 마침내 세상과 하나가 된 완성된 자아(Self)를 상징한다. 삼색 털은 다양한 요소들이 조화롭게 통합되었음을 나타낸다."
+      },
+      {
+        "name": "태극(太極) 문양",
+        "meaning": "전통적인 타로의 월계관을 대체한다. 음과 양, 남성성과 여성성, 의식과 무의식 등 모든 이원성의 완벽한 조화와 통합, 그리고 영원한 순환을 상징한다."
+      },
+      {
+        "name": "네 귀퉁이의 사천왕 고양이",
+        "meaning": "물질 세계를 구성하는 네 가지 요소(4원소)와 방향이 모두 안정되고 조화롭게 통합되었음을 상징한다. 세상의 안정적인 기반을 나타낸다."
+      },
+      {
+        "name": "오방색(五方色) 의상",
+        "meaning": "우주를 구성하는 다섯 가지 기본 방향과 에너지가 모두 조화를 이룬 상태. 완벽한 균형과 완성을 상징한다."
+      }
+    ]
+  },
+  "a11y": {
+    "alt_text_kr": "아름다운 삼색 고양이가 우주 공간의 거대한 태극 문양 안에서 춤을 추고 있다. 네 귀퉁이에는 수호신 고양이들이 있다. 카드 상단엔 21, 하단엔 ‘LE MONDE’가 적혀 있다.",
+    "alt_text_en": "A beautiful Calico cat is dancing inside a large Taegeuk symbol in outer space, with guardian cats in the four corners. The card shows '21' at the top and 'LE MONDE' at the bottom."
+  },
+  "prompts": {
+    "illustration_prompt_en": "High resolution, 1024px minimum width. Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, depicting 'Le Monde' (The World), is designed in the style of a triumphant and cosmic antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration features a joyous and graceful Calico cat, symbolizing the integrated Self, dancing ecstatically in the center of a large, glowing Taegeuk symbol (the Korean representation of Yin-Yang). The cat wears a flowing dancer's robe made of ribbons in the five traditional Korean colors (Obangsaek). In the four corners of the card, the same four guardian cats from the Wheel of Fortune card reappear, this time with joyful expressions, celebrating the completion of the cycle. The entire scene is set against a cosmic backdrop of stars and nebulae. The overall atmosphere is one of completion, integration, and triumphant joy. -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, an ornate cartouche contains the number '21'. At the bottom, a matching cartouche frames the French title 'LE MONDE'. The corners of the main border feature delicate scrollwork. --ar 7:12 --v 6.0 --style raw --quality 1",
+    "title": "세상을 위한 질문",
+    "items": [
+      {
+        "id": "on_completion",
+        "text": "당신의 삶에서 최근 성공적으로 마무리된 여정이나 프로젝트는 무엇인가요? 그 성취를 어떻게 축하하고 있나요?"
+      },
+      {
+        "id": "on_integration",
+        "text": "이번 여정을 통해 배운 것들이 당신의 삶에 어떻게 통합되었나요? 당신은 어떻게 더 완전한 존재가 되었나요?"
+      }
+    ]
+  },
+  "assets_slots": {
+    "illustration": "major21_le_monde_v1_ornate_final.png",
+    "symbol_map": null
+  }
+}

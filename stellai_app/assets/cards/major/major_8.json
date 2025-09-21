@@ -1,0 +1,129 @@
+{
+    "id": "major8_la_force",
+    "meta": {
+      "deck_id": "chat_coreen_tarot_v1",
+      "card_id": "major8",
+      "variant_id": "classic_ornate_final",
+      "titles": {
+        "top_main": "8",
+        "bottom_main": "LA FORCE",
+        "native": "용기 있는 고양이",
+        "en": "The Courageous Cat",
+        "original_tarot": "STRENGTH"
+      }
+    },
+    "frame_v3": {
+      "canvas_size": [ 1400, 2400 ],
+      "padding_sides": 56,
+      "top_band_height": 192,
+      "bottom_band_height": 288,
+      "illustration_y_range": [ 248, 2068 ],
+      "safe_inset": 24,
+      "colors": {
+        "paper": "#FBF5E8",
+        "band": "#F3EADA",
+        "ink": "#4D3B2A"
+      },
+      "title_mode": "ornate_cartouche",
+      "font_scaling_single": 0.41
+    },
+    "structure": {
+      "number": 8,
+      "roman_numeral": "VIII",
+      "arcana": "Major",
+      "suit": null,
+      "cat_breed": "아메리칸 숏헤어 (American Shorthair)",
+      "hanbok_style": "순수하고 소박한 소녀의 하얀색 치마저고리",
+      "color_theme_keywords": [
+        "백색(순수, 내면의 힘)",
+        "황색(용기, 자비)",
+        "녹색(생명, 조화)",
+        "주황색(본능, 야성)"
+      ],
+      "cat_personality": "외적으로는 부드럽고 다정하지만, 내면에는 그 어떤 어려움에도 굴하지 않는 강인한 용기를 품고 있다. 힘으로 제압하는 것이 아닌, 부드러운 이해와 신뢰로 야성을 다스린다.",
+      "pose_description": "거대한 호랑이의 턱과 머리를 부드럽게 쓰다듬고 있다. 호랑이는 위협적인 이빨을 드러내고 있지만, 고양이의 차분하고 사랑스러운 손길 아래 얌전히 눈을 감고 만족스러운 표정을 짓고 있다. 고양이는 두려움 없는 평온한 미소를 짓고 있다.",
+      "outfit_description": "꾸밈없는 순수한 흰색 치마저고리를 입고 있다. 이는 거친 야성을 다스리는 것이 외적인 힘이나 지위가 아닌, 내면의 순수한 용기와 자비임을 상징한다.",
+      "prop_description": "고양이보다 훨씬 거대한 호랑이는 통제되지 않는 본능, 분노, 욕망 등 우리 내면의 야성을 상징한다. 고양이의 머리 위에는 무한한 잠재력과 순환을 상징하는 작은 들꽃으로 엮은 화관(花冠)이 씌워져 있다.",
+      "background_scene": "평화로운 대나무 숲이나 푸른 초원. 거친 본능이 자연의 순리 안에서 조화롭게 길들여지는 모습을 보여주며, 모든 것이 평화롭고 안정된 상태이다.",
+      "color_palette_main": [
+        "#DAA520",
+        "#FFFFFF",
+        "#228B22"
+      ],
+      "color_palette_accent": [
+        "#FF4500",
+        "#A0522D",
+        "#4D3B2A"
+      ],
+      "symbol_summary_keywords": [
+        "내면의 힘",
+        "용기",
+        "인내",
+        "자비",
+        "자기 통제"
+      ],
+      "cat_quote": "“진정한 힘은 억누르는 것이 아니라, 끌어안는 것이다.”"
+    },
+    "content": {
+      "story": {
+        "korean": "푸른 초원 위, 작은 고양이는 자신보다 몇 배는 더 큰 호랑이 앞에 두려움 없이 선다. 그녀는 힘으로 맞서지 않고, 부드러운 손길과 자비로운 마음으로 호랑이의 야성을 잠재운다. 포효하던 호랑이는 그녀의 순수한 용기 앞에서 온순한 고양이처럼 눈을 감는다. 이 카드는 진정한 힘이란 외부의 적을 제압하는 것이 아니라, 내면의 두려움과 본능을 사랑으로 다스리는 것임을 보여준다.",
+        "english": "On a green meadow, a small cat stands fearlessly before a tiger many times its size. She does not confront it with force, but tames its wild nature with a gentle touch and a compassionate heart. The roaring tiger closes its eyes like a gentle kitten before her pure courage. This card shows that true strength lies not in conquering external foes, but in mastering one's inner fears and instincts with love."
+      },
+      "keywords": [
+        "용기",
+        "인내심",
+        "부드러운 통제",
+        "자비",
+        "내면의 힘",
+        "자기 확신",
+        "본능 길들이기"
+      ],
+      "core_message": {
+        "upright": "“당신 안의 힘은 생각보다 강하다. 부드러움과 인내심으로 상황을 다스려라.”",
+        "reversed": "“두려움에 굴복하거나, 내면의 힘을 잃었다. 자신감을 되찾고 스스로를 믿어라.”"
+      }
+    },
+    "symbols": {
+      "title": "상징 해설",
+      "items": [
+        {
+          "name": "고양이",
+          "meaning": "부드러움, 인내, 자비와 같은 내면의 힘과 영적인 용기를 상징한다."
+        },
+        {
+          "name": "호랑이",
+          "meaning": "용기, 열정, 분노, 욕망과 같은 원초적인 본능과 길들여지지 않은 야성을 상징한다. 우리가 극복해야 할 내면의 도전 과제이다."
+        },
+        {
+          "name": "부드러운 손길",
+          "meaning": "힘으로 억누르는 것이 아닌, 연민과 이해를 통한 부드러운 설득과 통제 방식을 나타낸다."
+        },
+        {
+          "name": "들꽃 화관",
+          "meaning": "전통적인 타로의 무한대(렘니스케이트) 상징을 대체한다. 자연스러운 상태에서 발현되는 무한한 잠재력과 영적인 힘, 그리고 순환을 의미한다."
+        }
+      ]
+    },
+    "a11y": {
+      "alt_text_kr": "흰 한복을 입은 다정한 아메리칸 숏헤어 고양이가 거대한 호랑이의 턱을 부드럽게 쓰다듬고 있다. 카드 상단엔 8, 하단엔 ‘LA FORCE’가 적혀 있다.",
+      "alt_text_en": "A gentle American Shorthair cat in a white hanbok is softly stroking a huge tiger's chin. The card shows '8' at the top and 'LA FORCE' at the bottom."
+    },
+    "prompts": {
+      "illustration_prompt_en": "High resolution, 1024px minimum width. Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, depicting 'La Force' (Strength), is designed in the style of a gentle and courageous antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration features a gentle yet brave American Shorthair cat. The cat, wearing a simple and pure white hanbok, is calmly and lovingly stroking the chin of a large, powerful Korean tiger. The tiger, though its fangs might be visible, has its eyes blissfully closed, completely tamed by the cat's compassion. A delicate crown of wildflowers, symbolizing infinite potential, rests on the cat's head. The background is a serene green meadow with a few bamboo stalks. The overall atmosphere is one of quiet courage, compassion, and inner strength. The color palette is dominated by warm golden-yellows (#DAA520), pure white (#FFFFFF), and peaceful greens (#228B22). -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, an ornate cartouche contains the number '8'. At the bottom, a matching cartouche frames the French title 'LA FORCE'. The corners of the main border feature delicate scrollwork. --ar 7:12 --v 6.0 --style raw --quality 1",
+      "title": "용기를 위한 질문",
+      "items": [
+        {
+          "id": "on_courage",
+          "text": "당신 내면의 어떤 '호랑이'(두려움, 분노, 욕망)를 지금 마주하고 길들여야 하나요?"
+        },
+        {
+          "id": "on_compassion",
+          "text": "힘으로 해결하려는 대신, 부드러움과 인내심, 그리고 자기 자신에 대한 자비로 풀 수 있는 문제는 무엇인가요?"
+        }
+      ]
+    },
+    "assets_slots": {
+      "illustration": "major8_la_force_v1_ornate_final.png",
+      "symbol_map": null
+    }
+  }

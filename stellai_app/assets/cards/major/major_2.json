@@ -1,0 +1,128 @@
+{
+  "id": "major2_la_papesse_celeste",
+  "meta": {
+    "deck_id": "chat_coreen_tarot_v1",
+    "card_id": "major2",
+    "variant_id": "classic_ornate_final",
+    "titles": {
+      "top_main": "2",
+      "bottom_main": "LA PAPESSE CÉLESTE",
+      "native": "비밀의 고양이",
+      "en": "The Cat of Secrets",
+      "original_tarot": "THE HIGH PRIESTESS"
+    }
+  },
+  "frame_v3": {
+    "canvas_size": [ 1400, 2400 ],
+    "padding_sides": 56,
+    "top_band_height": 192,
+    "bottom_band_height": 288,
+    "illustration_y_range": [ 248, 2068 ],
+    "safe_inset": 24,
+    "colors": {
+      "paper": "#FBF5E8",
+      "band": "#F3EADA",
+      "ink": "#4D3B2A"
+    },
+    "title_mode": "ornate_cartouche",
+    "font_scaling_single": 0.41
+  },
+  "structure": {
+    "number": 2,
+    "roman_numeral": "II",
+    "arcana": "Major",
+    "suit": null,
+    "cat_breed": "샴 (Siamese)",
+    "hanbok_style": "달빛을 받아 은은하게 빛나는 흰색 소복(素服)이나 무복(巫服)",
+    "color_theme_keywords": [
+      "남색(심연, 지혜)",
+      "은색(직관, 달빛)",
+      "백색(순수, 비밀)",
+      "흑색(무의식)"
+    ],
+    "cat_personality": "고요하고 신비로운 분위기를 풍기는 고양이. 속마음을 쉽게 드러내지 않으며, 모든 것을 꿰뚫어 보는 듯한 깊고 푸른 눈을 가졌다. 말없이 앉아 달의 움직임으로 세상의 비밀을 읽는다.",
+    "pose_description": "달빛이 비치는 신당(神堂)의 툇마루에 고요하고 우아하게 앉아 있다. 두 앞발을 가지런히 모으고, 시선은 정면을 응시하며 내면의 지혜를 관조하는 모습이다.",
+    "outfit_description": "순수함과 영적인 지혜를 상징하는 깨끗한 흰색 소복을 입고 있다. 옷에는 과한 장식 없이, 달빛을 받아 은은하게 빛나는 은사(銀絲) 자수가 놓여있다.",
+    "prop_description": "고양이의 양옆에는 흑과 백의 기둥 대신, 음과 양을 상징하는 청사초롱과 홍사초롱이 서 있다. 무릎 위에는 세상의 모든 지식이 담긴 두루마리 책이 놓여있지만, 반쯤 감겨 있어 모든 비밀을 드러내지 않음을 암시한다. 배경의 휘장 뒤로는 무의식의 바다를 상징하는 잔잔한 연못이 보인다.",
+    "background_scene": "고요한 밤, 보름달이 밝게 떠 있는 신비로운 사당. 공간은 깊은 밤의 남색과 은은한 달빛으로 가득 차 있으며, 현실과 꿈의 경계에 있는 듯한 몽환적인 분위기를 자아낸다.",
+    "color_palette_main": [
+      "#2C3E50",
+      "#BDC3C7",
+      "#FFFFFF"
+    ],
+    "color_palette_accent": [
+      "#4A90E2",
+      "#000000",
+      "#4D3B2A"
+    ],
+    "symbol_summary_keywords": [
+      "직관",
+      "지혜",
+      "비밀",
+      "무의식",
+      "내면의 목소리"
+    ],
+    "cat_quote": "“가장 깊은 지혜는 침묵 속에 있나니.”"
+  },
+  "content": {
+    "story": {
+      "korean": "달빛 아래, 비밀의 고양이는 침묵으로 말한다. 그의 푸른 눈은 보이는 것 너머의 진실을 꿰뚫어 보며, 감춰진 두루마리는 세상의 모든 지혜를 품고 있다. 그는 성급하게 행동하지 않고, 내면의 목소리와 직관이 길을 알려줄 때까지 고요히 기다린다. 이 카드는 이제 바깥이 아닌 당신의 내면에서 답을 찾아야 할 시간임을 알려준다.",
+      "english": "Under the moonlight, the Cat of Secrets speaks in silence. Its blue eyes pierce through the veil of reality to see the truth beyond, and the hidden scroll holds all the wisdom of the world. It does not act hastily, but waits quietly until its inner voice and intuition show the way. This card tells you it's time to seek answers not from the outside world, but from within yourself."
+    },
+    "keywords": [
+      "직관력",
+      "내면의 지혜",
+      "비밀",
+      "성찰",
+      "무의식",
+      "영적인 통찰"
+    ],
+    "core_message": {
+      "upright": "“지금은 행동할 때가 아니다. 당신의 직관과 내면의 목소리에 귀 기울여라.”",
+      "reversed": "“중요한 비밀을 외면하고 있거나, 직관을 무시하고 있다. 마음을 들여다보라.”"
+    }
+  },
+  "symbols": {
+    "title": "상징 해설",
+    "items": [
+      {
+        "name": "청사초롱과 홍사초롱",
+        "meaning": "음과 양, 무의식과 의식, 숨겨진 것과 드러난 것 사이의 이중성과 균형을 상징한다."
+      },
+      {
+        "name": "반쯤 감긴 두루마리",
+        "meaning": "아직 완전히 밝혀지지 않은 지혜와 비밀. 모든 답은 내면에 있지만, 스스로 깨달아야만 얻을 수 있음을 의미한다."
+      },
+      {
+        "name": "휘장 뒤의 연못",
+        "meaning": "의식과 무의식의 경계를 나타내는 베일. 그 너머에는 모든 가능성의 원천인 직관의 바다가 있음을 상징한다."
+      },
+      {
+        "name": "보름달",
+        "meaning": "직관력과 무의식의 힘이 최고조에 달했음을 나타내며, 숨겨진 진실을 비추는 영적인 빛을 상징한다."
+      }
+    ]
+  },
+  "a11y": {
+    "alt_text_kr": "신비로운 샴 고양이가 달빛 아래 신당에 고요히 앉아있다. 양옆에 청사초롱과 홍사초롱이 있다. 카드 상단엔 2, 하단엔 ‘LA PAPESSE CÉLESTE’가 적혀 있다.",
+    "alt_text_en": "A mystical Siamese cat sits serenely in a shrine under the moonlight, flanked by a blue and red silk lantern. The card shows '2' at the top and 'LA PAPESSE CÉLESTE' at the bottom."
+  },
+  "prompts": {
+    "illustration_prompt_en": "High resolution, 1024px minimum width. Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, depicting 'La Papesse Céleste' (The High Priestess), is designed in the style of a mystical and serene antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration features a wise and elegant Siamese cat. It sits serenely in a meditative pose on the wooden porch of a mystical Korean shrine at night. Its deep blue eyes gaze directly forward. On its lap rests a partially rolled scroll. It is flanked by a blue silk lantern and a red silk lantern (Cheongsachorong), symbolizing duality. Behind the cat, a silk veil hangs, partially obscuring a tranquil pond under a bright full moon. The overall atmosphere is silent, mystical, and deeply intuitive. The color palette is dominated by deep indigo (#2C3E50) and silvery moonlight (#BDC3C7). -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, an ornate cartouche contains the number '2'. At the bottom, a matching cartouche frames the French title 'LA PAPESSE CÉLESTE'. The corners of the main border feature delicate scrollwork. --ar 7:12 --v 6.0 --style raw --quality 1",
+    "title": "비밀을 위한 질문",
+    "items": [
+      {
+        "id": "on_intuition",
+        "text": "당신의 내면의 목소리가 지금 당신에게 무엇을 말해주고 있나요? 당신이 애써 외면하고 있는 것은 무엇인가요?"
+      },
+      {
+        "id": "on_secrets",
+        "text": "아직 드러나지 않은 진실은 무엇이며, 그 비밀을 마주하기 위해 필요한 것은 무엇인가요?"
+      }
+    ]
+  },
+  "assets_slots": {
+    "illustration": "major2_papesse_celeste_v1_ornate_final.png",
+    "symbol_map": null
+  }
+}

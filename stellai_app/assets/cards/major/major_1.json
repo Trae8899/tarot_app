@@ -1,0 +1,128 @@
+{
+  "id": "major1_lartisan_celeste",
+  "meta": {
+    "deck_id": "chat_coreen_tarot_v1",
+    "card_id": "major1",
+    "variant_id": "classic_ornate_final",
+    "titles": {
+      "top_main": "1",
+      "bottom_main": "L'ARTISAN CÉLESTE",
+      "native": "재주꾼 고양이",
+      "en": "The Talented Cat",
+      "original_tarot": "THE MAGICIAN"
+    }
+  },
+  "frame_v3": {
+    "canvas_size": [ 1400, 2400 ],
+    "padding_sides": 56,
+    "top_band_height": 192,
+    "bottom_band_height": 288,
+    "illustration_y_range": [ 248, 2068 ],
+    "safe_inset": 24,
+    "colors": {
+      "paper": "#FBF5E8",
+      "band": "#F3EADA",
+      "ink": "#4D3B2A"
+    },
+    "title_mode": "ornate_cartouche",
+    "font_scaling_single": 0.41
+  },
+  "structure": {
+    "number": 1,
+    "roman_numeral": "I",
+    "arcana": "Major",
+    "suit": null,
+    "cat_breed": "코리안 숏헤어 (치즈태비)",
+    "hanbok_style": "바람에 휘날리는 학자의 도포(道袍)",
+    "color_theme_keywords": [
+      "황색(총명, 창조)",
+      "청색(영감)",
+      "홍색(열정, 활력)",
+      "백색(순수, 잠재력)"
+    ],
+    "cat_personality": "자신감과 재치가 넘치는 천재 고양이. 세상 만물이 자신의 의지대로 움직일 수 있다고 믿으며, 창조의 순간을 즐긴다. '자, 이제 뭘 만들어 볼까?' 하는 장난기 어린 눈빛을 하고 있다.",
+    "pose_description": "한 발로는 땅을 굳건히 딛고 서서 균형을 잡고, 다른 발은 하늘을 향해 힘차게 뻗어 에너지를 모으는 듯한 역동적인 자세. 그의 주변으로 4원소를 상징하는 도구들이 마법처럼 떠다니고 있다.",
+    "outfit_description": "총명함을 상징하는 옥색 도포 자락이 보이지 않는 에너지의 바람에 역동적으로 휘날리고 있다. 넓은 소매는 그의 자유로운 창작 활동을 암시한다.",
+    "prop_description": "그의 주위를 맴도는 네 가지 신묘한 물건들: 끝에서 작은 불꽃이 튀는 붓(지팡이/불), 맑은 물이 소용돌이치는 청자 찻잔(컵/물), 날카로운 지성을 상징하며 공중에 떠 있는 작은 장도(검/공기), 그리고 황금빛을 발하며 회전하는 복주머니 속 엽전(펜타클/흙).",
+    "background_scene": "햇살이 눈부시게 쏟아지는 한옥의 넓은 대청마루. 활짝 열린 문 너머로 생기 넘치는 푸른 여름 풍경이 펼쳐져, 그의 창조력이 세상과 연결되어 있음을 보여준다.",
+    "color_palette_main": [
+      "#FFD700",
+      "#5CACEE",
+      "#FFFFF0"
+    ],
+    "color_palette_accent": [
+      "#E34234",
+      "#3A5F0B",
+      "#4D3B2A"
+    ],
+    "symbol_summary_keywords": [
+      "창조",
+      "재능",
+      "시작",
+      "자신감",
+      "실현"
+    ],
+    "cat_quote": "“세상 만물이 내 손안의 장난감이지!”"
+  },
+  "content": {
+    "story": {
+      "korean": "눈부신 햇살 아래, 재주꾼 고양이가 대청마루 위에서 신명 나게 창조의 춤을 춘다. 그의 의지에 따라 붓에서는 불꽃이 튀고 찻잔에서는 물이 솟아오른다. 그는 세상의 모든 요소를 자유자재로 다루며, 아이디어를 현실로 빚어낸다. 이 카드는 당신의 재능과 의지를 믿고, 지금 바로 행동으로 옮길 때임을 알려준다.",
+      "english": "Under the dazzling sunlight, the Talented Cat performs a joyous dance of creation on the wooden porch. By its will, sparks fly from a brush and water springs from a teacup. It wields all the world's elements freely, turning ideas into reality. This card tells you it's time to believe in your talents and will, and to take action now."
+    },
+    "keywords": [
+      "새로운 프로젝트",
+      "재능의 발현",
+      "자신감",
+      "창의력",
+      "실행력",
+      "성공적인 시작"
+    ],
+    "core_message": {
+      "upright": "“모든 준비는 끝났다. 당신의 재능을 세상에 보여줄 시간이다!”",
+      "reversed": "“재능을 엉뚱한 곳에 쓰거나, 계획이 허황될 수 있다. 집중력이 필요하다.”"
+    }
+  },
+  "symbols": {
+    "title": "상징 해설",
+    "items": [
+      {
+        "name": "불꽃 튀는 붓 (지팡이)",
+        "meaning": "창조를 향한 뜨거운 열정과 실행력, 영감을 상징한다."
+      },
+      {
+        "name": "소용돌이치는 찻잔 (컵)",
+        "meaning": "풍부한 감성과 직관력, 내면의 깊이를 나타낸다."
+      },
+      {
+        "name": "떠 있는 장도 (검)",
+        "meaning": "명료한 사고와 분석력, 아이디어를 구체화하는 지성을 상징한다."
+      },
+      {
+        "name": "빛나는 엽전 (펜타클)",
+        "meaning": "아이디어를 현실 세계에 구현해내는 능력, 실질적인 결과물을 의미한다."
+      }
+    ]
+  },
+  "a11y": {
+    "alt_text_kr": "치즈태비 고양이가 한옥 마루에서 역동적인 자세를 취하고 있고, 주변에 네 가지 물건이 떠다닌다. 카드 상단엔 1, 하단엔 ‘L'ARTISAN CÉLESTE’가 적혀 있다.",
+    "alt_text_en": "A cheese tabby cat strikes a dynamic pose on a Hanok porch, with four objects floating around it. The card shows '1' at the top and 'L'ARTISAN CÉLESTE' at the bottom."
+  },
+  "prompts": {
+    "illustration_prompt_en": "Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, depicting 'L'Artisan Céleste' (The Magician), is designed in the style of a bright and dynamic antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration features a dynamic and brilliant Korean Shorthair (cheese tabby) cat, personifying the Magician, in the middle of performing a powerful act of creation. One paw points powerfully to the sky, drawing down energy, while the other aims towards the ground. Around the cat, the four elemental tools float in a swirl of magical energy: a calligraphy brush crackling with small sparks (Fire), a celadon teacup overflowing with swirling water (Water), a hovering ornamental knife (Air), and a silk lucky pouch glowing with golden light (Earth). The cat's robe (Dopo) flows dynamically in an unseen wind. The scene is a sun-drenched wooden porch (daecheongmaru) of a traditional Korean house (Hanok), with a vibrant summer landscape visible outside. The overall atmosphere is bright, energetic, and full of masterful confidence. -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, an ornate cartouche contains the number '1'. At the bottom, a matching cartouche frames the French title 'L'ARTISAN CÉLESTE'. The corners of the main border feature delicate scrollwork. --ar 7:12 --v 6.0 --style raw --quality 1",
+    "title": "재주꾼을 위한 질문",
+    "items": [
+      {
+        "id": "on_creation",
+        "text": "지금 당신의 손에 주어진 도구들로 무엇을 창조하고 세상에 보여주고 싶나요?"
+      },
+      {
+        "id": "on_potential",
+        "text": "당신의 어떤 잠재력을 이제 세상에 드러낼 시간인가요?"
+      }
+    ]
+  },
+  "assets_slots": {
+    "illustration": "major1_artisan_celeste_v1_ornate_final.png",
+    "symbol_map": null
+  }
+}

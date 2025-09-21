@@ -1,0 +1,129 @@
+{
+    "id": "major13_unnamed",
+    "meta": {
+      "deck_id": "chat_coreen_tarot_v1",
+      "card_id": "major13",
+      "variant_id": "classic_ornate_final",
+      "titles": {
+        "top_main": "13",
+        "bottom_main": "",
+        "native": "사신(死神) 고양이",
+        "en": "The Reaper Cat",
+        "original_tarot": "DEATH"
+      }
+    },
+    "frame_v3": {
+      "canvas_size": [ 1400, 2400 ],
+      "padding_sides": 56,
+      "top_band_height": 192,
+      "bottom_band_height": 288,
+      "illustration_y_range": [ 248, 2068 ],
+      "safe_inset": 24,
+      "colors": {
+        "paper": "#FBF5E8",
+        "band": "#F3EADA",
+        "ink": "#4D3B2A"
+      },
+      "title_mode": "ornate_cartouche_top_only",
+      "font_scaling_single": 0.41
+    },
+    "structure": {
+      "number": 13,
+      "roman_numeral": "XIII",
+      "arcana": "Major",
+      "suit": null,
+      "cat_breed": "봄베이 (Bombay)",
+      "hanbok_style": "전통적인 저승사자의 검고 단정한 두루마기와 갓",
+      "color_theme_keywords": [
+        "흑색(끝, 무(無))",
+        "백색(뼈, 정화)",
+        "적색(생명력의 소멸)",
+        "청색(새벽, 새로운 시작)"
+      ],
+      "cat_personality": "감정의 동요 없이, 자연의 순리로서 끝을 집행하는 과묵하고 엄숙한 존재. 그의 행동에는 어떤 악의도 없으며, 오직 낡은 것을 정리하고 새로운 것을 위한 공간을 만드는 임무만이 있을 뿐이다.",
+      "pose_description": "황량한 들판에 서서, 낡고 시든 것들을 베어내는 동작을 취하고 있다. 무서운 낫 대신, 낡은 풀과 잡초를 베어내고 새로운 씨앗이 자랄 땅을 마련하는 '호미'를 들고 있다. 그의 뒤로는 어둠을 뚫고 새로운 시작을 알리는 새벽의 태양이 떠오르고 있다.",
+      "outfit_description": "모든 색을 흡수하는 검은색 두루마기를 입고, 전통적인 검은 갓을 쓰고 있다. 그의 모습은 피할 수 없는 끝의 엄숙함을 상징한다.",
+      "prop_description": "그가 든 호미는 파괴적인 '죽음'이 아닌, 새로운 시작을 위한 '정리'와 '변화'의 도구임을 상징한다. 발밑에는 베어진 마른 풀과 함께, 왕관과 엽전 등 과거의 영광과 집착을 상징하는 것들이 놓여있다. 이는 끝 앞에서는 모든 세속적인 가치가 무의미함을 보여준다.",
+      "background_scene": "모든 것이 정리된 황량한 겨울 들판. 하지만 지평선 너머로 붉게 타오르는 새벽의 여명은, 이 끝이 결코 영원한 소멸이 아니며 곧 새로운 생명이 시작될 것임을 강력하게 암시한다.",
+      "color_palette_main": [
+        "#000000",
+        "#FFFFFF",
+        "#8B0000"
+      ],
+      "color_palette_accent": [
+        "#4682B4",
+        "#DEB887",
+        "#4D3B2A"
+      ],
+      "symbol_summary_keywords": [
+        "끝",
+        "변화",
+        "전환",
+        "놓아주기",
+        "새로운 시작"
+      ],
+      "cat_quote": "“모든 끝은 새로운 얼굴을 한 시작일 뿐.”"
+    },
+    "content": {
+      "story": {
+        "korean": "검은 옷의 사신 고양이가 황량한 들판에 서서 낡은 모든 것을 거두어들인다. 그의 호미질 한 번에 과거의 영광과 낡은 집착들이 힘없이 쓰러진다. 그의 모습은 두렵지만, 그의 등 뒤로 떠오르는 새벽의 태양은 이 끝이 새로운 시작을 위한 필수적인 과정임을 말해준다. 묵은 것을 정리해야만 새싹이 돋아날 땅이 마련되는 법이다. 이 카드는 피할 수 없는 변화와 끝을 받아들여야 할 시간임을 알린다.",
+        "english": "The Reaper Cat in black stands in a barren field, harvesting all that is old. With a swing of its hoe, past glories and old attachments fall away powerlessly. Its appearance is fearsome, but the rising sun at its back tells that this ending is a necessary process for a new beginning. The old must be cleared away to make room for new shoots to grow. This card announces that it is time to accept an inevitable change and ending."
+      },
+      "keywords": [
+        "필연적인 끝",
+        "중대한 변화",
+        "과거를 놓아주기",
+        "손실",
+        "정화",
+        "새로운 시작의 전조"
+      ],
+      "core_message": {
+        "upright": "“낡은 것은 이제 끝났다. 이 변화를 받아들이고 새로운 시작을 준비하라.”",
+        "reversed": "“끝을 받아들이지 못하고 변화에 저항하고 있다. 과거에 대한 미련을 버려야 한다.”"
+      }
+    },
+    "symbols": {
+      "title": "상징 해설",
+      "items": [
+        {
+          "name": "호미",
+          "meaning": "전통적인 '낫'이 상징하는 파괴적인 죽음 대신, 낡은 것을 정리하고 새로운 씨앗을 심을 밭을 가는 '변화'와 '준비'의 도구를 상징한다."
+        },
+        {
+          "name": "떠오르는 태양",
+          "meaning": "모든 끝 뒤에는 반드시 새로운 시작이 있다는 희망과 부활의 강력한 상징이다."
+        },
+  
+        {
+          "name": "검은 갓과 두루마기",
+          "meaning": "개인의 감정이나 의지가 개입되지 않는, 피할 수 없는 자연의 순리이자 우주적 법칙으로서의 '끝'을 상징한다."
+        },
+        {
+          "name": "땅에 떨어진 왕관과 엽전",
+          "meaning": "죽음과 변화 앞에서는 지위, 부, 권력 등 모든 세속적인 가치가 평등하게 무의미해짐을 나타낸다."
+        }
+      ]
+    },
+    "a11y": {
+      "alt_text_kr": "검은 갓과 두루마기를 입은 검은 고양이가 황량한 들판에서 호미를 들고 있다. 등 뒤로 해가 떠오르고 있다. 카드 상단엔 13이 적혀 있고 하단엔 이름이 없다.",
+      "alt_text_en": "A black cat wearing a black gat and durumagi holds a hoe in a barren field as the sun rises behind it. The card shows '13' at the top and has no name at the bottom."
+    },
+    "prompts": {
+      "illustration_prompt_en": "High resolution, 1024px minimum width. Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, which is unnamed but numbered 13 (Death), is designed in the style of a solemn and transformative antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration features a sleek, all-black Bombay cat, personifying a Korean Grim Reaper (Jeoseung Saja). It wears a traditional black gat (hat) and a simple black durumagi (robe). Instead of a scythe, it holds a traditional Korean farming tool, a 'homi' (a small hand plow), symbolizing the clearing of old weeds for new growth. It stands in a barren, harvested field, with discarded symbols of worldly power like a small crown and coins at its feet. In the background, a powerful, red sun is rising on the horizon, signaling a new dawn. The overall atmosphere is not one of terror, but of solemn, inevitable change and renewal. -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, an ornate cartouche contains the number '13'. The bottom cartouche is present but intentionally left empty. The corners of the main border feature delicate scrollwork. --ar 7:12 --v 6.0 --style raw --quality 1",
+      "title": "변화를 위한 질문",
+      "items": [
+        {
+          "id": "on_ending",
+          "text": "당신의 삶에서 이제 무엇을 끝내고 놓아주어야 하나요? 당신이 붙잡고 있는 낡은 것은 무엇인가요?"
+        },
+        {
+          "id": "on_beginning",
+          "text": "이 끝을 통해 어떤 새로운 시작이 가능해질 수 있을까요? 새로운 것을 받아들일 공간을 어떻게 만들 수 있나요?"
+        }
+      ]
+    },
+    "assets_slots": {
+      "illustration": "major13_unnamed_v1_ornate_final.png",
+      "symbol_map": null
+    }
+  }

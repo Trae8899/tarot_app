@@ -1,0 +1,129 @@
+{
+  "id": "major15_le_diable",
+  "meta": {
+    "deck_id": "chat_coreen_tarot_v1",
+    "card_id": "major15",
+    "variant_id": "classic_ornate_final",
+    "titles": {
+      "top_main": "15",
+      "bottom_main": "LE DIABLE",
+      "native": "도깨비 고양이",
+      "en": "The Goblin Cat",
+      "original_tarot": "THE DEVIL"
+    }
+  },
+  "frame_v3": {
+    "canvas_size": [ 1400, 2400 ],
+    "padding_sides": 56,
+    "top_band_height": 192,
+    "bottom_band_height": 288,
+    "illustration_y_range": [ 248, 2068 ],
+    "safe_inset": 24,
+    "colors": {
+      "paper": "#FBF5E8",
+      "band": "#F3EADA",
+      "ink": "#4D3B2A"
+    },
+    "title_mode": "ornate_cartouche",
+    "font_scaling_single": 0.41
+  },
+  "structure": {
+    "number": 15,
+    "roman_numeral": "XV",
+    "arcana": "Major",
+    "suit": null,
+    "cat_breed": "스핑크스 (Sphynx)",
+    "hanbok_style": "전통 도깨비의 호피 무늬 옷과 뿔 장식",
+    "color_theme_keywords": [
+      "흑색(어둠, 속박)",
+      "금색(물질적 유혹)",
+      "적색(욕망, 쾌락)",
+      "회색(무지)"
+    ],
+    "cat_personality": "장난기 넘치고 교활한 눈빛으로 유혹하는 존재. 물질적인 쾌락과 소유욕을 부추기며, 그 굴레에 스스로 갇히도록 만든다. 그의 제안은 달콤하지만 결국 공허하다.",
+    "pose_description": "보물로 가득 찬 어두운 동굴 속, 금은보화가 쌓인 단상 위에 군림하듯 앉아 있다. 한 발은 아래를 가리키며 쇠사슬에 묶인 두 고양이를 조종하는 듯하고, 다른 한 발은 들어 보이며 '이 모든 것을 가질 수 있다'고 유혹하는 듯한 제스처를 취하고 있다. 그의 얼굴에는 교활한 미소가 걸려있다.",
+    "outfit_description": "원초적인 욕망을 상징하는 호피 무늬 바지를 입고 있으며, 머리에는 작은 도깨비 뿔이 돋아있다.",
+    "prop_description": "그의 발아래, 두 마리의 작은 고양이(남과 여) 목에는 헐거운 쇠사슬이 걸려있다. 쇠사슬은 스스로 벗을 수 있을 만큼 크지만, 그들은 금은보화에 눈이 멀어 자신이 속박된 사실조차 인지하지 못한다. 도깨비의 손에 들린 방망이는 헛된 소원을 이루어주며 더 깊은 욕망의 늪으로 빠뜨리는 '도깨비방망이'이다.",
+    "background_scene": "출구가 보이지 않는 어둡고 습한 동굴 안. 유일한 빛은 반짝이는 금은보화에서 나오는 현란한 빛뿐이다. 물질적 욕망에 갇혀 더 넓은 세상을 보지 못하는 상태를 상징한다.",
+    "color_palette_main": [
+      "#1C1C1C",
+      "#FFD700",
+      "#8B0000"
+    ],
+    "color_palette_accent": [
+      "#808080",
+      "#B8860B",
+      "#4D3B2A"
+    ],
+    "symbol_summary_keywords": [
+      "속박",
+      "유혹",
+      "물질주의",
+      "집착",
+      "중독"
+    ],
+    "cat_quote": "“벗어날 수 없다고? 그건 네가 만든 감옥일 뿐.”"
+  },
+  "content": {
+    "story": {
+      "korean": "어두운 동굴 속, 도깨비 고양이가 금은보화 위에서 웃고 있다. 그의 달콤한 유혹에 빠진 두 고양이는 스스로 목에 쇠사슬을 건 채 보물에만 눈이 멀어있다. 쇠사슬은 마음만 먹으면 벗을 수 있을 만큼 헐겁지만, 그들은 자신이 자유롭다는 사실을 잊었다. 이 카드는 당신이 스스로 만든 집착과 욕망의 감옥에 갇혀 있음을 경고한다. 그 속박은 당신 스스로 끊어낼 수 있다.",
+      "english": "In a dark cave, the Goblin Cat laughs atop a pile of treasure. Seduced by its sweet temptations, two other cats are blinded by the riches, with loose chains around their own necks. The chains are loose enough to be removed, but they have forgotten they are free. This card warns that you are trapped in a prison of your own making, built from obsession and desire. You have the power to break these bonds yourself."
+    },
+    "keywords": [
+      "물질적 집착",
+      "중독",
+      "부정적인 패턴",
+      "속박",
+      "쾌락주의",
+      "거짓된 믿음",
+      "자유의 상실"
+    ],
+    "core_message": {
+      "upright": "“당신을 묶고 있는 것은 무엇인가? 그 집착의 실체를 파악하고 스스로의 의지로 끊어내라.”",
+      "reversed": "“속박에서 벗어날 준비가 되었다. 중독과 부정적인 패턴을 깨고 자유를 향해 나아갈 시간이다.”"
+    }
+  },
+  "symbols": {
+    "title": "상징 해설",
+    "items": [
+      {
+        "name": "도깨비 고양이",
+        "meaning": "외부의 악마가 아닌, 우리 내면의 통제되지 않는 욕망, 집착, 그리고 어리석음을 상징하는 존재이다."
+      },
+      {
+        "name": "헐거운 쇠사슬",
+        "meaning": "스스로 원해서 갇혀있는 자발적인 속박을 의미한다. 언제든 자신의 의지로 벗어날 수 있지만, 그러지 못하고 있음을 보여준다."
+      },
+      {
+        "name": "금은보화와 동굴",
+        "meaning": "물질적인 부, 쾌락, 중독 등 우리를 유혹하고 더 넓은 시야를 가리는 것들을 상징한다. 이 안에 갇히면 영적인 성장을 할 수 없다."
+      },
+      {
+        "name": "도깨비방망이",
+        "meaning": "단기적인 쾌락과 욕망을 쉽게 충족시켜주는 도구. 하지만 이를 통해 얻는 것은 진정한 행복이 아닌 더 깊은 중독과 공허함뿐임을 암시한다."
+      }
+    ]
+  },
+  "a11y": {
+    "alt_text_kr": "교활한 표정의 스핑크스 고양이가 도깨비처럼 보물이 가득한 동굴에 앉아있다. 아래에는 두 고양이가 쇠사슬에 묶여있다. 카드 상단엔 15, 하단엔 ‘LE DIABLE’이 적혀 있다.",
+    "alt_text_en": "A cunning-looking Sphynx cat, like a goblin, sits in a treasure-filled cave, with two chained cats below it. The card shows '15' at the top and 'LE DIABLE' at the bottom."
+  },
+  "prompts": {
+    "illustration_prompt_en": "High resolution, 1024px minimum width. Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, depicting 'Le Diable' (The Devil), is designed in the style of a tempting and shadowy antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration features a mischievous and powerful Sphynx cat, personifying the Devil as a Korean goblin (Dokkaebi). It sits on a pedestal of gold and jewels inside a dark, treasure-filled cave. It has small horns and a cunning grin. Below it, two smaller cats (a male and a female) are loosely chained to the pedestal by their necks; the chains are wide enough for them to slip out of, but they seem unaware, mesmerized by the treasure. The Goblin Cat holds a mythical Korean goblin's club (Dokkaebi bangmangi), a symbol of temptation. The only light source is the greedy glint of the treasure. The overall atmosphere is one of temptation, materialism, and self-imposed bondage. The color palette is dominated by deep blacks (#1C1C1C) and seductive golds (#FFD700). -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, an ornate cartouche contains the number '15'. At the bottom, a matching cartouche frames the French title 'LE DIABLE'. The corners of the main border feature delicate scrollwork. --ar 7:12 --v 6.0 --style raw --quality 1",
+    "title": "도깨비를 위한 질문",
+    "items": [
+      {
+        "id": "on_bondage",
+        "text": "당신의 삶에서 당신을 묶고 있는 '쇠사슬'은 무엇인가요? (나쁜 습관, 부정적인 관계, 물질적 집착 등) 그 쇠사슬이 사실은 스스로 벗을 수 있을 만큼 헐겁다는 것을 알고 있나요?"
+      },
+      {
+        "id": "on_freedom",
+        "text": "당신이 진정으로 자유로워지기 위해 무엇을 직면하고 포기해야 하나요?"
+      }
+    ]
+  },
+  "assets_slots": {
+    "illustration": "major15_le_diable_v1_ornate_final.png",
+    "symbol_map": null
+  }
+}

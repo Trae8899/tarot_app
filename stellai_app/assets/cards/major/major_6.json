@@ -1,0 +1,128 @@
+{
+  "id": "major6_les_amoureux",
+  "meta": {
+    "deck_id": "chat_coreen_tarot_v1",
+    "card_id": "major6",
+    "variant_id": "classic_ornate_final",
+    "titles": {
+      "top_main": "6",
+      "bottom_main": "LES AMOUREUX",
+      "native": "연인 고양이",
+      "en": "The Lover Cats",
+      "original_tarot": "THE LOVERS"
+    }
+  },
+  "frame_v3": {
+    "canvas_size": [ 1400, 2400 ],
+    "padding_sides": 56,
+    "top_band_height": 192,
+    "bottom_band_height": 288,
+    "illustration_y_range": [ 248, 2068 ],
+    "safe_inset": 24,
+    "colors": {
+      "paper": "#FBF5E8",
+      "band": "#F3EADA",
+      "ink": "#4D3B2A"
+    },
+    "title_mode": "ornate_cartouche",
+    "font_scaling_single": 0.41
+  },
+  "structure": {
+    "number": 6,
+    "roman_eral": "VI",
+    "arcana": "Major",
+    "suit": null,
+    "cat_breed": "터키시 앙고라(백색) & 러시안 블루(회색)",
+    "hanbok_style": "하늘의 선남선녀를 연상시키는 아름다운 빛깔의 한복",
+    "color_theme_keywords": [
+      "담홍색(사랑, 관계)",
+      "하늘색(인연, 조화)",
+      "은색(운명, 천상)",
+      "남색(밤하늘)"
+    ],
+    "cat_personality": "서로를 깊이 사랑하며 애틋한 마음을 간직한 한 쌍의 고양이. 일 년에 단 한 번의 만남을 소중히 여기며, 서로의 눈빛 속에서 완전한 조화와 행복을 느낀다.",
+    "pose_description": "은하수 위를 가로지르는 까마귀와 까치들의 다리, 오작교(烏鵲橋) 위에서 두 고양이가 드디어 만나 서로의 앞발을 부드럽게 맞대고 있다. 서로를 향한 사랑과 그리움이 가득한 눈빛으로 마주 보고 있다.",
+    "outfit_description": "흰 고양이(직녀)는 밤하늘의 별처럼 반짝이는 은사 자수가 놓인 옥색 치마를, 회색 고양이(견우)는 늠름한 남색 바지를 입어 음양의 조화를 상징한다.",
+    "prop_description": "그들의 발밑에는 수많은 까마귀와 까치들이 몸을 이어 만든 기적의 다리가 놓여있다. 배경에는 장엄하게 펼쳐진 은하수가 흐르고, 수많은 별들이 이들의 재회를 축복하듯 반짝인다.",
+    "background_scene": "칠월 칠석의 밤, 별들이 쏟아지는 아름다운 은하수. 지상의 풍경이 아닌, 꿈과 현실의 경계에 있는 듯한 천상의 공간이 낭만적인 분위기를 고조시킨다.",
+    "color_palette_main": [
+      "#4682B4",
+      "#FFB6C1",
+      "#191970"
+    ],
+    "color_palette_accent": [
+      "#E6E6FA",
+      "#C0C0C0",
+      "#4D3B2A"
+    ],
+    "symbol_summary_keywords": [
+      "관계",
+      "선택",
+      "조화",
+      "사랑",
+      "결합"
+    ],
+    "cat_quote": "“일 년의 기다림도, 그대와 함께하는 이 순간을 위한 것이라면.”"
+  },
+  "content": {
+    "story": {
+      "korean": "일 년에 단 하루, 칠석의 밤이 되면 까마귀와 까치들은 은하수를 가로지르는 다리를 놓는다. 견우와 직녀 고양이는 이 기적의 다리 위에서 마침내 재회하여 서로의 사랑을 확인한다. 이들의 만남은 단순한 사랑을 넘어, 서로 다른 두 존재가 만나 이루는 완벽한 조화와 운명적인 선택을 상징한다. 이 카드는 당신의 마음이 이끄는 중요한 선택과 관계의 시작을 이야기한다.",
+      "english": "Once a year, on the night of the seventh day of the seventh month, magpies and crows form a bridge across the Milky Way. On this bridge of miracles, the lover cats, Gyeonwu and Jiknyeo, finally reunite and affirm their love. Their meeting symbolizes more than just romance; it represents the perfect harmony and fateful choice made when two different beings unite. This card speaks of an important choice of the heart and the beginning of a significant relationship."
+    },
+    "keywords": [
+      "사랑의 시작",
+      "깊은 유대감",
+      "중요한 선택",
+      "관계의 조화",
+      "파트너십",
+      "마음의 이끌림"
+    ],
+    "core_message": {
+      "upright": "“당신의 마음이 이끄는 선택을 하라. 진정한 사랑과 조화로운 관계가 기다린다.”",
+      "reversed": "“관계에 불화가 있거나, 잘못된 선택을 할 수 있다. 마음의 결정을 재고하라.”"
+    }
+  },
+  "symbols": {
+    "title": "상징 해설",
+    "items": [
+      {
+        "name": "오작교(烏鵲橋)",
+        "meaning": "떨어져 있는 두 존재를 연결하는 기적적인 만남 또는 소통의 수단을 상징한다. 관계를 이어주는 중요한 계기나 노력을 의미한다."
+      },
+      {
+        "name": "두 마리 고양이 (음양의 조화)",
+        "meaning": "서로 다른 특성을 가진 두 존재가 만나 완벽한 하나를 이루는 것을 상징한다. 사랑, 파트너십, 그리고 내면의 남성성과 여성성의 조화를 나타낸다."
+      },
+      {
+        "name": "은하수",
+        "meaning": "두 사람을 갈라놓는 장애물이나 거리감을 상징하지만, 동시에 그들의 사랑이 얼마나 광대하고 천상적인지를 보여주는 배경이 된다."
+      },
+      {
+        "name": "반짝이는 별들",
+        "meaning": "두 사람의 만남을 축복하는 우주의 에너지와 희망, 그리고 운명적인 이끌림을 상징한다."
+      }
+    ]
+  },
+  "a11y": {
+    "alt_text_kr": "흰 고양이와 회색 고양이가 밤하늘 은하수 위 오작교에서 서로 마주 보고 있다. 카드 상단엔 6, 하단엔 ‘LES AMOUREUX’가 적혀 있다.",
+    "alt_text_en": "A white cat and a grey cat face each other on a magpie bridge over the Milky Way at night. The card shows '6' at the top and 'LES AMOUREUX' at the bottom."
+  },
+  "prompts": {
+    "illustration_prompt_en": "High resolution, 1024px minimum width. Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, depicting 'Les Amoureux' (The Lovers), is designed in the style of a romantic and celestial antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration features two lover cats meeting in the center of an Ojakgyo, a bridge made of living magpies and crows. One cat is an elegant white Turkish Angora, the other a sleek grey Russian Blue, symbolizing yin and yang. They gaze lovingly into each other's eyes, gently touching paws. The bridge spans across a beautiful, shimmering Milky Way that fills the starry night sky. The overall atmosphere is deeply romantic, fateful, and harmonious. The color palette is a celestial mix of deep indigo (#191970), soft pinks (#FFB6C1), and silvery starlight (#E6E6FA). -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, an ornate cartouche contains the number '6'. At the bottom, a matching cartouche frames the French title 'LES AMOUREUX'. The corners of the main border feature delicate scrollwork. --ar 7:12 --v 6.0 --style raw --quality 1",
+    "title": "연인을 위한 질문",
+    "items": [
+      {
+        "id": "on_choice",
+        "text": "지금 당신의 마음을 가장 끄는 선택은 무엇인가요? 당신의 가치관과 조화를 이루는 길은 어느 쪽인가요?"
+      },
+      {
+        "id": "on_relationship",
+        "text": "당신의 관계를 더욱 조화롭게 만들기 위해 무엇이 필요한가요? 어떻게 하면 더 깊은 연결을 이룰 수 있을까요?"
+      }
+    ]
+  },
+  "assets_slots": {
+    "illustration": "major6_amoureux_v1_ornate_final.png",
+    "symbol_map": null
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": "major20_le_jugement",
+  "meta": {
+    "deck_id": "chat_coreen_tarot_v1",
+    "card_id": "major20",
+    "variant_id": "classic_ornate_final",
+    "titles": {
+      "top_main": "20",
+      "bottom_main": "LE JUGEMENT",
+      "native": "부름의 고양이",
+      "en": "The Calling Cat",
+      "original_tarot": "JUDGEMENT"
+    }
+  },
+  "frame_v3": {
+    "canvas_size": [ 1400, 2400 ],
+    "padding_sides": 56,
+    "top_band_height": 192,
+    "bottom_band_height": 288,
+    "illustration_y_range": [ 248, 2068 ],
+    "safe_inset": 24,
+    "colors": {
+      "paper": "#FBF5E8",
+      "band": "#F3EADA",
+      "ink": "#4D3B2A"
+    },
+    "title_mode": "ornate_cartouche",
+    "font_scaling_single": 0.41
+  },
+  "structure": {
+    "number": 20,
+    "roman_numeral": "XX",
+    "arcana": "Major",
+    "suit": null,
+    "cat_breed": "터키시 앙고라 (백색 - Turkish Angora)",
+    "hanbok_style": "천상의 존재를 상징하는 흰색 날개옷과 부활하는 영혼들의 소복",
+    "color_theme_keywords": [
+      "백금색(부활, 구원)",
+      "하늘색(각성, 부름)",
+      "회색(과거, 무덤)",
+      "적색(생명력)"
+    ],
+    "cat_personality": "과거의 모든 것을 용서하고, 더 높은 차원의 부름에 응답하여 새로운 존재로 다시 태어나는 영혼. 과거의 실수를 모두 털어버리고 새로운 사명을 향한 환희에 차 있다.",
+    "pose_description": "구름 위, 천상의 고양이가 한국 전통 나팔인 '나각(螺角)'을 불고 있다. 그 부름에 응답하여, 아래 땅의 오래된 무덤(고분)들에서 여러 고양이들이 잠에서 깨어난 듯 두 팔을 벌리고 하늘을 우러러보고 있다. 그들의 표정은 경이로움과 환희로 가득 차 있다.",
+    "outfit_description": "하늘의 고양이는 천사처럼 순수한 흰색 날개옷을 입고 있다. 땅에서 일어나는 고양이들은 과거의 삶을 상징하는 소복을 입고 있지만, 곧 새로운 옷을 입게 될 것이다.",
+    "prop_description": "천상의 고양이가 부는 나각은 '최후의 심판' 나팔 소리를 상징하며, 잠든 영혼을 깨우는 우주적인 부름이다. 나각에 달린 붉은 깃발에는 '완성'이나 '통합'을 상징하는 태극 문양이 그려져 있을 수 있다. 고양이들이 일어나는 무덤은 과거의 삶, 낡은 자아, 혹은 우리를 속박했던 한계를 상징한다.",
+    "background_scene": "과거의 땅과 새로운 하늘이 명확하게 구분되는 극적인 풍경. 아래는 회색빛의 고요한 무덤들이, 위는 빛으로 가득 찬 하늘이 펼쳐져, 차원의 이동과 영적인 각성을 보여준다.",
+    "color_palette_main": [
+      "#E6E6FA",
+      "#87CEEB",
+      "#808080"
+    ],
+    "color_palette_accent": [
+      "#DC143C",
+      "#FFD700",
+      "#4D3B2A"
+    ],
+    "symbol_summary_keywords": [
+      "부활",
+      "각성",
+      "심판",
+      "용서",
+      "새로운 사명"
+    ],
+    "cat_quote": "“과거는 잠들고, 새로운 내가 깨어난다.”"
+  },
+  "content": {
+    "story": {
+      "korean": "하늘에서 장엄한 나각 소리가 울려 퍼지자, 땅의 모든 무덤이 열리고 잠들었던 고양이들이 깨어난다. 이것은 죄를 묻는 두려운 심판이 아니라, 과거의 모든 것을 용서하고 새로운 차원으로 나아가라는 구원의 부름이다. 그들은 낡은 자아를 무덤에 남겨두고, 빛을 향해 기쁘게 두 팔을 벌린다. 이 카드는 당신의 삶에 중대한 전환점이 왔으며, 과거를 평가하고 새로운 사명으로 다시 태어날 시간임을 알린다.",
+      "english": "As the majestic sound of the horn echoes from the heavens, all the tombs on earth open, and the sleeping cats awaken. This is not a fearsome judgment of sins, but a call of salvation to forgive all of the past and ascend to a new dimension. They leave their old selves in the tombs and joyfully open their arms to the light. This card announces that a major turning point has arrived in your life, and it is time to evaluate your past and be reborn with a new calling."
+    },
+    "keywords": [
+      "인생의 전환점",
+      "과거에 대한 평가",
+      "용서",
+      "부활",
+      "새로운 각성",
+      "소명(Calling)"
+    ],
+    "core_message": {
+      "upright": "“과거의 자신을 용서하고, 더 높은 차원의 부름에 응답하라. 당신은 다시 태어날 것이다.”",
+      "reversed": "“과거의 실수에 얽매여 있거나, 중요한 결정을 회피하고 있다. 자기 비판을 멈추고 자신을 용서하라.”"
+    }
+  },
+  "symbols": {
+    "title": "상징 해설",
+    "items": [
+      {
+        "name": "나각(螺角) 소리",
+        "meaning": "잠들어 있던 영혼을 깨우고, 새로운 차원으로 나아가도록 이끄는 신성하고 우주적인 부름(Calling)을 상징한다."
+      },
+      {
+        "name": "열리는 무덤(고분)",
+        "meaning": "우리를 얽매고 있던 과거의 삶, 낡은 신념, 혹은 한계를 상징한다. 여기서 일어나는 것은 과거로부터의 완전한 해방을 의미한다."
+      },
+      {
+        "name": "하늘을 우러러보는 고양이들",
+        "meaning": "과거를 심판하고 비난하는 것이 아니라, 더 높은 진실을 받아들이고 새로운 삶의 목적을 향해 나아가는 영적인 각성의 상태를 나타낸다."
+      },
+      {
+        "name": "천상의 고양이",
+        "meaning": "심판자라기보다는, 새로운 차원으로의 전환을 돕는 신성한 안내자 혹은 우리 자신의 더 높은 자아(Higher Self)를 상징한다."
+      }
+    ]
+  },
+  "a11y": {
+    "alt_text_kr": "구름 위에서 천사 같은 흰 고양이가 나각을 불자, 아래 땅의 무덤들에서 고양이들이 깨어나 팔을 벌리고 있다. 카드 상단엔 20, 하단엔 ‘LE JUGEMENT’이 적혀 있다.",
+    "alt_text_en": "As an angelic white cat blows a conch horn from the clouds, cats below awaken from their tombs with open arms. The card shows '20' at the top and 'LE JUGEMENT' at the bottom."
+  },
+  "prompts": {
+    "illustration_prompt_en": "High resolution, 1024px minimum width. Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, depicting 'Le Jugement' (Judgement), is designed in the style of a divine and epic antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration depicts a dramatic scene of resurrection. Above, in a sky filled with golden light and clouds, a celestial, angelic Turkish Angora cat blows a large Korean traditional conch shell horn (Nagak). Below, on the grey earth, several ancient Korean tombs (tumuli) have opened, and from them, other cats are rising with their arms outstretched towards the sky, their faces filled with awe and joy. This is not a scene of fear, but of joyful rebirth and absolution. The overall atmosphere is one of absolution, awakening, and rebirth. -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, an ornate cartouche contains the number '20'. At the bottom, a matching cartouche frames the French title 'LE JUGEMENT'. The corners of the main border feature delicate scrollwork. --ar 7:12 --v 6.0 --style raw --quality 1",
+    "title": "부름을 위한 질문",
+    "items": [
+      {
+        "id": "on_awakening",
+        "text": "당신의 삶에서 어떤 '부름'을 듣고 있나요? 당신의 과거를 어떻게 평가하고, 새로운 당신으로 다시 태어날 수 있을까요?"
+      },
+      {
+        "id": "on_forgiveness",
+        "text": "당신이 진정으로 용서해야 할 과거의 자신이나 타인은 누구인가요? 그 용서를 통해 어떤 자유를 얻을 수 있나요?"
+      }
+    ]
+  },
+  "assets_slots": {
+    "illustration": "major20_le_jugement_v1_ornate_final.png",
+    "symbol_map": null
+  }
+}

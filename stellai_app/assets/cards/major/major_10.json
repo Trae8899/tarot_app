@@ -1,0 +1,129 @@
+{
+    "id": "major10_la_roue_de_fortune",
+    "meta": {
+      "deck_id": "chat_coreen_tarot_v1",
+      "card_id": "major10",
+      "variant_id": "classic_ornate_final",
+      "titles": {
+        "top_main": "10",
+        "bottom_main": "LA ROUE DE FORTUNE",
+        "native": "운명의 맷돌",
+        "en": "The Millstone of Fate",
+        "original_tarot": "WHEEL OF FORTUNE"
+      }
+    },
+    "frame_v3": {
+      "canvas_size": [ 1400, 2400 ],
+      "padding_sides": 56,
+      "top_band_height": 192,
+      "bottom_band_height": 288,
+      "illustration_y_range": [ 248, 2068 ],
+      "safe_inset": 24,
+      "colors": {
+        "paper": "#FBF5E8",
+        "band": "#F3EADA",
+        "ink": "#4D3B2A"
+      },
+      "title_mode": "ornate_cartouche",
+      "font_scaling_single": 0.41
+    },
+    "structure": {
+      "number": 10,
+      "roman_numeral": "X",
+      "arcana": "Major",
+      "suit": null,
+      "cat_breed": "카오마니 (Khaomanee - 오드아이)",
+      "hanbok_style": "우주의 순리를 관장하는 천상계 존재의 신비로운 옷",
+      "color_theme_keywords": [
+        "사계절색(순환, 변화)",
+        "금색(운명)",
+        "자색(신비, 우주)",
+        "백색(시작과 끝)"
+      ],
+      "cat_personality": "운명의 흐름 위에서 모든 것을 초월한 듯 고요하게 관조하는 현자. 두 가지 색의 눈으로 세상의 흥망성쇠를 담담하게 지켜본다. 변화에 저항하지 않고 순응하는 지혜를 가졌다.",
+      "pose_description": "거대한 사계절의 맷돌(수레바퀴) 꼭대기에 부동의 자세로 고요하게 앉아 있다. 수레바퀴의 측면에는 다른 고양이들이 오르거나 내려가며 운명의 부침을 겪고 있다.",
+      "outfit_description": "밤하늘의 성운을 담은 듯한 신비로운 자색 비단 옷을 입고 있으며, 옷에는 별자리가 수놓아져 있다. 그의 오드아이는 운명의 양면성을 상징한다.",
+      "prop_description": "중심의 거대한 맷돌은 사계절로 나뉘어 있다. 봄에는 새싹과 함께 위로 올라가는 아기 고양이, 여름에는 정상에서 즐거워하는 고양이, 가을에는 낙엽과 함께 내려오는 고양이, 겨울에는 바닥에서 다시 올라갈 때를 기다리는 고양이가 그려져 삶의 순환을 보여준다. 카드의 네 귀퉁이에는 구름 위에 앉은 사천왕(四天王) 고양이들이 맷돌의 회전을 묵묵히 지켜보고 있다.",
+      "background_scene": "지상이 아닌, 구름과 성운이 떠다니는 신비로운 우주 공간. 개인의 의지를 넘어선 거대한 운명의 흐름 속에 있음을 암시한다.",
+      "color_palette_main": [
+        "#483D8B",
+        "#FFD700",
+        "#2E8B57"
+      ],
+      "color_palette_accent": [
+        "#CD5C5C",
+        "#ADD8E6",
+        "#4D3B2A"
+      ],
+      "symbol_summary_keywords": [
+        "운명",
+        "변화",
+        "순환",
+        "전환점",
+        "행운"
+      ],
+      "cat_quote": "“오르막이 있으면, 내리막도 있는 법. 모든 것은 돌고 도느니.”"
+    },
+    "content": {
+      "story": {
+        "korean": "시간과 공간을 초월한 곳에서, 거대한 운명의 맷돌이 끊임없이 돌아간다. 봄의 기쁨에 올라타는 고양이가 있는가 하면, 가을의 쓸쓸함과 함께 내려오는 고양이도 있다. 꼭대기에 앉은 오드아이 고양이는 이 모든 순환이 자연스러운 우주의 법칙임을 알고 담담히 지켜볼 뿐이다. 이 카드는 당신의 의지와 상관없이 새로운 국면이 시작되었음을, 거대한 운명의 흐름에 몸을 맡겨야 할 때임을 알린다.",
+        "english": "In a place beyond time and space, the great Millstone of Fate turns ceaselessly. There are cats who rise with the joy of spring, and those who descend with the melancholy of autumn. The odd-eyed cat sitting at the top simply watches, knowing that all this circulation is the natural law of the universe. This card announces that a new phase has begun, regardless of your will, and it is time to surrender to the great flow of destiny."
+      },
+      "keywords": [
+        "운명의 전환점",
+        "예상치 못한 변화",
+        "행운",
+        "업보(카르마)",
+        "인생의 순환",
+        "상황의 진전"
+      ],
+      "core_message": {
+        "upright": "“운명의 바퀴가 당신에게 유리하게 돌기 시작했다. 변화의 흐름에 올라타라.”",
+        "reversed": "“불운이 따르거나, 변화에 저항하고 있다. 지금은 통제할 수 없는 흐름이니, 때를 기다려라.”"
+      }
+  
+    },
+    "symbols": {
+      "title": "상징 해설",
+      "items": [
+        {
+          "name": "사계절의 맷돌",
+          "meaning": "인생의 흥망성쇠, 행운과 불운, 시작과 끝이 끊임없이 반복되는 운명의 순환 그 자체를 상징한다."
+        },
+        {
+          "name": "꼭대기의 오드아이 고양이",
+          "meaning": "변화의 중심에 있으면서도 흔들리지 않는 초연한 지혜와 통찰력을 상징한다. 운명의 양면성을 모두 이해하는 존재이다."
+        },
+        {
+          "name": "맷돌 위의 고양이들",
+          "meaning": "운명의 흐름에 따라 기쁨과 슬픔을 겪는 우리 자신의 모습을 나타낸다. 현재 자신의 위치가 영원하지 않음을 보여준다."
+        },
+        {
+          "name": "네 귀퉁이의 사천왕 고양이",
+          "meaning": "우주의 네 방향을 지키는 수호신. 운명의 순환이 안정적인 우주 법칙 안에서 이루어지고 있음을 상징하는 불변의 존재들이다."
+        }
+      ]
+    },
+    "a11y": {
+      "alt_text_kr": "우주 공간에 떠 있는 거대한 사계절 맷돌 꼭대기에 오드아이 고양이가 앉아있다. 네 귀퉁이에는 사천왕 고양이들이 있다. 카드 상단엔 10, 하단엔 ‘LA ROUE DE FORTUNE’이 적혀 있다.",
+      "alt_text_en": "An odd-eyed cat sits atop a giant four-seasons millstone floating in space, with four guardian cats in the corners. The card shows '10' at the top and 'LA ROUE DE FORTUNE' at the bottom."
+    },
+    "prompts": {
+      "illustration_prompt_en": "High resolution, 1024px minimum width. Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, depicting 'La Roue de Fortune' (The Wheel of Fortune), is designed in the style of a cosmic and cyclical antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration is a large, mystical Korean grinding stone (Maetdol), serving as the Wheel of Fortune, floating in a cosmic, cloudy space. The wheel is divided into four segments, each illustrating a season: a happy kitten rising on the spring side, a joyful cat on the summer top, a disgruntled cat descending on the autumn side, and a sleeping cat on the winter bottom. Perched serenely on top of the wheel is an all-white Khaomanee cat with odd-eyes (one blue, one yellow), representing a calm observer of fate. In the four corners of the card, stylized, cat-like versions of the Korean Four Heavenly Kings (Sachunwang) watch over the scene from clouds. The overall atmosphere is one of cosmic change, destiny, and cycles. -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, an ornate cartouche contains the number '10'. At the bottom, a matching cartouche frames the French title 'LA ROUE DE FORTUNE'. The corners of the main border feature delicate scrollwork. --ar 7:12 --v 6.0 --style raw --quality 1",
+      "title": "운명을 위한 질문",
+      "items": [
+        {
+          "id": "on_change",
+          "text": "당신 삶의 어떤 국면이 끝나고, 새롭게 시작되고 있나요? 이 변화의 흐름을 어떻게 받아들일 수 있을까요?"
+        },
+        {
+          "id": "on_perspective",
+          "text": "지금 당신이 운명의 수레바퀴 어디쯤에 위치해 있다고 느끼나요? 현재의 위치가 영원하지 않음을 안다면, 무엇을 다르게 행동할 수 있을까요?"
+        }
+      ]
+    },
+    "assets_slots": {
+      "illustration": "major10_roue_de_fortune_v1_ornate_final.png",
+      "symbol_map": null
+    }
+  }
