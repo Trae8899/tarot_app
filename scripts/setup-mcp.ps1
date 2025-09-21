@@ -13,10 +13,20 @@ param(
 
 Set-StrictMode -Version Latest
 $ErrorActionPreference = 'Stop'
+$script:Summary = @()
 
-$IsWindows = $PSVersionTable.OS -match "Windows" -or $env:OS -eq 'Windows_NT'
-$IsMac = $PSVersionTable.OS -match "Darwin"
-$IsLinux = -not ($IsWindows -or $IsMac)
+try {
+    $runtimeInfo = [System.Runtime.InteropServices.RuntimeInformation]
+    $osPlatform = [System.Runtime.InteropServices.OSPlatform]
+    $IsWindows = $runtimeInfo::IsOSPlatform($osPlatform::Windows)
+    $IsMac = $runtimeInfo::IsOSPlatform($osPlatform::OSX)
+    $IsLinux = $runtimeInfo::IsOSPlatform($osPlatform::Linux)
+} catch {
+    $platform = [System.Environment]::OSVersion.Platform
+    $IsWindows = ($platform -eq [System.PlatformID]::Win32NT)
+    $IsMac = ($platform -eq [System.PlatformID]::MacOSX)
+    $IsLinux = -not ($IsWindows -or $IsMac)
+}
 
 function Write-Section {
     param([string]$Message)
@@ -192,7 +202,6 @@ function Check-AppleTransporter {
     Add-Summary "Apple Transporter: 지원되지 않는 OS"
 }
 
-$Summary = @()
 try {
     if (-not (Confirm-Continue)) { exit 0 }
     Install-FirebaseTools
@@ -205,9 +214,9 @@ try {
     Write-Host "권한 또는 네트워크 문제가 있다면 관리자 PowerShell 또는 지원되는 환경에서 다시 실행하세요." -ForegroundColor Yellow
     exit 1
 } finally {
-    if ($Summary) {
+    if ($script:Summary -and $script:Summary.Count -gt 0) {
         Write-Host "`n요약:" -ForegroundColor Magenta
-        foreach ($item in $Summary) {
+        foreach ($item in $script:Summary) {
             Write-Host " - $item"
         }
     }

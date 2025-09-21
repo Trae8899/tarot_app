@@ -1,0 +1,2501 @@
+{
+  "cards": [
+    {
+      "id": "major_0",
+      "image": "cards/major/major_0.png",
+      "translations": {
+        "ko": {
+          "name": "바보",
+          "upright": "새로운 시작, 자발성, 믿음, 순수, 잠재력",
+          "reversed": "경솔함, 준비 부족, 방향 감각 상실",
+          "keywords": ["새출발", "모험", "낙관"]
+        },
+        "en": {
+          "name": "The Fool",
+          "upright": "New beginnings, spontaneity, faith, innocence, potential",
+          "reversed": "Recklessness, naive risk, lack of direction",
+          "keywords": ["Fresh start", "Adventure", "Optimism"]
+        },
+        "es": {
+          "name": "El Loco",
+          "upright": "Nuevos comienzos, espontaneidad, fe, inocencia, potencial",
+          "reversed": "Imprudencia, riesgo ingenuo, falta de rumbo",
+          "keywords": ["Nuevo inicio", "Aventura", "Optimismo"]
+        },
+        "ja": {
+          "name": "愚者",
+          "upright": "新たな始まり、自発性、信頼、純粋、可能性",
+          "reversed": "軽率、準備不足、方向喪失",
+          "keywords": ["新章", "冒険", "楽観"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "major_1",
+      "image": "cards/major/major_1.png",
+      "translations": {
+        "ko": {
+          "name": "마법사",
+          "upright": "의지를 담은 실현, 재치와 자원, 집중된 힘",
+          "reversed": "속임수, 방향 상실, 의지 약화",
+          "keywords": ["실현", "집중", "주도권"]
+        },
+        "en": {
+          "name": "The Magician",
+          "upright": "Manifestation, resourcefulness, power, skill, concentration",
+          "reversed": "Manipulation, poor planning, untapped talents",
+          "keywords": ["Manifest", "Focus", "Initiative"]
+        },
+        "es": {
+          "name": "El Mago",
+          "upright": "Manifestación, ingenio, poder, destreza, concentración",
+          "reversed": "Manipulación, mala planificación, talento bloqueado",
+          "keywords": ["Manifestar", "Enfoque", "Voluntad"]
+        },
+        "ja": {
+          "name": "魔術師",
+          "upright": "具現化、機転、力、技量、集中",
+          "reversed": "操作、計画不足、力の滞り",
+          "keywords": ["具現", "集中", "主導"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "major_2",
+      "image": "cards/major/major_2.png",
+      "translations": {
+        "ko": {
+          "name": "여교황",
+          "upright": "깊은 직관, 고요한 지혜, 보이지 않는 인도",
+          "reversed": "비밀주의, 직관 단절, 내면 혼란",
+          "keywords": ["직관", "비의", "침잠"]
+        },
+        "en": {
+          "name": "The High Priestess",
+          "upright": "Intuition, unconscious, inner voice, divine feminine",
+          "reversed": "Secrets, withdrawal, blocked intuition",
+          "keywords": ["Intuition", "Mystery", "Silence"]
+        },
+        "es": {
+          "name": "La Sacerdotisa",
+          "upright": "Intuición, inconsciente, voz interior, lo sagrado femenino",
+          "reversed": "Secretismo, aislamiento, intuición bloqueada",
+          "keywords": ["Intuición", "Misterio", "Silencio"]
+        },
+        "ja": {
+          "name": "女教皇",
+          "upright": "直感、無意識、内なる声、聖性",
+          "reversed": "秘匿、孤立、直感の遮断",
+          "keywords": ["直感", "秘儀", "静寂"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "major_3",
+      "image": "cards/major/major_3.png",
+      "translations": {
+        "ko": {
+          "name": "여황제",
+          "upright": "풍요와 돌봄, 창조적 결실, 생명력",
+          "reversed": "과보호, 정체, 자기 소진",
+          "keywords": ["풍요", "양육", "창조"]
+        },
+        "en": {
+          "name": "The Empress",
+          "upright": "Abundance, nurturing, fertility, feminine energy, beauty",
+          "reversed": "Dependence, emptiness, creative block",
+          "keywords": ["Abundance", "Nurture", "Creation"]
+        },
+        "es": {
+          "name": "La Emperatriz",
+          "upright": "Abundancia, cuidado, fertilidad, energía femenina, belleza",
+          "reversed": "Dependencia, vacío, bloqueo creativo",
+          "keywords": ["Abundancia", "Cuidado", "Creación"]
+        },
+        "ja": {
+          "name": "女帝",
+          "upright": "豊かさ、慈しみ、多産、女性性、美",
+          "reversed": "依存、空虚、創造の停滞",
+          "keywords": ["豊穣", "育み", "創造"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "major_4",
+      "image": "cards/major/major_4.png",
+      "translations": {
+        "ko": {
+          "name": "황제",
+          "upright": "질서와 구조, 결단과 보호, 권위의 버팀목",
+          "reversed": "경직, 지배, 불안정한 통제",
+          "keywords": ["질서", "권위", "보호"]
+        },
+        "en": {
+          "name": "The Emperor",
+          "upright": "Authority, structure, control, masculine energy",
+          "reversed": "Domination, rigidity, lack of discipline",
+          "keywords": ["Order", "Authority", "Protection"]
+        },
+        "es": {
+          "name": "El Emperador",
+          "upright": "Autoridad, estructura, control, energía masculina",
+          "reversed": "Dominio, rigidez, indisciplina",
+          "keywords": ["Orden", "Autoridad", "Protección"]
+        },
+        "ja": {
+          "name": "皇帝",
+          "upright": "権威、構造、統制、守護",
+          "reversed": "硬直、支配、統制不全",
+          "keywords": ["秩序", "権威", "守り"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "major_5",
+      "image": "cards/major/major_5.png",
+      "translations": {
+        "ko": {
+          "name": "교황",
+          "upright": "전통의 지혜, 의식과 가르침, 신뢰의 길",
+          "reversed": "형식주의, 맹종, 내면의 진리 왜곡",
+          "keywords": ["전통", "교훈", "신뢰"]
+        },
+        "en": {
+          "name": "The Hierophant",
+          "upright": "Tradition, conformity, religious beliefs, institution",
+          "reversed": "Rebellion, dogma, misguidance",
+          "keywords": ["Tradition", "Ritual", "Guidance"]
+        },
+        "es": {
+          "name": "El Hierofante",
+          "upright": "Tradición, conformidad, creencias, institución",
+          "reversed": "Rebeldía, dogma, orientación fallida",
+          "keywords": ["Tradición", "Rito", "Guía"]
+        },
+        "ja": {
+          "name": "法王",
+          "upright": "伝統、儀礼、教え、信頼",
+          "reversed": "反抗、教条、迷走",
+          "keywords": ["伝統", "教え", "導き"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "major_6",
+      "image": "cards/major/major_6.png",
+      "translations": {
+        "ko": {
+          "name": "연인",
+          "upright": "조화로운 선택, 진심의 연결, 사랑의 서약",
+          "reversed": "불일치, 유혹에 흔들림, 가치의 혼선",
+          "keywords": ["사랑", "선택", "합일"]
+        },
+        "en": {
+          "name": "The Lovers",
+          "upright": "Love, harmony, relationships, choices, alignment",
+          "reversed": "Imbalance, misalignment, temptation",
+          "keywords": ["Union", "Choice", "Harmony"]
+        },
+        "es": {
+          "name": "Los Enamorados",
+          "upright": "Amor, armonía, vínculos, decisiones, alineación",
+          "reversed": "Desequilibrio, desalineación, tentación",
+          "keywords": ["Unión", "Elección", "Armonía"]
+        },
+        "ja": {
+          "name": "恋人",
+          "upright": "愛、調和、関係、選択、一致",
+          "reversed": "不調和、価値のずれ、誘惑",
+          "keywords": ["結び", "選択", "調和"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "major_7",
+      "image": "cards/major/major_7.png",
+      "translations": {
+        "ko": {
+          "name": "전차",
+          "upright": "의지의 전진, 감정과 이성의 조율, 승리의 추진력",
+          "reversed": "제어 상실, 분산된 에너지, 방향 혼선",
+          "keywords": ["전진", "승리", "통제"]
+        },
+        "en": {
+          "name": "The Chariot",
+          "upright": "Direction, control, willpower, victory, determination",
+          "reversed": "Lack of control, aggression, confusion",
+          "keywords": ["Drive", "Victory", "Discipline"]
+        },
+        "es": {
+          "name": "El Carro",
+          "upright": "Dirección, control, voluntad, victoria, determinación",
+          "reversed": "Descontrol, agresión, confusión",
+          "keywords": ["Impulso", "Victoria", "Disciplina"]
+        },
+        "ja": {
+          "name": "戦車",
+          "upright": "方向性、統御、意志力、勝利、決意",
+          "reversed": "制御不能、強圧、混乱",
+          "keywords": ["前進", "勝利", "統制"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "major_8",
+      "image": "cards/major/major_8.png",
+      "translations": {
+        "ko": {
+          "name": "힘",
+          "upright": "온화한 용기, 자비의 힘, 본능의 길들이기",
+          "reversed": "의기소침, 분노의 폭주, 자기 의심",
+          "keywords": ["용기", "자비", "내면의 힘"]
+        },
+        "en": {
+          "name": "Strength",
+          "upright": "Courage, patience, compassion, inner strength",
+          "reversed": "Self-doubt, weakness, raw emotion",
+          "keywords": ["Courage", "Compassion", "Fortitude"]
+        },
+        "es": {
+          "name": "La Fuerza",
+          "upright": "Valor, paciencia, compasión, fuerza interior",
+          "reversed": "Duda de sí, debilidad, emociones crudas",
+          "keywords": ["Valor", "Compasión", "Fortaleza"]
+        },
+        "ja": {
+          "name": "力",
+          "upright": "勇気、忍耐、慈愛、内なる力",
+          "reversed": "自己不信、弱さ、感情の暴走",
+          "keywords": ["勇気", "慈しみ", "剛毅"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "major_9",
+      "image": "cards/major/major_9.png",
+      "translations": {
+        "ko": {
+          "name": "은둔자",
+          "upright": "고요한 탐구, 내면의 등불, 지혜로운 길잡이",
+          "reversed": "고립의 장기화, 회피, 자신과의 단절",
+          "keywords": ["성찰", "고독", "지혜"]
+        },
+        "en": {
+          "name": "The Hermit",
+          "upright": "Soul-searching, introspection, solitude, guidance",
+          "reversed": "Loneliness, isolation, misdirection",
+          "keywords": ["Reflection", "Solitude", "Guidance"]
+        },
+        "es": {
+          "name": "El Ermitaño",
+          "upright": "Búsqueda interior, introspección, soledad, guía",
+          "reversed": "Soledad estéril, aislamiento, desvío",
+          "keywords": ["Reflexión", "Soledad", "Guía"]
+        },
+        "ja": {
+          "name": "隠者",
+          "upright": "内省、孤高、魂の探求、導き",
+          "reversed": "孤立長期、回避、迷走",
+          "keywords": ["内省", "孤独", "導き"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "major_10",
+      "image": "cards/major/major_10.png",
+      "translations": {
+        "ko": {
+          "name": "운명의 수레바퀴",
+          "upright": "순환의 전환점, 행운의 바람, 인연의 흐름",
+          "reversed": "반복의 굴레, 타이밍 엇박자, 수동적 체념",
+          "keywords": ["전환", "순환", "운명"]
+        },
+        "en": {
+          "name": "Wheel of Fortune",
+          "upright": "Good luck, karma, life cycles, destiny, change",
+          "reversed": "Resistance to change, bad timing, setbacks",
+          "keywords": ["Turn", "Cycle", "Fate"]
+        },
+        "es": {
+          "name": "La Rueda de la Fortuna",
+          "upright": "Buena suerte, karma, ciclos, destino, cambio",
+          "reversed": "Resistencia al cambio, mal momento, reveses",
+          "keywords": ["Giro", "Ciclo", "Destino"]
+        },
+        "ja": {
+          "name": "運命の輪",
+          "upright": "幸運、因果、循環、宿命、変化",
+          "reversed": "変化拒否、時機逸脱、後退",
+          "keywords": ["転機", "循環", "宿命"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "major_11",
+      "image": "cards/major/major_11.png",
+      "translations": {
+        "ko": {
+          "name": "정의",
+          "upright": "균형 잡힌 판단, 진실의 저울, 책임의 회복",
+          "reversed": "불공정, 자기합리화, 왜곡된 판단",
+          "keywords": ["균형", "진실", "책임"]
+        },
+        "en": {
+          "name": "Justice",
+          "upright": "Justice, fairness, truth, law, balance",
+          "reversed": "Unfairness, bias, dishonesty",
+          "keywords": ["Balance", "Truth", "Accountability"]
+        },
+        "es": {
+          "name": "La Justicia",
+          "upright": "Justicia, equidad, verdad, ley, equilibrio",
+          "reversed": "Injusticia, sesgo, deshonestidad",
+          "keywords": ["Equilibrio", "Verdad", "Responsabilidad"]
+        },
+        "ja": {
+          "name": "正義",
+          "upright": "公正、真実、法、均衡",
+          "reversed": "不公正、偏り、不実",
+          "keywords": ["均衡", "真実", "責任"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "major_12",
+      "image": "cards/major/major_12.png",
+      "translations": {
+        "ko": {
+          "name": "매달린 사람",
+          "upright": "멈춤을 통한 깨달음, 시선의 전환, 집착의 해제",
+          "reversed": "무의미한 정체, 회피적 지연, 희생의 남용",
+          "keywords": ["전환", "집착 해제", "통찰"]
+        },
+        "en": {
+          "name": "The Hanged Man",
+          "upright": "Surrender, suspension, letting go, new perspectives",
+          "reversed": "Delay, indecision, stalling",
+          "keywords": ["Perspective", "Release", "Pause"]
+        },
+        "es": {
+          "name": "El Colgado",
+          "upright": "Entrega, suspensión, soltar, nueva perspectiva",
+          "reversed": "Demora, indecisión, estancamiento",
+          "keywords": ["Perspectiva", "Soltar", "Pausa"]
+        },
+        "ja": {
+          "name": "吊られた男",
+          "upright": "委ねる、停止、手放し、新視点",
+          "reversed": "遅延、優柔不断、停滞",
+          "keywords": ["視点転換", "解放", "一時停止"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "major_13",
+      "image": "cards/major/major_13.png",
+      "translations": {
+        "ko": {
+          "name": "죽음",
+          "upright": "막의 종결, 본질적 변화, 새 장의 개막",
+          "reversed": "변화 회피, 낡은 고집, 끝맺음의 지연",
+          "keywords": ["종결", "변환", "재시작"]
+        },
+        "en": {
+          "name": "Death",
+          "upright": "Endings, change, transformation, transition",
+          "reversed": "Resistance, stagnation, fear of change",
+          "keywords": ["Ending", "Transformation", "Rebirth"]
+        },
+        "es": {
+          "name": "La Muerte",
+          "upright": "Finales, cambio, transformación, transición",
+          "reversed": "Resistencia, estancamiento, temor al cambio",
+          "keywords": ["Final", "Transformación", "Renacer"]
+        },
+        "ja": {
+          "name": "死神",
+          "upright": "終焉、変化、変容、移行",
+          "reversed": "抵抗、停滞、変化への恐れ",
+          "keywords": ["終幕", "変容", "再生"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "major_14",
+      "image": "cards/major/major_14.png",
+      "translations": {
+        "ko": {
+          "name": "절제",
+          "upright": "조화로운 배합, 중용의 미덕, 흐름의 균형",
+          "reversed": "과유불급, 불균형, 조절 실패",
+          "keywords": ["조화", "중용", "균형"]
+        },
+        "en": {
+          "name": "Temperance",
+          "upright": "Balance, moderation, patience, harmony",
+          "reversed": "Excess, imbalance, discord",
+          "keywords": ["Harmony", "Blend", "Equilibrium"]
+        },
+        "es": {
+          "name": "La Templanza",
+          "upright": "Equilibrio, moderación, paciencia, armonía",
+          "reversed": "Exceso, desequilibrio, discordia",
+          "keywords": ["Armonía", "Mesura", "Equilibrio"]
+        },
+        "ja": {
+          "name": "節制",
+          "upright": "均衡、節度、調和、忍耐",
+          "reversed": "過剰、不均衡、不和",
+          "keywords": ["調和", "節度", "均衡"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "major_15",
+      "image": "cards/major/major_15.png",
+      "translations": {
+        "ko": {
+          "name": "악마",
+          "upright": "그림자와의 대면, 집착의 사슬, 욕망의 시험",
+          "reversed": "해방의 결단, 중독의 탈피, 속박 해제",
+          "keywords": ["그림자", "유혹", "해방"]
+        },
+        "en": {
+          "name": "The Devil",
+          "upright": "Shadow self, attachment, addiction, restriction",
+          "reversed": "Release, reclaiming power, detachment",
+          "keywords": ["Shadow", "Temptation", "Freedom"]
+        },
+        "es": {
+          "name": "El Diablo",
+          "upright": "Sombra, apego, adicción, restricción",
+          "reversed": "Liberación, recuperar poder, desapego",
+          "keywords": ["Sombra", "Tentación", "Liberación"]
+        },
+        "ja": {
+          "name": "悪魔",
+          "upright": "影の自分、執着、依存、束縛",
+          "reversed": "解放、主導権回復、手放し",
+          "keywords": ["影", "誘惑", "解放"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "major_16",
+      "image": "cards/major/major_16.png",
+      "translations": {
+        "ko": {
+          "name": "탑",
+          "upright": "번개 같은 진실, 낡은 구조 붕괴, 깨어남",
+          "reversed": "피할 수 없는 변화 지연, 손실 최소화, 경고",
+          "keywords": ["각성", "붕괴", "해방"]
+        },
+        "en": {
+          "name": "The Tower",
+          "upright": "Sudden change, upheaval, disaster, revelation",
+          "reversed": "Averting disaster, fear of change, warning",
+          "keywords": ["Awakening", "Upheaval", "Truth"]
+        },
+        "es": {
+          "name": "La Torre",
+          "upright": "Cambio súbito, agitación, desastre, revelación",
+          "reversed": "Evitar desastre, temor al cambio, aviso",
+          "keywords": ["Despertar", "Ruptura", "Verdad"]
+        },
+        "ja": {
+          "name": "塔",
+          "upright": "急変、激変、崩壊、啓示",
+          "reversed": "災厄回避、変化への恐れ、警鐘",
+          "keywords": ["覚醒", "崩壊", "真実"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "major_17",
+      "image": "cards/major/major_17.png",
+      "translations": {
+        "ko": {
+          "name": "별",
+          "upright": "치유의 빛, 신뢰의 회복, 목적의 재정렬",
+          "reversed": "회의, 기력 저하, 길 잃은 소망",
+          "keywords": ["희망", "치유", "신뢰"]
+        },
+        "en": {
+          "name": "The Star",
+          "upright": "Hope, faith, purpose, renewal, spirituality",
+          "reversed": "Despair, lack of faith, disconnection",
+          "keywords": ["Hope", "Healing", "Guidance"]
+        },
+        "es": {
+          "name": "La Estrella",
+          "upright": "Esperanza, fe, propósito, renovación, espiritualidad",
+          "reversed": "Desaliento, falta de fe, desconexión",
+          "keywords": ["Esperanza", "Sanación", "Guía"]
+        },
+        "ja": {
+          "name": "星",
+          "upright": "希望、信頼、目的、再生、霊性",
+          "reversed": "失望、不信、断絶",
+          "keywords": ["希望", "癒し", "導き"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "major_18",
+      "image": "cards/major/major_18.png",
+      "translations": {
+        "ko": {
+          "name": "달",
+          "upright": "무의식의 파도, 감각의 미로, 직관의 시험",
+          "reversed": "안개 걷힘, 두려움 극복, 진실 포착",
+          "keywords": ["직관", "환상", "감정"]
+        },
+        "en": {
+          "name": "The Moon",
+          "upright": "Illusion, fear, anxiety, subconscious, intuition",
+          "reversed": "Clarity, release of fear, understanding",
+          "keywords": ["Intuition", "Mystery", "Emotion"]
+        },
+        "es": {
+          "name": "La Luna",
+          "upright": "Ilusión, miedo, ansiedad, subconsciente, intuición",
+          "reversed": "Claridad, liberar el miedo, comprensión",
+          "keywords": ["Intuición", "Misterio", "Emoción"]
+        },
+        "ja": {
+          "name": "月",
+          "upright": "幻影、恐れ、不安、無意識、直感",
+          "reversed": "明晰、恐れの解放、理解",
+          "keywords": ["直感", "神秘", "情動"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "major_19",
+      "image": "cards/major/major_19.png",
+      "translations": {
+        "ko": {
+          "name": "태양",
+          "upright": "생기의 광장, 순수한 기쁨, 성공의 확신",
+          "reversed": "활력 저하, 과한 낙관, 그림자 미처리",
+          "keywords": ["기쁨", "성공", "활력"]
+        },
+        "en": {
+          "name": "The Sun",
+          "upright": "Positivity, fun, warmth, success, vitality",
+          "reversed": "Temporary gloom, inflated ego, delays",
+          "keywords": ["Joy", "Success", "Vitality"]
+        },
+        "es": {
+          "name": "El Sol",
+          "upright": "Positividad, gozo, calidez, éxito, vitalidad",
+          "reversed": "Oscurecimiento pasajero, ego inflado, demoras",
+          "keywords": ["Alegría", "Éxito", "Vitalidad"]
+        },
+        "ja": {
+          "name": "太陽",
+          "upright": "肯定、歓喜、温もり、成功、活力",
+          "reversed": "一時的な翳り、増長、遅延",
+          "keywords": ["喜び", "成功", "活力"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "major_20",
+      "image": "cards/major/major_20.png",
+      "translations": {
+        "ko": {
+          "name": "심판",
+          "upright": "부름에 응답, 재탄생의 호흡, 용서와 결산",
+          "reversed": "자책의 굴레, 결단 회피, 과거 집착",
+          "keywords": ["부름", "각성", "갱생"]
+        },
+        "en": {
+          "name": "Judgement",
+          "upright": "Rebirth, inner calling, absolution, judgement",
+          "reversed": "Self-doubt, refusal of call, stagnation",
+          "keywords": ["Calling", "Awakening", "Renewal"]
+        },
+        "es": {
+          "name": "El Juicio",
+          "upright": "Renacer, llamado interior, absolución, juicio",
+          "reversed": "Duda propia, rechazo del llamado, estancamiento",
+          "keywords": ["Llamado", "Despertar", "Renovación"]
+        },
+        "ja": {
+          "name": "審判",
+          "upright": "再生、内なる呼びかけ、赦し、審断",
+          "reversed": "自己不信、呼びかけの拒否、停滞",
+          "keywords": ["召喚", "覚醒", "再生"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "major_21",
+      "image": "cards/major/major_21.png",
+      "translations": {
+        "ko": {
+          "name": "세계",
+          "upright": "한 주기의 완성, 성취의 환희, 연결의 확장",
+          "reversed": "미완의 고리, 마무리 지연, 경계의 두려움",
+          "keywords": ["완성", "성취", "통합"]
+        },
+        "en": {
+          "name": "The World",
+          "upright": "Completion, accomplishment, fulfillment, sense of belonging",
+          "reversed": "Incomplete goals, delays, boundaries",
+          "keywords": ["Completion", "Wholeness", "Belonging"]
+        },
+        "es": {
+          "name": "El Mundo",
+          "upright": "Culminación, logro, plenitud, pertenencia",
+          "reversed": "Metas incompletas, demoras, límites",
+          "keywords": ["Culmen", "Plenitud", "Pertenencia"]
+        },
+        "ja": {
+          "name": "世界",
+          "upright": "完成、達成、充足、一体感",
+          "reversed": "未完、遅延、境界への恐れ",
+          "keywords": ["完成", "統合", "帰属"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "swords_1",
+      "image": "cards/swords/swords_1.png",
+      "translations": {
+        "ko": {
+          "name": "Ace of Swords",
+          "upright": "명료한 통찰, 새로운 발상, 지적 돌파",
+          "reversed": "흐릿한 판단, 왜곡된 정보, 시작의 지연",
+          "keywords": ["통찰", "아이디어", "분별"]
+        },
+        "en": {
+          "name": "Ace of Swords",
+          "upright": "Clarity, new idea, intellectual breakthrough",
+          "reversed": "Confusion, misinformation, delays",
+          "keywords": ["Insight", "Idea", "Discernment"]
+        },
+        "es": {
+          "name": "As de Espadas",
+          "upright": "Claridad, idea nueva, avance mental",
+          "reversed": "Confusión, desinformación, demoras",
+          "keywords": ["Claridad", "Idea", "Criterio"]
+        },
+        "ja": {
+          "name": "剣のエース",
+          "upright": "明晰、新たな発想、知的突破",
+          "reversed": "混乱、誤情報、遅延",
+          "keywords": ["洞察", "発想", "識別"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "swords_2",
+      "image": "cards/swords/swords_2.png",
+      "translations": {
+        "ko": {
+          "name": "Two of Swords",
+          "upright": "균형 잡힌 유예, 신중한 선택, 마음의 정적",
+          "reversed": "우유부단, 막힘, 진실 회피",
+          "keywords": ["유예", "선택", "정적"]
+        },
+        "en": {
+          "name": "Two of Swords",
+          "upright": "Difficult choices, stalemate, inner balance",
+          "reversed": "Indecision, blockage, avoidance",
+          "keywords": ["Pause", "Choice", "Equilibrium"]
+        },
+        "es": {
+          "name": "Dos de Espadas",
+          "upright": "Decisión difícil, estancamiento, equilibrio interno",
+          "reversed": "Indecisión, bloqueo, evasión",
+          "keywords": ["Pausa", "Elección", "Equilibrio"]
+        },
+        "ja": {
+          "name": "剣の2",
+          "upright": "難しい選択、膠着、内なる均衡",
+          "reversed": "優柔不断、滞り、回避",
+          "keywords": ["静止", "選択", "均衡"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "swords_3",
+      "image": "cards/swords/swords_3.png",
+      "translations": {
+        "ko": {
+          "name": "Three of Swords",
+          "upright": "가슴의 상처, 쓰린 진실, 슬픔의 관통",
+          "reversed": "치유의 시작, 감정 정화, 놓아보내기",
+          "keywords": ["상처", "슬픔", "정화"]
+        },
+        "en": {
+          "name": "Three of Swords",
+          "upright": "Heartbreak, sorrow, grief, rejection",
+          "reversed": "Healing, emotional release, forgiveness",
+          "keywords": ["Pain", "Sorrow", "Release"]
+        },
+        "es": {
+          "name": "Tres de Espadas",
+          "upright": "Corazón roto, dolor, duelo, rechazo",
+          "reversed": "Sanación, catarsis emocional, liberación",
+          "keywords": ["Dolor", "Duelo", "Sanación"]
+        },
+        "ja": {
+          "name": "剣の3",
+          "upright": "心痛、悲哀、嘆き、拒絶",
+          "reversed": "癒やしの始まり、感情の浄化、手放し",
+          "keywords": ["傷心", "悲しみ", "浄化"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "swords_4",
+      "image": "cards/swords/swords_4.png",
+      "translations": {
+        "ko": {
+          "name": "Four of Swords",
+          "upright": "의도적 휴식, 마음의 안식, 회복 준비",
+          "reversed": "과로, 멈춤 거부, 회복 지연",
+          "keywords": ["휴식", "회복", "안식"]
+        },
+        "en": {
+          "name": "Four of Swords",
+          "upright": "Rest, contemplation, recuperation, retreat",
+          "reversed": "Burnout, restlessness, delayed recovery",
+          "keywords": ["Rest", "Recovery", "Stillness"]
+        },
+        "es": {
+          "name": "Cuatro de Espadas",
+          "upright": "Descanso, contemplación, recuperación, retiro",
+          "reversed": "Agotamiento, inquietud, demora en sanar",
+          "keywords": ["Descanso", "Recuperación", "Pausa"]
+        },
+        "ja": {
+          "name": "剣の4",
+          "upright": "休息、沈思、回復、静養",
+          "reversed": "過労、安らげない、回復の遅れ",
+          "keywords": ["休息", "回復", "静けさ"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "swords_5",
+      "image": "cards/swords/swords_5.png",
+      "translations": {
+        "ko": {
+          "name": "Five of Swords",
+          "upright": "빈 승리, 긴장 고조, 관계의 마찰",
+          "reversed": "수습, 양보, 갈등 해소",
+          "keywords": ["갈등", "긴장", "수습"]
+        },
+        "en": {
+          "name": "Five of Swords",
+          "upright": "Conflict, tension, dispute, hollow victory",
+          "reversed": "Reconciliation, compromise, resolution",
+          "keywords": ["Conflict", "Tension", "Resolution"]
+        },
+        "es": {
+          "name": "Cinco de Espadas",
+          "upright": "Conflicto, tensión, disputa, victoria vacía",
+          "reversed": "Reconciliación, tregua, resolución",
+          "keywords": ["Conflicto", "Tensión", "Resolución"]
+        },
+        "ja": {
+          "name": "剣の5",
+          "upright": "葛藤、緊張、争い、空しい勝利",
+          "reversed": "和解、譲歩、収束",
+          "keywords": ["葛藤", "緊張", "和解"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "swords_6",
+      "image": "cards/swords/swords_6.png",
+      "translations": {
+        "ko": {
+          "name": "Six of Swords",
+          "upright": "조용한 이동, 과거를 뒤로, 완만한 전환",
+          "reversed": "미련, 발걸음 지체, 떠남의 두려움",
+          "keywords": ["이동", "전환", "이별"]
+        },
+        "en": {
+          "name": "Six of Swords",
+          "upright": "Transition, moving forward, leaving behind",
+          "reversed": "Resistance, delays, emotional baggage",
+          "keywords": ["Transition", "Passage", "Relief"]
+        },
+        "es": {
+          "name": "Seis de Espadas",
+          "upright": "Transición, avanzar, dejar atrás",
+          "reversed": "Apego, bloqueos, miedo a partir",
+          "keywords": ["Transición", "Viaje", "Desapego"]
+        },
+        "ja": {
+          "name": "剣の6",
+          "upright": "移行、前進、過去を後に",
+          "reversed": "未練、足踏み、旅立ちの恐れ",
+          "keywords": ["移行", "前進", "離別"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "swords_7",
+      "image": "cards/swords/swords_7.png",
+      "translations": {
+        "ko": {
+          "name": "Seven of Swords",
+          "upright": "은밀한 전술, 기민한 판단, 독자적 행동",
+          "reversed": "자기기만, 들통, 전략 재고",
+          "keywords": ["전술", "기민", "성찰"]
+        },
+        "en": {
+          "name": "Seven of Swords",
+          "upright": "Deception, trickery, tactics and strategy",
+          "reversed": "Self-deceit, exposure, rethink",
+          "keywords": ["Strategy", "Cunning", "Stealth"]
+        },
+        "es": {
+          "name": "Siete de Espadas",
+          "upright": "Engaño, astucia, táctica y estrategia",
+          "reversed": "Autoengaño, exposición, revisar plan",
+          "keywords": ["Estrategia", "Astucia", "Sigilo"]
+        },
+        "ja": {
+          "name": "剣の7",
+          "upright": "欺き、策略、戦術と戦略",
+          "reversed": "自己欺瞞、露見、再考",
+          "keywords": ["策略", "機敏", "再考"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "swords_8",
+      "image": "cards/swords/swords_8.png",
+      "translations": {
+        "ko": {
+          "name": "Eight of Swords",
+          "upright": "스스로 만든 한계, 두려움의 굴레, 시야 제한",
+          "reversed": "해방의 실마리, 인식 전환, 묶인 매듭 풀기",
+          "keywords": ["제한", "두려움", "해방"]
+        },
+        "en": {
+          "name": "Eight of Swords",
+          "upright": "Isolation, self-imposed restriction, imprisonment",
+          "reversed": "Release, new perspective, clarity",
+          "keywords": ["Restriction", "Fear", "Freedom"]
+        },
+        "es": {
+          "name": "Ocho de Espadas",
+          "upright": "Aislamiento, restricción autoimpuesta, prisión",
+          "reversed": "Liberación, nuevo enfoque, claridad",
+          "keywords": ["Límite", "Miedo", "Liberación"]
+        },
+        "ja": {
+          "name": "剣の8",
+          "upright": "孤立、自己制限、拘束",
+          "reversed": "解放、認識転換、明晰",
+          "keywords": ["制限", "恐れ", "解放"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "swords_9",
+      "image": "cards/swords/swords_9.png",
+      "translations": {
+        "ko": {
+          "name": "Nine of Swords",
+          "upright": "한밤의 불안, 죄책의 그림자, 과잉 걱정",
+          "reversed": "완화, 마음 돌봄, 도움 요청",
+          "keywords": ["불안", "죄책", "완화"]
+        },
+        "en": {
+          "name": "Nine of Swords",
+          "upright": "Anxiety, worry, fear, guilt, depression",
+          "reversed": "Relief, support, self-care",
+          "keywords": ["Anxiety", "Guilt", "Relief"]
+        },
+        "es": {
+          "name": "Nueve de Espadas",
+          "upright": "Ansiedad, preocupación, miedo, culpa, depresión",
+          "reversed": "Alivio, apoyo, cuidado de sí",
+          "keywords": ["Ansiedad", "Culpa", "Alivio"]
+        },
+        "ja": {
+          "name": "剣の9",
+          "upright": "不安、心配、恐れ、罪悪感、抑うつ",
+          "reversed": "軽減、支え、自己配慮",
+          "keywords": ["不安", "罪責", "緩和"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "swords_10",
+      "image": "cards/swords/swords_10.png",
+      "translations": {
+        "ko": {
+          "name": "Ten of Swords",
+          "upright": "막의 종결, 배신의 상흔, 바닥 후 반등",
+          "reversed": "상처 봉합, 서서히 회복, 놓아버림",
+          "keywords": ["종결", "배신", "회복"]
+        },
+        "en": {
+          "name": "Ten of Swords",
+          "upright": "Painful endings, betrayal, loss, crisis",
+          "reversed": "Closure, gradual recovery, release",
+          "keywords": ["Ending", "Betrayal", "Recovery"]
+        },
+        "es": {
+          "name": "Diez de Espadas",
+          "upright": "Final doloroso, traición, pérdida, crisis",
+          "reversed": "Cierre, recuperación gradual, soltar",
+          "keywords": ["Final", "Pérdida", "Recuperación"]
+        },
+        "ja": {
+          "name": "剣の10",
+          "upright": "痛みの終幕、裏切り、喪失、危機",
+          "reversed": "収束、漸進的回復、手放し",
+          "keywords": ["終幕", "喪失", "回復"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "swords_11",
+      "image": "cards/swords/swords_11.png",
+      "translations": {
+        "ko": {
+          "name": "Page of Swords",
+          "upright": "호기심의 칼끝, 배움의 열망, 날카로운 관찰",
+          "reversed": "피상적 판단, 경솔한 말, 산만함",
+          "keywords": ["호기심", "학습", "관찰"]
+        },
+        "en": {
+          "name": "Page of Swords",
+          "upright": "Curiosity, new ideas, thirst for knowledge",
+          "reversed": "Gossip, haste, scattered focus",
+          "keywords": ["Curiosity", "Study", "Observation"]
+        },
+        "es": {
+          "name": "Sota de Espadas",
+          "upright": "Curiosidad, ideas nuevas, sed de conocimiento",
+          "reversed": "Chismes, prisa, dispersión",
+          "keywords": ["Curiosidad", "Estudio", "Observación"]
+        },
+        "ja": {
+          "name": "剣のペイジ",
+          "upright": "好奇心、新案、知の渇き",
+          "reversed": "噂、軽率、散漫",
+          "keywords": ["好奇", "学び", "観察"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "swords_12",
+      "image": "cards/swords/swords_12.png",
+      "translations": {
+        "ko": {
+          "name": "Knight of Swords",
+          "upright": "즉각적 행동, 논리의 추격, 신념의 돌파",
+          "reversed": "무리한 돌진, 독선, 성급함",
+          "keywords": ["행동", "논리", "돌파"]
+        },
+        "en": {
+          "name": "Knight of Swords",
+          "upright": "Action, decisiveness, defending beliefs",
+          "reversed": "Impulsiveness, recklessness, dogma",
+          "keywords": ["Action", "Logic", "Advance"]
+        },
+        "es": {
+          "name": "Caballero de Espadas",
+          "upright": "Acción, decisión, defender creencias",
+          "reversed": "Impulso, temeridad, dogma",
+          "keywords": ["Acción", "Lógica", "Avance"]
+        },
+        "ja": {
+          "name": "剣のナイト",
+          "upright": "即応、決断、信念の擁護",
+          "reversed": "性急、無謀、独善",
+          "keywords": ["行動", "理性", "前進"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "swords_13",
+      "image": "cards/swords/swords_13.png",
+      "translations": {
+        "ko": {
+          "name": "Queen of Swords",
+          "upright": "명확한 판단, 경계와 통찰, 진실한 언어",
+          "reversed": "냉소, 비판 과잉, 단절",
+          "keywords": ["명확", "경계", "진실"]
+        },
+        "en": {
+          "name": "Queen of Swords",
+          "upright": "Clarity, boundaries, perceptive truth",
+          "reversed": "Cynicism, harshness, isolation",
+          "keywords": ["Clarity", "Boundaries", "Truth"]
+        },
+        "es": {
+          "name": "Reina de Espadas",
+          "upright": "Claridad, límites, verdad perceptiva",
+          "reversed": "Cinismo, dureza, aislamiento",
+          "keywords": ["Claridad", "Límites", "Verdad"]
+        },
+        "ja": {
+          "name": "剣のクイーン",
+          "upright": "明晰、境界、見抜く真実",
+          "reversed": "冷笑、厳格、孤立",
+          "keywords": ["明晰", "境界", "真実"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "swords_14",
+      "image": "cards/swords/swords_14.png",
+      "translations": {
+        "ko": {
+          "name": "King of Swords",
+          "upright": "이성의 권위, 공정한 판단, 전략적 사고",
+          "reversed": "독단, 편향, 경직된 원칙",
+          "keywords": ["권위", "공정", "전략"]
+        },
+        "en": {
+          "name": "King of Swords",
+          "upright": "Intellectual authority, fair judgement, strategy",
+          "reversed": "Dogma, bias, rigidity",
+          "keywords": ["Authority", "Justice", "Strategy"]
+        },
+        "es": {
+          "name": "Rey de Espadas",
+          "upright": "Autoridad intelectual, juicio justo, estrategia",
+          "reversed": "Dogma, sesgo, rigidez",
+          "keywords": ["Autoridad", "Justicia", "Estrategia"]
+        },
+        "ja": {
+          "name": "剣のキング",
+          "upright": "知の権威、公正な判断、戦略",
+          "reversed": "独善、偏り、硬直",
+          "keywords": ["権威", "公正", "戦略"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "cups_1",
+      "image": "cards/cups/cups_1.png",
+      "translations": {
+        "ko": {
+          "name": "Ace of Cups",
+          "upright": "마음의 새샘, 첫 감정의 싹, 사랑의 흐름, 창조적 영감",
+          "reversed": "감정 흐름의 막힘, 공허감, 메마른 영감, 마음 닫힘",
+          "keywords": ["감정의 탄생", "사랑", "영감"]
+        },
+        "en": {
+          "name": "Ace of Cups",
+          "upright": "New feelings, emotional beginnings, love, creative flow",
+          "reversed": "Blocked emotions, emptiness, creative drain, closed heart",
+          "keywords": ["Heart awakening", "Love", "Inspiration"]
+        },
+        "es": {
+          "name": "As de Copas",
+          "upright": "Nuevos sentimientos, inicio emocional, amor, fluidez creativa",
+          "reversed": "Emociones bloqueadas, vacío, agotamiento creativo",
+          "keywords": ["Despertar", "Amor", "Inspiración"]
+        },
+        "ja": {
+          "name": "杯のエース",
+          "upright": "新たな感情、始まり、愛、創造の流れ",
+          "reversed": "感情の停滞、空虚、創造の枯渇、心を閉ざす",
+          "keywords": ["目覚め", "愛", "インスピレーション"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "cups_2",
+      "image": "cards/cups/cups_2.png",
+      "translations": {
+        "ko": {
+          "name": "Two of Cups",
+          "upright": "마음의 교감, 균형 잡힌 연결, 상호 신뢰, 조화",
+          "reversed": "불균형한 관계, 단절, 소통의 왜곡, 약한 유대",
+          "keywords": ["교감", "파트너십", "조화"]
+        },
+        "en": {
+          "name": "Two of Cups",
+          "upright": "Partnership, mutual attraction, balance, harmony",
+          "reversed": "Imbalance, disconnection, poor communication",
+          "keywords": ["Bond", "Partnership", "Harmony"]
+        },
+        "es": {
+          "name": "Dos de Copas",
+          "upright": "Alianza, atracción mutua, equilibrio, armonía",
+          "reversed": "Desequilibrio, desconexión, mala comunicación",
+          "keywords": ["Vínculo", "Alianza", "Armonía"]
+        },
+        "ja": {
+          "name": "杯の2",
+          "upright": "結びつき、相互の魅力、均衡、調和",
+          "reversed": "不均衡、断絶、意思疎通の乱れ",
+          "keywords": ["絆", "協調", "調和"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "cups_3",
+      "image": "cards/cups/cups_3.png",
+      "translations": {
+        "ko": {
+          "name": "Three of Cups",
+          "upright": "축복의 자리, 우정의 환희, 공동 창조, 작은 기쁨",
+          "reversed": "과음과 과잉, 소문과 불화, 배제감",
+          "keywords": ["축하", "우정", "공동체"]
+        },
+        "en": {
+          "name": "Three of Cups",
+          "upright": "Celebration, friendship, community, creative synergy",
+          "reversed": "Overindulgence, gossip, disharmony",
+          "keywords": ["Celebrate", "Friendship", "Community"]
+        },
+        "es": {
+          "name": "Tres de Copas",
+          "upright": "Celebración, amistad, comunidad, sinergia",
+          "reversed": "Exceso, chismes, desarmonía",
+          "keywords": ["Celebrar", "Amistad", "Comunidad"]
+        },
+        "ja": {
+          "name": "杯の3",
+          "upright": "祝宴、友情、コミュニティ、共創",
+          "reversed": "行き過ぎ、噂、不和",
+          "keywords": ["祝福", "友情", "集い"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "cups_4",
+      "image": "cards/cups/cups_4.png",
+      "translations": {
+        "ko": {
+          "name": "Four of Cups",
+          "upright": "권태 속 성찰, 감정의 휴지, 새로운 제안 재평가",
+          "reversed": "마음의 재개방, 관심 회복, 감사의 회복",
+          "keywords": ["성찰", "휴지", "재평가"]
+        },
+        "en": {
+          "name": "Four of Cups",
+          "upright": "Apathy, contemplation, meditation, reevaluation",
+          "reversed": "Reengagement, renewed interest, gratitude",
+          "keywords": ["Contemplate", "Pause", "Reassess"]
+        },
+        "es": {
+          "name": "Cuatro de Copas",
+          "upright": "Apatía, contemplación, meditación, reevaluar",
+          "reversed": "Reenganche, interés renovado, gratitud",
+          "keywords": ["Contemplar", "Pausa", "Revisar"]
+        },
+        "ja": {
+          "name": "杯の4",
+          "upright": "倦怠、熟考、瞑想、見直し",
+          "reversed": "再関与、関心の回復、感謝",
+          "keywords": ["内省", "休止", "再評価"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "cups_5",
+      "image": "cards/cups/cups_5.png",
+      "translations": {
+        "ko": {
+          "name": "Five of Cups",
+          "upright": "상실의 물결, 후회의 잔상, 남은 두 잔에의 초대",
+          "reversed": "수용과 용서, 마음 추스름, 앞으로 나아감",
+          "keywords": ["상실", "후회", "수용"]
+        },
+        "en": {
+          "name": "Five of Cups",
+          "upright": "Regret, loss, disappointment, grief",
+          "reversed": "Acceptance, forgiveness, moving on",
+          "keywords": ["Loss", "Regret", "Heal"]
+        },
+        "es": {
+          "name": "Cinco de Copas",
+          "upright": "Arrepentimiento, pérdida, decepción, duelo",
+          "reversed": "Aceptación, perdón, seguir adelante",
+          "keywords": ["Pérdida", "Arrepentir", "Sanar"]
+        },
+        "ja": {
+          "name": "杯の5",
+          "upright": "後悔、喪失、失望、悲嘆",
+          "reversed": "受容、赦し、前進",
+          "keywords": ["喪失", "後悔", "癒し"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "cups_6",
+      "image": "cards/cups/cups_6.png",
+      "translations": {
+        "ko": {
+          "name": "Six of Cups",
+          "upright": "따뜻한 회상, 순수의 시간, 마음의 귀향",
+          "reversed": "과거 매몰, 이상화의 함정, 미성숙한 집착",
+          "keywords": ["향수", "순수", "귀향"]
+        },
+        "en": {
+          "name": "Six of Cups",
+          "upright": "Nostalgia, happy memories, childhood, innocence",
+          "reversed": "Stuck in past, idealization, immaturity",
+          "keywords": ["Nostalgia", "Innocence", "Homecoming"]
+        },
+        "es": {
+          "name": "Seis de Copas",
+          "upright": "Nostalgia, buenos recuerdos, infancia, inocencia",
+          "reversed": "Atrapado en el pasado, idealización",
+          "keywords": ["Nostalgia", "Inocencia", "Regreso"]
+        },
+        "ja": {
+          "name": "杯の6",
+          "upright": "郷愁、楽しい記憶、子ども心、純真",
+          "reversed": "過去への固執、理想化、未熟",
+          "keywords": ["郷愁", "純真", "帰還"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "cups_7",
+      "image": "cards/cups/cups_7.png",
+      "translations": {
+        "ko": {
+          "name": "Seven of Cups",
+          "upright": "꿈결 같은 선택지, 상상과 유혹, 마음의 스크리닝",
+          "reversed": "안개 걷힘, 우선순위 확립, 현실적 결정",
+          "keywords": ["선택", "상상", "분별"]
+        },
+        "en": {
+          "name": "Seven of Cups",
+          "upright": "Choices, fantasy, imagination, illusion",
+          "reversed": "Clarity, prioritization, realistic choice",
+          "keywords": ["Options", "Vision", "Clarity"]
+        },
+        "es": {
+          "name": "Siete de Copas",
+          "upright": "Opciones, fantasía, imaginación, ilusión",
+          "reversed": "Claridad, priorizar, elección realista",
+          "keywords": ["Opciones", "Visión", "Claridad"]
+        },
+        "ja": {
+          "name": "杯の7",
+          "upright": "選択肢、幻想、想像、誘惑",
+          "reversed": "明晰、優先順位、現実的決断",
+          "keywords": ["選択", "幻影", "明晰"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "cups_8",
+      "image": "cards/cups/cups_8.png",
+      "translations": {
+        "ko": {
+          "name": "Eight of Cups",
+          "upright": "정든 곳을 떠남, 더 깊은 의미 탐색, 감정의 이별",
+          "reversed": "떠남의 두려움, 미련, 발걸음의 지체",
+          "keywords": ["이별", "탐색", "전진"]
+        },
+        "en": {
+          "name": "Eight of Cups",
+          "upright": "Walking away, deeper search, leaving behind",
+          "reversed": "Fear of change, stagnation, clinging",
+          "keywords": ["Departure", "Quest", "Beyond"]
+        },
+        "es": {
+          "name": "Ocho de Copas",
+          "upright": "Partir, buscar sentido, dejar atrás",
+          "reversed": "Miedo al cambio, estancamiento, apego",
+          "keywords": ["Partida", "Búsqueda", "Más allá"]
+        },
+        "ja": {
+          "name": "杯の8",
+          "upright": "離別、より深い探求、手放す",
+          "reversed": "変化への恐れ、停滞、執着",
+          "keywords": ["旅立ち", "探求", "越境"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "cups_9",
+      "image": "cards/cups/cups_9.png",
+      "translations": {
+        "ko": {
+          "name": "Nine of Cups",
+          "upright": "소원의 잔, 충만한 만족, 감사의 풍요",
+          "reversed": "겉도는 만족, 과도한 탐닉, 공허한 성취",
+          "keywords": ["만족", "감사", "성취"]
+        },
+        "en": {
+          "name": "Nine of Cups",
+          "upright": "Contentment, gratitude, wish fulfilled",
+          "reversed": "Smugness, indulgence, hollow success",
+          "keywords": ["Satisfaction", "Gratitude", "Wish"]
+        },
+        "es": {
+          "name": "Nueve de Copas",
+          "upright": "Plenitud, gratitud, deseo cumplido",
+          "reversed": "Soberbia, exceso, logro vacío",
+          "keywords": ["Satisfacción", "Gratitud", "Deseo"]
+        },
+        "ja": {
+          "name": "杯の9",
+          "upright": "充足、感謝、望みの成就",
+          "reversed": "増長、放縦、空虚な成功",
+          "keywords": ["満足", "感謝", "成就"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "cups_10",
+      "image": "cards/cups/cups_10.png",
+      "translations": {
+        "ko": {
+          "name": "Ten of Cups",
+          "upright": "무지개 같은 조화, 가정의 평안, 마음의 충족",
+          "reversed": "불화와 긴장, 기대의 어긋남, 소속감의 흔들림",
+          "keywords": ["조화", "가족", "충족"]
+        },
+        "en": {
+          "name": "Ten of Cups",
+          "upright": "Harmony, fulfillment, happy relationships, belonging",
+          "reversed": "Disharmony, misalignment, home tensions",
+          "keywords": ["Harmony", "Family", "Fulfillment"]
+        },
+        "es": {
+          "name": "Diez de Copas",
+          "upright": "Armonía, plenitud, vínculos felices, pertenencia",
+          "reversed": "Desarmonía, desencuentro, tensiones en casa",
+          "keywords": ["Armonía", "Familia", "Plenitud"]
+        },
+        "ja": {
+          "name": "杯の10",
+          "upright": "調和、充足、幸せな関係、帰属",
+          "reversed": "不和、不一致、家庭の緊張",
+          "keywords": ["調和", "家庭", "充足"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "cups_11",
+      "image": "cards/cups/cups_11.png",
+      "translations": {
+        "ko": {
+          "name": "Page of Cups",
+          "upright": "영감의 전갈, 순수한 호기심, 마음의 메시지",
+          "reversed": "감정 미성숙, 회피적 몽상, 변덕",
+          "keywords": ["영감", "호기심", "메시지"]
+        },
+        "en": {
+          "name": "Page of Cups",
+          "upright": "Creative opportunity, intuitive messages, curiosity",
+          "reversed": "Emotional immaturity, escapism, moodiness",
+          "keywords": ["Inspiration", "Curiosity", "Message"]
+        },
+        "es": {
+          "name": "Sota de Copas",
+          "upright": "Oportunidad creativa, mensaje intuitivo, curiosidad",
+          "reversed": "Inmadurez emocional, evasión, inestabilidad",
+          "keywords": ["Inspiración", "Curiosidad", "Mensaje"]
+        },
+        "ja": {
+          "name": "杯のペイジ",
+          "upright": "創造の機会、直感の便り、好奇心",
+          "reversed": "感情の未熟、逃避、気分の揺れ",
+          "keywords": ["着想", "直感", "便り"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "cups_12",
+      "image": "cards/cups/cups_12.png",
+      "translations": {
+        "ko": {
+          "name": "Knight of Cups",
+          "upright": "낭만의 순례, 이상을 향한 여정, 마음의 제안",
+          "reversed": "과잉 이상화, 변덕스러운 태도, 질투",
+          "keywords": ["낭만", "이상", "제안"]
+        },
+        "en": {
+          "name": "Knight of Cups",
+          "upright": "Romance, charm, imagination, following the heart",
+          "reversed": "Overidealism, inconsistency, jealousy",
+          "keywords": ["Romance", "Imagination", "Offer"]
+        },
+        "es": {
+          "name": "Caballero de Copas",
+          "upright": "Romance, encanto, imaginación, seguir el corazón",
+          "reversed": "Idealización, inconstancia, celos",
+          "keywords": ["Romance", "Imaginación", "Propuesta"]
+        },
+        "ja": {
+          "name": "杯のナイト",
+          "upright": "ロマンス、魅力、想像力、心に従う",
+          "reversed": "理想過多、気まぐれ、嫉妬",
+          "keywords": ["ロマンス", "想像", "提案"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "cups_13",
+      "image": "cards/cups/cups_13.png",
+      "translations": {
+        "ko": {
+          "name": "Queen of Cups",
+          "upright": "깊은 공감, 배려의 온기, 안정된 감수성, 맑은 직관",
+          "reversed": "감정 기복, 불안과 의존, 경계의 흐림",
+          "keywords": ["공감", "돌봄", "직관"]
+        },
+        "en": {
+          "name": "Queen of Cups",
+          "upright": "Compassion, caring, emotional stability, intuition",
+          "reversed": "Overemotional, insecurity, codependence",
+          "keywords": ["Compassion", "Care", "Intuition"]
+        },
+        "es": {
+          "name": "Reina de Copas",
+          "upright": "Compasión, cuidado, estabilidad emocional, intuición",
+          "reversed": "Emoción excesiva, inseguridad, codependencia",
+          "keywords": ["Compasión", "Cuidado", "Intuición"]
+        },
+        "ja": {
+          "name": "杯のクイーン",
+          "upright": "共感、思いやり、情緒安定、直感",
+          "reversed": "感情過多、不安、共依存",
+          "keywords": ["共感", "慈しみ", "直感"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "cups_14",
+      "image": "cards/cups/cups_14.png",
+      "translations": {
+        "ko": {
+          "name": "King of Cups",
+          "upright": "고요한 리더십, 감정의 균형, 지혜로운 중재",
+          "reversed": "감정 억압, 냉담한 태도, 미묘한 조종",
+          "keywords": ["균형", "평온", "지혜"]
+        },
+        "en": {
+          "name": "King of Cups",
+          "upright": "Emotional control, calm authority, wise mediation",
+          "reversed": "Emotional suppression, coldness, manipulation",
+          "keywords": ["Balance", "Calm", "Wisdom"]
+        },
+        "es": {
+          "name": "Rey de Copas",
+          "upright": "Control emocional, autoridad serena, mediación sabia",
+          "reversed": "Represión emocional, frialdad, manipulación",
+          "keywords": ["Equilibrio", "Calma", "Sabiduría"]
+        },
+        "ja": {
+          "name": "杯のキング",
+          "upright": "情の統御、静かな権威、賢明な調停",
+          "reversed": "感情抑圧、冷淡、操作",
+          "keywords": ["均衡", "静穏", "英知"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "wands_1",
+      "image": "cards/wands/wands_1.png",
+      "translations": {
+        "ko": {
+          "name": "Ace of Wands",
+          "upright": "불꽃 같은 시작, 창조의 점화, 의지의 탄생",
+          "reversed": "불붙지 않는 불씨, 의욕 저하, 타이밍 불일치",
+          "keywords": ["점화", "창조", "의지"]
+        },
+        "en": {
+          "name": "Ace of Wands",
+          "upright": "Spark of creation, ignition, birth of will",
+          "reversed": "Dampened spark, waning drive, poor timing",
+          "keywords": ["Ignition", "Creation", "Will"]
+        },
+        "es": {
+          "name": "As de Bastos",
+          "upright": "Chispa creativa, encendido, nacimiento de la voluntad",
+          "reversed": "Chispa apagada, baja energía, mal momento",
+          "keywords": ["Encender", "Creación", "Voluntad"]
+        },
+        "ja": {
+          "name": "杖のエース",
+          "upright": "創造の火花、点火、意志の誕生",
+          "reversed": "火がつかない、意欲低下、時機逸し",
+          "keywords": ["点火", "創造", "意志"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "wands_2",
+      "image": "cards/wands/wands_2.png",
+      "translations": {
+        "ko": {
+          "name": "Two of Wands",
+          "upright": "지평선 설계, 선택의 용기, 미래 구상",
+          "reversed": "주저와 망설임, 안전지대 고착, 시야 협소",
+          "keywords": ["계획", "선택", "비전"]
+        },
+        "en": {
+          "name": "Two of Wands",
+          "upright": "Mapping horizons, brave choice, future design",
+          "reversed": "Hesitation, comfort-zone drift, narrow view",
+          "keywords": ["Plan", "Choice", "Vision"]
+        },
+        "es": {
+          "name": "Dos de Bastos",
+          "upright": "Trazar horizontes, elegir con valor, diseño del futuro",
+          "reversed": "Duda, zona de confort, visión estrecha",
+          "keywords": ["Plan", "Elección", "Visión"]
+        },
+        "ja": {
+          "name": "杖の2",
+          "upright": "地平の設計、勇気ある選択、未来構想",
+          "reversed": "逡巡、安住、視野の狭さ",
+          "keywords": ["計画", "選択", "展望"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "wands_3",
+      "image": "cards/wands/wands_3.png",
+      "translations": {
+        "ko": {
+          "name": "Three of Wands",
+          "upright": "지평선의 확장, 성장의 바람, 앞날 조망",
+          "reversed": "정체된 확장, 준비 부족, 기대의 지연",
+          "keywords": ["확장", "성장", "전망"]
+        },
+        "en": {
+          "name": "Three of Wands",
+          "upright": "Expansion, favorable winds, looking ahead",
+          "reversed": "Stalled growth, underprepared, delayed returns",
+          "keywords": ["Expand", "Grow", "Foresight"]
+        },
+        "es": {
+          "name": "Tres de Bastos",
+          "upright": "Expansión, vientos a favor, mirar adelante",
+          "reversed": "Crecimiento estancado, poca preparación, demoras",
+          "keywords": ["Expandir", "Crecimiento", "Previsión"]
+        },
+        "ja": {
+          "name": "杖の3",
+          "upright": "拡張、追い風、前途を見渡す",
+          "reversed": "成長停滞、準備不足、遅延",
+          "keywords": ["拡張", "成長", "先見"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "wands_4",
+      "image": "cards/wands/wands_4.png",
+      "translations": {
+        "ko": {
+          "name": "Four of Wands",
+          "upright": "문지방의 축복, 공동의 기쁨, 집의 조화",
+          "reversed": "준비 미흡, 불안정한 기반, 축하의 연기",
+          "keywords": ["축복", "안정", "공동체"]
+        },
+        "en": {
+          "name": "Four of Wands",
+          "upright": "Threshold blessing, shared joy, domestic harmony",
+          "reversed": "Loose foundations, delays, unsettled home",
+          "keywords": ["Celebrate", "Stability", "Community"]
+        },
+        "es": {
+          "name": "Cuatro de Bastos",
+          "upright": "Bendición del umbral, gozo compartido, armonía",
+          "reversed": "Base inestable, demoras, hogar inquieto",
+          "keywords": ["Celebrar", "Estabilidad", "Comunidad"]
+        },
+        "ja": {
+          "name": "杖の4",
+          "upright": "門出の祝福、喜びの共有、家の調和",
+          "reversed": "基盤不安、延期、不穏な家庭",
+          "keywords": ["祝宴", "安定", "共同体"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "wands_5",
+      "image": "cards/wands/wands_5.png",
+      "translations": {
+        "ko": {
+          "name": "Five of Wands",
+          "upright": "건설적 경쟁, 의견의 불꽃, 실전 연습",
+          "reversed": "소모적 다툼, 내분, 에너지 낭비",
+          "keywords": ["경쟁", "연습", "긴장"]
+        },
+        "en": {
+          "name": "Five of Wands",
+          "upright": "Constructive competition, sparks of opinion, sparring",
+          "reversed": "Petty conflict, infighting, wasted energy",
+          "keywords": ["Compete", "Practice", "Tension"]
+        },
+        "es": {
+          "name": "Cinco de Bastos",
+          "upright": "Competencia constructiva, debate vivo, entrenamiento",
+          "reversed": "Pelea trivial, división interna, desgaste",
+          "keywords": ["Competir", "Práctica", "Tensión"]
+        },
+        "ja": {
+          "name": "杖の5",
+          "upright": "建設的競争、意見の火花、稽古",
+          "reversed": "些細な争い、内紛、消耗",
+          "keywords": ["競争", "訓練", "緊張"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "wands_6",
+      "image": "cards/wands/wands_6.png",
+      "translations": {
+        "ko": {
+          "name": "Six of Wands",
+          "upright": "환호의 행렬, 공인된 성취, 자신감의 깃발",
+          "reversed": "인정 욕심, 시기와 잡음, 공허한 과시",
+          "keywords": ["승리", "인정", "자신감"]
+        },
+        "en": {
+          "name": "Six of Wands",
+          "upright": "Parade of acclaim, recognized success, banner of confidence",
+          "reversed": "Craving validation, envy, hollow display",
+          "keywords": ["Victory", "Recognition", "Poise"]
+        },
+        "es": {
+          "name": "Seis de Bastos",
+          "upright": "Desfile de elogios, éxito reconocido, confianza",
+          "reversed": "Ansia de aprobación, envidia, exhibición vacía",
+          "keywords": ["Victoria", "Reconocimiento", "Aplomo"]
+        },
+        "ja": {
+          "name": "杖の6",
+          "upright": "称賛の行進、公的成功、自信の旗",
+          "reversed": "承認欲、嫉妬、空虚な誇示",
+          "keywords": ["勝利", "称賛", "自信"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "wands_7",
+      "image": "cards/wands/wands_7.png",
+      "translations": {
+        "ko": {
+          "name": "Seven of Wands",
+          "upright": "유리한 고지, 입장 수호, 용감한 버팀",
+          "reversed": "방어 피로, 흔들리는 기준, 회피",
+          "keywords": ["수호", "용기", "입장"]
+        },
+        "en": {
+          "name": "Seven of Wands",
+          "upright": "High ground, holding position, brave stance",
+          "reversed": "Defensive fatigue, wavering lines, avoidance",
+          "keywords": ["Defend", "Courage", "Stand"]
+        },
+        "es": {
+          "name": "Siete de Bastos",
+          "upright": "Terreno alto, mantener postura, valentía",
+          "reversed": "Fatiga defensiva, vacilación, evasión",
+          "keywords": ["Defender", "Valor", "Postura"]
+        },
+        "ja": {
+          "name": "杖の7",
+          "upright": "高所の優位、立場堅持、勇敢な構え",
+          "reversed": "守勢の疲れ、迷い、回避",
+          "keywords": ["防衛", "勇気", "姿勢"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "wands_8",
+      "image": "cards/wands/wands_8.png",
+      "translations": {
+        "ko": {
+          "name": "Eight of Wands",
+          "upright": "눈부신 가속, 소식의 비행, 막힘 없는 흐름",
+          "reversed": "혼선, 급브레이크, 메시지 지연",
+          "keywords": ["가속", "소식", "흐름"]
+        },
+        "en": {
+          "name": "Eight of Wands",
+          "upright": "Rapid acceleration, messages in flight, unobstructed flow",
+          "reversed": "Crossed signals, braking, delays",
+          "keywords": ["Speed", "News", "Flow"]
+        },
+        "es": {
+          "name": "Ocho de Bastos",
+          "upright": "Aceleración, mensajes en vuelo, flujo libre",
+          "reversed": "Cruce de señales, freno, demoras",
+          "keywords": ["Velocidad", "Noticias", "Flujo"]
+        },
+        "ja": {
+          "name": "杖の8",
+          "upright": "加速、便りが飛ぶ、滞りなき流れ",
+          "reversed": "混線、減速、遅延",
+          "keywords": ["迅速", "便り", "流れ"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "wands_9",
+      "image": "cards/wands/wands_9.png",
+      "translations": {
+        "ko": {
+          "name": "Nine of Wands",
+          "upright": "상처 위의 경계, 끝을 향한 인내, 신념의 시험",
+          "reversed": "의심과 방어 과잉, 지친 마음, 경계 붕괴",
+          "keywords": ["인내", "경계", "시련"]
+        },
+        "en": {
+          "name": "Nine of Wands",
+          "upright": "Guarded persistence, last stretch, test of faith",
+          "reversed": "Paranoia, worn defenses, collapse of guard",
+          "keywords": ["Endure", "Guard", "Trial"]
+        },
+        "es": {
+          "name": "Nueve de Bastos",
+          "upright": "Perseverancia en guardia, tramo final, prueba de fe",
+          "reversed": "Desconfianza, defensas gastadas, derrumbe",
+          "keywords": ["Resistir", "Vigilia", "Prueba"]
+        },
+        "ja": {
+          "name": "杖の9",
+          "upright": "守り抜く忍耐、最後の山場、信念の試練",
+          "reversed": "猜疑、防御の消耗、崩れ",
+          "keywords": ["忍耐", "警戒", "試練"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "wands_10",
+      "image": "cards/wands/wands_10.png",
+      "translations": {
+        "ko": {
+          "name": "Ten of Wands",
+          "upright": "짐을 끝까지, 책임의 무게, 완결 직전",
+          "reversed": "과부하 해소, 위임과 정리, 내려놓기",
+          "keywords": ["부담", "책임", "완결"]
+        },
+        "en": {
+          "name": "Ten of Wands",
+          "upright": "Carrying it home, weight of duty, near completion",
+          "reversed": "Lightening load, delegation, release",
+          "keywords": ["Burden", "Duty", "Closure"]
+        },
+        "es": {
+          "name": "Diez de Bastos",
+          "upright": "Cargar hasta el final, peso del deber, casi cierre",
+          "reversed": "Alivio de carga, delegar, soltar",
+          "keywords": ["Carga", "Deber", "Cierre"]
+        },
+        "ja": {
+          "name": "杖の10",
+          "upright": "背負い切る、責務の重み、完遂目前",
+          "reversed": "荷下ろし、委任、手放し",
+          "keywords": ["重荷", "責任", "収束"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "wands_11",
+      "image": "cards/wands/wands_11.png",
+      "translations": {
+        "ko": {
+          "name": "Page of Wands",
+          "upright": "탐험의 불씨, 소식과 영감, 자유로운 시동",
+          "reversed": "산만한 시작, 미완의 열정, 금세 식는 흥미",
+          "keywords": ["탐험", "영감", "기동"]
+        },
+        "en": {
+          "name": "Page of Wands",
+          "upright": "Ember of exploration, news and inspiration, free start",
+          "reversed": "Scattered launch, ungrounded zeal, fickle interest",
+          "keywords": ["Explore", "Inspire", "Initiate"]
+        },
+        "es": {
+          "name": "Sota de Bastos",
+          "upright": "Brasa exploradora, noticia e inspiración, inicio libre",
+          "reversed": "Lanzamiento disperso, celo sin base, interés voluble",
+          "keywords": ["Explorar", "Inspirar", "Iniciar"]
+        },
+        "ja": {
+          "name": "杖のペイジ",
+          "upright": "探検の火種、便りと着想、自由な始動",
+          "reversed": "散漫な出発、根拠薄い熱、移ろう関心",
+          "keywords": ["探検", "着想", "始動"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "wands_12",
+      "image": "cards/wands/wands_12.png",
+      "translations": {
+        "ko": {
+          "name": "Knight of Wands",
+          "upright": "모험의 질주, 대담한 실행, 열정의 돌파",
+          "reversed": "충동적 탈선, 금세 식는 불, 준비 부족",
+          "keywords": ["모험", "실행", "열정"]
+        },
+        "en": {
+          "name": "Knight of Wands",
+          "upright": "Charge of adventure, bold execution, passionate break-through",
+          "reversed": "Impulsive detour, flash-in-the-pan, underprepared",
+          "keywords": ["Adventure", "Action", "Passion"]
+        },
+        "es": {
+          "name": "Caballero de Bastos",
+          "upright": "Carga aventurera, ejecución audaz, pasión que abre camino",
+          "reversed": "Impulso desviado, fuego fugaz, poca preparación",
+          "keywords": ["Aventura", "Acción", "Pasión"]
+        },
+        "ja": {
+          "name": "杖のナイト",
+          "upright": "冒険の突進、大胆な実行、情熱の突破",
+          "reversed": "衝動的な逸脱、一過性の熱、準備不足",
+          "keywords": ["冒険", "実行", "情熱"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "wands_13",
+      "image": "cards/wands/wands_13.png",
+      "translations": {
+        "ko": {
+          "name": "Queen of Wands",
+          "upright": "따뜻한 카리스마, 자립의 불빛, 매력의 확산",
+          "reversed": "과열된 자의식, 질투, 불안정한 주도",
+          "keywords": ["카리스마", "자립", "매력"]
+        },
+        "en": {
+          "name": "Queen of Wands",
+          "upright": "Warm charisma, self-possessed flame, radiant allure",
+          "reversed": "Overheated ego, envy, shaky lead",
+          "keywords": ["Charisma", "Autonomy", "Radiance"]
+        },
+        "es": {
+          "name": "Reina de Bastos",
+          "upright": "Carisma cálido, llama propia, atractivo radiante",
+          "reversed": "Ego recalentado, celos, liderazgo frágil",
+          "keywords": ["Carisma", "Autonomía", "Brillo"]
+        },
+        "ja": {
+          "name": "杖のクイーン",
+          "upright": "温かなカリスマ、自立の炎、放つ魅力",
+          "reversed": "過熱した自我、嫉妬、不安定な主導",
+          "keywords": ["魅力", "自立", "輝き"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "wands_14",
+      "image": "cards/wands/wands_14.png",
+      "translations": {
+        "ko": {
+          "name": "King of Wands",
+          "upright": "비전의 지도력, 담대한 결단, 창업가적 기세",
+          "reversed": "독선적 통솔, 성급한 명령, 소진",
+          "keywords": ["비전", "리더십", "결단"]
+        },
+        "en": {
+          "name": "King of Wands",
+          "upright": "Visionary leadership, bold decisions, entrepreneurial drive",
+          "reversed": "Authoritarian streak, rash commands, burnout",
+          "keywords": ["Vision", "Leadership", "Resolve"]
+        },
+        "es": {
+          "name": "Rey de Bastos",
+          "upright": "Liderazgo visionario, decisiones audaces, impulso creador",
+          "reversed": "Autoritarismo, órdenes apresuradas, agotamiento",
+          "keywords": ["Visión", "Liderazgo", "Determinación"]
+        },
+        "ja": {
+          "name": "杖のキング",
+          "upright": "先見の統率、大胆な決断、起業の気概",
+          "reversed": "独善、拙速な指示、燃え尽き",
+          "keywords": ["先見", "統率", "決断"]
+        }
+      },
+      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
+      "source": "llm"
+    },
+    {
+      "id": "pentacles_1",
+      "image": "cards/pentacles/pentacles_1.png",
+      "translations": {
+        "ko": {
+          "name": "Ace of Pentacles",
+          "upright": "손에 잡히는 시작, 번영의 씨앗, 현실적 기회",
+          "reversed": "기회 유실, 기반 불안, 성급한 투자",
+          "keywords": ["기회", "번영", "출발"]
+        },
+        "en": {
+          "name": "Ace of Pentacles",
+          "upright": "New opportunity, prosperity, abundance",
+          "reversed": "Missed chance, instability, poor investment",
+          "keywords": ["Opportunity", "Prosperity", "Seed"]
+        },
+        "es": {
+          "name": "As de Oros",
+          "upright": "Nueva oportunidad, prosperidad, abundancia",
+          "reversed": "Ocasión perdida, base inestable, mala inversión",
+          "keywords": ["Oportunidad", "Prosperidad", "Semilla"]
+        },
+        "ja": {
+          "name": "金貨のエース",
+          "upright": "手に取れる始まり、繁栄の種、現実的な好機",
+          "reversed": "機会逸失、不安定、拙い投資",
+          "keywords": ["機会", "繁栄", "種"]
+        }
+      },
+      "status": {"ko":"approved","en":"approved","es":"approved","ja":"approved"},
+      "source": "llm"
+    },
+    {
+      "id": "pentacles_2",
+      "image": "cards/pentacles/pentacles_2.png",
+      "translations": {
+        "ko": {
+          "name": "Two of Pentacles",
+          "upright": "리듬의 균형, 유연한 조율, 시간의 묘수",
+          "reversed": "과부하, 우왕좌왕, 우선순위 혼선",
+          "keywords": ["균형", "적응", "조율"]
+        },
+        "en": {
+          "name": "Two of Pentacles",
+          "upright": "Balance, adaptability, time management",
+          "reversed": "Overload, disarray, poor priorities",
+          "keywords": ["Balance", "Adapt", "Manage"]
+        },
+        "es": {
+          "name": "Dos de Oros",
+          "upright": "Equilibrio, adaptación, gestión del tiempo",
+          "reversed": "Sobrecarga, desorden, malas prioridades",
+          "keywords": ["Equilibrio", "Adaptar", "Gestionar"]
+        },
+        "ja": {
+          "name": "金貨の2",
+          "upright": "リズムの均衡、柔軟な調整、時間術",
+          "reversed": "過負荷、混乱、優先の迷い",
+          "keywords": ["均衡", "適応", "調整"]
+        }
+      },
+      "status": {"ko":"approved","en":"approved","es":"approved","ja":"approved"},
+      "source": "llm"
+    },
+    {
+      "id": "pentacles_3",
+      "image": "cards/pentacles/pentacles_3.png",
+      "translations": {
+        "ko": {
+          "name": "Three of Pentacles",
+          "upright": "장인의 협업, 설계의 구체화, 배우며 완성",
+          "reversed": "호흡 불일치, 기준 미흡, 팀워크 약화",
+          "keywords": ["협업", "기술", "설계"]
+        },
+        "en": {
+          "name": "Three of Pentacles",
+          "upright": "Teamwork, collaboration, learning, implementation",
+          "reversed": "Mismatch, low standards, weak teamwork",
+          "keywords": ["Teamwork", "Skill", "Plan"]
+        },
+        "es": {
+          "name": "Tres de Oros",
+          "upright": "Trabajo en equipo, colaboración, aprendizaje, ejecución",
+          "reversed": "Desencaje, estándares bajos, equipo débil",
+          "keywords": ["Equipo", "Oficio", "Plan"]
+        },
+        "ja": {
+          "name": "金貨の3",
+          "upright": "職人の協働、設計の具体化、学びの実践",
+          "reversed": "不一致、基準不足、連携の弱さ",
+          "keywords": ["協働", "技", "設計"]
+        }
+      },
+      "status": {"ko":"approved","en":"approved","es":"approved","ja":"approved"},
+      "source": "llm"
+    },
+    {
+      "id": "pentacles_4",
+      "image": "cards/pentacles/pentacles_4.png",
+      "translations": {
+        "ko": {
+          "name": "Four of Pentacles",
+          "upright": "안정의 고정점, 자원의 보호, 경계 설정",
+          "reversed": "집착과 경직, 손 놓기의 두려움, 흐름 정체",
+          "keywords": ["안정", "보호", "경계"]
+        },
+        "en": {
+          "name": "Four of Pentacles",
+          "upright": "Security, conservatism, control",
+          "reversed": "Clinging, rigidity, blocked flow",
+          "keywords": ["Security", "Protect", "Hold"]
+        },
+        "es": {
+          "name": "Cuatro de Oros",
+          "upright": "Seguridad, conservadurismo, control",
+          "reversed": "Apego, rigidez, flujo bloqueado",
+          "keywords": ["Seguridad", "Guardar", "Control"]
+        },
+        "ja": {
+          "name": "金貨の4",
+          "upright": "安定点、資源の保護、境界の設定",
+          "reversed": "執着、硬直、流れの停滞",
+          "keywords": ["安定", "保護", "境界"]
+        }
+      },
+      "status": {"ko":"approved","en":"approved","es":"approved","ja":"approved"},
+      "source": "llm"
+    },
+    {
+      "id": "pentacles_5",
+      "image": "cards/pentacles/pentacles_5.png",
+      "translations": {
+        "ko": {
+          "name": "Five of Pentacles",
+          "upright": "겨울의 시련, 결핍의 감각, 도움의 불빛",
+          "reversed": "회복의 신호, 손 내밀기, 자원 재정렬",
+          "keywords": ["결핍", "고립", "지원"]
+        },
+        "en": {
+          "name": "Five of Pentacles",
+          "upright": "Hardship, loss, struggle, isolation",
+          "reversed": "Recovery, support, realignment",
+          "keywords": ["Lack", "Struggle", "Aid"]
+        },
+        "es": {
+          "name": "Cinco de Oros",
+          "upright": "Dificultad, pérdida, lucha, aislamiento",
+          "reversed": "Recuperación, apoyo, reajuste",
+          "keywords": ["Carencia", "Lucha", "Apoyo"]
+        },
+        "ja": {
+          "name": "金貨の5",
+          "upright": "困窮、喪失、苦闘、孤立",
+          "reversed": "回復、支援、立て直し",
+          "keywords": ["欠乏", "苦難", "助力"]
+        }
+      },
+      "status": {"ko":"approved","en":"approved","es":"approved","ja":"approved"},
+      "source": "llm"
+    },
+    {
+      "id": "pentacles_6",
+      "image": "cards/pentacles/pentacles_6.png",
+      "translations": {
+        "ko": {
+          "name": "Six of Pentacles",
+          "upright": "주고 받는 균형, 실질적 나눔, 순환의 미덕",
+          "reversed": "불균형한 거래, 의존, 보이지 않는 조건",
+          "keywords": ["나눔", "균형", "순환"]
+        },
+        "en": {
+          "name": "Six of Pentacles",
+          "upright": "Giving, receiving, generosity, charity",
+          "reversed": "Strings attached, imbalance, dependence",
+          "keywords": ["Share", "Balance", "Flow"]
+        },
+        "es": {
+          "name": "Seis de Oros",
+          "upright": "Dar y recibir, generosidad, caridad",
+          "reversed": "Condiciones ocultas, desequilibrio, dependencia",
+          "keywords": ["Compartir", "Equilibrio", "Flujo"]
+        },
+        "ja": {
+          "name": "金貨の6",
+          "upright": "与える・受け取るの均衡、実利の分かち合い",
+          "reversed": "不均衡、依存、条件付きの援助",
+          "keywords": ["分かち合い", "均衡", "循環"]
+        }
+      },
+      "status": {"ko":"approved","en":"approved","es":"approved","ja":"approved"},
+      "source": "llm"
+    },
+    {
+      "id": "pentacles_7",
+      "image": "cards/pentacles/pentacles_7.png",
+      "translations": {
+        "ko": {
+          "name": "Seven of Pentacles",
+          "upright": "성장의 관찰, 인내의 투자, 장기 설계",
+          "reversed": "조급함, 비효율, 잘못된 밭",
+          "keywords": ["인내", "평가", "장기"]
+        },
+        "en": {
+          "name": "Seven of Pentacles",
+          "upright": "Long-term view, perseverance, investment",
+          "reversed": "Impatience, inefficiency, wrong field",
+          "keywords": ["Patience", "Review", "Yield"]
+        },
+        "es": {
+          "name": "Siete de Oros",
+          "upright": "Visión a largo plazo, perseverancia, inversión",
+          "reversed": "Impaciencia, ineficiencia, terreno equivocado",
+          "keywords": ["Paciencia", "Revisión", "Cosecha"]
+        },
+        "ja": {
+          "name": "金貨の7",
+          "upright": "長期視点、辛抱、投資",
+          "reversed": "焦り、非効率、畑違い",
+          "keywords": ["忍耐", "見直し", "収穫"]
+        }
+      },
+      "status": {"ko":"approved","en":"approved","es":"approved","ja":"approved"},
+      "source": "llm"
+    },
+    {
+      "id": "pentacles_8",
+      "image": "cards/pentacles/pentacles_8.png",
+      "translations": {
+        "ko": {
+          "name": "Eight of Pentacles",
+          "upright": "정교한 연습, 숙련의 축적, 몰입의 시간",
+          "reversed": "단조로움의 함정, 품질 저하, 동기 결핍",
+          "keywords": ["숙련", "연습", "몰입"]
+        },
+        "en": {
+          "name": "Eight of Pentacles",
+          "upright": "Skill development, craftsmanship, repetition",
+          "reversed": "Monotony, poor quality, low motivation",
+          "keywords": ["Mastery", "Practice", "Focus"]
+        },
+        "es": {
+          "name": "Ocho de Oros",
+          "upright": "Desarrollo de habilidades, oficio, repetición",
+          "reversed": "Monotonía, baja calidad, poca motivación",
+          "keywords": ["Maestría", "Práctica", "Enfoque"]
+        },
+        "ja": {
+          "name": "金貨の8",
+          "upright": "技能の鍛錬、職人技、反復",
+          "reversed": "単調、品質低下、意欲不足",
+          "keywords": ["熟練", "練習", "集中"]
+        }
+      },
+      "status": {"ko":"approved","en":"approved","es":"approved","ja":"approved"},
+      "source": "llm"
+    },
+    {
+      "id": "pentacles_9",
+      "image": "cards/pentacles/pentacles_9.png",
+      "translations": {
+        "ko": {
+          "name": "Nine of Pentacles",
+          "upright": "품위 있는 여유, 자립의 결실, 세련된 풍요",
+          "reversed": "허세 소비, 의존, 빈껍데기 성취",
+          "keywords": ["자립", "풍요", "세련"]
+        },
+        "en": {
+          "name": "Nine of Pentacles",
+          "upright": "Luxury, self-sufficiency, financial independence",
+          "reversed": "Overspending, dependence, hollow success",
+          "keywords": ["Independence", "Abundance", "Grace"]
+        },
+        "es": {
+          "name": "Nueve de Oros",
+          "upright": "Lujo, autosuficiencia, independencia financiera",
+          "reversed": "Gasto excesivo, dependencia, logro vacío",
+          "keywords": ["Autonomía", "Abundancia", "Elegancia"]
+        },
+        "ja": {
+          "name": "金貨の9",
+          "upright": "優雅な余裕、自立の実り、洗練された豊かさ",
+          "reversed": "見栄消費、依存、空虚な成功",
+          "keywords": ["自立", "豊かさ", "優雅"]
+        }
+      },
+      "status": {"ko":"approved","en":"approved","es":"approved","ja":"approved"},
+      "source": "llm"
+    },
+    {
+      "id": "pentacles_10",
+      "image": "cards/pentacles/pentacles_10.png",
+      "translations": {
+        "ko": {
+          "name": "Ten of Pentacles",
+          "upright": "대물림의 축적, 가문의 토대, 장기적 안정",
+          "reversed": "유산 갈등, 가치 불일치, 기반 균열",
+          "keywords": ["유산", "가족", "안정"]
+        },
+        "en": {
+          "name": "Ten of Pentacles",
+          "upright": "Legacy, inheritance, family, long-term success",
+          "reversed": "Disputes, misaligned values, shaky base",
+          "keywords": ["Legacy", "Family", "Stability"]
+        },
+        "es": {
+          "name": "Diez de Oros",
+          "upright": "Legado, herencia, familia, éxito a largo plazo",
+          "reversed": "Disputas, valores desalineados, base temblorosa",
+          "keywords": ["Legado", "Familia", "Estabilidad"]
+        },
+        "ja": {
+          "name": "金貨の10",
+          "upright": "継承、家系の土台、長期安定",
+          "reversed": "遺産争い、価値の不一致、基盤の亀裂",
+          "keywords": ["遺産", "家族", "安定"]
+        }
+      },
+      "status": {"ko":"approved","en":"approved","es":"approved","ja":"approved"},
+      "source": "llm"
+    },
+    {
+      "id": "pentacles_11",
+      "image": "cards/pentacles/pentacles_11.png",
+      "translations": {
+        "ko": {
+          "name": "Page of Pentacles",
+          "upright": "현실 감각의 학습, 기회의 제안, 씨앗을 심음",
+          "reversed": "산만한 목표, 계획 부재, 소식 지연",
+          "keywords": ["학습", "기회", "실천"]
+        },
+        "en": {
+          "name": "Page of Pentacles",
+          "upright": "Opportunity, study, manifestation, financial news",
+          "reversed": "Lack of focus, poor planning, delayed news",
+          "keywords": ["Study", "Opportunity", "Ground"]
+        },
+        "es": {
+          "name": "Sota de Oros",
+          "upright": "Oportunidad, estudio, manifestación, noticias financieras",
+          "reversed": "Falta de foco, mala planificación, retraso",
+          "keywords": ["Estudio", "Oportunidad", "Concretar"]
+        },
+        "ja": {
+          "name": "金貨のペイジ",
+          "upright": "現実的学び、機会の提案、種まき",
+          "reversed": "目標の散漫、計画不足、知らせの遅れ",
+          "keywords": ["学び", "機会", "着実"]
+        }
+      },
+      "status": {"ko":"approved","en":"approved","es":"approved","ja":"approved"},
+      "source": "llm"
+    },
+    {
+      "id": "pentacles_12",
+      "image": "cards/pentacles/pentacles_12.png",
+      "translations": {
+        "ko": {
+          "name": "Knight of Pentacles",
+          "upright": "꾸준한 실행, 성실한 루틴, 신뢰의 누적",
+          "reversed": "과도한 보수성, 지루한 고착, 융통성 결여",
+          "keywords": ["성실", "루틴", "지속"]
+        },
+        "en": {
+          "name": "Knight of Pentacles",
+          "upright": "Hard work, productivity, routine, conservatism",
+          "reversed": "Stagnation, boredom, inflexibility",
+          "keywords": ["Diligence", "Routine", "Steady"]
+        },
+        "es": {
+          "name": "Caballero de Oros",
+          "upright": "Trabajo duro, productividad, rutina, conservadurismo",
+          "reversed": "Estancamiento, aburrimiento, rigidez",
+          "keywords": ["Diligencia", "Rutina", "Constancia"]
+        },
+        "ja": {
+          "name": "金貨のナイト",
+          "upright": "着実な実行、誠実な習慣、信頼の積み重ね",
+          "reversed": "保守過多、単調な停滞、柔軟性不足",
+          "keywords": ["誠実", "習慣", "堅実"]
+        }
+      },
+      "status": {"ko":"approved","en":"approved","es":"approved","ja":"approved"},
+      "source": "llm"
+    },
+    {
+      "id": "pentacles_13",
+      "image": "cards/pentacles/pentacles_13.png",
+      "translations": {
+        "ko": {
+          "name": "Queen of Pentacles",
+          "upright": "따뜻한 실용, 안전한 안식처, 돌봄의 풍요",
+          "reversed": "과한 현실 집착, 자기소진, 경계 희미함",
+          "keywords": ["실용", "안전", "돌봄"]
+        },
+        "en": {
+          "name": "Queen of Pentacles",
+          "upright": "Nurturing, practical, security-focused, abundance",
+          "reversed": "Smothering, self-neglect, material fixations",
+          "keywords": ["Practical", "Security", "Care"]
+        },
+        "es": {
+          "name": "Reina de Oros",
+          "upright": "Cuidado, practicidad, enfoque en la seguridad, abundancia",
+          "reversed": "Agobio, descuido propio, apego material",
+          "keywords": ["Práctica", "Seguridad", "Cuidado"]
+        },
+        "ja": {
+          "name": "金貨のクイーン",
+          "upright": "温かな実務性、安全志向、豊かなケア",
+          "reversed": "過干渉、自己犠牲、物質への固執",
+          "keywords": ["実用", "安全", "養育"]
+        }
+      },
+      "status": {"ko":"approved","en":"approved","es":"approved","ja":"approved"},
+      "source": "llm"
+    },
+    {
+      "id": "pentacles_14",
+      "image": "cards/pentacles/pentacles_14.png",
+      "translations": {
+        "ko": {
+          "name": "King of Pentacles",
+          "upright": "풍요의 관리자, 확고한 기반, 신뢰받는 리더",
+          "reversed": "과도한 통제, 소유집착, 경직된 보수",
+          "keywords": ["풍요", "기반", "책임"]
+        },
+        "en": {
+          "name": "King of Pentacles",
+          "upright": "Wealth, success, leadership, security",
+          "reversed": "Control issues, possessiveness, rigidity",
+          "keywords": ["Wealth", "Foundation", "Responsibility"]
+        },
+        "es": {
+          "name": "Rey de Oros",
+          "upright": "Riqueza, éxito, liderazgo, seguridad",
+          "reversed": "Control excesivo, posesividad, rigidez",
+          "keywords": ["Riqueza", "Base", "Responsabilidad"]
+        },
+        "ja": {
+          "name": "金貨のキング",
+          "upright": "豊かさの統治、盤石の基盤、信頼の統率",
+          "reversed": "過度の支配、所有執着、硬直",
+          "keywords": ["豊かさ", "基盤", "責務"]
+        }
+      },
+      "status": {"ko":"approved","en":"approved","es":"approved","ja":"approved"},
+      "source": "llm"
+    }
+  ]
+}
+
