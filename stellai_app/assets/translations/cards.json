@@ -2,2500 +2,1708 @@
   "cards": [
     {
       "id": "major_0",
+      "originalId": "major0",
       "image": "cards/major/major_0.png",
       "translations": {
         "ko": {
-          "name": "바보",
-          "upright": "새로운 시작, 자발성, 믿음, 순수, 잠재력",
-          "reversed": "경솔함, 준비 부족, 방향 감각 상실",
-          "keywords": ["새출발", "모험", "낙관"]
+          "name": "방랑자 고양이",
+          "upright": "“생각은 그만! 지금은 마음이 이끄는 대로 가볍게 시작할 때.”",
+          "reversed": "“무모한 계획은 위험을 부를 수 있다. 발밑을 한번 돌아볼 필요가 있다.”",
+          "story": "조각보 옷을 입은 고양이가 세상 끝에 서서 망설임 없이 첫발을 내딛는다. 그의 눈은 발밑의 낭떠러지가 아닌, 자유롭게 춤추는 나비를 향해 있다. 가벼운 보따리만큼이나 가벼운 마음으로, 그는 계획 없는 여정을 떠난다. 이 카드는 미지의 세계를 향한 순수한 신뢰와 새로운 시작의 용기를 상징한다.",
+          "keywords": [
+            "새로운 시작",
+            "순수한 마음",
+            "자유로운 영혼",
+            "모험",
+            "무한한 가능성",
+            "낙관주의"
+          ],
+          "questions": [
+            "결과에 대한 두려움 없이, 순수한 마음으로 시작하고 싶은 새로운 모험은 무엇인가요?",
+            "당신의 삶에서 신념을 갖고 과감히 뛰어들어야 할 영역은 어디인가요?"
+          ],
+          "quote": "“가장 먼 길도 첫 걸음부터 시작되는 법이지!”",
+          "summary": [
+            "시작",
+            "순수",
+            "자유",
+            "모험",
+            "예측불가"
+          ]
         },
         "en": {
-          "name": "The Fool",
-          "upright": "New beginnings, spontaneity, faith, innocence, potential",
-          "reversed": "Recklessness, naive risk, lack of direction",
-          "keywords": ["Fresh start", "Adventure", "Optimism"]
-        },
-        "es": {
-          "name": "El Loco",
-          "upright": "Nuevos comienzos, espontaneidad, fe, inocencia, potencial",
-          "reversed": "Imprudencia, riesgo ingenuo, falta de rumbo",
-          "keywords": ["Nuevo inicio", "Aventura", "Optimismo"]
-        },
-        "ja": {
-          "name": "愚者",
-          "upright": "新たな始まり、自発性、信頼、純粋、可能性",
-          "reversed": "軽率、準備不足、方向喪失",
-          "keywords": ["新章", "冒険", "楽観"]
+          "name": "The Wanderer Cat",
+          "upright": "",
+          "reversed": "",
+          "story": "A cat in a patchwork robe stands at the edge of the world, taking its first step without hesitation. Its eyes are not on the cliff below, but on a freely dancing butterfly above. With a heart as light as its small bundle, it embarks on an unplanned journey. This card symbolizes pure trust in the unknown and the courage of new beginnings.",
+          "keywords": [],
+          "questions": [],
+          "quote": "",
+          "summary": []
         }
       },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
+      "status": {
+        "ko": "approved",
+        "en": "pending",
+        "es": "pending",
+        "ja": "pending"
+      },
+      "source": "chat_coreen_tarot_v1",
+      "metadata": {
+        "arcana": "Major",
+        "suit": "",
+        "number": 0,
+        "title": {
+          "top_main": "0",
+          "bottom_main": "LE MATOUILLE",
+          "native": "방랑자 고양이",
+          "en": "The Wanderer Cat",
+          "original_tarot": "THE FOOL"
+        },
+        "colorTheme": [
+          "청색(자유, 희망)",
+          "황색(낙천성)",
+          "다채로움(가능성)",
+          "백색(순수)"
+        ],
+        "props": "그를 이끄는 나비는 순수한 영감과 직관을 상징한다. 어깨에 멘 작은 보따리는 물질에 얽매이지 않음을, 발치의 들꽃은 어디서든 피어나는 희망을 의미한다.",
+        "background": "화창한 봄날의 시골 언덕길. 푸른 하늘에는 뭉게구름이 평화롭게 떠 있고, 멀리 나지막한 산과 초가집들이 보인다. 왼쪽 상단에는 온화한 태양이 빛나며 그의 여정을 축복한다.",
+        "symbolSummary": [
+          "시작",
+          "순수",
+          "자유",
+          "모험",
+          "예측불가"
+        ]
+      }
     },
     {
       "id": "major_1",
+      "originalId": "major1",
       "image": "cards/major/major_1.png",
       "translations": {
         "ko": {
-          "name": "마법사",
-          "upright": "의지를 담은 실현, 재치와 자원, 집중된 힘",
-          "reversed": "속임수, 방향 상실, 의지 약화",
-          "keywords": ["실현", "집중", "주도권"]
+          "name": "재주꾼 고양이",
+          "upright": "“모든 준비는 끝났다. 당신의 재능을 세상에 보여줄 시간이다!”",
+          "reversed": "“재능을 엉뚱한 곳에 쓰거나, 계획이 허황될 수 있다. 집중력이 필요하다.”",
+          "story": "눈부신 햇살 아래, 재주꾼 고양이가 대청마루 위에서 신명 나게 창조의 춤을 춘다. 그의 의지에 따라 붓에서는 불꽃이 튀고 찻잔에서는 물이 솟아오른다. 그는 세상의 모든 요소를 자유자재로 다루며, 아이디어를 현실로 빚어낸다. 이 카드는 당신의 재능과 의지를 믿고, 지금 바로 행동으로 옮길 때임을 알려준다.",
+          "keywords": [
+            "새로운 프로젝트",
+            "재능의 발현",
+            "자신감",
+            "창의력",
+            "실행력",
+            "성공적인 시작"
+          ],
+          "questions": [
+            "지금 당신의 손에 주어진 도구들로 무엇을 창조하고 세상에 보여주고 싶나요?",
+            "당신의 어떤 잠재력을 이제 세상에 드러낼 시간인가요?"
+          ],
+          "quote": "“세상 만물이 내 손안의 장난감이지!”",
+          "summary": [
+            "창조",
+            "재능",
+            "시작",
+            "자신감",
+            "실현"
+          ]
         },
         "en": {
-          "name": "The Magician",
-          "upright": "Manifestation, resourcefulness, power, skill, concentration",
-          "reversed": "Manipulation, poor planning, untapped talents",
-          "keywords": ["Manifest", "Focus", "Initiative"]
-        },
-        "es": {
-          "name": "El Mago",
-          "upright": "Manifestación, ingenio, poder, destreza, concentración",
-          "reversed": "Manipulación, mala planificación, talento bloqueado",
-          "keywords": ["Manifestar", "Enfoque", "Voluntad"]
-        },
-        "ja": {
-          "name": "魔術師",
-          "upright": "具現化、機転、力、技量、集中",
-          "reversed": "操作、計画不足、力の滞り",
-          "keywords": ["具現", "集中", "主導"]
+          "name": "The Talented Cat",
+          "upright": "",
+          "reversed": "",
+          "story": "Under the dazzling sunlight, the Talented Cat performs a joyous dance of creation on the wooden porch. By its will, sparks fly from a brush and water springs from a teacup. It wields all the world's elements freely, turning ideas into reality. This card tells you it's time to believe in your talents and will, and to take action now.",
+          "keywords": [],
+          "questions": [],
+          "quote": "",
+          "summary": []
         }
       },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "major_2",
-      "image": "cards/major/major_2.png",
-      "translations": {
-        "ko": {
-          "name": "여교황",
-          "upright": "깊은 직관, 고요한 지혜, 보이지 않는 인도",
-          "reversed": "비밀주의, 직관 단절, 내면 혼란",
-          "keywords": ["직관", "비의", "침잠"]
-        },
-        "en": {
-          "name": "The High Priestess",
-          "upright": "Intuition, unconscious, inner voice, divine feminine",
-          "reversed": "Secrets, withdrawal, blocked intuition",
-          "keywords": ["Intuition", "Mystery", "Silence"]
-        },
-        "es": {
-          "name": "La Sacerdotisa",
-          "upright": "Intuición, inconsciente, voz interior, lo sagrado femenino",
-          "reversed": "Secretismo, aislamiento, intuición bloqueada",
-          "keywords": ["Intuición", "Misterio", "Silencio"]
-        },
-        "ja": {
-          "name": "女教皇",
-          "upright": "直感、無意識、内なる声、聖性",
-          "reversed": "秘匿、孤立、直感の遮断",
-          "keywords": ["直感", "秘儀", "静寂"]
-        }
+      "status": {
+        "ko": "approved",
+        "en": "pending",
+        "es": "pending",
+        "ja": "pending"
       },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "major_3",
-      "image": "cards/major/major_3.png",
-      "translations": {
-        "ko": {
-          "name": "여황제",
-          "upright": "풍요와 돌봄, 창조적 결실, 생명력",
-          "reversed": "과보호, 정체, 자기 소진",
-          "keywords": ["풍요", "양육", "창조"]
+      "source": "chat_coreen_tarot_v1",
+      "metadata": {
+        "arcana": "Major",
+        "suit": "",
+        "number": 1,
+        "title": {
+          "top_main": "1",
+          "bottom_main": "L'ARTISAN CÉLESTE",
+          "native": "재주꾼 고양이",
+          "en": "The Talented Cat",
+          "original_tarot": "THE MAGICIAN"
         },
-        "en": {
-          "name": "The Empress",
-          "upright": "Abundance, nurturing, fertility, feminine energy, beauty",
-          "reversed": "Dependence, emptiness, creative block",
-          "keywords": ["Abundance", "Nurture", "Creation"]
-        },
-        "es": {
-          "name": "La Emperatriz",
-          "upright": "Abundancia, cuidado, fertilidad, energía femenina, belleza",
-          "reversed": "Dependencia, vacío, bloqueo creativo",
-          "keywords": ["Abundancia", "Cuidado", "Creación"]
-        },
-        "ja": {
-          "name": "女帝",
-          "upright": "豊かさ、慈しみ、多産、女性性、美",
-          "reversed": "依存、空虚、創造の停滞",
-          "keywords": ["豊穣", "育み", "創造"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "major_4",
-      "image": "cards/major/major_4.png",
-      "translations": {
-        "ko": {
-          "name": "황제",
-          "upright": "질서와 구조, 결단과 보호, 권위의 버팀목",
-          "reversed": "경직, 지배, 불안정한 통제",
-          "keywords": ["질서", "권위", "보호"]
-        },
-        "en": {
-          "name": "The Emperor",
-          "upright": "Authority, structure, control, masculine energy",
-          "reversed": "Domination, rigidity, lack of discipline",
-          "keywords": ["Order", "Authority", "Protection"]
-        },
-        "es": {
-          "name": "El Emperador",
-          "upright": "Autoridad, estructura, control, energía masculina",
-          "reversed": "Dominio, rigidez, indisciplina",
-          "keywords": ["Orden", "Autoridad", "Protección"]
-        },
-        "ja": {
-          "name": "皇帝",
-          "upright": "権威、構造、統制、守護",
-          "reversed": "硬直、支配、統制不全",
-          "keywords": ["秩序", "権威", "守り"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "major_5",
-      "image": "cards/major/major_5.png",
-      "translations": {
-        "ko": {
-          "name": "교황",
-          "upright": "전통의 지혜, 의식과 가르침, 신뢰의 길",
-          "reversed": "형식주의, 맹종, 내면의 진리 왜곡",
-          "keywords": ["전통", "교훈", "신뢰"]
-        },
-        "en": {
-          "name": "The Hierophant",
-          "upright": "Tradition, conformity, religious beliefs, institution",
-          "reversed": "Rebellion, dogma, misguidance",
-          "keywords": ["Tradition", "Ritual", "Guidance"]
-        },
-        "es": {
-          "name": "El Hierofante",
-          "upright": "Tradición, conformidad, creencias, institución",
-          "reversed": "Rebeldía, dogma, orientación fallida",
-          "keywords": ["Tradición", "Rito", "Guía"]
-        },
-        "ja": {
-          "name": "法王",
-          "upright": "伝統、儀礼、教え、信頼",
-          "reversed": "反抗、教条、迷走",
-          "keywords": ["伝統", "教え", "導き"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "major_6",
-      "image": "cards/major/major_6.png",
-      "translations": {
-        "ko": {
-          "name": "연인",
-          "upright": "조화로운 선택, 진심의 연결, 사랑의 서약",
-          "reversed": "불일치, 유혹에 흔들림, 가치의 혼선",
-          "keywords": ["사랑", "선택", "합일"]
-        },
-        "en": {
-          "name": "The Lovers",
-          "upright": "Love, harmony, relationships, choices, alignment",
-          "reversed": "Imbalance, misalignment, temptation",
-          "keywords": ["Union", "Choice", "Harmony"]
-        },
-        "es": {
-          "name": "Los Enamorados",
-          "upright": "Amor, armonía, vínculos, decisiones, alineación",
-          "reversed": "Desequilibrio, desalineación, tentación",
-          "keywords": ["Unión", "Elección", "Armonía"]
-        },
-        "ja": {
-          "name": "恋人",
-          "upright": "愛、調和、関係、選択、一致",
-          "reversed": "不調和、価値のずれ、誘惑",
-          "keywords": ["結び", "選択", "調和"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "major_7",
-      "image": "cards/major/major_7.png",
-      "translations": {
-        "ko": {
-          "name": "전차",
-          "upright": "의지의 전진, 감정과 이성의 조율, 승리의 추진력",
-          "reversed": "제어 상실, 분산된 에너지, 방향 혼선",
-          "keywords": ["전진", "승리", "통제"]
-        },
-        "en": {
-          "name": "The Chariot",
-          "upright": "Direction, control, willpower, victory, determination",
-          "reversed": "Lack of control, aggression, confusion",
-          "keywords": ["Drive", "Victory", "Discipline"]
-        },
-        "es": {
-          "name": "El Carro",
-          "upright": "Dirección, control, voluntad, victoria, determinación",
-          "reversed": "Descontrol, agresión, confusión",
-          "keywords": ["Impulso", "Victoria", "Disciplina"]
-        },
-        "ja": {
-          "name": "戦車",
-          "upright": "方向性、統御、意志力、勝利、決意",
-          "reversed": "制御不能、強圧、混乱",
-          "keywords": ["前進", "勝利", "統制"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "major_8",
-      "image": "cards/major/major_8.png",
-      "translations": {
-        "ko": {
-          "name": "힘",
-          "upright": "온화한 용기, 자비의 힘, 본능의 길들이기",
-          "reversed": "의기소침, 분노의 폭주, 자기 의심",
-          "keywords": ["용기", "자비", "내면의 힘"]
-        },
-        "en": {
-          "name": "Strength",
-          "upright": "Courage, patience, compassion, inner strength",
-          "reversed": "Self-doubt, weakness, raw emotion",
-          "keywords": ["Courage", "Compassion", "Fortitude"]
-        },
-        "es": {
-          "name": "La Fuerza",
-          "upright": "Valor, paciencia, compasión, fuerza interior",
-          "reversed": "Duda de sí, debilidad, emociones crudas",
-          "keywords": ["Valor", "Compasión", "Fortaleza"]
-        },
-        "ja": {
-          "name": "力",
-          "upright": "勇気、忍耐、慈愛、内なる力",
-          "reversed": "自己不信、弱さ、感情の暴走",
-          "keywords": ["勇気", "慈しみ", "剛毅"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "major_9",
-      "image": "cards/major/major_9.png",
-      "translations": {
-        "ko": {
-          "name": "은둔자",
-          "upright": "고요한 탐구, 내면의 등불, 지혜로운 길잡이",
-          "reversed": "고립의 장기화, 회피, 자신과의 단절",
-          "keywords": ["성찰", "고독", "지혜"]
-        },
-        "en": {
-          "name": "The Hermit",
-          "upright": "Soul-searching, introspection, solitude, guidance",
-          "reversed": "Loneliness, isolation, misdirection",
-          "keywords": ["Reflection", "Solitude", "Guidance"]
-        },
-        "es": {
-          "name": "El Ermitaño",
-          "upright": "Búsqueda interior, introspección, soledad, guía",
-          "reversed": "Soledad estéril, aislamiento, desvío",
-          "keywords": ["Reflexión", "Soledad", "Guía"]
-        },
-        "ja": {
-          "name": "隠者",
-          "upright": "内省、孤高、魂の探求、導き",
-          "reversed": "孤立長期、回避、迷走",
-          "keywords": ["内省", "孤独", "導き"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
+        "colorTheme": [
+          "황색(총명, 창조)",
+          "청색(영감)",
+          "홍색(열정, 활력)",
+          "백색(순수, 잠재력)"
+        ],
+        "props": "그의 주위를 맴도는 네 가지 신묘한 물건들: 끝에서 작은 불꽃이 튀는 붓(지팡이/불), 맑은 물이 소용돌이치는 청자 찻잔(컵/물), 날카로운 지성을 상징하며 공중에 떠 있는 작은 장도(검/공기), 그리고 황금빛을 발하며 회전하는 복주머니 속 엽전(펜타클/흙).",
+        "background": "햇살이 눈부시게 쏟아지는 한옥의 넓은 대청마루. 활짝 열린 문 너머로 생기 넘치는 푸른 여름 풍경이 펼쳐져, 그의 창조력이 세상과 연결되어 있음을 보여준다.",
+        "symbolSummary": [
+          "창조",
+          "재능",
+          "시작",
+          "자신감",
+          "실현"
+        ]
+      }
     },
     {
       "id": "major_10",
+      "originalId": "major10",
       "image": "cards/major/major_10.png",
       "translations": {
         "ko": {
-          "name": "운명의 수레바퀴",
-          "upright": "순환의 전환점, 행운의 바람, 인연의 흐름",
-          "reversed": "반복의 굴레, 타이밍 엇박자, 수동적 체념",
-          "keywords": ["전환", "순환", "운명"]
+          "name": "운명의 맷돌",
+          "upright": "“운명의 바퀴가 당신에게 유리하게 돌기 시작했다. 변화의 흐름에 올라타라.”",
+          "reversed": "“불운이 따르거나, 변화에 저항하고 있다. 지금은 통제할 수 없는 흐름이니, 때를 기다려라.”",
+          "story": "시간과 공간을 초월한 곳에서, 거대한 운명의 맷돌이 끊임없이 돌아간다. 봄의 기쁨에 올라타는 고양이가 있는가 하면, 가을의 쓸쓸함과 함께 내려오는 고양이도 있다. 꼭대기에 앉은 오드아이 고양이는 이 모든 순환이 자연스러운 우주의 법칙임을 알고 담담히 지켜볼 뿐이다. 이 카드는 당신의 의지와 상관없이 새로운 국면이 시작되었음을, 거대한 운명의 흐름에 몸을 맡겨야 할 때임을 알린다.",
+          "keywords": [
+            "운명의 전환점",
+            "예상치 못한 변화",
+            "행운",
+            "업보(카르마)",
+            "인생의 순환",
+            "상황의 진전"
+          ],
+          "questions": [
+            "당신 삶의 어떤 국면이 끝나고, 새롭게 시작되고 있나요? 이 변화의 흐름을 어떻게 받아들일 수 있을까요?",
+            "지금 당신이 운명의 수레바퀴 어디쯤에 위치해 있다고 느끼나요? 현재의 위치가 영원하지 않음을 안다면, 무엇을 다르게 행동할 수 있을까요?"
+          ],
+          "quote": "“오르막이 있으면, 내리막도 있는 법. 모든 것은 돌고 도느니.”",
+          "summary": [
+            "운명",
+            "변화",
+            "순환",
+            "전환점",
+            "행운"
+          ]
         },
         "en": {
-          "name": "Wheel of Fortune",
-          "upright": "Good luck, karma, life cycles, destiny, change",
-          "reversed": "Resistance to change, bad timing, setbacks",
-          "keywords": ["Turn", "Cycle", "Fate"]
-        },
-        "es": {
-          "name": "La Rueda de la Fortuna",
-          "upright": "Buena suerte, karma, ciclos, destino, cambio",
-          "reversed": "Resistencia al cambio, mal momento, reveses",
-          "keywords": ["Giro", "Ciclo", "Destino"]
-        },
-        "ja": {
-          "name": "運命の輪",
-          "upright": "幸運、因果、循環、宿命、変化",
-          "reversed": "変化拒否、時機逸脱、後退",
-          "keywords": ["転機", "循環", "宿命"]
+          "name": "The Millstone of Fate",
+          "upright": "",
+          "reversed": "",
+          "story": "In a place beyond time and space, the great Millstone of Fate turns ceaselessly. There are cats who rise with the joy of spring, and those who descend with the melancholy of autumn. The odd-eyed cat sitting at the top simply watches, knowing that all this circulation is the natural law of the universe. This card announces that a new phase has begun, regardless of your will, and it is time to surrender to the great flow of destiny.",
+          "keywords": [],
+          "questions": [],
+          "quote": "",
+          "summary": []
         }
       },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
+      "status": {
+        "ko": "approved",
+        "en": "pending",
+        "es": "pending",
+        "ja": "pending"
+      },
+      "source": "chat_coreen_tarot_v1",
+      "metadata": {
+        "arcana": "Major",
+        "suit": "",
+        "number": 10,
+        "title": {
+          "top_main": "10",
+          "bottom_main": "LA ROUE DE FORTUNE",
+          "native": "운명의 맷돌",
+          "en": "The Millstone of Fate",
+          "original_tarot": "WHEEL OF FORTUNE"
+        },
+        "colorTheme": [
+          "사계절색(순환, 변화)",
+          "금색(운명)",
+          "자색(신비, 우주)",
+          "백색(시작과 끝)"
+        ],
+        "props": "중심의 거대한 맷돌은 사계절로 나뉘어 있다. 봄에는 새싹과 함께 위로 올라가는 아기 고양이, 여름에는 정상에서 즐거워하는 고양이, 가을에는 낙엽과 함께 내려오는 고양이, 겨울에는 바닥에서 다시 올라갈 때를 기다리는 고양이가 그려져 삶의 순환을 보여준다. 카드의 네 귀퉁이에는 구름 위에 앉은 사천왕(四天王) 고양이들이 맷돌의 회전을 묵묵히 지켜보고 있다.",
+        "background": "지상이 아닌, 구름과 성운이 떠다니는 신비로운 우주 공간. 개인의 의지를 넘어선 거대한 운명의 흐름 속에 있음을 암시한다.",
+        "symbolSummary": [
+          "운명",
+          "변화",
+          "순환",
+          "전환점",
+          "행운"
+        ]
+      }
     },
     {
       "id": "major_11",
+      "originalId": "major11",
       "image": "cards/major/major_11.png",
       "translations": {
         "ko": {
-          "name": "정의",
-          "upright": "균형 잡힌 판단, 진실의 저울, 책임의 회복",
-          "reversed": "불공정, 자기합리화, 왜곡된 판단",
-          "keywords": ["균형", "진실", "책임"]
+          "name": "포도대장 고양이",
+          "upright": "“진실을 마주하고, 공정한 결정을 내려라. 당신의 행동에 책임을 져야 할 때이다.”",
+          "reversed": "“불공정한 상황, 편견, 혹은 책임을 회피하고 있다. 진실을 외면하지 마라.”",
+          "story": "엄숙한 대청 위, 포도대장 고양이는 한 치의 흔들림도 없는 눈으로 진실을 판결한다. 그의 저울은 모든 행동의 무게를 정확히 재고, 그의 칼은 모든 결과를 명확하게 가른다. 이곳에서는 동정심이나 편견이 아닌, 오직 인과응보의 법칙만이 존재한다. 이 카드는 이제 감정을 배제하고, 공정하고 이성적인 판단을 내려야 할 때임을 알린다. 모든 행동에는 결과가 따른다.",
+          "keywords": [
+            "공정한 결정",
+            "진실",
+            "법적인 문제",
+            "인과응보",
+            "책임",
+            "균형과 조화",
+            "객관성"
+          ],
+          "questions": [
+            "지금 당신이 마주해야 할 진실은 무엇인가요? 감정을 배제하고 객관적으로 상황을 바라보고 있나요?",
+            "당신의 과거 행동이 현재 어떤 결과를 가져왔나요? 앞으로의 행동에 대해 어떤 책임을 져야 할까요?"
+          ],
+          "quote": "“진실의 무게는 결코 가볍지 않다.”",
+          "summary": [
+            "공정함",
+            "진실",
+            "균형",
+            "인과응보",
+            "결정"
+          ]
         },
         "en": {
-          "name": "Justice",
-          "upright": "Justice, fairness, truth, law, balance",
-          "reversed": "Unfairness, bias, dishonesty",
-          "keywords": ["Balance", "Truth", "Accountability"]
-        },
-        "es": {
-          "name": "La Justicia",
-          "upright": "Justicia, equidad, verdad, ley, equilibrio",
-          "reversed": "Injusticia, sesgo, deshonestidad",
-          "keywords": ["Equilibrio", "Verdad", "Responsabilidad"]
-        },
-        "ja": {
-          "name": "正義",
-          "upright": "公正、真実、法、均衡",
-          "reversed": "不公正、偏り、不実",
-          "keywords": ["均衡", "真実", "責任"]
+          "name": "The Just Cat",
+          "upright": "",
+          "reversed": "",
+          "story": "In the solemn courthouse, the Just Cat delivers verdicts on truth with an unwavering gaze. Its scales weigh the consequence of every action with precision, and its sword defines every outcome with clarity. Here, there is no room for pity or prejudice, only the law of cause and effect. This card signifies that it is time to set emotions aside and make a fair, rational judgment. Every action has a consequence.",
+          "keywords": [],
+          "questions": [],
+          "quote": "",
+          "summary": []
         }
       },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
+      "status": {
+        "ko": "approved",
+        "en": "pending",
+        "es": "pending",
+        "ja": "pending"
+      },
+      "source": "chat_coreen_tarot_v1",
+      "metadata": {
+        "arcana": "Major",
+        "suit": "",
+        "number": 11,
+        "title": {
+          "top_main": "11",
+          "bottom_main": "LA JUSTICE",
+          "native": "포도대장 고양이",
+          "en": "The Just Cat",
+          "original_tarot": "JUSTICE"
+        },
+        "colorTheme": [
+          "청색(이성, 공정)",
+          "백색(진실, 명료함)",
+          "흑색(엄격함, 원칙)",
+          "금색(권위)"
+        ],
+        "props": "그가 든 놋저울은 어느 쪽으로도 기울지 않아 완벽한 공정함을 상징한다. 날카롭게 선 칼은 진실을 가려내는 명료한 이성과, 그 결정에 따르는 엄격한 결과를 의미한다. 배경의 기둥들은 그가 지키는 사회의 법과 질서라는 굳건한 구조를 나타낸다.",
+        "background": "조선시대의 재판이 열리는 대청. 좌우가 완벽하게 대칭을 이루어 치우침 없는 공정함을 강조한다. 불필요한 장식이 없어 오직 진실을 가리는 데만 집중하는 엄숙한 분위기이다.",
+        "symbolSummary": [
+          "공정함",
+          "진실",
+          "균형",
+          "인과응보",
+          "결정"
+        ]
+      }
     },
     {
       "id": "major_12",
+      "originalId": "major12",
       "image": "cards/major/major_12.png",
       "translations": {
         "ko": {
-          "name": "매달린 사람",
-          "upright": "멈춤을 통한 깨달음, 시선의 전환, 집착의 해제",
-          "reversed": "무의미한 정체, 회피적 지연, 희생의 남용",
-          "keywords": ["전환", "집착 해제", "통찰"]
+          "name": "구도자 고양이",
+          "upright": "“지금은 움직일 때가 아니다. 한 걸음 물러나 세상을 거꾸로 보라. 새로운 해답이 보일 것이다.”",
+          "reversed": "“의미 없는 희생을 하고 있거나, 아무것도 얻지 못한 채 시간만 보내고 있다. 관점을 바꾸거나, 이제 그만 내려와라.”",
+          "story": "안개 낀 산속, 구도자 고양이는 소나무에 거꾸로 매달려 세상의 시간을 멈춘다. 발이 묶여 움직일 수 없지만, 그의 정신은 그 어느 때보다 자유롭게 세상을 다른 관점으로 바라본다. 주머니에서 떨어진 엽전은 그가 포기한 낡은 가치들이며, 그 희생을 통해 얻는 것은 더 깊은 깨달음의 빛이다. 이 카드는 지금은 행동을 멈추고, 상황을 완전히 다른 시각으로 바라봐야 할 때임을 조언한다.",
+          "keywords": [
+            "관점의 전환",
+            "인내의 시간",
+            "자발적 희생",
+            "상황의 정체",
+            "내려놓기",
+            "영적인 깨달음"
+          ],
+          "questions": [
+            "당신의 삶에서 지금 정체되어 있다고 느끼는 것은 무엇인가요? 그 상황을 완전히 다른 각도에서 바라본다면 무엇이 보일까요?",
+            "더 큰 깨달음이나 성장을 위해 당신이 기꺼이 내려놓거나 희생해야 할 것은 무엇인가요?"
+          ],
+          "quote": "“세상을 거꾸로 보니, 비로소 길이 보이더라.”",
+          "summary": [
+            "희생",
+            "새로운 관점",
+            "인내",
+            "정지",
+            "깨달음"
+          ]
         },
         "en": {
-          "name": "The Hanged Man",
-          "upright": "Surrender, suspension, letting go, new perspectives",
-          "reversed": "Delay, indecision, stalling",
-          "keywords": ["Perspective", "Release", "Pause"]
-        },
-        "es": {
-          "name": "El Colgado",
-          "upright": "Entrega, suspensión, soltar, nueva perspectiva",
-          "reversed": "Demora, indecisión, estancamiento",
-          "keywords": ["Perspectiva", "Soltar", "Pausa"]
-        },
-        "ja": {
-          "name": "吊られた男",
-          "upright": "委ねる、停止、手放し、新視点",
-          "reversed": "遅延、優柔不断、停滞",
-          "keywords": ["視点転換", "解放", "一時停止"]
+          "name": "The Seeker Cat",
+          "upright": "",
+          "reversed": "",
+          "story": "In a misty mountain, the Seeker Cat stops the time of the world by hanging upside down from a pine tree. Though its feet are bound and it cannot move, its spirit is freer than ever, seeing the world from a new perspective. The coins fallen from its pocket are the old values it has sacrificed, and through this sacrifice, it gains the light of deeper enlightenment. This card advises that it is time to pause, suspend action, and look at your situation from a completely different angle.",
+          "keywords": [],
+          "questions": [],
+          "quote": "",
+          "summary": []
         }
       },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
+      "status": {
+        "ko": "approved",
+        "en": "pending",
+        "es": "pending",
+        "ja": "pending"
+      },
+      "source": "chat_coreen_tarot_v1",
+      "metadata": {
+        "arcana": "Major",
+        "suit": "",
+        "number": 12,
+        "title": {
+          "top_main": "12",
+          "bottom_main": "LE PENDU",
+          "native": "구도자 고양이",
+          "en": "The Seeker Cat",
+          "original_tarot": "THE HANGED MAN"
+        },
+        "colorTheme": [
+          "회색(정지, 중립)",
+          "보라색(깨달음, 영성)",
+          "청록색(인내, 치유)",
+          "황색(지혜의 빛)"
+        ],
+        "props": "그가 매달린 소나무는 십장생(十長生) 중 하나로, 굳건한 절개와 영원한 생명력을 상징한다. 발이 묶인 것은 물리적인 속박이지만, 이를 통해 정신적인 자유와 해탈을 얻음을 암시한다. 주머니에서 떨어진 몇 개의 엽전은 그가 기꺼이 포기한 세속적인 가치를 의미한다.",
+        "background": "안개가 자욱한 깊은 산속. 주변 세상과 단절된 채 오직 자기 자신에게만 집중할 수 있는 고요하고 신비로운 공간이다. 그의 희생과 인내의 시간이 끝나면 안개가 걷히고 새로운 세상이 보일 것임을 암시한다.",
+        "symbolSummary": [
+          "희생",
+          "새로운 관점",
+          "인내",
+          "정지",
+          "깨달음"
+        ]
+      }
     },
     {
       "id": "major_13",
+      "originalId": "major13",
       "image": "cards/major/major_13.png",
       "translations": {
         "ko": {
-          "name": "죽음",
-          "upright": "막의 종결, 본질적 변화, 새 장의 개막",
-          "reversed": "변화 회피, 낡은 고집, 끝맺음의 지연",
-          "keywords": ["종결", "변환", "재시작"]
+          "name": "사신(死神) 고양이",
+          "upright": "“낡은 것은 이제 끝났다. 이 변화를 받아들이고 새로운 시작을 준비하라.”",
+          "reversed": "“끝을 받아들이지 못하고 변화에 저항하고 있다. 과거에 대한 미련을 버려야 한다.”",
+          "story": "검은 옷의 사신 고양이가 황량한 들판에 서서 낡은 모든 것을 거두어들인다. 그의 호미질 한 번에 과거의 영광과 낡은 집착들이 힘없이 쓰러진다. 그의 모습은 두렵지만, 그의 등 뒤로 떠오르는 새벽의 태양은 이 끝이 새로운 시작을 위한 필수적인 과정임을 말해준다. 묵은 것을 정리해야만 새싹이 돋아날 땅이 마련되는 법이다. 이 카드는 피할 수 없는 변화와 끝을 받아들여야 할 시간임을 알린다.",
+          "keywords": [
+            "필연적인 끝",
+            "중대한 변화",
+            "과거를 놓아주기",
+            "손실",
+            "정화",
+            "새로운 시작의 전조"
+          ],
+          "questions": [
+            "당신의 삶에서 이제 무엇을 끝내고 놓아주어야 하나요? 당신이 붙잡고 있는 낡은 것은 무엇인가요?",
+            "이 끝을 통해 어떤 새로운 시작이 가능해질 수 있을까요? 새로운 것을 받아들일 공간을 어떻게 만들 수 있나요?"
+          ],
+          "quote": "“모든 끝은 새로운 얼굴을 한 시작일 뿐.”",
+          "summary": [
+            "끝",
+            "변화",
+            "전환",
+            "놓아주기",
+            "새로운 시작"
+          ]
         },
         "en": {
-          "name": "Death",
-          "upright": "Endings, change, transformation, transition",
-          "reversed": "Resistance, stagnation, fear of change",
-          "keywords": ["Ending", "Transformation", "Rebirth"]
-        },
-        "es": {
-          "name": "La Muerte",
-          "upright": "Finales, cambio, transformación, transición",
-          "reversed": "Resistencia, estancamiento, temor al cambio",
-          "keywords": ["Final", "Transformación", "Renacer"]
-        },
-        "ja": {
-          "name": "死神",
-          "upright": "終焉、変化、変容、移行",
-          "reversed": "抵抗、停滞、変化への恐れ",
-          "keywords": ["終幕", "変容", "再生"]
+          "name": "The Reaper Cat",
+          "upright": "",
+          "reversed": "",
+          "story": "The Reaper Cat in black stands in a barren field, harvesting all that is old. With a swing of its hoe, past glories and old attachments fall away powerlessly. Its appearance is fearsome, but the rising sun at its back tells that this ending is a necessary process for a new beginning. The old must be cleared away to make room for new shoots to grow. This card announces that it is time to accept an inevitable change and ending.",
+          "keywords": [],
+          "questions": [],
+          "quote": "",
+          "summary": []
         }
       },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
+      "status": {
+        "ko": "approved",
+        "en": "pending",
+        "es": "pending",
+        "ja": "pending"
+      },
+      "source": "chat_coreen_tarot_v1",
+      "metadata": {
+        "arcana": "Major",
+        "suit": "",
+        "number": 13,
+        "title": {
+          "top_main": "13",
+          "bottom_main": "",
+          "native": "사신(死神) 고양이",
+          "en": "The Reaper Cat",
+          "original_tarot": "DEATH"
+        },
+        "colorTheme": [
+          "흑색(끝, 무(無))",
+          "백색(뼈, 정화)",
+          "적색(생명력의 소멸)",
+          "청색(새벽, 새로운 시작)"
+        ],
+        "props": "그가 든 호미는 파괴적인 '죽음'이 아닌, 새로운 시작을 위한 '정리'와 '변화'의 도구임을 상징한다. 발밑에는 베어진 마른 풀과 함께, 왕관과 엽전 등 과거의 영광과 집착을 상징하는 것들이 놓여있다. 이는 끝 앞에서는 모든 세속적인 가치가 무의미함을 보여준다.",
+        "background": "모든 것이 정리된 황량한 겨울 들판. 하지만 지평선 너머로 붉게 타오르는 새벽의 여명은, 이 끝이 결코 영원한 소멸이 아니며 곧 새로운 생명이 시작될 것임을 강력하게 암시한다.",
+        "symbolSummary": [
+          "끝",
+          "변화",
+          "전환",
+          "놓아주기",
+          "새로운 시작"
+        ]
+      }
     },
     {
       "id": "major_14",
+      "originalId": "major14",
       "image": "cards/major/major_14.png",
       "translations": {
         "ko": {
-          "name": "절제",
-          "upright": "조화로운 배합, 중용의 미덕, 흐름의 균형",
-          "reversed": "과유불급, 불균형, 조절 실패",
-          "keywords": ["조화", "중용", "균형"]
+          "name": "조화의 고양이",
+          "upright": "“인내심을 갖고 조화를 찾아라. 지금은 서로 다른 것들을 통합하여 균형을 맞춰야 할 때이다.”",
+          "reversed": "“불균형과 극단적인 행동을 경계하라. 조화를 잃고 한쪽으로 너무 치우쳐 있다.”",
+          "story": "고요한 시냇가에서, 조화의 고양이는 연금술사처럼 두 항아리 사이로 생명의 물을 옮긴다. 한 발은 현실의 땅에, 다른 한 발은 감정의 물에 담근 채, 그는 극단적인 것들을 섞어 완벽한 균형을 창조한다. 그의 인내심 있는 손길 아래, 모든 갈등은 치유되고 새로운 조화가 탄생한다. 이 카드는 극단에 치우치지 말고, 서로 다른 요소들을 통합하여 중용의 길을 찾아야 할 때임을 보여준다.",
+          "keywords": [
+            "균형",
+            "조화",
+            "인내심",
+            "중용",
+            "협력",
+            "치유",
+            "목적 있는 행동"
+          ],
+          "questions": [
+            "당신의 삶에서 지금 어떤 두 가지 요소를 조화롭게 만들어야 하나요? 너무 치우쳐 있는 영역은 어디인가요?",
+            "지금 당신에게 가장 필요한 인내심은 무엇인가요? 서두르지 않고 중용의 길을 걸을 준비가 되었나요?"
+          ],
+          "quote": "“서로 다른 두 길이 만나, 하나의 완벽한 길이 된다.”",
+          "summary": [
+            "조화",
+            "균형",
+            "치유",
+            "절제",
+            "통합"
+          ]
         },
         "en": {
-          "name": "Temperance",
-          "upright": "Balance, moderation, patience, harmony",
-          "reversed": "Excess, imbalance, discord",
-          "keywords": ["Harmony", "Blend", "Equilibrium"]
-        },
-        "es": {
-          "name": "La Templanza",
-          "upright": "Equilibrio, moderación, paciencia, armonía",
-          "reversed": "Exceso, desequilibrio, discordia",
-          "keywords": ["Armonía", "Mesura", "Equilibrio"]
-        },
-        "ja": {
-          "name": "節制",
-          "upright": "均衡、節度、調和、忍耐",
-          "reversed": "過剰、不均衡、不和",
-          "keywords": ["調和", "節度", "均衡"]
+          "name": "The Harmonious Cat",
+          "upright": "",
+          "reversed": "",
+          "story": "By a tranquil stream, the Harmonious Cat, like an alchemist, transfers the water of life between two jars. With one paw in the earth of reality and the other in the water of emotion, it creates perfect balance by mixing extremes. Under its patient touch, all conflicts are healed and a new harmony is born. This card shows that it is time to avoid extremes and find the middle path by integrating different elements.",
+          "keywords": [],
+          "questions": [],
+          "quote": "",
+          "summary": []
         }
       },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
+      "status": {
+        "ko": "approved",
+        "en": "pending",
+        "es": "pending",
+        "ja": "pending"
+      },
+      "source": "chat_coreen_tarot_v1",
+      "metadata": {
+        "arcana": "Major",
+        "suit": "",
+        "number": 14,
+        "title": {
+          "top_main": "14",
+          "bottom_main": "TEMPÉRANCE",
+          "native": "조화의 고양이",
+          "en": "The Harmonious Cat",
+          "original_tarot": "TEMPERANCE"
+        },
+        "colorTheme": [
+          "청록색(조화, 치유)",
+          "금색(연금술, 영성)",
+          "백색(순수, 정화)",
+          "자색(지혜)"
+        ],
+        "props": "두 개의 청자 항아리는 서로 다른 두 요소를, 그 사이를 오가는 황금빛 액체는 그 요소들이 결합하여 만들어내는 새로운 차원의 조화(연금술)를 상징한다. 시냇가에 피어난 붓꽃은 지혜와 희망을, 멀리 보이는 산으로 이어지는 길은 중용(中庸)의 길을 나타낸다.",
+        "background": "고요한 산속, 약초가 자라는 시냇가. 모든 것이 평화롭고, 자연의 순리대로 완벽한 조화를 이루고 있는 풍경이다. 현실과 이상이 조화롭게 공존하는 공간이다.",
+        "symbolSummary": [
+          "조화",
+          "균형",
+          "치유",
+          "절제",
+          "통합"
+        ]
+      }
     },
     {
       "id": "major_15",
+      "originalId": "major15",
       "image": "cards/major/major_15.png",
       "translations": {
         "ko": {
-          "name": "악마",
-          "upright": "그림자와의 대면, 집착의 사슬, 욕망의 시험",
-          "reversed": "해방의 결단, 중독의 탈피, 속박 해제",
-          "keywords": ["그림자", "유혹", "해방"]
+          "name": "도깨비 고양이",
+          "upright": "“당신을 묶고 있는 것은 무엇인가? 그 집착의 실체를 파악하고 스스로의 의지로 끊어내라.”",
+          "reversed": "“속박에서 벗어날 준비가 되었다. 중독과 부정적인 패턴을 깨고 자유를 향해 나아갈 시간이다.”",
+          "story": "어두운 동굴 속, 도깨비 고양이가 금은보화 위에서 웃고 있다. 그의 달콤한 유혹에 빠진 두 고양이는 스스로 목에 쇠사슬을 건 채 보물에만 눈이 멀어있다. 쇠사슬은 마음만 먹으면 벗을 수 있을 만큼 헐겁지만, 그들은 자신이 자유롭다는 사실을 잊었다. 이 카드는 당신이 스스로 만든 집착과 욕망의 감옥에 갇혀 있음을 경고한다. 그 속박은 당신 스스로 끊어낼 수 있다.",
+          "keywords": [
+            "물질적 집착",
+            "중독",
+            "부정적인 패턴",
+            "속박",
+            "쾌락주의",
+            "거짓된 믿음",
+            "자유의 상실"
+          ],
+          "questions": [
+            "당신의 삶에서 당신을 묶고 있는 '쇠사슬'은 무엇인가요? (나쁜 습관, 부정적인 관계, 물질적 집착 등) 그 쇠사슬이 사실은 스스로 벗을 수 있을 만큼 헐겁다는 것을 알고 있나요?",
+            "당신이 진정으로 자유로워지기 위해 무엇을 직면하고 포기해야 하나요?"
+          ],
+          "quote": "“벗어날 수 없다고? 그건 네가 만든 감옥일 뿐.”",
+          "summary": [
+            "속박",
+            "유혹",
+            "물질주의",
+            "집착",
+            "중독"
+          ]
         },
         "en": {
-          "name": "The Devil",
-          "upright": "Shadow self, attachment, addiction, restriction",
-          "reversed": "Release, reclaiming power, detachment",
-          "keywords": ["Shadow", "Temptation", "Freedom"]
-        },
-        "es": {
-          "name": "El Diablo",
-          "upright": "Sombra, apego, adicción, restricción",
-          "reversed": "Liberación, recuperar poder, desapego",
-          "keywords": ["Sombra", "Tentación", "Liberación"]
-        },
-        "ja": {
-          "name": "悪魔",
-          "upright": "影の自分、執着、依存、束縛",
-          "reversed": "解放、主導権回復、手放し",
-          "keywords": ["影", "誘惑", "解放"]
+          "name": "The Goblin Cat",
+          "upright": "",
+          "reversed": "",
+          "story": "In a dark cave, the Goblin Cat laughs atop a pile of treasure. Seduced by its sweet temptations, two other cats are blinded by the riches, with loose chains around their own necks. The chains are loose enough to be removed, but they have forgotten they are free. This card warns that you are trapped in a prison of your own making, built from obsession and desire. You have the power to break these bonds yourself.",
+          "keywords": [],
+          "questions": [],
+          "quote": "",
+          "summary": []
         }
       },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
+      "status": {
+        "ko": "approved",
+        "en": "pending",
+        "es": "pending",
+        "ja": "pending"
+      },
+      "source": "chat_coreen_tarot_v1",
+      "metadata": {
+        "arcana": "Major",
+        "suit": "",
+        "number": 15,
+        "title": {
+          "top_main": "15",
+          "bottom_main": "LE DIABLE",
+          "native": "도깨비 고양이",
+          "en": "The Goblin Cat",
+          "original_tarot": "THE DEVIL"
+        },
+        "colorTheme": [
+          "흑색(어둠, 속박)",
+          "금색(물질적 유혹)",
+          "적색(욕망, 쾌락)",
+          "회색(무지)"
+        ],
+        "props": "그의 발아래, 두 마리의 작은 고양이(남과 여) 목에는 헐거운 쇠사슬이 걸려있다. 쇠사슬은 스스로 벗을 수 있을 만큼 크지만, 그들은 금은보화에 눈이 멀어 자신이 속박된 사실조차 인지하지 못한다. 도깨비의 손에 들린 방망이는 헛된 소원을 이루어주며 더 깊은 욕망의 늪으로 빠뜨리는 '도깨비방망이'이다.",
+        "background": "출구가 보이지 않는 어둡고 습한 동굴 안. 유일한 빛은 반짝이는 금은보화에서 나오는 현란한 빛뿐이다. 물질적 욕망에 갇혀 더 넓은 세상을 보지 못하는 상태를 상징한다.",
+        "symbolSummary": [
+          "속박",
+          "유혹",
+          "물질주의",
+          "집착",
+          "중독"
+        ]
+      }
     },
     {
       "id": "major_16",
+      "originalId": "major16",
       "image": "cards/major/major_16.png",
       "translations": {
         "ko": {
-          "name": "탑",
-          "upright": "번개 같은 진실, 낡은 구조 붕괴, 깨어남",
-          "reversed": "피할 수 없는 변화 지연, 손실 최소화, 경고",
-          "keywords": ["각성", "붕괴", "해방"]
+          "name": "무너지는 탑",
+          "upright": "“기존의 모든 것이 무너진다. 고통스럽겠지만, 이 파괴는 진실을 드러내고 새로운 시작을 위한 기반이 될 것이다.”",
+          "reversed": "“재앙을 피하려 하거나, 무너져야 할 것을 억지로 붙들고 있다. 변화를 받아들이지 않으면 더 큰 위기가 온다.”",
+          "story": "어두운 폭풍우 속, 인간의 오만함으로 쌓아 올린 탑에 하늘의 번개가 내리꽂힌다. 영원할 것 같던 거짓된 구조는 한순간에 불타며 무너지고, 그 꼭대기에 있던 고양이들은 속수무책으로 추락한다. 이 끔찍한 파괴는 고통스럽지만, 동시에 그들을 가두고 있던 거짓된 감옥을 부수고 진실을 마주하게 하는 계기가 된다. 이 카드는 당신이 믿고 있던 세상이 갑작스럽게 무너져 내릴 수 있음을 경고한다.",
+          "keywords": [
+            "갑작스러운 붕괴",
+            "충격적인 사건",
+            "잘못된 믿음의 파괴",
+            "혼돈",
+            "진실의 폭로",
+            "새로운 시작을 위한 파괴"
+          ],
+          "questions": [
+            "당신의 삶에서 지금 불안정하거나 거짓된 기반 위에 세워진 '탑'은 무엇인가요? (관계, 직업, 신념 등)",
+            "이 갑작스러운 붕괴가 당신에게 어떤 진실을 드러내주고 있나요? 이 혼돈 속에서 무엇을 배워야 할까요?"
+          ],
+          "quote": "“진실의 번개 앞에서는, 가장 높은 탑도 한 줌의 재가 될 뿐.”",
+          "summary": [
+            "갑작스러운 변화",
+            "파괴",
+            "붕괴",
+            "진실의 발견",
+            "혼돈"
+          ]
         },
         "en": {
-          "name": "The Tower",
-          "upright": "Sudden change, upheaval, disaster, revelation",
-          "reversed": "Averting disaster, fear of change, warning",
-          "keywords": ["Awakening", "Upheaval", "Truth"]
-        },
-        "es": {
-          "name": "La Torre",
-          "upright": "Cambio súbito, agitación, desastre, revelación",
-          "reversed": "Evitar desastre, temor al cambio, aviso",
-          "keywords": ["Despertar", "Ruptura", "Verdad"]
-        },
-        "ja": {
-          "name": "塔",
-          "upright": "急変、激変、崩壊、啓示",
-          "reversed": "災厄回避、変化への恐れ、警鐘",
-          "keywords": ["覚醒", "崩壊", "真実"]
+          "name": "The Crumbling Pagoda",
+          "upright": "",
+          "reversed": "",
+          "story": "In a dark storm, a bolt of lightning from the heavens strikes a pagoda built on human arrogance. The false structure, which seemed eternal, burns and collapses in an instant, and the cats at its peak fall helplessly. This terrible destruction is painful, but it also becomes the moment that shatters the false prison that confined them and allows them to face the truth. This card warns that the world you have believed in may suddenly come crashing down.",
+          "keywords": [],
+          "questions": [],
+          "quote": "",
+          "summary": []
         }
       },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
+      "status": {
+        "ko": "approved",
+        "en": "pending",
+        "es": "pending",
+        "ja": "pending"
+      },
+      "source": "chat_coreen_tarot_v1",
+      "metadata": {
+        "arcana": "Major",
+        "suit": "",
+        "number": 16,
+        "title": {
+          "top_main": "16",
+          "bottom_main": "LA MAISON DIEU",
+          "native": "무너지는 탑",
+          "en": "The Crumbling Pagoda",
+          "original_tarot": "THE TOWER"
+        },
+        "colorTheme": [
+          "적색(파괴, 혼돈)",
+          "흑색(재앙, 어둠)",
+          "황색(벼락, 진실의 빛)",
+          "회색(폐허)"
+        ],
+        "props": "하늘을 찌를 듯 높이 솟은 기와 탑은 인간의 오만함과 잘못된 신념으로 쌓아 올린 불안정한 구조물을 상징한다. 하늘에서 내리치는 번개는 더 이상 거짓을 용납하지 않는 우주의 진실, 혹은 피할 수 없는 외부의 충격이다.",
+        "background": "폭풍우가 몰아치는 어두운 밤. 거센 비바람과 시커먼 먹구름이 절망적인 상황을 극대화한다. 모든 것이 혼돈과 파괴의 소용돌이에 휩싸여 있다.",
+        "symbolSummary": [
+          "갑작스러운 변화",
+          "파괴",
+          "붕괴",
+          "진실의 발견",
+          "혼돈"
+        ]
+      }
     },
     {
       "id": "major_17",
+      "originalId": "major17",
       "image": "cards/major/major_17.png",
       "translations": {
         "ko": {
-          "name": "별",
-          "upright": "치유의 빛, 신뢰의 회복, 목적의 재정렬",
-          "reversed": "회의, 기력 저하, 길 잃은 소망",
-          "keywords": ["희망", "치유", "신뢰"]
+          "name": "희망의 고양이",
+          "upright": "“어려운 시간은 지나갔다. 희망을 갖고 당신의 상처를 치유하며, 미래에 대한 믿음을 회복하라.”",
+          "reversed": "“희망을 잃고 절망에 빠져있다. 영적인 연결이 끊어졌다고 느낄 수 있다. 작은 빛부터 다시 찾아보라.”",
+          "story": "모든 것이 무너져 내린 캄캄한 밤, 희망의 고양이가 나타나 은하수 물을 붓는다. 그녀의 손에서 흘러나온 물은 상처 입은 땅을 치유하고 영혼을 정화한다. 하늘의 가장 밝은 별은 이제 길을 잃지 않을 것이라 속삭인다. 고통스러운 혼돈의 시간이 지나고, 마침내 평온과 믿음을 되찾는 순간이다. 이 카드는 당신의 상처가 치유되고, 새로운 희망을 발견하게 될 것임을 약속한다.",
+          "keywords": [
+            "희망",
+            "치유",
+            "영감",
+            "평온함",
+            "낙관주의",
+            "믿음의 회복",
+            "영적인 안내"
+          ],
+          "questions": [
+            "혼돈이 지나간 지금, 당신의 삶에 어떤 새로운 희망이 보이나요? 당신을 안내하는 '별'은 무엇인가요?",
+            "당신의 몸과 마음, 그리고 영혼을 치유하기 위해 지금 무엇을 해야 할까요? 어떻게 하면 자신에게 더 너그러워질 수 있나요?"
+          ],
+          "quote": "“어둠이 깊을수록, 별은 더욱 빛나는 법.”",
+          "summary": [
+            "희망",
+            "영감",
+            "치유",
+            "평온",
+            "낙관"
+          ]
         },
         "en": {
-          "name": "The Star",
-          "upright": "Hope, faith, purpose, renewal, spirituality",
-          "reversed": "Despair, lack of faith, disconnection",
-          "keywords": ["Hope", "Healing", "Guidance"]
-        },
-        "es": {
-          "name": "La Estrella",
-          "upright": "Esperanza, fe, propósito, renovación, espiritualidad",
-          "reversed": "Desaliento, falta de fe, desconexión",
-          "keywords": ["Esperanza", "Sanación", "Guía"]
-        },
-        "ja": {
-          "name": "星",
-          "upright": "希望、信頼、目的、再生、霊性",
-          "reversed": "失望、不信、断絶",
-          "keywords": ["希望", "癒し", "導き"]
+          "name": "The Cat of Hope",
+          "upright": "",
+          "reversed": "",
+          "story": "In the dark night after everything has collapsed, the Cat of Hope appears, pouring water from the Milky Way. The water flowing from her hands heals the wounded earth and purifies the soul. The brightest star in the sky whispers that you will no longer be lost. The time of painful chaos has passed, and it is finally a moment to regain peace and faith. This card promises that your wounds will be healed and you will find new hope.",
+          "keywords": [],
+          "questions": [],
+          "quote": "",
+          "summary": []
         }
       },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
+      "status": {
+        "ko": "approved",
+        "en": "pending",
+        "es": "pending",
+        "ja": "pending"
+      },
+      "source": "chat_coreen_tarot_v1",
+      "metadata": {
+        "arcana": "Major",
+        "suit": "",
+        "number": 17,
+        "title": {
+          "top_main": "17",
+          "bottom_main": "L'ÉTOILE",
+          "native": "희망의 고양이",
+          "en": "The Cat of Hope",
+          "original_tarot": "THE STAR"
+        },
+        "colorTheme": [
+          "남색(희망, 영성)",
+          "은색(별빛, 치유)",
+          "백색(순수, 정화)",
+          "황색(영감)"
+        ],
+        "props": "그녀가 붓는 물은 메마른 땅을 적셔 새로운 생명을 싹틔우고, 흐르는 시냇물을 정화하여 순환시킨다. 그녀의 머리 위에는 유난히 크고 밝게 빛나는 북극성이 길을 안내하고, 주변에는 일곱 개의 작은 별들이 그녀를 돕는다. 멀리, 무너졌던 탑의 잔해가 보이지만 이제는 위협적이지 않다.",
+        "background": "혼돈의 폭풍우가 지나간 뒤, 고요하고 청명하게 갠 밤하늘. 모든 것이 정화되고, 새로운 시작을 위한 희망과 평온이 가득한 풍경이다.",
+        "symbolSummary": [
+          "희망",
+          "영감",
+          "치유",
+          "평온",
+          "낙관"
+        ]
+      }
     },
     {
       "id": "major_18",
+      "originalId": "major18",
       "image": "cards/major/major_18.png",
       "translations": {
         "ko": {
-          "name": "달",
-          "upright": "무의식의 파도, 감각의 미로, 직관의 시험",
-          "reversed": "안개 걷힘, 두려움 극복, 진실 포착",
-          "keywords": ["직관", "환상", "감정"]
+          "name": "달의 고양이",
+          "upright": "“보이는 것이 전부가 아니다. 불확실함 속에서 당신의 직관을 믿고, 내면의 그림자를 마주할 용기를 가져라.”",
+          "reversed": "“혼란과 불안에서 벗어나고 있다. 숨겨져 있던 진실이 드러나고, 환상이 걷히기 시작한다.”",
+          "story": "창백한 달빛 아래, 구미호 고양이가 아홉 개의 꼬리를 드러낸다. 호수에 비친 달은 진짜 달이 아니듯, 그녀가 보여주는 세상은 진실과 거짓이 뒤섞인 환상이다. 이성과 본능의 경계에서, 그녀는 우리를 무의식의 가장 깊은 곳으로 이끈다. 그곳에는 숨겨진 두려움과 마주해야 할 그림자가 있다. 이 카드는 불확실한 상황 속에서 불안과 혼란을 겪게 될 수 있음을 경고한다.",
+          "keywords": [
+            "불확실성",
+            "불안",
+            "환영",
+            "숨겨진 적",
+            "무의식의 두려움",
+            "직관의 중요성"
+          ],
+          "questions": [
+            "지금 당신을 불안하게 만드는 것은 무엇인가요? 그것은 실재하는 위협인가요, 아니면 당신의 마음이 만들어낸 환상(그림자)인가요?",
+            "당신의 무의식이 당신에게 어떤 메시지를 보내려고 하나요? 당신의 꿈이나 직관이 말해주고 있는 것은 무엇인가요?"
+          ],
+          "quote": "“가장 밝은 빛은 가장 짙은 그림자를 만드는 법.”",
+          "summary": [
+            "불안",
+            "환상",
+            "무의식",
+            "속임수",
+            "숨겨진 진실"
+          ]
         },
         "en": {
-          "name": "The Moon",
-          "upright": "Illusion, fear, anxiety, subconscious, intuition",
-          "reversed": "Clarity, release of fear, understanding",
-          "keywords": ["Intuition", "Mystery", "Emotion"]
-        },
-        "es": {
-          "name": "La Luna",
-          "upright": "Ilusión, miedo, ansiedad, subconsciente, intuición",
-          "reversed": "Claridad, liberar el miedo, comprensión",
-          "keywords": ["Intuición", "Misterio", "Emoción"]
-        },
-        "ja": {
-          "name": "月",
-          "upright": "幻影、恐れ、不安、無意識、直感",
-          "reversed": "明晰、恐れの解放、理解",
-          "keywords": ["直感", "神秘", "情動"]
+          "name": "The Moon Cat",
+          "upright": "",
+          "reversed": "",
+          "story": "Under the pale moonlight, the Gumiho cat reveals her nine tails. Just as the moon reflected in the lake is not the real moon, the world she presents is an illusion mixed with truth and deceit. At the boundary of reason and instinct, she leads us to the deepest part of our subconscious. There lies the hidden fears and shadows we must confront. This card warns that you may experience anxiety and confusion in an uncertain situation.",
+          "keywords": [],
+          "questions": [],
+          "quote": "",
+          "summary": []
         }
       },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
+      "status": {
+        "ko": "approved",
+        "en": "pending",
+        "es": "pending",
+        "ja": "pending"
+      },
+      "source": "chat_coreen_tarot_v1",
+      "metadata": {
+        "arcana": "Major",
+        "suit": "",
+        "number": 18,
+        "title": {
+          "top_main": "18",
+          "bottom_main": "LA LUNE",
+          "native": "달의 고양이",
+          "en": "The Moon Cat",
+          "original_tarot": "THE MOON"
+        },
+        "colorTheme": [
+          "남색(무의식, 밤)",
+          "은색(달빛, 환상)",
+          "회색(불안, 그림자)",
+          "적색(숨겨진 욕망)"
+        ],
+        "props": "그녀 뒤의 아홉 개 꼬리는 숨겨진 강력한 힘과 본능, 그리고 풀리지 않는 미스터리를 상징한다. 호수에 비친 달은 진실이 아닌 왜곡된 환상을, 물속에서 튀어 오르는 잉어는 무의식 속에 잠재된 원초적인 생명력과 욕망을 나타낸다. 양옆의 두 개의 기둥(혹은 석탑)은 이성과 비이성의 경계를 지키는 문이다.",
+        "background": "보름달이 뜬 고요하지만 어딘가 으스스한 밤의 호숫가. 모든 사물은 달빛 아래 왜곡된 그림자를 드리우고, 현실과 환상이 뒤섞인 혼란스러운 풍경이다.",
+        "symbolSummary": [
+          "불안",
+          "환상",
+          "무의식",
+          "속임수",
+          "숨겨진 진실"
+        ]
+      }
     },
     {
       "id": "major_19",
+      "originalId": "major19",
       "image": "cards/major/major_19.png",
       "translations": {
         "ko": {
-          "name": "태양",
-          "upright": "생기의 광장, 순수한 기쁨, 성공의 확신",
-          "reversed": "활력 저하, 과한 낙관, 그림자 미처리",
-          "keywords": ["기쁨", "성공", "활력"]
+          "name": "해님 고양이",
+          "upright": "“마침내 성공과 행복의 빛이 당신을 비춘다. 자신감을 갖고 순수한 기쁨을 만끽하라.”",
+          "reversed": "“일시적인 어려움이나 비관주의에 빠져있다. 긍정적인 면을 보지 못하고 있다. 구름은 곧 걷힐 것이다.”",
+          "story": "밤의 불안이 걷히고, 위대한 태양이 떠올라 세상을 환하게 비춘다. 해바라기 밭에서 쌍둥이 고양이들은 숨겨진 것 없이 모든 것이 명료해진 세상에서 순수한 기쁨을 만끽한다. 태양의 따스한 빛은 모든 의심을 녹이고, 성공과 행복을 약속한다. 이 카드는 마침내 어둠의 시간이 끝나고, 당신의 삶에 성공과 기쁨, 활력이 가득 찰 것임을 알리는 최고의 길조이다.",
+          "keywords": [
+            "행복",
+            "성공",
+            "긍정적인 에너지",
+            "활력",
+            "명료함",
+            "진실",
+            "순수함",
+            "자유"
+          ],
+          "questions": [
+            "당신의 삶에서 지금 가장 큰 기쁨과 활력을 주는 것은 무엇인가요? 어떻게 하면 그 순수한 행복을 더 키울 수 있을까요?",
+            "최근에 당신이 명확하게 깨닫게 된 진실은 무엇인가요? 그 진실이 당신의 삶을 어떻게 밝혀주고 있나요?"
+          ],
+          "quote": "“걱정은 그림자일 뿐, 태양이 뜨면 모두 사라진다!”",
+          "summary": [
+            "성공",
+            "기쁨",
+            "활력",
+            "긍정",
+            "명료함"
+          ]
         },
         "en": {
-          "name": "The Sun",
-          "upright": "Positivity, fun, warmth, success, vitality",
-          "reversed": "Temporary gloom, inflated ego, delays",
-          "keywords": ["Joy", "Success", "Vitality"]
-        },
-        "es": {
-          "name": "El Sol",
-          "upright": "Positividad, gozo, calidez, éxito, vitalidad",
-          "reversed": "Oscurecimiento pasajero, ego inflado, demoras",
-          "keywords": ["Alegría", "Éxito", "Vitalidad"]
-        },
-        "ja": {
-          "name": "太陽",
-          "upright": "肯定、歓喜、温もり、成功、活力",
-          "reversed": "一時的な翳り、増長、遅延",
-          "keywords": ["喜び", "成功", "活力"]
+          "name": "The Sun Cats",
+          "upright": "",
+          "reversed": "",
+          "story": "The anxieties of the night have passed, and the great sun rises to illuminate the world. In a field of sunflowers, the twin cats revel in the pure joy of a world where everything is clear and nothing is hidden. The warm light of the sun melts away all doubts and promises success and happiness. This card is the ultimate good omen, signaling that the time of darkness is finally over, and your life will be filled with success, joy, and vitality.",
+          "keywords": [],
+          "questions": [],
+          "quote": "",
+          "summary": []
         }
       },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
+      "status": {
+        "ko": "approved",
+        "en": "pending",
+        "es": "pending",
+        "ja": "pending"
+      },
+      "source": "chat_coreen_tarot_v1",
+      "metadata": {
+        "arcana": "Major",
+        "suit": "",
+        "number": 19,
+        "title": {
+          "top_main": "19",
+          "bottom_main": "LE SOLEIL",
+          "native": "해님 고양이",
+          "en": "The Sun Cats",
+          "original_tarot": "THE SUN"
+        },
+        "colorTheme": [
+          "황색(기쁨, 성공)",
+          "주황색(활력, 긍정)",
+          "청색(명료함, 진실)",
+          "백색(순수)"
+        ],
+        "props": "하늘에 떠 있는 거대한 태양은 인자한 미소를 띤 얼굴을 하고 있으며, 모든 것을 명확하게 비추는 진실과 생명의 근원을 상징한다. 고양이들을 둘러싼 해바라기들은 태양을 향한 믿음과 긍정적인 에너지를 나타낸다. 뒤로는 낮은 담장이 있어 안전하고 보호받는 환경임을 보여준다.",
+        "background": "구름 한 점 없이 맑고 푸른 여름날의 해바라기 밭. 모든 것이 밝고 선명하며, 어떠한 그림자나 불안도 찾아볼 수 없는 완벽하게 긍정적인 공간이다.",
+        "symbolSummary": [
+          "성공",
+          "기쁨",
+          "활력",
+          "긍정",
+          "명료함"
+        ]
+      }
+    },
+    {
+      "id": "major_2",
+      "originalId": "major2",
+      "image": "cards/major/major_2.png",
+      "translations": {
+        "ko": {
+          "name": "비밀의 고양이",
+          "upright": "“지금은 행동할 때가 아니다. 당신의 직관과 내면의 목소리에 귀 기울여라.”",
+          "reversed": "“중요한 비밀을 외면하고 있거나, 직관을 무시하고 있다. 마음을 들여다보라.”",
+          "story": "달빛 아래, 비밀의 고양이는 침묵으로 말한다. 그의 푸른 눈은 보이는 것 너머의 진실을 꿰뚫어 보며, 감춰진 두루마리는 세상의 모든 지혜를 품고 있다. 그는 성급하게 행동하지 않고, 내면의 목소리와 직관이 길을 알려줄 때까지 고요히 기다린다. 이 카드는 이제 바깥이 아닌 당신의 내면에서 답을 찾아야 할 시간임을 알려준다.",
+          "keywords": [
+            "직관력",
+            "내면의 지혜",
+            "비밀",
+            "성찰",
+            "무의식",
+            "영적인 통찰"
+          ],
+          "questions": [
+            "당신의 내면의 목소리가 지금 당신에게 무엇을 말해주고 있나요? 당신이 애써 외면하고 있는 것은 무엇인가요?",
+            "아직 드러나지 않은 진실은 무엇이며, 그 비밀을 마주하기 위해 필요한 것은 무엇인가요?"
+          ],
+          "quote": "“가장 깊은 지혜는 침묵 속에 있나니.”",
+          "summary": [
+            "직관",
+            "지혜",
+            "비밀",
+            "무의식",
+            "내면의 목소리"
+          ]
+        },
+        "en": {
+          "name": "The Cat of Secrets",
+          "upright": "",
+          "reversed": "",
+          "story": "Under the moonlight, the Cat of Secrets speaks in silence. Its blue eyes pierce through the veil of reality to see the truth beyond, and the hidden scroll holds all the wisdom of the world. It does not act hastily, but waits quietly until its inner voice and intuition show the way. This card tells you it's time to seek answers not from the outside world, but from within yourself.",
+          "keywords": [],
+          "questions": [],
+          "quote": "",
+          "summary": []
+        }
+      },
+      "status": {
+        "ko": "approved",
+        "en": "pending",
+        "es": "pending",
+        "ja": "pending"
+      },
+      "source": "chat_coreen_tarot_v1",
+      "metadata": {
+        "arcana": "Major",
+        "suit": "",
+        "number": 2,
+        "title": {
+          "top_main": "2",
+          "bottom_main": "LA PAPESSE CÉLESTE",
+          "native": "비밀의 고양이",
+          "en": "The Cat of Secrets",
+          "original_tarot": "THE HIGH PRIESTESS"
+        },
+        "colorTheme": [
+          "남색(심연, 지혜)",
+          "은색(직관, 달빛)",
+          "백색(순수, 비밀)",
+          "흑색(무의식)"
+        ],
+        "props": "고양이의 양옆에는 흑과 백의 기둥 대신, 음과 양을 상징하는 청사초롱과 홍사초롱이 서 있다. 무릎 위에는 세상의 모든 지식이 담긴 두루마리 책이 놓여있지만, 반쯤 감겨 있어 모든 비밀을 드러내지 않음을 암시한다. 배경의 휘장 뒤로는 무의식의 바다를 상징하는 잔잔한 연못이 보인다.",
+        "background": "고요한 밤, 보름달이 밝게 떠 있는 신비로운 사당. 공간은 깊은 밤의 남색과 은은한 달빛으로 가득 차 있으며, 현실과 꿈의 경계에 있는 듯한 몽환적인 분위기를 자아낸다.",
+        "symbolSummary": [
+          "직관",
+          "지혜",
+          "비밀",
+          "무의식",
+          "내면의 목소리"
+        ]
+      }
     },
     {
       "id": "major_20",
+      "originalId": "major20",
       "image": "cards/major/major_20.png",
       "translations": {
         "ko": {
-          "name": "심판",
-          "upright": "부름에 응답, 재탄생의 호흡, 용서와 결산",
-          "reversed": "자책의 굴레, 결단 회피, 과거 집착",
-          "keywords": ["부름", "각성", "갱생"]
+          "name": "부름의 고양이",
+          "upright": "“과거의 자신을 용서하고, 더 높은 차원의 부름에 응답하라. 당신은 다시 태어날 것이다.”",
+          "reversed": "“과거의 실수에 얽매여 있거나, 중요한 결정을 회피하고 있다. 자기 비판을 멈추고 자신을 용서하라.”",
+          "story": "하늘에서 장엄한 나각 소리가 울려 퍼지자, 땅의 모든 무덤이 열리고 잠들었던 고양이들이 깨어난다. 이것은 죄를 묻는 두려운 심판이 아니라, 과거의 모든 것을 용서하고 새로운 차원으로 나아가라는 구원의 부름이다. 그들은 낡은 자아를 무덤에 남겨두고, 빛을 향해 기쁘게 두 팔을 벌린다. 이 카드는 당신의 삶에 중대한 전환점이 왔으며, 과거를 평가하고 새로운 사명으로 다시 태어날 시간임을 알린다.",
+          "keywords": [
+            "인생의 전환점",
+            "과거에 대한 평가",
+            "용서",
+            "부활",
+            "새로운 각성",
+            "소명(Calling)"
+          ],
+          "questions": [
+            "당신의 삶에서 어떤 '부름'을 듣고 있나요? 당신의 과거를 어떻게 평가하고, 새로운 당신으로 다시 태어날 수 있을까요?",
+            "당신이 진정으로 용서해야 할 과거의 자신이나 타인은 누구인가요? 그 용서를 통해 어떤 자유를 얻을 수 있나요?"
+          ],
+          "quote": "“과거는 잠들고, 새로운 내가 깨어난다.”",
+          "summary": [
+            "부활",
+            "각성",
+            "심판",
+            "용서",
+            "새로운 사명"
+          ]
         },
         "en": {
-          "name": "Judgement",
-          "upright": "Rebirth, inner calling, absolution, judgement",
-          "reversed": "Self-doubt, refusal of call, stagnation",
-          "keywords": ["Calling", "Awakening", "Renewal"]
-        },
-        "es": {
-          "name": "El Juicio",
-          "upright": "Renacer, llamado interior, absolución, juicio",
-          "reversed": "Duda propia, rechazo del llamado, estancamiento",
-          "keywords": ["Llamado", "Despertar", "Renovación"]
-        },
-        "ja": {
-          "name": "審判",
-          "upright": "再生、内なる呼びかけ、赦し、審断",
-          "reversed": "自己不信、呼びかけの拒否、停滞",
-          "keywords": ["召喚", "覚醒", "再生"]
+          "name": "The Calling Cat",
+          "upright": "",
+          "reversed": "",
+          "story": "As the majestic sound of the horn echoes from the heavens, all the tombs on earth open, and the sleeping cats awaken. This is not a fearsome judgment of sins, but a call of salvation to forgive all of the past and ascend to a new dimension. They leave their old selves in the tombs and joyfully open their arms to the light. This card announces that a major turning point has arrived in your life, and it is time to evaluate your past and be reborn with a new calling.",
+          "keywords": [],
+          "questions": [],
+          "quote": "",
+          "summary": []
         }
       },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
+      "status": {
+        "ko": "approved",
+        "en": "pending",
+        "es": "pending",
+        "ja": "pending"
+      },
+      "source": "chat_coreen_tarot_v1",
+      "metadata": {
+        "arcana": "Major",
+        "suit": "",
+        "number": 20,
+        "title": {
+          "top_main": "20",
+          "bottom_main": "LE JUGEMENT",
+          "native": "부름의 고양이",
+          "en": "The Calling Cat",
+          "original_tarot": "JUDGEMENT"
+        },
+        "colorTheme": [
+          "백금색(부활, 구원)",
+          "하늘색(각성, 부름)",
+          "회색(과거, 무덤)",
+          "적색(생명력)"
+        ],
+        "props": "천상의 고양이가 부는 나각은 '최후의 심판' 나팔 소리를 상징하며, 잠든 영혼을 깨우는 우주적인 부름이다. 나각에 달린 붉은 깃발에는 '완성'이나 '통합'을 상징하는 태극 문양이 그려져 있을 수 있다. 고양이들이 일어나는 무덤은 과거의 삶, 낡은 자아, 혹은 우리를 속박했던 한계를 상징한다.",
+        "background": "과거의 땅과 새로운 하늘이 명확하게 구분되는 극적인 풍경. 아래는 회색빛의 고요한 무덤들이, 위는 빛으로 가득 찬 하늘이 펼쳐져, 차원의 이동과 영적인 각성을 보여준다.",
+        "symbolSummary": [
+          "부활",
+          "각성",
+          "심판",
+          "용서",
+          "새로운 사명"
+        ]
+      }
     },
     {
       "id": "major_21",
+      "originalId": "major21",
       "image": "cards/major/major_21.png",
       "translations": {
         "ko": {
-          "name": "세계",
-          "upright": "한 주기의 완성, 성취의 환희, 연결의 확장",
-          "reversed": "미완의 고리, 마무리 지연, 경계의 두려움",
-          "keywords": ["완성", "성취", "통합"]
+          "name": "세상 고양이",
+          "upright": "“마침내 여정이 끝났다. 당신의 성공적인 완성을 축하하고, 그 성취를 온전히 느껴라.”",
+          "reversed": "“마무리가 부족하거나, 무언가 빠진 느낌이 든다. 목표를 달성하기 전 마지막 과제가 남아있다. 과정을 다시 점검하라.”",
+          "story": "바보의 순수한 발걸음으로 시작된 기나긴 여정은 마침내 끝을 맺는다. 세상의 중심에서, 삼색 고양이는 우주와 완벽한 조화를 이루는 기쁨의 춤을 춘다. 그는 이제 세상과 분리된 존재가 아닌, 세상 그 자체가 되었다. 네 수호신은 그의 완성을 축복하며, 모든 것이 제자리로 돌아왔음을 알린다. 이 카드는 하나의 주기가 성공적으로 끝났으며, 그 성취를 마음껏 축하해야 할 시간임을 선언한다.",
+          "keywords": [
+            "성공적인 마무리",
+            "완성",
+            "통합",
+            "성취감",
+            "목표 달성",
+            "세계 여행",
+            "새로운 시작"
+          ],
+          "questions": [
+            "당신의 삶에서 최근 성공적으로 마무리된 여정이나 프로젝트는 무엇인가요? 그 성취를 어떻게 축하하고 있나요?",
+            "이번 여정을 통해 배운 것들이 당신의 삶에 어떻게 통합되었나요? 당신은 어떻게 더 완전한 존재가 되었나요?"
+          ],
+          "quote": "“나는 세상이며, 세상은 나의 춤이다.”",
+          "summary": [
+            "완성",
+            "통합",
+            "성취",
+            "성공",
+            "새로운 시작"
+          ]
         },
         "en": {
-          "name": "The World",
-          "upright": "Completion, accomplishment, fulfillment, sense of belonging",
-          "reversed": "Incomplete goals, delays, boundaries",
-          "keywords": ["Completion", "Wholeness", "Belonging"]
-        },
-        "es": {
-          "name": "El Mundo",
-          "upright": "Culminación, logro, plenitud, pertenencia",
-          "reversed": "Metas incompletas, demoras, límites",
-          "keywords": ["Culmen", "Plenitud", "Pertenencia"]
-        },
-        "ja": {
-          "name": "世界",
-          "upright": "完成、達成、充足、一体感",
-          "reversed": "未完、遅延、境界への恐れ",
-          "keywords": ["完成", "統合", "帰属"]
+          "name": "The World Cat",
+          "upright": "",
+          "reversed": "",
+          "story": "The long journey that began with the innocent step of the Fool finally comes to an end. At the center of the universe, the Calico cat dances with joy, in perfect harmony with the cosmos. It is no longer a separate being from the world, but has become the world itself. The four guardians bless its completion, announcing that everything has returned to its rightful place. This card declares that a cycle has been successfully completed, and it is time to celebrate that achievement to the fullest.",
+          "keywords": [],
+          "questions": [],
+          "quote": "",
+          "summary": []
         }
       },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
+      "status": {
+        "ko": "approved",
+        "en": "pending",
+        "es": "pending",
+        "ja": "pending"
+      },
+      "source": "chat_coreen_tarot_v1",
+      "metadata": {
+        "arcana": "Major",
+        "suit": "",
+        "number": 21,
+        "title": {
+          "top_main": "21",
+          "bottom_main": "LE MONDE",
+          "native": "세상 고양이",
+          "en": "The World Cat",
+          "original_tarot": "THE WORLD"
+        },
+        "colorTheme": [
+          "오방색(완성, 조화)",
+          "자색(우주, 영성)",
+          "금색(성취, 축복)",
+          "백색(순수)"
+        ],
+        "props": "그가 춤추는 거대한 태극 문양은 음과 양의 완벽한 조화와 우주의 순환을 상징한다. 카드의 네 귀퉁이에는 10번 '운명의 수레바퀴'에서 보았던 사천왕 고양이들이 다시 등장하여, 그의 완성을 축복하고 이 세계가 안정적인 법칙 안에서 이루어졌음을 증명한다. 그들은 이제 더 이상 딱딱한 모습이 아닌, 미소 띤 얼굴로 춤을 즐기고 있다.",
+        "background": "지상도 천상도 아닌, 모든 것이 하나로 통합된 완전한 우주 공간. 그의 주변으로 별들이 축복처럼 쏟아지며, 그의 완성과 새로운 시작을 축하한다.",
+        "symbolSummary": [
+          "완성",
+          "통합",
+          "성취",
+          "성공",
+          "새로운 시작"
+        ]
+      }
     },
     {
-      "id": "swords_1",
-      "image": "cards/swords/swords_1.png",
+      "id": "major_3",
+      "originalId": "major3",
+      "image": "cards/major/major_3.png",
       "translations": {
         "ko": {
-          "name": "Ace of Swords",
-          "upright": "명료한 통찰, 새로운 발상, 지적 돌파",
-          "reversed": "흐릿한 판단, 왜곡된 정보, 시작의 지연",
-          "keywords": ["통찰", "아이디어", "분별"]
+          "name": "풍요의 고양이",
+          "upright": "“당신의 창조성을 믿고, 삶의 풍요로움을 마음껏 누려라. 사랑하고 보살필 때이다.”",
+          "reversed": "“창의력이 막히거나, 아름다움을 돌보지 않고 있다. 이기심이나 과잉보호를 경계하라.”",
+          "story": "궁궐의 가장 깊숙한 정원에서, 풍요의 고양이는 모든 생명의 어머니로서 군림한다. 그녀의 부드러운 손길이 닿는 곳마다 꽃이 피고, 그녀의 평화로운 숨결에 온 자연이 화답한다. 석류는 결실을, 흐르는 물은 마르지 않는 생명력을 약속한다. 이 카드는 창조하고, 사랑하고, 베풀고, 삶의 모든 풍요로움을 만끽할 때임을 알려준다.",
+          "keywords": [
+            "풍요로움",
+            "모성애",
+            "아름다움",
+            "안정감",
+            "임신과 출산",
+            "자연과의 교감",
+            "관능적인 기쁨"
+          ],
+          "questions": [
+            "당신의 삶에서 지금 무엇을 창조하고 키워나가고 싶나요? 당신의 정원에 무엇을 심겠습니까?",
+            "당신 자신과 주변 사람들을 어떻게 더 보살피고 사랑을 나눌 수 있을까요? 당신에게 진정한 풍요로움이란 무엇인가요?"
+          ],
+          "quote": "“사랑으로 돌보니, 온 세상이 나의 정원이더라.”",
+          "summary": [
+            "풍요",
+            "모성",
+            "창조",
+            "아름다움",
+            "자연"
+          ]
         },
         "en": {
-          "name": "Ace of Swords",
-          "upright": "Clarity, new idea, intellectual breakthrough",
-          "reversed": "Confusion, misinformation, delays",
-          "keywords": ["Insight", "Idea", "Discernment"]
-        },
-        "es": {
-          "name": "As de Espadas",
-          "upright": "Claridad, idea nueva, avance mental",
-          "reversed": "Confusión, desinformación, demoras",
-          "keywords": ["Claridad", "Idea", "Criterio"]
-        },
-        "ja": {
-          "name": "剣のエース",
-          "upright": "明晰、新たな発想、知的突破",
-          "reversed": "混乱、誤情報、遅延",
-          "keywords": ["洞察", "発想", "識別"]
+          "name": "The Bountiful Cat",
+          "upright": "",
+          "reversed": "",
+          "story": "In the deepest palace garden, the Bountiful Cat reigns as the mother of all life. Flowers bloom where her gentle touch lands, and all of nature responds to her peaceful breath. Pomegranates promise fruition, and flowing water signifies endless vitality. This card announces that it is time to create, to love, to give, and to indulge in all the richness life has to offer.",
+          "keywords": [],
+          "questions": [],
+          "quote": "",
+          "summary": []
         }
       },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
+      "status": {
+        "ko": "approved",
+        "en": "pending",
+        "es": "pending",
+        "ja": "pending"
+      },
+      "source": "chat_coreen_tarot_v1",
+      "metadata": {
+        "arcana": "Major",
+        "suit": "",
+        "number": 3,
+        "title": {
+          "top_main": "3",
+          "bottom_main": "L'IMPÉRATRICE",
+          "native": "풍요의 고양이",
+          "en": "The Bountiful Cat",
+          "original_tarot": "THE EMPRESS"
+        },
+        "colorTheme": [
+          "녹색(생명력, 풍요)",
+          "홍색(아름다움, 사랑)",
+          "금색(부귀, 존엄)",
+          "백색(모성)"
+        ],
+        "props": "고양이 옆 작은 소반 위에는 다산과 풍요를 상징하는 잘 익은 석류가 놓여있다. 그녀를 둘러싼 정원에는 온갖 꽃들이 만발하고 작은 시냇물이 흘러넘쳐, 마르지 않는 생명력과 풍요를 상징한다.",
+        "background": "따스한 햇살이 가득한 조선 왕실의 아름다운 후원. 흐드러지게 핀 모란꽃과 작약이 가득하며, 모든 것이 풍요롭고 평화로운 지상낙원의 모습이다.",
+        "symbolSummary": [
+          "풍요",
+          "모성",
+          "창조",
+          "아름다움",
+          "자연"
+        ]
+      }
     },
     {
-      "id": "swords_2",
-      "image": "cards/swords/swords_2.png",
+      "id": "major_4",
+      "originalId": "major4",
+      "image": "cards/major/major_4.png",
       "translations": {
         "ko": {
-          "name": "Two of Swords",
-          "upright": "균형 잡힌 유예, 신중한 선택, 마음의 정적",
-          "reversed": "우유부단, 막힘, 진실 회피",
-          "keywords": ["유예", "선택", "정적"]
+          "name": "임금 고양이",
+          "upright": "“지금은 감정보다 원칙이 우선. 당신의 영역을 책임지고 질서를 세워라.”",
+          "reversed": "“지나친 통제는 독재가 될 수 있다. 권위를 내려놓고 유연해져라.”",
+          "story": "일월오봉도 앞에서 임금 고양이는 굳건히 옥좌를 지킨다. 그의 눈빛은 온 나라의 질서와 안정을 꿰뚫어 본다. 해와 달이 그의 어깨를 지키고, 다섯 봉우리가 그의 왕국을 받든다. 이 카드는 혼돈 속에서 질서를 세우고, 강력한 리더십과 책임감으로 자신의 세계를 지켜야 할 때임을 상징한다.",
+          "keywords": [
+            "리더십",
+            "권위",
+            "안정성",
+            "구조화",
+            "책임감",
+            "규칙",
+            "아버지상"
+          ],
+          "questions": [
+            "당신의 삶에서 질서와 구조를 세워야 할 영역은 어디인가요?",
+            "당신이 책임져야 할 사람이나 상황은 무엇이며, 어떻게 그들을 보호할 수 있나요?"
+          ],
+          "quote": "“나의 발 아래, 모든 것이 제자리에 있노라.”",
+          "summary": [
+            "권위",
+            "구조",
+            "안정",
+            "리더십",
+            "책임감"
+          ]
         },
         "en": {
-          "name": "Two of Swords",
-          "upright": "Difficult choices, stalemate, inner balance",
-          "reversed": "Indecision, blockage, avoidance",
-          "keywords": ["Pause", "Choice", "Equilibrium"]
-        },
-        "es": {
-          "name": "Dos de Espadas",
-          "upright": "Decisión difícil, estancamiento, equilibrio interno",
-          "reversed": "Indecisión, bloqueo, evasión",
-          "keywords": ["Pausa", "Elección", "Equilibrio"]
-        },
-        "ja": {
-          "name": "剣の2",
-          "upright": "難しい選択、膠着、内なる均衡",
-          "reversed": "優柔不断、滞り、回避",
-          "keywords": ["静止", "選択", "均衡"]
+          "name": "The Emperor Cat",
+          "upright": "",
+          "reversed": "",
+          "story": "Before the Sun, Moon, and Five Peaks screen, the Emperor Cat steadfastly guards his throne. His gaze penetrates the order and stability of his entire kingdom. The sun and moon protect his shoulders, and the five peaks support his realm. This card symbolizes the need to establish order out of chaos and protect one's world with strong leadership and responsibility.",
+          "keywords": [],
+          "questions": [],
+          "quote": "",
+          "summary": []
         }
       },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
+      "status": {
+        "ko": "approved",
+        "en": "pending",
+        "es": "pending",
+        "ja": "pending"
+      },
+      "source": "chat_coreen_tarot_v1",
+      "metadata": {
+        "arcana": "Major",
+        "suit": "",
+        "number": 4,
+        "title": {
+          "top_main": "4",
+          "bottom_main": "L'EMPEREUR",
+          "native": "임금 고양이",
+          "en": "The Emperor Cat",
+          "original_tarot": "THE EMPEROR"
+        },
+        "colorTheme": [
+          "적색(권위, 힘)",
+          "금색(부와 존엄)",
+          "흑색(지혜, 위엄)",
+          "청색(안정)"
+        ],
+        "props": "고양이의 뒤로는 왕의 권위를 상징하는 '일월오봉도(日月五峯圖)' 병풍이 펼쳐져 있다. 옥좌의 팔걸이는 정교하게 조각되어 있으며, 발치에는 나라의 기틀을 상징하는 주춧돌이 굳건히 놓여있다.",
+        "background": "조선시대 궁궐의 정전 내부. 질서정연하게 배치된 가구와 장식들이 안정감과 구조적인 미를 보여준다.",
+        "symbolSummary": [
+          "권위",
+          "구조",
+          "안정",
+          "리더십",
+          "책임감"
+        ]
+      }
     },
     {
-      "id": "swords_3",
-      "image": "cards/swords/swords_3.png",
+      "id": "major_5",
+      "originalId": "major5",
+      "image": "cards/major/major_5.png",
       "translations": {
         "ko": {
-          "name": "Three of Swords",
-          "upright": "가슴의 상처, 쓰린 진실, 슬픔의 관통",
-          "reversed": "치유의 시작, 감정 정화, 놓아보내기",
-          "keywords": ["상처", "슬픔", "정화"]
+          "name": "훈장님 고양이",
+          "upright": "“전통적인 방식을 따르고, 믿을 만한 조언자의 가르침을 구하라.”",
+          "reversed": "“낡은 규칙에 의문을 제기하고, 자신만의 새로운 길을 찾아라. 틀을 깰 시간이다.”",
+          "story": "고요한 서당에서, 훈장님 고양이는 다음 세대에게 변치 않는 지혜와 전통을 전수한다. 그의 말 한마디 한마디는 사회를 지탱하는 규율과 신념이 된다. 제자들은 스승의 가르침을 통해 세상의 이치를 배우고 자신의 자리를 찾아간다. 이 카드는 믿을 수 있는 스승을 찾거나, 정해진 길을 따르며 배우고 성장해야 할 시기임을 말해준다.",
+          "keywords": [
+            "멘토십",
+            "전통적인 가치",
+            "교육 기관",
+            "신념 체계",
+            "가이드",
+            "규율과 관습"
+          ],
+          "questions": [
+            "지금 당신의 삶에서 누구에게 가르침을 구해야 할까요? 혹은, 당신의 지식을 누구에게 전수해 줄 수 있나요?",
+            "당신이 따르고 있는 전통이나 규칙은 무엇인가요? 그 안에서 무엇을 배우고 있으며, 혹시 그 틀을 벗어나야 할 때는 아닌가요?"
+          ],
+          "quote": "“배움의 길에는 왕도가 없느니라.”",
+          "summary": [
+            "전통",
+            "가르침",
+            "신념",
+            "제도",
+            "멘토"
+          ]
         },
         "en": {
-          "name": "Three of Swords",
-          "upright": "Heartbreak, sorrow, grief, rejection",
-          "reversed": "Healing, emotional release, forgiveness",
-          "keywords": ["Pain", "Sorrow", "Release"]
-        },
-        "es": {
-          "name": "Tres de Espadas",
-          "upright": "Corazón roto, dolor, duelo, rechazo",
-          "reversed": "Sanación, catarsis emocional, liberación",
-          "keywords": ["Dolor", "Duelo", "Sanación"]
-        },
-        "ja": {
-          "name": "剣の3",
-          "upright": "心痛、悲哀、嘆き、拒絶",
-          "reversed": "癒やしの始まり、感情の浄化、手放し",
-          "keywords": ["傷心", "悲しみ", "浄化"]
+          "name": "The Teacher Cat",
+          "upright": "",
+          "reversed": "",
+          "story": "In the quiet village school, the Teacher Cat passes down timeless wisdom and tradition to the next generation. Each of his words becomes the doctrine and belief that supports society. Through their master's teachings, the disciples learn the ways of the world and find their place within it. This card signifies a time to seek a trustworthy mentor, or to learn and grow by following an established path.",
+          "keywords": [],
+          "questions": [],
+          "quote": "",
+          "summary": []
         }
       },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
+      "status": {
+        "ko": "approved",
+        "en": "pending",
+        "es": "pending",
+        "ja": "pending"
+      },
+      "source": "chat_coreen_tarot_v1",
+      "metadata": {
+        "arcana": "Major",
+        "suit": "",
+        "number": 5,
+        "title": {
+          "top_main": "5",
+          "bottom_main": "LE PAPE CÉLESTE",
+          "native": "훈장님 고양이",
+          "en": "The Teacher Cat",
+          "original_tarot": "THE HIEROPHANT"
+        },
+        "colorTheme": [
+          "갈색(전통, 지식)",
+          "상아색(지혜, 가르침)",
+          "청록색(학문, 규율)",
+          "흑색(원칙)"
+        ],
+        "props": "훈장님 앞에는 두 어린 고양이가 존경심 가득한 눈빛으로 가르침을 듣고 있다. 뒤에는 '溫故知新(온고지신)'이라 쓰인 족자가 걸려있어 옛것을 익혀 새것을 아는 지혜를 강조한다. 옆에는 글공부에 필요한 벼루와 붓이 단정하게 놓여있다.",
+        "background": "햇살이 부드럽게 들어오는 전통 서당의 내부. 창호지 문 너머로 보이는 대나무 숲이 학자의 굳은 절개와 지조를 상징한다. 모든 것이 정돈되어 있어 학문과 규율의 공간임을 보여준다.",
+        "symbolSummary": [
+          "전통",
+          "가르침",
+          "신념",
+          "제도",
+          "멘토"
+        ]
+      }
     },
     {
-      "id": "swords_4",
-      "image": "cards/swords/swords_4.png",
+      "id": "major_6",
+      "originalId": "major6",
+      "image": "cards/major/major_6.png",
       "translations": {
         "ko": {
-          "name": "Four of Swords",
-          "upright": "의도적 휴식, 마음의 안식, 회복 준비",
-          "reversed": "과로, 멈춤 거부, 회복 지연",
-          "keywords": ["휴식", "회복", "안식"]
+          "name": "연인 고양이",
+          "upright": "“당신의 마음이 이끄는 선택을 하라. 진정한 사랑과 조화로운 관계가 기다린다.”",
+          "reversed": "“관계에 불화가 있거나, 잘못된 선택을 할 수 있다. 마음의 결정을 재고하라.”",
+          "story": "일 년에 단 하루, 칠석의 밤이 되면 까마귀와 까치들은 은하수를 가로지르는 다리를 놓는다. 견우와 직녀 고양이는 이 기적의 다리 위에서 마침내 재회하여 서로의 사랑을 확인한다. 이들의 만남은 단순한 사랑을 넘어, 서로 다른 두 존재가 만나 이루는 완벽한 조화와 운명적인 선택을 상징한다. 이 카드는 당신의 마음이 이끄는 중요한 선택과 관계의 시작을 이야기한다.",
+          "keywords": [
+            "사랑의 시작",
+            "깊은 유대감",
+            "중요한 선택",
+            "관계의 조화",
+            "파트너십",
+            "마음의 이끌림"
+          ],
+          "questions": [
+            "지금 당신의 마음을 가장 끄는 선택은 무엇인가요? 당신의 가치관과 조화를 이루는 길은 어느 쪽인가요?",
+            "당신의 관계를 더욱 조화롭게 만들기 위해 무엇이 필요한가요? 어떻게 하면 더 깊은 연결을 이룰 수 있을까요?"
+          ],
+          "quote": "“일 년의 기다림도, 그대와 함께하는 이 순간을 위한 것이라면.”",
+          "summary": [
+            "관계",
+            "선택",
+            "조화",
+            "사랑",
+            "결합"
+          ]
         },
         "en": {
-          "name": "Four of Swords",
-          "upright": "Rest, contemplation, recuperation, retreat",
-          "reversed": "Burnout, restlessness, delayed recovery",
-          "keywords": ["Rest", "Recovery", "Stillness"]
-        },
-        "es": {
-          "name": "Cuatro de Espadas",
-          "upright": "Descanso, contemplación, recuperación, retiro",
-          "reversed": "Agotamiento, inquietud, demora en sanar",
-          "keywords": ["Descanso", "Recuperación", "Pausa"]
-        },
-        "ja": {
-          "name": "剣の4",
-          "upright": "休息、沈思、回復、静養",
-          "reversed": "過労、安らげない、回復の遅れ",
-          "keywords": ["休息", "回復", "静けさ"]
+          "name": "The Lover Cats",
+          "upright": "",
+          "reversed": "",
+          "story": "Once a year, on the night of the seventh day of the seventh month, magpies and crows form a bridge across the Milky Way. On this bridge of miracles, the lover cats, Gyeonwu and Jiknyeo, finally reunite and affirm their love. Their meeting symbolizes more than just romance; it represents the perfect harmony and fateful choice made when two different beings unite. This card speaks of an important choice of the heart and the beginning of a significant relationship.",
+          "keywords": [],
+          "questions": [],
+          "quote": "",
+          "summary": []
         }
       },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
+      "status": {
+        "ko": "approved",
+        "en": "pending",
+        "es": "pending",
+        "ja": "pending"
+      },
+      "source": "chat_coreen_tarot_v1",
+      "metadata": {
+        "arcana": "Major",
+        "suit": "",
+        "number": 6,
+        "title": {
+          "top_main": "6",
+          "bottom_main": "LES AMOUREUX",
+          "native": "연인 고양이",
+          "en": "The Lover Cats",
+          "original_tarot": "THE LOVERS"
+        },
+        "colorTheme": [
+          "담홍색(사랑, 관계)",
+          "하늘색(인연, 조화)",
+          "은색(운명, 천상)",
+          "남색(밤하늘)"
+        ],
+        "props": "그들의 발밑에는 수많은 까마귀와 까치들이 몸을 이어 만든 기적의 다리가 놓여있다. 배경에는 장엄하게 펼쳐진 은하수가 흐르고, 수많은 별들이 이들의 재회를 축복하듯 반짝인다.",
+        "background": "칠월 칠석의 밤, 별들이 쏟아지는 아름다운 은하수. 지상의 풍경이 아닌, 꿈과 현실의 경계에 있는 듯한 천상의 공간이 낭만적인 분위기를 고조시킨다.",
+        "symbolSummary": [
+          "관계",
+          "선택",
+          "조화",
+          "사랑",
+          "결합"
+        ]
+      }
     },
     {
-      "id": "swords_5",
-      "image": "cards/swords/swords_5.png",
+      "id": "major_7",
+      "originalId": "major7",
+      "image": "cards/major/major_7.png",
       "translations": {
         "ko": {
-          "name": "Five of Swords",
-          "upright": "빈 승리, 긴장 고조, 관계의 마찰",
-          "reversed": "수습, 양보, 갈등 해소",
-          "keywords": ["갈등", "긴장", "수습"]
+          "name": "장군 고양이",
+          "upright": "“강한 의지로 밀어붙여라. 지금이 바로 당신의 힘으로 승리를 쟁취할 때이다.”",
+          "reversed": "“방향을 잃고 폭주하고 있거나, 의지력을 상실했다. 고삐를 다시 잡고 목표를 재설정하라.”",
+          "story": "전장을 가로지르는 먼지 바람 속에서, 장군 고양이는 흔들림 없이 전차를 몬다. 서로 다른 길로 가려는 흑백의 해태는 그의 내면과 외부의 갈등을 상징하지만, 그는 강력한 의지의 고삐로 이들을 통제하고 오직 승리라는 목표를 향해 돌진한다. 이 카드는 강한 의지력으로 상반된 힘들을 통제하고, 목표를 향해 힘차게 나아가야 할 때임을 선언한다.",
+          "keywords": [
+            "승리",
+            "진취적인 힘",
+            "자기 통제",
+            "의지력",
+            "목표 달성",
+            "자신감",
+            "성공"
+          ],
+          "questions": [
+            "당신의 삶에서 어떤 상반된 힘들을 하나로 모아 통제해야 하나요? 당신의 의지력은 어디를 향하고 있나요?",
+            "당신이 반드시 쟁취하고 싶은 승리는 무엇인가요? 그 목표를 향해 지금 어떻게 돌진해야 할까요?"
+          ],
+          "quote": "“나의 길을 막는 것은 오직 나 자신뿐.”",
+          "summary": [
+            "승리",
+            "의지력",
+            "통제",
+            "돌진",
+            "자신감"
+          ]
         },
         "en": {
-          "name": "Five of Swords",
-          "upright": "Conflict, tension, dispute, hollow victory",
-          "reversed": "Reconciliation, compromise, resolution",
-          "keywords": ["Conflict", "Tension", "Resolution"]
-        },
-        "es": {
-          "name": "Cinco de Espadas",
-          "upright": "Conflicto, tensión, disputa, victoria vacía",
-          "reversed": "Reconciliación, tregua, resolución",
-          "keywords": ["Conflicto", "Tensión", "Resolución"]
-        },
-        "ja": {
-          "name": "剣の5",
-          "upright": "葛藤、緊張、争い、空しい勝利",
-          "reversed": "和解、譲歩、収束",
-          "keywords": ["葛藤", "緊張", "和解"]
+          "name": "The General Cat",
+          "upright": "",
+          "reversed": "",
+          "story": "Through the dust and wind of the battlefield, the General Cat drives his chariot unwaveringly. The black and white Haetae, pulling in different directions, symbolize his internal and external conflicts. Yet, with the reins of powerful willpower, he controls them, charging only towards the single goal of victory. This card declares that it is time to control opposing forces with a strong will and advance powerfully towards your goal.",
+          "keywords": [],
+          "questions": [],
+          "quote": "",
+          "summary": []
         }
       },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
+      "status": {
+        "ko": "approved",
+        "en": "pending",
+        "es": "pending",
+        "ja": "pending"
+      },
+      "source": "chat_coreen_tarot_v1",
+      "metadata": {
+        "arcana": "Major",
+        "suit": "",
+        "number": 7,
+        "title": {
+          "top_main": "7",
+          "bottom_main": "LE CHARIOT",
+          "native": "장군 고양이",
+          "en": "The General Cat",
+          "original_tarot": "THE CHARIOT"
+        },
+        "colorTheme": [
+          "진홍색(승리, 의지)",
+          "흑색(돌진, 통제력)",
+          "금색(영광, 자신감)",
+          "청색(집중력)"
+        ],
+        "props": "전차를 끄는 흑백의 해태는 선과 악, 내면의 갈등 등 서로 다른 방향으로 나아가려는 상반된 힘을 상징한다. 하지만 장군 고양이는 이들을 강력한 의지(고삐)로 통제하며 하나의 목표로 이끈다. 전차 앞면에는 그의 가문을 상징하는 방패 문양이 새겨져 있다.",
+        "background": "성문을 향해 돌진하거나 드넓은 전쟁터를 가로지르는 모습. 그의 뒤로 깃발이 펄럭이고 흙먼지가 휘날리는 등, 엄청난 속도감과 진취적인 에너지가 느껴지는 배경이다.",
+        "symbolSummary": [
+          "승리",
+          "의지력",
+          "통제",
+          "돌진",
+          "자신감"
+        ]
+      }
     },
     {
-      "id": "swords_6",
-      "image": "cards/swords/swords_6.png",
+      "id": "major_8",
+      "originalId": "major8",
+      "image": "cards/major/major_8.png",
       "translations": {
         "ko": {
-          "name": "Six of Swords",
-          "upright": "조용한 이동, 과거를 뒤로, 완만한 전환",
-          "reversed": "미련, 발걸음 지체, 떠남의 두려움",
-          "keywords": ["이동", "전환", "이별"]
+          "name": "용기 있는 고양이",
+          "upright": "“당신 안의 힘은 생각보다 강하다. 부드러움과 인내심으로 상황을 다스려라.”",
+          "reversed": "“두려움에 굴복하거나, 내면의 힘을 잃었다. 자신감을 되찾고 스스로를 믿어라.”",
+          "story": "푸른 초원 위, 작은 고양이는 자신보다 몇 배는 더 큰 호랑이 앞에 두려움 없이 선다. 그녀는 힘으로 맞서지 않고, 부드러운 손길과 자비로운 마음으로 호랑이의 야성을 잠재운다. 포효하던 호랑이는 그녀의 순수한 용기 앞에서 온순한 고양이처럼 눈을 감는다. 이 카드는 진정한 힘이란 외부의 적을 제압하는 것이 아니라, 내면의 두려움과 본능을 사랑으로 다스리는 것임을 보여준다.",
+          "keywords": [
+            "용기",
+            "인내심",
+            "부드러운 통제",
+            "자비",
+            "내면의 힘",
+            "자기 확신",
+            "본능 길들이기"
+          ],
+          "questions": [
+            "당신 내면의 어떤 '호랑이'(두려움, 분노, 욕망)를 지금 마주하고 길들여야 하나요?",
+            "힘으로 해결하려는 대신, 부드러움과 인내심, 그리고 자기 자신에 대한 자비로 풀 수 있는 문제는 무엇인가요?"
+          ],
+          "quote": "“진정한 힘은 억누르는 것이 아니라, 끌어안는 것이다.”",
+          "summary": [
+            "내면의 힘",
+            "용기",
+            "인내",
+            "자비",
+            "자기 통제"
+          ]
         },
         "en": {
-          "name": "Six of Swords",
-          "upright": "Transition, moving forward, leaving behind",
-          "reversed": "Resistance, delays, emotional baggage",
-          "keywords": ["Transition", "Passage", "Relief"]
-        },
-        "es": {
-          "name": "Seis de Espadas",
-          "upright": "Transición, avanzar, dejar atrás",
-          "reversed": "Apego, bloqueos, miedo a partir",
-          "keywords": ["Transición", "Viaje", "Desapego"]
-        },
-        "ja": {
-          "name": "剣の6",
-          "upright": "移行、前進、過去を後に",
-          "reversed": "未練、足踏み、旅立ちの恐れ",
-          "keywords": ["移行", "前進", "離別"]
+          "name": "The Courageous Cat",
+          "upright": "",
+          "reversed": "",
+          "story": "On a green meadow, a small cat stands fearlessly before a tiger many times its size. She does not confront it with force, but tames its wild nature with a gentle touch and a compassionate heart. The roaring tiger closes its eyes like a gentle kitten before her pure courage. This card shows that true strength lies not in conquering external foes, but in mastering one's inner fears and instincts with love.",
+          "keywords": [],
+          "questions": [],
+          "quote": "",
+          "summary": []
         }
       },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
+      "status": {
+        "ko": "approved",
+        "en": "pending",
+        "es": "pending",
+        "ja": "pending"
+      },
+      "source": "chat_coreen_tarot_v1",
+      "metadata": {
+        "arcana": "Major",
+        "suit": "",
+        "number": 8,
+        "title": {
+          "top_main": "8",
+          "bottom_main": "LA FORCE",
+          "native": "용기 있는 고양이",
+          "en": "The Courageous Cat",
+          "original_tarot": "STRENGTH"
+        },
+        "colorTheme": [
+          "백색(순수, 내면의 힘)",
+          "황색(용기, 자비)",
+          "녹색(생명, 조화)",
+          "주황색(본능, 야성)"
+        ],
+        "props": "고양이보다 훨씬 거대한 호랑이는 통제되지 않는 본능, 분노, 욕망 등 우리 내면의 야성을 상징한다. 고양이의 머리 위에는 무한한 잠재력과 순환을 상징하는 작은 들꽃으로 엮은 화관(花冠)이 씌워져 있다.",
+        "background": "평화로운 대나무 숲이나 푸른 초원. 거친 본능이 자연의 순리 안에서 조화롭게 길들여지는 모습을 보여주며, 모든 것이 평화롭고 안정된 상태이다.",
+        "symbolSummary": [
+          "내면의 힘",
+          "용기",
+          "인내",
+          "자비",
+          "자기 통제"
+        ]
+      }
     },
     {
-      "id": "swords_7",
-      "image": "cards/swords/swords_7.png",
+      "id": "major_9",
+      "originalId": "major9",
+      "image": "cards/major/major_9.png",
       "translations": {
         "ko": {
-          "name": "Seven of Swords",
-          "upright": "은밀한 전술, 기민한 판단, 독자적 행동",
-          "reversed": "자기기만, 들통, 전략 재고",
-          "keywords": ["전술", "기민", "성찰"]
+          "name": "은둔자 고양이",
+          "upright": "“세상과 잠시 거리를 두어라. 당신에게 필요한 답은 당신 안에 있다.”",
+          "reversed": "“지나친 고립은 외로움이 될 수 있다. 다시 세상으로 나아갈 준비를 하거나, 지혜를 나누는 것을 두려워하지 마라.”",
+          "story": "세상의 모든 소리를 뒤로하고, 은둔자 고양이는 홀로 눈 덮인 산 정상에 오른다. 그가 든 등불은 다른 누군가를 위한 것이 아닌, 오직 자신의 내면을 비추기 위한 지혜의 빛이다. 이 고독한 여정의 끝에서, 그는 외부 세계에서는 결코 찾을 수 없었던 가장 깊은 진리와 마주한다. 이 카드는 이제 세상의 소음에서 벗어나, 조용히 자기 자신과 마주할 시간이 필요함을 일깨워준다.",
+          "keywords": [
+            "내면 탐구",
+            "자기 성찰",
+            "혼자만의 시간",
+            "지혜로운 조언",
+            "영적 탐구",
+            "신중함"
+          ],
+          "questions": [
+            "지금 당신이 세상의 소음으로부터 벗어나 조용히 귀 기울여야 할 내면의 목소리는 무엇인가요?",
+            "당신의 길을 밝히기 위해, 당신 안에서 어떤 지혜의 등불을 밝혀야 할까요? 누구의 조언을 구하기보다 스스로 찾아야 할 답은 무엇인가요?"
+          ],
+          "quote": "“가장 시끄러운 답은 가장 깊은 침묵 속에 있다.”",
+          "summary": [
+            "자기 성찰",
+            "내면 탐구",
+            "지혜",
+            "고독",
+            "안내자"
+          ]
         },
         "en": {
-          "name": "Seven of Swords",
-          "upright": "Deception, trickery, tactics and strategy",
-          "reversed": "Self-deceit, exposure, rethink",
-          "keywords": ["Strategy", "Cunning", "Stealth"]
-        },
-        "es": {
-          "name": "Siete de Espadas",
-          "upright": "Engaño, astucia, táctica y estrategia",
-          "reversed": "Autoengaño, exposición, revisar plan",
-          "keywords": ["Estrategia", "Astucia", "Sigilo"]
-        },
-        "ja": {
-          "name": "剣の7",
-          "upright": "欺き、策略、戦術と戦略",
-          "reversed": "自己欺瞞、露見、再考",
-          "keywords": ["策略", "機敏", "再考"]
+          "name": "The Hermit Cat",
+          "upright": "",
+          "reversed": "",
+          "story": "Leaving all the noises of the world behind, the Hermit Cat ascends a snow-covered mountain peak alone. The lantern he holds is not for others, but is a light of wisdom to illuminate his own inner self. At the end of this solitary journey, he confronts the deepest truths that could never be found in the external world. This card reminds you that it is time to withdraw from the noise of the world and quietly face yourself.",
+          "keywords": [],
+          "questions": [],
+          "quote": "",
+          "summary": []
         }
       },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "swords_8",
-      "image": "cards/swords/swords_8.png",
-      "translations": {
-        "ko": {
-          "name": "Eight of Swords",
-          "upright": "스스로 만든 한계, 두려움의 굴레, 시야 제한",
-          "reversed": "해방의 실마리, 인식 전환, 묶인 매듭 풀기",
-          "keywords": ["제한", "두려움", "해방"]
-        },
-        "en": {
-          "name": "Eight of Swords",
-          "upright": "Isolation, self-imposed restriction, imprisonment",
-          "reversed": "Release, new perspective, clarity",
-          "keywords": ["Restriction", "Fear", "Freedom"]
-        },
-        "es": {
-          "name": "Ocho de Espadas",
-          "upright": "Aislamiento, restricción autoimpuesta, prisión",
-          "reversed": "Liberación, nuevo enfoque, claridad",
-          "keywords": ["Límite", "Miedo", "Liberación"]
-        },
-        "ja": {
-          "name": "剣の8",
-          "upright": "孤立、自己制限、拘束",
-          "reversed": "解放、認識転換、明晰",
-          "keywords": ["制限", "恐れ", "解放"]
-        }
+      "status": {
+        "ko": "approved",
+        "en": "pending",
+        "es": "pending",
+        "ja": "pending"
       },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "swords_9",
-      "image": "cards/swords/swords_9.png",
-      "translations": {
-        "ko": {
-          "name": "Nine of Swords",
-          "upright": "한밤의 불안, 죄책의 그림자, 과잉 걱정",
-          "reversed": "완화, 마음 돌봄, 도움 요청",
-          "keywords": ["불안", "죄책", "완화"]
-        },
-        "en": {
-          "name": "Nine of Swords",
-          "upright": "Anxiety, worry, fear, guilt, depression",
-          "reversed": "Relief, support, self-care",
-          "keywords": ["Anxiety", "Guilt", "Relief"]
-        },
-        "es": {
-          "name": "Nueve de Espadas",
-          "upright": "Ansiedad, preocupación, miedo, culpa, depresión",
-          "reversed": "Alivio, apoyo, cuidado de sí",
-          "keywords": ["Ansiedad", "Culpa", "Alivio"]
-        },
-        "ja": {
-          "name": "剣の9",
-          "upright": "不安、心配、恐れ、罪悪感、抑うつ",
-          "reversed": "軽減、支え、自己配慮",
-          "keywords": ["不安", "罪責", "緩和"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "swords_10",
-      "image": "cards/swords/swords_10.png",
-      "translations": {
-        "ko": {
-          "name": "Ten of Swords",
-          "upright": "막의 종결, 배신의 상흔, 바닥 후 반등",
-          "reversed": "상처 봉합, 서서히 회복, 놓아버림",
-          "keywords": ["종결", "배신", "회복"]
-        },
-        "en": {
-          "name": "Ten of Swords",
-          "upright": "Painful endings, betrayal, loss, crisis",
-          "reversed": "Closure, gradual recovery, release",
-          "keywords": ["Ending", "Betrayal", "Recovery"]
-        },
-        "es": {
-          "name": "Diez de Espadas",
-          "upright": "Final doloroso, traición, pérdida, crisis",
-          "reversed": "Cierre, recuperación gradual, soltar",
-          "keywords": ["Final", "Pérdida", "Recuperación"]
-        },
-        "ja": {
-          "name": "剣の10",
-          "upright": "痛みの終幕、裏切り、喪失、危機",
-          "reversed": "収束、漸進的回復、手放し",
-          "keywords": ["終幕", "喪失", "回復"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "swords_11",
-      "image": "cards/swords/swords_11.png",
-      "translations": {
-        "ko": {
-          "name": "Page of Swords",
-          "upright": "호기심의 칼끝, 배움의 열망, 날카로운 관찰",
-          "reversed": "피상적 판단, 경솔한 말, 산만함",
-          "keywords": ["호기심", "학습", "관찰"]
-        },
-        "en": {
-          "name": "Page of Swords",
-          "upright": "Curiosity, new ideas, thirst for knowledge",
-          "reversed": "Gossip, haste, scattered focus",
-          "keywords": ["Curiosity", "Study", "Observation"]
-        },
-        "es": {
-          "name": "Sota de Espadas",
-          "upright": "Curiosidad, ideas nuevas, sed de conocimiento",
-          "reversed": "Chismes, prisa, dispersión",
-          "keywords": ["Curiosidad", "Estudio", "Observación"]
-        },
-        "ja": {
-          "name": "剣のペイジ",
-          "upright": "好奇心、新案、知の渇き",
-          "reversed": "噂、軽率、散漫",
-          "keywords": ["好奇", "学び", "観察"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "swords_12",
-      "image": "cards/swords/swords_12.png",
-      "translations": {
-        "ko": {
-          "name": "Knight of Swords",
-          "upright": "즉각적 행동, 논리의 추격, 신념의 돌파",
-          "reversed": "무리한 돌진, 독선, 성급함",
-          "keywords": ["행동", "논리", "돌파"]
-        },
-        "en": {
-          "name": "Knight of Swords",
-          "upright": "Action, decisiveness, defending beliefs",
-          "reversed": "Impulsiveness, recklessness, dogma",
-          "keywords": ["Action", "Logic", "Advance"]
-        },
-        "es": {
-          "name": "Caballero de Espadas",
-          "upright": "Acción, decisión, defender creencias",
-          "reversed": "Impulso, temeridad, dogma",
-          "keywords": ["Acción", "Lógica", "Avance"]
-        },
-        "ja": {
-          "name": "剣のナイト",
-          "upright": "即応、決断、信念の擁護",
-          "reversed": "性急、無謀、独善",
-          "keywords": ["行動", "理性", "前進"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "swords_13",
-      "image": "cards/swords/swords_13.png",
-      "translations": {
-        "ko": {
-          "name": "Queen of Swords",
-          "upright": "명확한 판단, 경계와 통찰, 진실한 언어",
-          "reversed": "냉소, 비판 과잉, 단절",
-          "keywords": ["명확", "경계", "진실"]
-        },
-        "en": {
-          "name": "Queen of Swords",
-          "upright": "Clarity, boundaries, perceptive truth",
-          "reversed": "Cynicism, harshness, isolation",
-          "keywords": ["Clarity", "Boundaries", "Truth"]
-        },
-        "es": {
-          "name": "Reina de Espadas",
-          "upright": "Claridad, límites, verdad perceptiva",
-          "reversed": "Cinismo, dureza, aislamiento",
-          "keywords": ["Claridad", "Límites", "Verdad"]
-        },
-        "ja": {
-          "name": "剣のクイーン",
-          "upright": "明晰、境界、見抜く真実",
-          "reversed": "冷笑、厳格、孤立",
-          "keywords": ["明晰", "境界", "真実"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "swords_14",
-      "image": "cards/swords/swords_14.png",
-      "translations": {
-        "ko": {
-          "name": "King of Swords",
-          "upright": "이성의 권위, 공정한 판단, 전략적 사고",
-          "reversed": "독단, 편향, 경직된 원칙",
-          "keywords": ["권위", "공정", "전략"]
-        },
-        "en": {
-          "name": "King of Swords",
-          "upright": "Intellectual authority, fair judgement, strategy",
-          "reversed": "Dogma, bias, rigidity",
-          "keywords": ["Authority", "Justice", "Strategy"]
-        },
-        "es": {
-          "name": "Rey de Espadas",
-          "upright": "Autoridad intelectual, juicio justo, estrategia",
-          "reversed": "Dogma, sesgo, rigidez",
-          "keywords": ["Autoridad", "Justicia", "Estrategia"]
-        },
-        "ja": {
-          "name": "剣のキング",
-          "upright": "知の権威、公正な判断、戦略",
-          "reversed": "独善、偏り、硬直",
-          "keywords": ["権威", "公正", "戦略"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "cups_1",
-      "image": "cards/cups/cups_1.png",
-      "translations": {
-        "ko": {
-          "name": "Ace of Cups",
-          "upright": "마음의 새샘, 첫 감정의 싹, 사랑의 흐름, 창조적 영감",
-          "reversed": "감정 흐름의 막힘, 공허감, 메마른 영감, 마음 닫힘",
-          "keywords": ["감정의 탄생", "사랑", "영감"]
-        },
-        "en": {
-          "name": "Ace of Cups",
-          "upright": "New feelings, emotional beginnings, love, creative flow",
-          "reversed": "Blocked emotions, emptiness, creative drain, closed heart",
-          "keywords": ["Heart awakening", "Love", "Inspiration"]
-        },
-        "es": {
-          "name": "As de Copas",
-          "upright": "Nuevos sentimientos, inicio emocional, amor, fluidez creativa",
-          "reversed": "Emociones bloqueadas, vacío, agotamiento creativo",
-          "keywords": ["Despertar", "Amor", "Inspiración"]
-        },
-        "ja": {
-          "name": "杯のエース",
-          "upright": "新たな感情、始まり、愛、創造の流れ",
-          "reversed": "感情の停滞、空虚、創造の枯渇、心を閉ざす",
-          "keywords": ["目覚め", "愛", "インスピレーション"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "cups_2",
-      "image": "cards/cups/cups_2.png",
-      "translations": {
-        "ko": {
-          "name": "Two of Cups",
-          "upright": "마음의 교감, 균형 잡힌 연결, 상호 신뢰, 조화",
-          "reversed": "불균형한 관계, 단절, 소통의 왜곡, 약한 유대",
-          "keywords": ["교감", "파트너십", "조화"]
-        },
-        "en": {
-          "name": "Two of Cups",
-          "upright": "Partnership, mutual attraction, balance, harmony",
-          "reversed": "Imbalance, disconnection, poor communication",
-          "keywords": ["Bond", "Partnership", "Harmony"]
-        },
-        "es": {
-          "name": "Dos de Copas",
-          "upright": "Alianza, atracción mutua, equilibrio, armonía",
-          "reversed": "Desequilibrio, desconexión, mala comunicación",
-          "keywords": ["Vínculo", "Alianza", "Armonía"]
-        },
-        "ja": {
-          "name": "杯の2",
-          "upright": "結びつき、相互の魅力、均衡、調和",
-          "reversed": "不均衡、断絶、意思疎通の乱れ",
-          "keywords": ["絆", "協調", "調和"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "cups_3",
-      "image": "cards/cups/cups_3.png",
-      "translations": {
-        "ko": {
-          "name": "Three of Cups",
-          "upright": "축복의 자리, 우정의 환희, 공동 창조, 작은 기쁨",
-          "reversed": "과음과 과잉, 소문과 불화, 배제감",
-          "keywords": ["축하", "우정", "공동체"]
-        },
-        "en": {
-          "name": "Three of Cups",
-          "upright": "Celebration, friendship, community, creative synergy",
-          "reversed": "Overindulgence, gossip, disharmony",
-          "keywords": ["Celebrate", "Friendship", "Community"]
-        },
-        "es": {
-          "name": "Tres de Copas",
-          "upright": "Celebración, amistad, comunidad, sinergia",
-          "reversed": "Exceso, chismes, desarmonía",
-          "keywords": ["Celebrar", "Amistad", "Comunidad"]
-        },
-        "ja": {
-          "name": "杯の3",
-          "upright": "祝宴、友情、コミュニティ、共創",
-          "reversed": "行き過ぎ、噂、不和",
-          "keywords": ["祝福", "友情", "集い"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "cups_4",
-      "image": "cards/cups/cups_4.png",
-      "translations": {
-        "ko": {
-          "name": "Four of Cups",
-          "upright": "권태 속 성찰, 감정의 휴지, 새로운 제안 재평가",
-          "reversed": "마음의 재개방, 관심 회복, 감사의 회복",
-          "keywords": ["성찰", "휴지", "재평가"]
-        },
-        "en": {
-          "name": "Four of Cups",
-          "upright": "Apathy, contemplation, meditation, reevaluation",
-          "reversed": "Reengagement, renewed interest, gratitude",
-          "keywords": ["Contemplate", "Pause", "Reassess"]
-        },
-        "es": {
-          "name": "Cuatro de Copas",
-          "upright": "Apatía, contemplación, meditación, reevaluar",
-          "reversed": "Reenganche, interés renovado, gratitud",
-          "keywords": ["Contemplar", "Pausa", "Revisar"]
-        },
-        "ja": {
-          "name": "杯の4",
-          "upright": "倦怠、熟考、瞑想、見直し",
-          "reversed": "再関与、関心の回復、感謝",
-          "keywords": ["内省", "休止", "再評価"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "cups_5",
-      "image": "cards/cups/cups_5.png",
-      "translations": {
-        "ko": {
-          "name": "Five of Cups",
-          "upright": "상실의 물결, 후회의 잔상, 남은 두 잔에의 초대",
-          "reversed": "수용과 용서, 마음 추스름, 앞으로 나아감",
-          "keywords": ["상실", "후회", "수용"]
-        },
-        "en": {
-          "name": "Five of Cups",
-          "upright": "Regret, loss, disappointment, grief",
-          "reversed": "Acceptance, forgiveness, moving on",
-          "keywords": ["Loss", "Regret", "Heal"]
-        },
-        "es": {
-          "name": "Cinco de Copas",
-          "upright": "Arrepentimiento, pérdida, decepción, duelo",
-          "reversed": "Aceptación, perdón, seguir adelante",
-          "keywords": ["Pérdida", "Arrepentir", "Sanar"]
-        },
-        "ja": {
-          "name": "杯の5",
-          "upright": "後悔、喪失、失望、悲嘆",
-          "reversed": "受容、赦し、前進",
-          "keywords": ["喪失", "後悔", "癒し"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "cups_6",
-      "image": "cards/cups/cups_6.png",
-      "translations": {
-        "ko": {
-          "name": "Six of Cups",
-          "upright": "따뜻한 회상, 순수의 시간, 마음의 귀향",
-          "reversed": "과거 매몰, 이상화의 함정, 미성숙한 집착",
-          "keywords": ["향수", "순수", "귀향"]
-        },
-        "en": {
-          "name": "Six of Cups",
-          "upright": "Nostalgia, happy memories, childhood, innocence",
-          "reversed": "Stuck in past, idealization, immaturity",
-          "keywords": ["Nostalgia", "Innocence", "Homecoming"]
-        },
-        "es": {
-          "name": "Seis de Copas",
-          "upright": "Nostalgia, buenos recuerdos, infancia, inocencia",
-          "reversed": "Atrapado en el pasado, idealización",
-          "keywords": ["Nostalgia", "Inocencia", "Regreso"]
-        },
-        "ja": {
-          "name": "杯の6",
-          "upright": "郷愁、楽しい記憶、子ども心、純真",
-          "reversed": "過去への固執、理想化、未熟",
-          "keywords": ["郷愁", "純真", "帰還"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "cups_7",
-      "image": "cards/cups/cups_7.png",
-      "translations": {
-        "ko": {
-          "name": "Seven of Cups",
-          "upright": "꿈결 같은 선택지, 상상과 유혹, 마음의 스크리닝",
-          "reversed": "안개 걷힘, 우선순위 확립, 현실적 결정",
-          "keywords": ["선택", "상상", "분별"]
-        },
-        "en": {
-          "name": "Seven of Cups",
-          "upright": "Choices, fantasy, imagination, illusion",
-          "reversed": "Clarity, prioritization, realistic choice",
-          "keywords": ["Options", "Vision", "Clarity"]
-        },
-        "es": {
-          "name": "Siete de Copas",
-          "upright": "Opciones, fantasía, imaginación, ilusión",
-          "reversed": "Claridad, priorizar, elección realista",
-          "keywords": ["Opciones", "Visión", "Claridad"]
-        },
-        "ja": {
-          "name": "杯の7",
-          "upright": "選択肢、幻想、想像、誘惑",
-          "reversed": "明晰、優先順位、現実的決断",
-          "keywords": ["選択", "幻影", "明晰"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "cups_8",
-      "image": "cards/cups/cups_8.png",
-      "translations": {
-        "ko": {
-          "name": "Eight of Cups",
-          "upright": "정든 곳을 떠남, 더 깊은 의미 탐색, 감정의 이별",
-          "reversed": "떠남의 두려움, 미련, 발걸음의 지체",
-          "keywords": ["이별", "탐색", "전진"]
-        },
-        "en": {
-          "name": "Eight of Cups",
-          "upright": "Walking away, deeper search, leaving behind",
-          "reversed": "Fear of change, stagnation, clinging",
-          "keywords": ["Departure", "Quest", "Beyond"]
-        },
-        "es": {
-          "name": "Ocho de Copas",
-          "upright": "Partir, buscar sentido, dejar atrás",
-          "reversed": "Miedo al cambio, estancamiento, apego",
-          "keywords": ["Partida", "Búsqueda", "Más allá"]
-        },
-        "ja": {
-          "name": "杯の8",
-          "upright": "離別、より深い探求、手放す",
-          "reversed": "変化への恐れ、停滞、執着",
-          "keywords": ["旅立ち", "探求", "越境"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "cups_9",
-      "image": "cards/cups/cups_9.png",
-      "translations": {
-        "ko": {
-          "name": "Nine of Cups",
-          "upright": "소원의 잔, 충만한 만족, 감사의 풍요",
-          "reversed": "겉도는 만족, 과도한 탐닉, 공허한 성취",
-          "keywords": ["만족", "감사", "성취"]
-        },
-        "en": {
-          "name": "Nine of Cups",
-          "upright": "Contentment, gratitude, wish fulfilled",
-          "reversed": "Smugness, indulgence, hollow success",
-          "keywords": ["Satisfaction", "Gratitude", "Wish"]
-        },
-        "es": {
-          "name": "Nueve de Copas",
-          "upright": "Plenitud, gratitud, deseo cumplido",
-          "reversed": "Soberbia, exceso, logro vacío",
-          "keywords": ["Satisfacción", "Gratitud", "Deseo"]
-        },
-        "ja": {
-          "name": "杯の9",
-          "upright": "充足、感謝、望みの成就",
-          "reversed": "増長、放縦、空虚な成功",
-          "keywords": ["満足", "感謝", "成就"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "cups_10",
-      "image": "cards/cups/cups_10.png",
-      "translations": {
-        "ko": {
-          "name": "Ten of Cups",
-          "upright": "무지개 같은 조화, 가정의 평안, 마음의 충족",
-          "reversed": "불화와 긴장, 기대의 어긋남, 소속감의 흔들림",
-          "keywords": ["조화", "가족", "충족"]
-        },
-        "en": {
-          "name": "Ten of Cups",
-          "upright": "Harmony, fulfillment, happy relationships, belonging",
-          "reversed": "Disharmony, misalignment, home tensions",
-          "keywords": ["Harmony", "Family", "Fulfillment"]
-        },
-        "es": {
-          "name": "Diez de Copas",
-          "upright": "Armonía, plenitud, vínculos felices, pertenencia",
-          "reversed": "Desarmonía, desencuentro, tensiones en casa",
-          "keywords": ["Armonía", "Familia", "Plenitud"]
-        },
-        "ja": {
-          "name": "杯の10",
-          "upright": "調和、充足、幸せな関係、帰属",
-          "reversed": "不和、不一致、家庭の緊張",
-          "keywords": ["調和", "家庭", "充足"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "cups_11",
-      "image": "cards/cups/cups_11.png",
-      "translations": {
-        "ko": {
-          "name": "Page of Cups",
-          "upright": "영감의 전갈, 순수한 호기심, 마음의 메시지",
-          "reversed": "감정 미성숙, 회피적 몽상, 변덕",
-          "keywords": ["영감", "호기심", "메시지"]
-        },
-        "en": {
-          "name": "Page of Cups",
-          "upright": "Creative opportunity, intuitive messages, curiosity",
-          "reversed": "Emotional immaturity, escapism, moodiness",
-          "keywords": ["Inspiration", "Curiosity", "Message"]
-        },
-        "es": {
-          "name": "Sota de Copas",
-          "upright": "Oportunidad creativa, mensaje intuitivo, curiosidad",
-          "reversed": "Inmadurez emocional, evasión, inestabilidad",
-          "keywords": ["Inspiración", "Curiosidad", "Mensaje"]
-        },
-        "ja": {
-          "name": "杯のペイジ",
-          "upright": "創造の機会、直感の便り、好奇心",
-          "reversed": "感情の未熟、逃避、気分の揺れ",
-          "keywords": ["着想", "直感", "便り"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "cups_12",
-      "image": "cards/cups/cups_12.png",
-      "translations": {
-        "ko": {
-          "name": "Knight of Cups",
-          "upright": "낭만의 순례, 이상을 향한 여정, 마음의 제안",
-          "reversed": "과잉 이상화, 변덕스러운 태도, 질투",
-          "keywords": ["낭만", "이상", "제안"]
-        },
-        "en": {
-          "name": "Knight of Cups",
-          "upright": "Romance, charm, imagination, following the heart",
-          "reversed": "Overidealism, inconsistency, jealousy",
-          "keywords": ["Romance", "Imagination", "Offer"]
-        },
-        "es": {
-          "name": "Caballero de Copas",
-          "upright": "Romance, encanto, imaginación, seguir el corazón",
-          "reversed": "Idealización, inconstancia, celos",
-          "keywords": ["Romance", "Imaginación", "Propuesta"]
-        },
-        "ja": {
-          "name": "杯のナイト",
-          "upright": "ロマンス、魅力、想像力、心に従う",
-          "reversed": "理想過多、気まぐれ、嫉妬",
-          "keywords": ["ロマンス", "想像", "提案"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "cups_13",
-      "image": "cards/cups/cups_13.png",
-      "translations": {
-        "ko": {
-          "name": "Queen of Cups",
-          "upright": "깊은 공감, 배려의 온기, 안정된 감수성, 맑은 직관",
-          "reversed": "감정 기복, 불안과 의존, 경계의 흐림",
-          "keywords": ["공감", "돌봄", "직관"]
-        },
-        "en": {
-          "name": "Queen of Cups",
-          "upright": "Compassion, caring, emotional stability, intuition",
-          "reversed": "Overemotional, insecurity, codependence",
-          "keywords": ["Compassion", "Care", "Intuition"]
-        },
-        "es": {
-          "name": "Reina de Copas",
-          "upright": "Compasión, cuidado, estabilidad emocional, intuición",
-          "reversed": "Emoción excesiva, inseguridad, codependencia",
-          "keywords": ["Compasión", "Cuidado", "Intuición"]
-        },
-        "ja": {
-          "name": "杯のクイーン",
-          "upright": "共感、思いやり、情緒安定、直感",
-          "reversed": "感情過多、不安、共依存",
-          "keywords": ["共感", "慈しみ", "直感"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "cups_14",
-      "image": "cards/cups/cups_14.png",
-      "translations": {
-        "ko": {
-          "name": "King of Cups",
-          "upright": "고요한 리더십, 감정의 균형, 지혜로운 중재",
-          "reversed": "감정 억압, 냉담한 태도, 미묘한 조종",
-          "keywords": ["균형", "평온", "지혜"]
-        },
-        "en": {
-          "name": "King of Cups",
-          "upright": "Emotional control, calm authority, wise mediation",
-          "reversed": "Emotional suppression, coldness, manipulation",
-          "keywords": ["Balance", "Calm", "Wisdom"]
-        },
-        "es": {
-          "name": "Rey de Copas",
-          "upright": "Control emocional, autoridad serena, mediación sabia",
-          "reversed": "Represión emocional, frialdad, manipulación",
-          "keywords": ["Equilibrio", "Calma", "Sabiduría"]
-        },
-        "ja": {
-          "name": "杯のキング",
-          "upright": "情の統御、静かな権威、賢明な調停",
-          "reversed": "感情抑圧、冷淡、操作",
-          "keywords": ["均衡", "静穏", "英知"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "wands_1",
-      "image": "cards/wands/wands_1.png",
-      "translations": {
-        "ko": {
-          "name": "Ace of Wands",
-          "upright": "불꽃 같은 시작, 창조의 점화, 의지의 탄생",
-          "reversed": "불붙지 않는 불씨, 의욕 저하, 타이밍 불일치",
-          "keywords": ["점화", "창조", "의지"]
-        },
-        "en": {
-          "name": "Ace of Wands",
-          "upright": "Spark of creation, ignition, birth of will",
-          "reversed": "Dampened spark, waning drive, poor timing",
-          "keywords": ["Ignition", "Creation", "Will"]
-        },
-        "es": {
-          "name": "As de Bastos",
-          "upright": "Chispa creativa, encendido, nacimiento de la voluntad",
-          "reversed": "Chispa apagada, baja energía, mal momento",
-          "keywords": ["Encender", "Creación", "Voluntad"]
-        },
-        "ja": {
-          "name": "杖のエース",
-          "upright": "創造の火花、点火、意志の誕生",
-          "reversed": "火がつかない、意欲低下、時機逸し",
-          "keywords": ["点火", "創造", "意志"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "wands_2",
-      "image": "cards/wands/wands_2.png",
-      "translations": {
-        "ko": {
-          "name": "Two of Wands",
-          "upright": "지평선 설계, 선택의 용기, 미래 구상",
-          "reversed": "주저와 망설임, 안전지대 고착, 시야 협소",
-          "keywords": ["계획", "선택", "비전"]
-        },
-        "en": {
-          "name": "Two of Wands",
-          "upright": "Mapping horizons, brave choice, future design",
-          "reversed": "Hesitation, comfort-zone drift, narrow view",
-          "keywords": ["Plan", "Choice", "Vision"]
-        },
-        "es": {
-          "name": "Dos de Bastos",
-          "upright": "Trazar horizontes, elegir con valor, diseño del futuro",
-          "reversed": "Duda, zona de confort, visión estrecha",
-          "keywords": ["Plan", "Elección", "Visión"]
-        },
-        "ja": {
-          "name": "杖の2",
-          "upright": "地平の設計、勇気ある選択、未来構想",
-          "reversed": "逡巡、安住、視野の狭さ",
-          "keywords": ["計画", "選択", "展望"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "wands_3",
-      "image": "cards/wands/wands_3.png",
-      "translations": {
-        "ko": {
-          "name": "Three of Wands",
-          "upright": "지평선의 확장, 성장의 바람, 앞날 조망",
-          "reversed": "정체된 확장, 준비 부족, 기대의 지연",
-          "keywords": ["확장", "성장", "전망"]
-        },
-        "en": {
-          "name": "Three of Wands",
-          "upright": "Expansion, favorable winds, looking ahead",
-          "reversed": "Stalled growth, underprepared, delayed returns",
-          "keywords": ["Expand", "Grow", "Foresight"]
-        },
-        "es": {
-          "name": "Tres de Bastos",
-          "upright": "Expansión, vientos a favor, mirar adelante",
-          "reversed": "Crecimiento estancado, poca preparación, demoras",
-          "keywords": ["Expandir", "Crecimiento", "Previsión"]
-        },
-        "ja": {
-          "name": "杖の3",
-          "upright": "拡張、追い風、前途を見渡す",
-          "reversed": "成長停滞、準備不足、遅延",
-          "keywords": ["拡張", "成長", "先見"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "wands_4",
-      "image": "cards/wands/wands_4.png",
-      "translations": {
-        "ko": {
-          "name": "Four of Wands",
-          "upright": "문지방의 축복, 공동의 기쁨, 집의 조화",
-          "reversed": "준비 미흡, 불안정한 기반, 축하의 연기",
-          "keywords": ["축복", "안정", "공동체"]
-        },
-        "en": {
-          "name": "Four of Wands",
-          "upright": "Threshold blessing, shared joy, domestic harmony",
-          "reversed": "Loose foundations, delays, unsettled home",
-          "keywords": ["Celebrate", "Stability", "Community"]
-        },
-        "es": {
-          "name": "Cuatro de Bastos",
-          "upright": "Bendición del umbral, gozo compartido, armonía",
-          "reversed": "Base inestable, demoras, hogar inquieto",
-          "keywords": ["Celebrar", "Estabilidad", "Comunidad"]
-        },
-        "ja": {
-          "name": "杖の4",
-          "upright": "門出の祝福、喜びの共有、家の調和",
-          "reversed": "基盤不安、延期、不穏な家庭",
-          "keywords": ["祝宴", "安定", "共同体"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "wands_5",
-      "image": "cards/wands/wands_5.png",
-      "translations": {
-        "ko": {
-          "name": "Five of Wands",
-          "upright": "건설적 경쟁, 의견의 불꽃, 실전 연습",
-          "reversed": "소모적 다툼, 내분, 에너지 낭비",
-          "keywords": ["경쟁", "연습", "긴장"]
-        },
-        "en": {
-          "name": "Five of Wands",
-          "upright": "Constructive competition, sparks of opinion, sparring",
-          "reversed": "Petty conflict, infighting, wasted energy",
-          "keywords": ["Compete", "Practice", "Tension"]
-        },
-        "es": {
-          "name": "Cinco de Bastos",
-          "upright": "Competencia constructiva, debate vivo, entrenamiento",
-          "reversed": "Pelea trivial, división interna, desgaste",
-          "keywords": ["Competir", "Práctica", "Tensión"]
-        },
-        "ja": {
-          "name": "杖の5",
-          "upright": "建設的競争、意見の火花、稽古",
-          "reversed": "些細な争い、内紛、消耗",
-          "keywords": ["競争", "訓練", "緊張"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "wands_6",
-      "image": "cards/wands/wands_6.png",
-      "translations": {
-        "ko": {
-          "name": "Six of Wands",
-          "upright": "환호의 행렬, 공인된 성취, 자신감의 깃발",
-          "reversed": "인정 욕심, 시기와 잡음, 공허한 과시",
-          "keywords": ["승리", "인정", "자신감"]
-        },
-        "en": {
-          "name": "Six of Wands",
-          "upright": "Parade of acclaim, recognized success, banner of confidence",
-          "reversed": "Craving validation, envy, hollow display",
-          "keywords": ["Victory", "Recognition", "Poise"]
-        },
-        "es": {
-          "name": "Seis de Bastos",
-          "upright": "Desfile de elogios, éxito reconocido, confianza",
-          "reversed": "Ansia de aprobación, envidia, exhibición vacía",
-          "keywords": ["Victoria", "Reconocimiento", "Aplomo"]
-        },
-        "ja": {
-          "name": "杖の6",
-          "upright": "称賛の行進、公的成功、自信の旗",
-          "reversed": "承認欲、嫉妬、空虚な誇示",
-          "keywords": ["勝利", "称賛", "自信"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "wands_7",
-      "image": "cards/wands/wands_7.png",
-      "translations": {
-        "ko": {
-          "name": "Seven of Wands",
-          "upright": "유리한 고지, 입장 수호, 용감한 버팀",
-          "reversed": "방어 피로, 흔들리는 기준, 회피",
-          "keywords": ["수호", "용기", "입장"]
-        },
-        "en": {
-          "name": "Seven of Wands",
-          "upright": "High ground, holding position, brave stance",
-          "reversed": "Defensive fatigue, wavering lines, avoidance",
-          "keywords": ["Defend", "Courage", "Stand"]
-        },
-        "es": {
-          "name": "Siete de Bastos",
-          "upright": "Terreno alto, mantener postura, valentía",
-          "reversed": "Fatiga defensiva, vacilación, evasión",
-          "keywords": ["Defender", "Valor", "Postura"]
-        },
-        "ja": {
-          "name": "杖の7",
-          "upright": "高所の優位、立場堅持、勇敢な構え",
-          "reversed": "守勢の疲れ、迷い、回避",
-          "keywords": ["防衛", "勇気", "姿勢"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "wands_8",
-      "image": "cards/wands/wands_8.png",
-      "translations": {
-        "ko": {
-          "name": "Eight of Wands",
-          "upright": "눈부신 가속, 소식의 비행, 막힘 없는 흐름",
-          "reversed": "혼선, 급브레이크, 메시지 지연",
-          "keywords": ["가속", "소식", "흐름"]
-        },
-        "en": {
-          "name": "Eight of Wands",
-          "upright": "Rapid acceleration, messages in flight, unobstructed flow",
-          "reversed": "Crossed signals, braking, delays",
-          "keywords": ["Speed", "News", "Flow"]
-        },
-        "es": {
-          "name": "Ocho de Bastos",
-          "upright": "Aceleración, mensajes en vuelo, flujo libre",
-          "reversed": "Cruce de señales, freno, demoras",
-          "keywords": ["Velocidad", "Noticias", "Flujo"]
-        },
-        "ja": {
-          "name": "杖の8",
-          "upright": "加速、便りが飛ぶ、滞りなき流れ",
-          "reversed": "混線、減速、遅延",
-          "keywords": ["迅速", "便り", "流れ"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "wands_9",
-      "image": "cards/wands/wands_9.png",
-      "translations": {
-        "ko": {
-          "name": "Nine of Wands",
-          "upright": "상처 위의 경계, 끝을 향한 인내, 신념의 시험",
-          "reversed": "의심과 방어 과잉, 지친 마음, 경계 붕괴",
-          "keywords": ["인내", "경계", "시련"]
-        },
-        "en": {
-          "name": "Nine of Wands",
-          "upright": "Guarded persistence, last stretch, test of faith",
-          "reversed": "Paranoia, worn defenses, collapse of guard",
-          "keywords": ["Endure", "Guard", "Trial"]
-        },
-        "es": {
-          "name": "Nueve de Bastos",
-          "upright": "Perseverancia en guardia, tramo final, prueba de fe",
-          "reversed": "Desconfianza, defensas gastadas, derrumbe",
-          "keywords": ["Resistir", "Vigilia", "Prueba"]
-        },
-        "ja": {
-          "name": "杖の9",
-          "upright": "守り抜く忍耐、最後の山場、信念の試練",
-          "reversed": "猜疑、防御の消耗、崩れ",
-          "keywords": ["忍耐", "警戒", "試練"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "wands_10",
-      "image": "cards/wands/wands_10.png",
-      "translations": {
-        "ko": {
-          "name": "Ten of Wands",
-          "upright": "짐을 끝까지, 책임의 무게, 완결 직전",
-          "reversed": "과부하 해소, 위임과 정리, 내려놓기",
-          "keywords": ["부담", "책임", "완결"]
-        },
-        "en": {
-          "name": "Ten of Wands",
-          "upright": "Carrying it home, weight of duty, near completion",
-          "reversed": "Lightening load, delegation, release",
-          "keywords": ["Burden", "Duty", "Closure"]
-        },
-        "es": {
-          "name": "Diez de Bastos",
-          "upright": "Cargar hasta el final, peso del deber, casi cierre",
-          "reversed": "Alivio de carga, delegar, soltar",
-          "keywords": ["Carga", "Deber", "Cierre"]
-        },
-        "ja": {
-          "name": "杖の10",
-          "upright": "背負い切る、責務の重み、完遂目前",
-          "reversed": "荷下ろし、委任、手放し",
-          "keywords": ["重荷", "責任", "収束"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "wands_11",
-      "image": "cards/wands/wands_11.png",
-      "translations": {
-        "ko": {
-          "name": "Page of Wands",
-          "upright": "탐험의 불씨, 소식과 영감, 자유로운 시동",
-          "reversed": "산만한 시작, 미완의 열정, 금세 식는 흥미",
-          "keywords": ["탐험", "영감", "기동"]
-        },
-        "en": {
-          "name": "Page of Wands",
-          "upright": "Ember of exploration, news and inspiration, free start",
-          "reversed": "Scattered launch, ungrounded zeal, fickle interest",
-          "keywords": ["Explore", "Inspire", "Initiate"]
-        },
-        "es": {
-          "name": "Sota de Bastos",
-          "upright": "Brasa exploradora, noticia e inspiración, inicio libre",
-          "reversed": "Lanzamiento disperso, celo sin base, interés voluble",
-          "keywords": ["Explorar", "Inspirar", "Iniciar"]
-        },
-        "ja": {
-          "name": "杖のペイジ",
-          "upright": "探検の火種、便りと着想、自由な始動",
-          "reversed": "散漫な出発、根拠薄い熱、移ろう関心",
-          "keywords": ["探検", "着想", "始動"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "wands_12",
-      "image": "cards/wands/wands_12.png",
-      "translations": {
-        "ko": {
-          "name": "Knight of Wands",
-          "upright": "모험의 질주, 대담한 실행, 열정의 돌파",
-          "reversed": "충동적 탈선, 금세 식는 불, 준비 부족",
-          "keywords": ["모험", "실행", "열정"]
-        },
-        "en": {
-          "name": "Knight of Wands",
-          "upright": "Charge of adventure, bold execution, passionate break-through",
-          "reversed": "Impulsive detour, flash-in-the-pan, underprepared",
-          "keywords": ["Adventure", "Action", "Passion"]
-        },
-        "es": {
-          "name": "Caballero de Bastos",
-          "upright": "Carga aventurera, ejecución audaz, pasión que abre camino",
-          "reversed": "Impulso desviado, fuego fugaz, poca preparación",
-          "keywords": ["Aventura", "Acción", "Pasión"]
-        },
-        "ja": {
-          "name": "杖のナイト",
-          "upright": "冒険の突進、大胆な実行、情熱の突破",
-          "reversed": "衝動的な逸脱、一過性の熱、準備不足",
-          "keywords": ["冒険", "実行", "情熱"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "wands_13",
-      "image": "cards/wands/wands_13.png",
-      "translations": {
-        "ko": {
-          "name": "Queen of Wands",
-          "upright": "따뜻한 카리스마, 자립의 불빛, 매력의 확산",
-          "reversed": "과열된 자의식, 질투, 불안정한 주도",
-          "keywords": ["카리스마", "자립", "매력"]
-        },
-        "en": {
-          "name": "Queen of Wands",
-          "upright": "Warm charisma, self-possessed flame, radiant allure",
-          "reversed": "Overheated ego, envy, shaky lead",
-          "keywords": ["Charisma", "Autonomy", "Radiance"]
-        },
-        "es": {
-          "name": "Reina de Bastos",
-          "upright": "Carisma cálido, llama propia, atractivo radiante",
-          "reversed": "Ego recalentado, celos, liderazgo frágil",
-          "keywords": ["Carisma", "Autonomía", "Brillo"]
-        },
-        "ja": {
-          "name": "杖のクイーン",
-          "upright": "温かなカリスマ、自立の炎、放つ魅力",
-          "reversed": "過熱した自我、嫉妬、不安定な主導",
-          "keywords": ["魅力", "自立", "輝き"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "wands_14",
-      "image": "cards/wands/wands_14.png",
-      "translations": {
-        "ko": {
-          "name": "King of Wands",
-          "upright": "비전의 지도력, 담대한 결단, 창업가적 기세",
-          "reversed": "독선적 통솔, 성급한 명령, 소진",
-          "keywords": ["비전", "리더십", "결단"]
-        },
-        "en": {
-          "name": "King of Wands",
-          "upright": "Visionary leadership, bold decisions, entrepreneurial drive",
-          "reversed": "Authoritarian streak, rash commands, burnout",
-          "keywords": ["Vision", "Leadership", "Resolve"]
-        },
-        "es": {
-          "name": "Rey de Bastos",
-          "upright": "Liderazgo visionario, decisiones audaces, impulso creador",
-          "reversed": "Autoritarismo, órdenes apresuradas, agotamiento",
-          "keywords": ["Visión", "Liderazgo", "Determinación"]
-        },
-        "ja": {
-          "name": "杖のキング",
-          "upright": "先見の統率、大胆な決断、起業の気概",
-          "reversed": "独善、拙速な指示、燃え尽き",
-          "keywords": ["先見", "統率", "決断"]
-        }
-      },
-      "status": { "ko": "approved", "en": "approved", "es": "approved", "ja": "approved" },
-      "source": "llm"
-    },
-    {
-      "id": "pentacles_1",
-      "image": "cards/pentacles/pentacles_1.png",
-      "translations": {
-        "ko": {
-          "name": "Ace of Pentacles",
-          "upright": "손에 잡히는 시작, 번영의 씨앗, 현실적 기회",
-          "reversed": "기회 유실, 기반 불안, 성급한 투자",
-          "keywords": ["기회", "번영", "출발"]
-        },
-        "en": {
-          "name": "Ace of Pentacles",
-          "upright": "New opportunity, prosperity, abundance",
-          "reversed": "Missed chance, instability, poor investment",
-          "keywords": ["Opportunity", "Prosperity", "Seed"]
-        },
-        "es": {
-          "name": "As de Oros",
-          "upright": "Nueva oportunidad, prosperidad, abundancia",
-          "reversed": "Ocasión perdida, base inestable, mala inversión",
-          "keywords": ["Oportunidad", "Prosperidad", "Semilla"]
-        },
-        "ja": {
-          "name": "金貨のエース",
-          "upright": "手に取れる始まり、繁栄の種、現実的な好機",
-          "reversed": "機会逸失、不安定、拙い投資",
-          "keywords": ["機会", "繁栄", "種"]
-        }
-      },
-      "status": {"ko":"approved","en":"approved","es":"approved","ja":"approved"},
-      "source": "llm"
-    },
-    {
-      "id": "pentacles_2",
-      "image": "cards/pentacles/pentacles_2.png",
-      "translations": {
-        "ko": {
-          "name": "Two of Pentacles",
-          "upright": "리듬의 균형, 유연한 조율, 시간의 묘수",
-          "reversed": "과부하, 우왕좌왕, 우선순위 혼선",
-          "keywords": ["균형", "적응", "조율"]
-        },
-        "en": {
-          "name": "Two of Pentacles",
-          "upright": "Balance, adaptability, time management",
-          "reversed": "Overload, disarray, poor priorities",
-          "keywords": ["Balance", "Adapt", "Manage"]
-        },
-        "es": {
-          "name": "Dos de Oros",
-          "upright": "Equilibrio, adaptación, gestión del tiempo",
-          "reversed": "Sobrecarga, desorden, malas prioridades",
-          "keywords": ["Equilibrio", "Adaptar", "Gestionar"]
-        },
-        "ja": {
-          "name": "金貨の2",
-          "upright": "リズムの均衡、柔軟な調整、時間術",
-          "reversed": "過負荷、混乱、優先の迷い",
-          "keywords": ["均衡", "適応", "調整"]
-        }
-      },
-      "status": {"ko":"approved","en":"approved","es":"approved","ja":"approved"},
-      "source": "llm"
-    },
-    {
-      "id": "pentacles_3",
-      "image": "cards/pentacles/pentacles_3.png",
-      "translations": {
-        "ko": {
-          "name": "Three of Pentacles",
-          "upright": "장인의 협업, 설계의 구체화, 배우며 완성",
-          "reversed": "호흡 불일치, 기준 미흡, 팀워크 약화",
-          "keywords": ["협업", "기술", "설계"]
-        },
-        "en": {
-          "name": "Three of Pentacles",
-          "upright": "Teamwork, collaboration, learning, implementation",
-          "reversed": "Mismatch, low standards, weak teamwork",
-          "keywords": ["Teamwork", "Skill", "Plan"]
-        },
-        "es": {
-          "name": "Tres de Oros",
-          "upright": "Trabajo en equipo, colaboración, aprendizaje, ejecución",
-          "reversed": "Desencaje, estándares bajos, equipo débil",
-          "keywords": ["Equipo", "Oficio", "Plan"]
-        },
-        "ja": {
-          "name": "金貨の3",
-          "upright": "職人の協働、設計の具体化、学びの実践",
-          "reversed": "不一致、基準不足、連携の弱さ",
-          "keywords": ["協働", "技", "設計"]
-        }
-      },
-      "status": {"ko":"approved","en":"approved","es":"approved","ja":"approved"},
-      "source": "llm"
-    },
-    {
-      "id": "pentacles_4",
-      "image": "cards/pentacles/pentacles_4.png",
-      "translations": {
-        "ko": {
-          "name": "Four of Pentacles",
-          "upright": "안정의 고정점, 자원의 보호, 경계 설정",
-          "reversed": "집착과 경직, 손 놓기의 두려움, 흐름 정체",
-          "keywords": ["안정", "보호", "경계"]
-        },
-        "en": {
-          "name": "Four of Pentacles",
-          "upright": "Security, conservatism, control",
-          "reversed": "Clinging, rigidity, blocked flow",
-          "keywords": ["Security", "Protect", "Hold"]
-        },
-        "es": {
-          "name": "Cuatro de Oros",
-          "upright": "Seguridad, conservadurismo, control",
-          "reversed": "Apego, rigidez, flujo bloqueado",
-          "keywords": ["Seguridad", "Guardar", "Control"]
-        },
-        "ja": {
-          "name": "金貨の4",
-          "upright": "安定点、資源の保護、境界の設定",
-          "reversed": "執着、硬直、流れの停滞",
-          "keywords": ["安定", "保護", "境界"]
-        }
-      },
-      "status": {"ko":"approved","en":"approved","es":"approved","ja":"approved"},
-      "source": "llm"
-    },
-    {
-      "id": "pentacles_5",
-      "image": "cards/pentacles/pentacles_5.png",
-      "translations": {
-        "ko": {
-          "name": "Five of Pentacles",
-          "upright": "겨울의 시련, 결핍의 감각, 도움의 불빛",
-          "reversed": "회복의 신호, 손 내밀기, 자원 재정렬",
-          "keywords": ["결핍", "고립", "지원"]
-        },
-        "en": {
-          "name": "Five of Pentacles",
-          "upright": "Hardship, loss, struggle, isolation",
-          "reversed": "Recovery, support, realignment",
-          "keywords": ["Lack", "Struggle", "Aid"]
-        },
-        "es": {
-          "name": "Cinco de Oros",
-          "upright": "Dificultad, pérdida, lucha, aislamiento",
-          "reversed": "Recuperación, apoyo, reajuste",
-          "keywords": ["Carencia", "Lucha", "Apoyo"]
-        },
-        "ja": {
-          "name": "金貨の5",
-          "upright": "困窮、喪失、苦闘、孤立",
-          "reversed": "回復、支援、立て直し",
-          "keywords": ["欠乏", "苦難", "助力"]
-        }
-      },
-      "status": {"ko":"approved","en":"approved","es":"approved","ja":"approved"},
-      "source": "llm"
-    },
-    {
-      "id": "pentacles_6",
-      "image": "cards/pentacles/pentacles_6.png",
-      "translations": {
-        "ko": {
-          "name": "Six of Pentacles",
-          "upright": "주고 받는 균형, 실질적 나눔, 순환의 미덕",
-          "reversed": "불균형한 거래, 의존, 보이지 않는 조건",
-          "keywords": ["나눔", "균형", "순환"]
-        },
-        "en": {
-          "name": "Six of Pentacles",
-          "upright": "Giving, receiving, generosity, charity",
-          "reversed": "Strings attached, imbalance, dependence",
-          "keywords": ["Share", "Balance", "Flow"]
-        },
-        "es": {
-          "name": "Seis de Oros",
-          "upright": "Dar y recibir, generosidad, caridad",
-          "reversed": "Condiciones ocultas, desequilibrio, dependencia",
-          "keywords": ["Compartir", "Equilibrio", "Flujo"]
-        },
-        "ja": {
-          "name": "金貨の6",
-          "upright": "与える・受け取るの均衡、実利の分かち合い",
-          "reversed": "不均衡、依存、条件付きの援助",
-          "keywords": ["分かち合い", "均衡", "循環"]
-        }
-      },
-      "status": {"ko":"approved","en":"approved","es":"approved","ja":"approved"},
-      "source": "llm"
-    },
-    {
-      "id": "pentacles_7",
-      "image": "cards/pentacles/pentacles_7.png",
-      "translations": {
-        "ko": {
-          "name": "Seven of Pentacles",
-          "upright": "성장의 관찰, 인내의 투자, 장기 설계",
-          "reversed": "조급함, 비효율, 잘못된 밭",
-          "keywords": ["인내", "평가", "장기"]
-        },
-        "en": {
-          "name": "Seven of Pentacles",
-          "upright": "Long-term view, perseverance, investment",
-          "reversed": "Impatience, inefficiency, wrong field",
-          "keywords": ["Patience", "Review", "Yield"]
-        },
-        "es": {
-          "name": "Siete de Oros",
-          "upright": "Visión a largo plazo, perseverancia, inversión",
-          "reversed": "Impaciencia, ineficiencia, terreno equivocado",
-          "keywords": ["Paciencia", "Revisión", "Cosecha"]
-        },
-        "ja": {
-          "name": "金貨の7",
-          "upright": "長期視点、辛抱、投資",
-          "reversed": "焦り、非効率、畑違い",
-          "keywords": ["忍耐", "見直し", "収穫"]
-        }
-      },
-      "status": {"ko":"approved","en":"approved","es":"approved","ja":"approved"},
-      "source": "llm"
-    },
-    {
-      "id": "pentacles_8",
-      "image": "cards/pentacles/pentacles_8.png",
-      "translations": {
-        "ko": {
-          "name": "Eight of Pentacles",
-          "upright": "정교한 연습, 숙련의 축적, 몰입의 시간",
-          "reversed": "단조로움의 함정, 품질 저하, 동기 결핍",
-          "keywords": ["숙련", "연습", "몰입"]
-        },
-        "en": {
-          "name": "Eight of Pentacles",
-          "upright": "Skill development, craftsmanship, repetition",
-          "reversed": "Monotony, poor quality, low motivation",
-          "keywords": ["Mastery", "Practice", "Focus"]
-        },
-        "es": {
-          "name": "Ocho de Oros",
-          "upright": "Desarrollo de habilidades, oficio, repetición",
-          "reversed": "Monotonía, baja calidad, poca motivación",
-          "keywords": ["Maestría", "Práctica", "Enfoque"]
-        },
-        "ja": {
-          "name": "金貨の8",
-          "upright": "技能の鍛錬、職人技、反復",
-          "reversed": "単調、品質低下、意欲不足",
-          "keywords": ["熟練", "練習", "集中"]
-        }
-      },
-      "status": {"ko":"approved","en":"approved","es":"approved","ja":"approved"},
-      "source": "llm"
-    },
-    {
-      "id": "pentacles_9",
-      "image": "cards/pentacles/pentacles_9.png",
-      "translations": {
-        "ko": {
-          "name": "Nine of Pentacles",
-          "upright": "품위 있는 여유, 자립의 결실, 세련된 풍요",
-          "reversed": "허세 소비, 의존, 빈껍데기 성취",
-          "keywords": ["자립", "풍요", "세련"]
-        },
-        "en": {
-          "name": "Nine of Pentacles",
-          "upright": "Luxury, self-sufficiency, financial independence",
-          "reversed": "Overspending, dependence, hollow success",
-          "keywords": ["Independence", "Abundance", "Grace"]
-        },
-        "es": {
-          "name": "Nueve de Oros",
-          "upright": "Lujo, autosuficiencia, independencia financiera",
-          "reversed": "Gasto excesivo, dependencia, logro vacío",
-          "keywords": ["Autonomía", "Abundancia", "Elegancia"]
-        },
-        "ja": {
-          "name": "金貨の9",
-          "upright": "優雅な余裕、自立の実り、洗練された豊かさ",
-          "reversed": "見栄消費、依存、空虚な成功",
-          "keywords": ["自立", "豊かさ", "優雅"]
-        }
-      },
-      "status": {"ko":"approved","en":"approved","es":"approved","ja":"approved"},
-      "source": "llm"
-    },
-    {
-      "id": "pentacles_10",
-      "image": "cards/pentacles/pentacles_10.png",
-      "translations": {
-        "ko": {
-          "name": "Ten of Pentacles",
-          "upright": "대물림의 축적, 가문의 토대, 장기적 안정",
-          "reversed": "유산 갈등, 가치 불일치, 기반 균열",
-          "keywords": ["유산", "가족", "안정"]
-        },
-        "en": {
-          "name": "Ten of Pentacles",
-          "upright": "Legacy, inheritance, family, long-term success",
-          "reversed": "Disputes, misaligned values, shaky base",
-          "keywords": ["Legacy", "Family", "Stability"]
-        },
-        "es": {
-          "name": "Diez de Oros",
-          "upright": "Legado, herencia, familia, éxito a largo plazo",
-          "reversed": "Disputas, valores desalineados, base temblorosa",
-          "keywords": ["Legado", "Familia", "Estabilidad"]
-        },
-        "ja": {
-          "name": "金貨の10",
-          "upright": "継承、家系の土台、長期安定",
-          "reversed": "遺産争い、価値の不一致、基盤の亀裂",
-          "keywords": ["遺産", "家族", "安定"]
-        }
-      },
-      "status": {"ko":"approved","en":"approved","es":"approved","ja":"approved"},
-      "source": "llm"
-    },
-    {
-      "id": "pentacles_11",
-      "image": "cards/pentacles/pentacles_11.png",
-      "translations": {
-        "ko": {
-          "name": "Page of Pentacles",
-          "upright": "현실 감각의 학습, 기회의 제안, 씨앗을 심음",
-          "reversed": "산만한 목표, 계획 부재, 소식 지연",
-          "keywords": ["학습", "기회", "실천"]
-        },
-        "en": {
-          "name": "Page of Pentacles",
-          "upright": "Opportunity, study, manifestation, financial news",
-          "reversed": "Lack of focus, poor planning, delayed news",
-          "keywords": ["Study", "Opportunity", "Ground"]
-        },
-        "es": {
-          "name": "Sota de Oros",
-          "upright": "Oportunidad, estudio, manifestación, noticias financieras",
-          "reversed": "Falta de foco, mala planificación, retraso",
-          "keywords": ["Estudio", "Oportunidad", "Concretar"]
-        },
-        "ja": {
-          "name": "金貨のペイジ",
-          "upright": "現実的学び、機会の提案、種まき",
-          "reversed": "目標の散漫、計画不足、知らせの遅れ",
-          "keywords": ["学び", "機会", "着実"]
-        }
-      },
-      "status": {"ko":"approved","en":"approved","es":"approved","ja":"approved"},
-      "source": "llm"
-    },
-    {
-      "id": "pentacles_12",
-      "image": "cards/pentacles/pentacles_12.png",
-      "translations": {
-        "ko": {
-          "name": "Knight of Pentacles",
-          "upright": "꾸준한 실행, 성실한 루틴, 신뢰의 누적",
-          "reversed": "과도한 보수성, 지루한 고착, 융통성 결여",
-          "keywords": ["성실", "루틴", "지속"]
-        },
-        "en": {
-          "name": "Knight of Pentacles",
-          "upright": "Hard work, productivity, routine, conservatism",
-          "reversed": "Stagnation, boredom, inflexibility",
-          "keywords": ["Diligence", "Routine", "Steady"]
-        },
-        "es": {
-          "name": "Caballero de Oros",
-          "upright": "Trabajo duro, productividad, rutina, conservadurismo",
-          "reversed": "Estancamiento, aburrimiento, rigidez",
-          "keywords": ["Diligencia", "Rutina", "Constancia"]
-        },
-        "ja": {
-          "name": "金貨のナイト",
-          "upright": "着実な実行、誠実な習慣、信頼の積み重ね",
-          "reversed": "保守過多、単調な停滞、柔軟性不足",
-          "keywords": ["誠実", "習慣", "堅実"]
-        }
-      },
-      "status": {"ko":"approved","en":"approved","es":"approved","ja":"approved"},
-      "source": "llm"
-    },
-    {
-      "id": "pentacles_13",
-      "image": "cards/pentacles/pentacles_13.png",
-      "translations": {
-        "ko": {
-          "name": "Queen of Pentacles",
-          "upright": "따뜻한 실용, 안전한 안식처, 돌봄의 풍요",
-          "reversed": "과한 현실 집착, 자기소진, 경계 희미함",
-          "keywords": ["실용", "안전", "돌봄"]
-        },
-        "en": {
-          "name": "Queen of Pentacles",
-          "upright": "Nurturing, practical, security-focused, abundance",
-          "reversed": "Smothering, self-neglect, material fixations",
-          "keywords": ["Practical", "Security", "Care"]
-        },
-        "es": {
-          "name": "Reina de Oros",
-          "upright": "Cuidado, practicidad, enfoque en la seguridad, abundancia",
-          "reversed": "Agobio, descuido propio, apego material",
-          "keywords": ["Práctica", "Seguridad", "Cuidado"]
-        },
-        "ja": {
-          "name": "金貨のクイーン",
-          "upright": "温かな実務性、安全志向、豊かなケア",
-          "reversed": "過干渉、自己犠牲、物質への固執",
-          "keywords": ["実用", "安全", "養育"]
-        }
-      },
-      "status": {"ko":"approved","en":"approved","es":"approved","ja":"approved"},
-      "source": "llm"
-    },
-    {
-      "id": "pentacles_14",
-      "image": "cards/pentacles/pentacles_14.png",
-      "translations": {
-        "ko": {
-          "name": "King of Pentacles",
-          "upright": "풍요의 관리자, 확고한 기반, 신뢰받는 리더",
-          "reversed": "과도한 통제, 소유집착, 경직된 보수",
-          "keywords": ["풍요", "기반", "책임"]
-        },
-        "en": {
-          "name": "King of Pentacles",
-          "upright": "Wealth, success, leadership, security",
-          "reversed": "Control issues, possessiveness, rigidity",
-          "keywords": ["Wealth", "Foundation", "Responsibility"]
-        },
-        "es": {
-          "name": "Rey de Oros",
-          "upright": "Riqueza, éxito, liderazgo, seguridad",
-          "reversed": "Control excesivo, posesividad, rigidez",
-          "keywords": ["Riqueza", "Base", "Responsabilidad"]
-        },
-        "ja": {
-          "name": "金貨のキング",
-          "upright": "豊かさの統治、盤石の基盤、信頼の統率",
-          "reversed": "過度の支配、所有執着、硬直",
-          "keywords": ["豊かさ", "基盤", "責務"]
-        }
-      },
-      "status": {"ko":"approved","en":"approved","es":"approved","ja":"approved"},
-      "source": "llm"
+      "source": "chat_coreen_tarot_v1",
+      "metadata": {
+        "arcana": "Major",
+        "suit": "",
+        "number": 9,
+        "title": {
+          "top_main": "9",
+          "bottom_main": "L'HERMITE",
+          "native": "은둔자 고양이",
+          "en": "The Hermit Cat",
+          "original_tarot": "THE HERMIT"
+        },
+        "colorTheme": [
+          "회색(고독, 성찰)",
+          "백색(지혜, 진리)",
+          "남색(깊은 밤, 내면)",
+          "황색(깨달음의 빛)"
+        ],
+        "props": "그가 든 등불 안에는 여섯 개의 빛줄기를 가진 별이 빛나고 있어, 외부의 빛이 아닌 내면에서 발현된 지혜와 깨달음의 빛임을 보여준다. 그가 짚은 지팡이는 오랜 시간 동안 걸어온 구도의 길과 축적된 경험을 상징한다.",
+        "background": "차가운 공기가 느껴지는 고요한 설산의 정상. 주변에는 아무것도 없으며, 오직 밤하늘의 희미한 별빛과 고양이가 든 등불만이 어둠을 밝히고 있다. 이는 오직 자기 자신에게만 집중하는 깊은 명상의 상태를 나타낸다.",
+        "symbolSummary": [
+          "자기 성찰",
+          "내면 탐구",
+          "지혜",
+          "고독",
+          "안내자"
+        ]
+      }
     }
   ]
 }
-

@@ -13,7 +13,7 @@
     }
   },
   "frame_v3": {
-    "canvas_size": [ 1400, 2400 ],
+    "canvas_size": [ 768, 1024 ],
     "padding_sides": 56,
     "top_band_height": 192,
     "bottom_band_height": 288,

@@ -1,4 +1,4 @@
-name: stellai_app
+﻿name: stellai_app
 description: "A new Flutter project."
 publish_to: 'none'
 
@@ -17,6 +17,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^5.0.0
+  path: ^1.9.0
 
 flutter:
   uses-material-design: true
@@ -24,3 +25,5 @@ flutter:
   assets:
     - assets/translations/cards.json
     - assets/cards/
+
+
