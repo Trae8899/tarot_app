@@ -1,0 +1,125 @@
+{
+  "id": "minor_sword_10_dix_depees",
+  "meta": {
+    "deck_id": "chat_coreen_tarot_v1",
+    "card_id": "sword10",
+    "variant_id": "classic_ornate_final",
+    "titles": {
+      "top_main": "DIX",
+      "bottom_main": "DIX D'ÉPÉES",
+      "native": "몰락한 권력자",
+      "en": "The Fallen Power",
+      "original_tarot": "TEN OF SWORDS"
+    }
+  },
+  "frame_v3": {
+    "canvas_size": [ 736, 1408 ],
+    "padding_sides": 54,
+    "top_band_height": 184,
+    "bottom_band_height": 276,
+    "illustration_y_range": [ 240, 2100 ],
+    "safe_inset": 24,
+    "colors": {
+      "paper": "#FBF5E8",
+      "band": "#F3EADA",
+      "ink": "#4D3B2A"
+    },
+    "title_mode": "ornate_cartouche",
+    "font_scaling_single": 0.40
+  },
+  "structure": {
+    "number": 10,
+    "roman_numeral": "X",
+    "arcana": "Minor",
+    "suit": "Swords",
+    "cat_breed": "메인쿤 (크고 위엄 있었으나 몰락한 모습)",
+    "hanbok_style": "한때 화려했으나 지금은 찢어지고 더러워진 비단 관복",
+    "color_theme_keywords": [
+      "검붉은색(절망, 끝)",
+      "차가운 새벽 하늘색(새로운 시작의 여지)",
+      "검은색(파멸)"
+    ],
+    "cat_personality": "모든 것을 잃고 절망의 나락으로 떨어진 몰락한 권력자. 배신과 실패로 인해 더 이상 일어설 힘조차 남아있지 않다.",
+    "pose_description": "차가운 땅바닥에 얼굴을 묻고 쓰러져 있다. 등에는 열 개의 붓(혹은 상소문 두루마리)이 깊게 박혀 있으며, 앞발은 힘없이 뻗어 있다. 완전히 패배하고 모든 것이 끝났음을 보여준다.",
+    "outfit_description": "흙먼지로 더러워지고 군데군데 찢어진 비단 관복은 그가 한때 높은 지위에 있었으나 지금은 처참하게 몰락했음을 보여준다.",
+    "prop_description": "등에 박힌 열 개의 붓은 치명적인 배신, 완전한 실패, 혹은 그를 공격한 수많은 비판과 논리를 상징한다. 검붉게 물든 땅은 그의 고통과 절망을, 어두운 강은 건널 수 없는 경계, 즉 죽음이나 끝을 암시한다. 하지만 저 멀리 동트는 새벽 하늘은 이 절망적인 끝이 동시에 새로운 시작의 전조일 수 있음을 희미하게 보여준다.",
+    "background_scene": "어둠이 채 가시지 않은 싸늘한 새벽, 강가 근처의 황량한 땅 위. 하늘은 여전히 어둡지만, 수평선 너머로 새로운 날의 빛이 아주 희미하게 밝아오고 있다.",
+    "color_palette_main": [
+      "#2F4F4F",
+      "#8B0000",
+      "#ADD8E6"
+    ],
+    "color_palette_accent": [
+      "#000000",
+      "#FFD700"
+    ],
+    "symbol_summary_keywords": [
+      "실패",
+      "끝",
+      "배신",
+      "파멸",
+      "절망"
+    ],
+    "cat_quote": "“모든 것이 끝났다고 생각하는 바로 그곳이, 새로운 시작이 잉태되는 자리다.”"
+  },
+  "content": {
+    "story": {
+      "korean": "밤새 이어진 고통의 끝, 권력자 고양이는 결국 쓰러졌다. 그의 등에는 수많은 배신과 비판을 상징하는 열 개의 붓이 박혀 있다. 모든 것이 실패로 돌아간 완전한 파멸의 순간이다. 하지만 칠흑 같은 어둠이 지나고 수평선 위로 새벽이 밝아오듯, 이 절망적인 끝은 필연적으로 새로운 시작을 예고한다. 이 카드는 고통스러운 끝, 배신, 그리고 피할 수 없는 실패를 상징한다.",
+      "english": "At the end of a long night of suffering, the powerful cat has finally fallen. Ten brushes, symbolizing numerous betrayals and criticisms, are lodged in its back. It is a moment of complete ruin, where everything has ended in failure. But just as the dawn breaks after the darkest night, this desperate end inevitably heralds a new beginning. This card symbolizes a painful end, betrayal, and unavoidable failure."
+    },
+    "keywords": [
+      "완전한 실패",
+      "고통스러운 끝",
+      "배신",
+      "파멸",
+      "최악의 상황"
+    ],
+    "core_message": {
+      "upright": "“상황이 최악에 이르렀다. 이제는 끝을 받아들이고 바닥부터 다시 시작해야 한다.”",
+      "reversed": "“파국을 피할 마지막 기회가 있거나, 최악의 상황이 지나가고 회복이 시작되고 있다.”"
+    }
+  },
+  "symbols": {
+    "title": "상징 해설",
+    "items": [
+      {
+        "name": "등에 박힌 열 개의 붓",
+        "meaning": "완전한 실패와 끝을 의미하는 숫자 10과 소드의 상징이 결합하여, 더 이상 물러설 곳 없는 최악의 상황을 나타낸다. 이는 배신, 혹독한 비판, 혹은 잘못된 논리의 파멸적인 결과를 상징한다."
+      },
+      {
+        "name": "쓰러진 고양이",
+        "meaning": "자신의 의지로는 더 이상 상황을 통제할 수 없는 완전한 패배와 항복을 의미한다."
+      },
+      {
+        "name": "동트는 새벽 하늘",
+        "meaning": "가장 깊은 절망 속에서도 반드시 찾아오는 새로운 시작의 희망을 상징한다. 모든 것이 끝난 후에야 비로소 새로운 가능성이 열림을 암시한다."
+      },
+      {
+        "name": "검붉은 땅과 어두운 강",
+        "meaning": "고통, 상실, 그리고 건널 수 없는 끝의 경계를 상징하며, 상황의 심각성과 비극성을 강조한다."
+      }
+    ]
+  },
+  "a11y": {
+    "alt_text_kr": "한 고양이가 등에 붓 열 자루가 박힌 채 땅에 쓰러져 있다. 동이 트고 있다. 장식적인 테두리 안에 그림이 있다. 카드 상단엔 'DIX', 하단엔 ‘DIX D'ÉPÉES’가 적혀 있다.",
+    "alt_text_en": "A cat lies fallen on the ground with ten brushes in its back as the dawn breaks, inside a decorative frame. The card shows 'DIX' at the top and 'DIX D'ÉPÉES' at the bottom."
+  },
+  "prompts": {
+    "illustration_prompt_en": "Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, 'Dix d'Épées' (Ten of Swords), is in the style of a clear and dramatic antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration depicts a large, once-majestic Maine Coon cat, wearing a torn and dirty silk official's robe. It lies face down on the desolate ground, defeated, with ten calligraphy brushes (or rolled-up scrolls) stuck in its back. The sky is dark, but the horizon is just beginning to glow with the first light of dawn. A dark river flows nearby. The overall atmosphere is one of utter ruin, betrayal, and a painful ending. -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, a cartouche contains 'DIX'. At the bottom, a matching cartouche frames 'DIX D'ÉPÉES'. --ar 736:1408 --v 6.0 --style raw --quality 1",
+    "title": "종결을 위한 질문",
+    "items": [
+      {
+        "id": "on_ending",
+        "text": "당신의 삶에서 이제는 완전히 끝났음을 인정하고 놓아주어야 할 것은 무엇인가요?"
+      },
+      {
+        "id": "on_new_beginning",
+        "text": "이 고통스러운 끝을 딛고, 당신이 맞이할 수 있는 새로운 '새벽'은 어떤 모습일까요?"
+      }
+    ]
+  },
+  "assets_slots": {
+    "illustration": "minor_sword_10_dix_v1_ornate_final.png",
+    "symbol_map": null
+  }
+}

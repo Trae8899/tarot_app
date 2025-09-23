@@ -1,0 +1,127 @@
+{
+  "id": "minor_sword_1_as_depee",
+  "meta": {
+    "deck_id": "chat_coreen_tarot_v1",
+    "card_id": "sword1",
+    "variant_id": "classic_ornate_final",
+    "titles": {
+      "top_main": "AS",
+      "bottom_main": "AS D'ÉPÉE",
+      "native": "진실의 붓",
+      "en": "The Brush of Truth",
+      "original_tarot": "ACE OF SWORDS"
+    }
+  },
+  "frame_v3": {
+    "canvas_size": [ 736, 1408 ],
+    "padding_sides": 54,
+    "top_band_height": 184,
+    "bottom_band_height": 276,
+    "illustration_y_range": [ 240, 2100 ],
+    "safe_inset": 24,
+    "colors": {
+      "paper": "#FBF5E8",
+      "band": "#F3EADA",
+      "ink": "#4D3B2A"
+    },
+    "title_mode": "ornate_cartouche",
+    "font_scaling_single": 0.40
+  },
+  "structure": {
+    "number": 1,
+    "roman_numeral": "I",
+    "arcana": "Minor",
+    "suit": "Swords",
+    "cat_breed": "오리엔탈 숏헤어 (지적이고 예리한 인상)",
+    "hanbok_style": "학자의 기품을 드러내는 단정한 먹색 도포",
+    "color_theme_keywords": [
+      "백색(명료함)",
+      "먹색(진실)",
+      "청색(지성)",
+      "금색(깨달음)"
+    ],
+    "cat_personality": "지적 호기심이 왕성하며, 진실을 꿰뚫어 보는 예리함을 지녔다. 감정에 치우치기보다 명확한 논리와 이성으로 세상을 바라본다.",
+    "pose_description": "구름 속에서 나타난 신비로운 고양이의 앞발이 왕관을 쓴 붓 한 자루를 굳건히 쥐고 있다. 붓끝은 아래를 향하며, 생각의 씨앗이 땅에 뿌리내릴 준비가 되었음을 암시한다.",
+    "outfit_description": "자세히 보이지는 않지만, 구름 사이로 드러난 소매 끝동은 지적인 기품이 느껴지는 선비의 먹색 도포자락이다.",
+    "prop_description": "왕관을 쓴 붓은 지성의 최고 권위와 명료한 진실을 상징한다. 붓끝에서 떨어지는 먹물 방울은 새로운 아이디어와 깨달음의 시작을 의미한다. 배경의 험준한 산은 넘어야 할 지적인 도전을 나타낸다.",
+    "background_scene": "어두운 구름이 걷히고 밝은 빛이 내리쬐는 험준한 산봉우리. 전체적으로 차갑고 맑은 공기가 느껴지는 지적인 분위기.",
+    "color_palette_main": [
+      "#FFFFFF",
+      "#2F4F4F",
+      "#ADD8E6"
+    ],
+    "color_palette_accent": [
+      "#FFD700",
+      "#000000"
+    ],
+    "symbol_summary_keywords": [
+      "진실",
+      "명료함",
+      "지성",
+      "깨달음",
+      "새로운 생각"
+    ],
+    "cat_quote": "“가장 날카로운 칼은 흐릿한 생각을 베는 명료한 진실이다.”"
+  },
+  "content": {
+    "story": {
+      "korean": "혼돈의 구름 사이로 한 줄기 빛이 내리쬐자, 진리의 왕관을 쓴 붓이 그 모습을 드러낸다. 이 붓은 감정의 안개를 걷어내고 복잡한 문제의 핵심을 꿰뚫는 힘을 가졌다. 이 카드는 새로운 아이디어나 깨달음이 섬광처럼 찾아오는 순간, 그리고 진실을 마주할 용기가 필요한 시작을 상징한다.",
+      "english": "As a ray of light breaks through the clouds of chaos, a brush wearing the crown of truth reveals itself. This brush has the power to clear the fog of emotion and pierce the core of complex problems. This card symbolizes the moment a new idea or realization strikes like lightning, and the beginning that requires the courage to face the truth."
+    },
+    "keywords": [
+      "새로운 아이디어",
+      "진실",
+      "명료함",
+      "지적 돌파구",
+      "결단력",
+      "정의"
+    ],
+    "core_message": {
+      "upright": "“지금이야말로 감정이 아닌 이성으로 상황을 명확히 판단하고 돌파해야 할 때.”",
+      "reversed": "“잘못된 정보나 편견이 당신의 판단력을 흐리게 하고 있다. 신중하게 검토하라.”"
+    }
+  },
+  "symbols": {
+    "title": "상징 해설",
+    "items": [
+      {
+        "name": "구름에서 나온 손",
+        "meaning": "인간의 영역을 넘어선 신성한 지혜나 영감, 혹은 위대한 깨달음의 순간을 의미한다."
+      },
+      {
+        "name": "왕관을 쓴 붓",
+        "meaning": "붓은 지성과 논리를, 왕관은 그 지성이 가진 힘과 권위를 상징한다. 이는 진실이 가진 최고의 가치를 나타낸다."
+      },
+      {
+        "name": "험준한 산봉우리",
+        "meaning": "지적인 탐구를 통해 넘어야 할 도전과 어려움을 상징하며, 동시에 높은 수준의 깨달음을 의미하기도 한다."
+      },
+      {
+        "name": "빛 한 줄기",
+        "meaning": "혼란 속에서 길을 비추는 명료한 진실과 갑작스러운 깨달음의 순간을 상징한다."
+      }
+    ]
+  },
+  "a11y": {
+    "alt_text_kr": "구름 속에서 나온 고양이 손이 왕관이 씌워진 붓을 들고 있다. 장식적인 테두리 안에 그림이 있다. 카드 상단엔 'AS', 하단엔 ‘AS D'ÉPÉE’가 적혀 있다.",
+    "alt_text_en": "A cat's paw emerges from clouds, holding a brush with a crown. The illustration is inside a decorative frame. The card shows 'AS' at the top and 'AS D'ÉPÉE' at the bottom."
+  },
+  "prompts": {
+    "illustration_prompt_en": "Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, 'As d'Épée' (Ace of Swords), is in the style of a clear and crisp antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration features a divine cat's paw emerging from swirling clouds, firmly grasping a single, elegant calligraphy brush. The brush is tipped with black ink and wears a small, ornate golden Korean-style crown. The background shows sharp, jagged mountain peaks under a clear, cold sky, suggesting intellectual clarity. The overall atmosphere is intelligent, clear, and powerful. -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, a cartouche contains the title 'AS'. At the bottom, a matching cartouche frames 'AS D'ÉPÉE'. The corners of the main border feature delicate scrollwork. --ar 736:1408 --v 6.0 --style raw --quality 1",
+    "title": "지혜를 위한 질문",
+    "items": [
+      {
+        "id": "on_clarity",
+        "text": "당신의 삶에서 지금 당장 안개를 걷어내고 명확하게 바라봐야 할 진실은 무엇인가요?"
+      },
+      {
+        "id": "on_new_idea",
+        "text": "최근 당신에게 섬광처럼 떠오른 새로운 아이디어나 계획이 있다면 무엇이며, 그것을 어떻게 실행할 수 있을까요?"
+      }
+    ]
+  },
+  "assets_slots": {
+    "illustration": "minor_sword_01_ace_v1_ornate_final.png",
+    "symbol_map": null
+  }
+}

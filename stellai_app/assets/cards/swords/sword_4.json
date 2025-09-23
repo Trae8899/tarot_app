@@ -1,0 +1,126 @@
+{
+    "id": "minor_sword_4_quatre_depees",
+    "meta": {
+      "deck_id": "chat_coreen_tarot_v1",
+      "card_id": "sword4",
+      "variant_id": "classic_ornate_final",
+      "titles": {
+        "top_main": "QUATRE",
+        "bottom_main": "QUATRE D'ÉPÉES",
+        "native": "서재에서의 휴식",
+        "en": "The Scholar's Respite",
+        "original_tarot": "FOUR OF SWORDS"
+      }
+    },
+    "frame_v3": {
+      "canvas_size": [ 736, 1408 ],
+      "padding_sides": 54,
+      "top_band_height": 184,
+      "bottom_band_height": 276,
+      "illustration_y_range": [ 240, 2100 ],
+      "safe_inset": 24,
+      "colors": {
+        "paper": "#FBF5E8",
+        "band": "#F3EADA",
+        "ink": "#4D3B2A"
+      },
+      "title_mode": "ornate_cartouche",
+      "font_scaling_single": 0.40
+    },
+    "structure": {
+      "number": 4,
+      "roman_numeral": "IV",
+      "arcana": "Minor",
+      "suit": "Swords",
+      "cat_breed": "스코티시 폴드 (고요하고 사색적인 모습)",
+      "hanbok_style": "격식을 차리지 않은 편안한 흰색 일상복",
+      "color_theme_keywords": [
+        "상아색(평온)",
+        "옅은 나무색(휴식)",
+        "회색(고요)"
+      ],
+      "cat_personality": "치열한 논쟁과 공부를 잠시 멈추고, 의도적으로 휴식을 취하며 내면의 힘을 회복하는 고요한 현자. 세상의 소란에서 한발 물러나 있다.",
+      "pose_description": "서재 안의 평상(平牀) 위에 두 손을 가지런히 모으고 평온하게 잠들어 있다. 그의 표정에는 어떤 고뇌도 없이 완전한 평화만이 깃들어 있다.",
+      "outfit_description": "관복이나 외출복이 아닌, 장식 없는 흰색의 편안한 실내복을 입고 있어 모든 공적인 책임과 긴장에서 벗어나 온전히 휴식에 집중하고 있음을 보여준다.",
+      "prop_description": "벽에 가지런히 걸린 세 자루의 붓은 잠시 보류해 둔 문제나 갈등을 상징한다. 평상 아래에 놓인 한 자루의 붓은 회복 후 다시 마주해야 할 과제를 의미한다. 창밖으로 보이는 푸른 대나무는 선비의 굳건한 절개와 회복 후 다시 일어설 힘을 암시한다.",
+      "background_scene": "고요하고 정갈하게 정돈된 선비의 서재. 창문 너머로는 바람에 흔들리는 대나무 숲이 보인다. 방 안은 부드러운 햇살이 들어와 평온하고 따뜻한 분위기를 자아낸다.",
+      "color_palette_main": [
+        "#F5DEB3",
+        "#D3D3D3",
+        "#FFF8DC"
+      ],
+      "color_palette_accent": [
+        "#8B4513",
+        "#006400"
+      ],
+      "symbol_summary_keywords": [
+        "휴식",
+        "명상",
+        "재충전",
+        "회복",
+        "평화"
+      ],
+      "cat_quote": "“가장 위대한 지혜는 언제 멈춰야 하는지를 아는 것이다.”"
+    },
+    "content": {
+      "story": {
+        "korean": "마음의 상처를 입은 학자는 자신의 서재로 돌아와 모든 붓을 내려놓고 깊은 휴식에 잠긴다. 이것은 포기가 아닌, 더 나은 싸움을 위한 의도적인 후퇴이자 재충전의 시간이다. 이 카드는 치열한 정신적 활동 이후 반드시 필요한 평화로운 휴식과 명상의 중요성을 상징한다.",
+        "english": "After being heartbroken, the scholar returns to his study, puts down all his brushes, and falls into a deep rest. This is not surrender, but a deliberate retreat and a time for recuperation for a better fight ahead. This card symbolizes the importance of peaceful rest and meditation, which are essential after intense mental activity."
+      },
+      "keywords": [
+        "휴식",
+        "재충전",
+        "명상",
+        "일시적 후퇴",
+        "평화",
+        "치유"
+      ],
+      "core_message": {
+        "upright": "“지금은 싸울 때가 아니다. 모든 것을 내려놓고 당신의 정신을 회복하는 데 집중하라.”",
+        "reversed": "“휴식이 너무 길어지면 고립이 된다. 이제는 다시 일어설 준비를 해야 한다.”"
+      }
+    },
+    "symbols": {
+      "title": "상징 해설",
+      "items": [
+        {
+          "name": "벽에 걸린 세 자루의 붓",
+          "meaning": "의도적으로 생각하기를 멈추고 잠시 보류해 둔 문제나 갈등을 상징한다."
+        },
+        {
+          "name": "평상 아래 한 자루의 붓",
+          "meaning": "휴식이 끝난 후 가장 먼저 해결해야 할 근본적인 과제나 회복의 목적을 의미한다."
+        },
+        {
+          "name": "잠든 고양이",
+          "meaning": "모든 정신적 활동을 중단하고 내면의 질서를 회복하는 자발적인 휴식과 치유의 과정을 상징한다."
+        },
+        {
+          "name": "창밖의 대나무",
+          "meaning": "휴식 중에도 꺾이지 않는 선비의 절개와 지조를 상징하며, 곧 회복될 내면의 힘을 암시한다."
+        }
+      ]
+    },
+    "a11y": {
+      "alt_text_kr": "한 고양이가 서재의 평상 위에서 평온하게 잠들어 있다. 벽에는 붓 세 자루가 걸려 있다. 장식적인 테두리 안에 그림이 있다. 카드 상단엔 'QUATRE', 하단엔 ‘QUATRE D'ÉPÉES’가 적혀 있다.",
+      "alt_text_en": "A cat is sleeping peacefully on a wooden platform in a study. Three brushes are hanging on the wall, inside a decorative frame. The card shows 'QUATRE' at the top and 'QUATRE D'ÉPÉES' at the bottom."
+    },
+    "prompts": {
+      "illustration_prompt_en": "Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, 'Quatre d'Épées' (Four of Swords), is in the style of a clear and peaceful antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration features a calm Scottish Fold cat, dressed in simple, white indoor clothes. It is lying asleep in a peaceful pose on a low wooden platform (pyeongsang) inside a neat scholar's study (seojae). Three calligraphy brushes are hung neatly on the wall above, while one brush lies on the floor beneath the platform. Soft sunlight streams through a window that shows a green bamboo grove outside. The overall atmosphere is one of profound peace, rest, and tranquility. -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, a cartouche contains 'QUATRE'. At the bottom, a matching cartouche frames 'QUATRE D'ÉPÉES'. --ar 736:1408 --v 6.0 --style raw --quality 1",
+      "title": "휴식을 위한 질문",
+      "items": [
+        {
+          "id": "on_rest",
+          "text": "당신의 삶에서 지금 당장 '일시 정지' 버튼을 누르고 휴식을 취해야 할 영역은 어디인가요?"
+        },
+        {
+          "id": "on_recovery",
+          "text": "완전한 정신적 회복과 재충전을 위해 당신에게 가장 필요한 것은 무엇인가요?"
+        }
+      ]
+    },
+    "assets_slots": {
+      "illustration": "minor_sword_04_quatre_v1_ornate_final.png",
+      "symbol_map": null
+    }
+  }

@@ -1,0 +1,125 @@
+{
+  "id": "minor_sword_14_roi_depees_revised",
+  "meta": {
+    "deck_id": "chat_coreen_tarot_v1",
+    "card_id": "sword14",
+    "variant_id": "classic_ornate_final_revised",
+    "titles": {
+      "top_main": "ROI",
+      "bottom_main": "ROI D'ÉPÉE",
+      "native": "지성의 대제학",
+      "en": "The Grand Master of Intellect",
+      "original_tarot": "KING OF SWORDS"
+    }
+  },
+  "frame_v3": {
+    "canvas_size": [ 736, 1408 ],
+    "padding_sides": 54,
+    "top_band_height": 184,
+    "bottom_band_height": 276,
+    "illustration_y_range": [ 240, 2100 ],
+    "safe_inset": 24,
+    "colors": {
+      "paper": "#FBF5E8",
+      "band": "#F3EADA",
+      "ink": "#4D3B2A"
+    },
+    "title_mode": "ornate_cartouche",
+    "font_scaling_single": 0.40
+  },
+  "structure": {
+    "number": 14,
+    "roman_numeral": "XIV",
+    "arcana": "Minor",
+    "suit": "Swords",
+    "cat_breed": "브리티시 숏헤어 (위엄 있고 공정한 인상)",
+    "hanbok_style": "최고 학자 관료의 품격을 보여주는 심의(深衣)와 복건(幅巾)",
+    "color_theme_keywords": [
+      "짙은 청색(지성)",
+      "견고한 흑단색(원칙)",
+      "금색(권위)"
+    ],
+    "cat_personality": "어떠한 감정에도 흔들리지 않는 절대적인 지성과 원칙의 소유자. 사사로운 정에 얽매이지 않고, 오직 확립된 법리와 논리에 따라 세상을 분석하고 질서를 세우는 공정한 지식인.",
+    "pose_description": "왕립 도서관인 규장각의 서가(書架)를 배경으로 높은 의자에 흔들림 없이 앉아 있다. 한 손에는 국가의 법전(경국대전)을 펼쳐 들고, 다른 한 손으로는 붓을 들어 중요한 원칙을 가리키고 있다. 그의 시선은 모든 것을 꿰뚫어 보는 듯 근엄하고 확고하다.",
+    "outfit_description": "왕의 용포 대신, 최고의 학자이자 관료(대제학)가 입는 검소하지만 기품 있는 심의와 복건을 착용하여, 그의 권위가 혈통이 아닌 학문과 지성에서 비롯됨을 보여준다.",
+    "prop_description": "펼쳐진 법전은 그의 모든 결정이 개인적인 감정이 아닌, 확립된 법과 원칙에 근거함을 상징한다. 의자 옆에 놓인 사인검(四寅劍)은 부정한 논리와 거짓을 베어내는 그의 단호한 결단력을 의미한다. 배경의 수많은 서책들은 그가 통달한 방대한 지식의 세계를 나타낸다.",
+    "background_scene": "수만 권의 서책이 질서정연하게 꽂혀 있는 왕립 도서관 '규장각'. 창으로 들어오는 빛이 서책과 그의 모습을 비추며, 고요하고 지적인 분위기를 자아낸다. 세상의 혼란과 분리된, 오직 이성과 진리만이 존재하는 공간이다.",
+    "color_palette_main": [
+      "#00008B",
+      "#2F4F4F",
+      "#8B4513"
+    ],
+    "color_palette_accent": [
+      "#FFD700",
+      "#000000"
+    ],
+    "symbol_summary_keywords": [
+      "권위",
+      "진실",
+      "법과 원칙",
+      "공정한 판결",
+      "지성의 정점"
+    ],
+    "cat_quote": "“세상의 이치는 감정이 아닌, 기록된 원칙 속에 있다.”"
+  },
+  "content": {
+    "story": {
+      "korean": "지성의 정점에 선 대제학 고양이가 서책의 숲에 앉아 세상을 다스린다. 그의 손에 들린 것은 감정이 담긴 술잔이나 부를 상징하는 엽전이 아닌, 차가운 법전이다. 그는 모든 사사로운 감정을 배제하고 오직 공정한 법과 원칙에 따라 결정을 내린다. 이 카드는 지성의 최고 권위, 윤리적 책임감, 그리고 법과 질서에 기반한 공정한 판단력을 상징한다.",
+      "english": "The Grand Master cat, at the pinnacle of intellect, sits amidst a forest of books and governs the world. In his hand is not a cup of emotions or a coin of wealth, but a cold code of law. He sets aside all personal feelings and makes decisions based solely on fair laws and principles. This card symbolizes the highest authority of intellect, ethical responsibility, and impartial judgment based on law and order."
+    },
+    "keywords": [
+      "지적인 권위",
+      "법과 원칙",
+      "공정한 판단",
+      "진실",
+      "윤리적 책임"
+    ],
+    "core_message": {
+      "upright": "“감정에 휘둘리지 말고, 객관적인 사실과 원칙에 따라 명확한 결정을 내려야 할 때다.”",
+      "reversed": "“권위주의적이거나 지나치게 냉정한 판단은 독이 될 수 있다. 법리에도 인간적인 이해가 필요하다.”"
+    }
+  },
+  "symbols": {
+    "title": "상징 해설",
+    "items": [
+      {
+        "name": "법전(경국대전)",
+        "meaning": "모든 판단의 기준이 되는 객관적인 법, 규칙, 원칙을 상징한다. 감정이나 사사로운 이해관계를 초월한 지성의 힘을 나타낸다."
+      },
+      {
+        "name": "규장각의 서가",
+        "meaning": "그의 권위가 방대한 지식과 학문에 기반하고 있음을 상징한다. 이는 황제가 다스리는 현실 세계와 구분되는 정신과 지성의 세계이다."
+      },
+      {
+        "name": "사인검(四寅劍)",
+        "meaning": "호랑이의 기운이 가장 강한 인년, 인월, 인일, 인시에 만들어진 검으로, 사악한 기운뿐만 아니라 부정한 논리와 거짓을 베어내는 지성의 날카로움을 상징한다."
+      },
+      {
+        "name": "높은 의자와 붓",
+        "meaning": "세속적인 왕좌가 아닌 학문적 권위의 자리를 의미하며, 그의 힘이 무력이 아닌 글과 논리에서 나옴을 보여준다."
+      }
+    ]
+  },
+  "a11y": {
+    "alt_text_kr": "대제학 고양이가 규장각 서가를 배경으로 의자에 앉아 법전을 들고 있다. 장식적인 테두리 안에 그림이 있다. 카드 상단엔 'ROI', 하단엔 ‘ROI D'ÉPÉE’가 적혀 있다.",
+    "alt_text_en": "A Grand Master cat sits on a chair in front of the Kyujanggak bookshelves, holding a law book, inside a decorative frame. The card shows 'ROI' at the top and 'ROI D'ÉPÉE' at the bottom."
+  },
+  "prompts": {
+    "illustration_prompt_en": "Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, 'Roi d'Épée' (King of Swords), is in the style of a clear and authoritative antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration features a dignified and stern British Shorthair cat, dressed as a Grand Master scholar (Daejehak) in an elegant yet simple robe (simui) and headdress (bokgeon). It sits with unwavering authority on a high-backed wooden chair in front of the massive, orderly bookshelves of the Royal Library (Kyujanggak). He holds an open law book in one hand and a calligraphy brush in the other. A ceremonial sword (saingeom) rests against his chair. His expression is impartial, intelligent, and resolute. The overall atmosphere is one of absolute intellectual authority, order, and principle. -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, a cartouche contains 'ROI'. At the bottom, a matching cartouche frames 'ROI D'ÉPÉE'. --ar 736:1408 --v 6.0 --style raw --quality 1",
+    "title": "원칙을 위한 질문",
+    "items": [
+      {
+        "id": "on_judgment",
+        "text": "당신이 현재 내려야 할 중요한 결정에서, 개인적인 감정을 배제하고 오직 객관적인 사실과 원칙에만 근거하여 판단한다면 어떤 결론에 이르게 되나요?"
+      },
+      {
+        "id": "on_responsibility",
+        "text": "당신의 전문성과 지식을 사용하여, 당신의 커뮤니티나 조직을 위해 어떤 윤리적이고 공정한 결정을 내릴 수 있나요?"
+      }
+    ]
+  },
+  "assets_slots": {
+    "illustration": "minor_sword_14_roi_v1_ornate_final_revised.png",
+    "symbol_map": null
+  }
+}

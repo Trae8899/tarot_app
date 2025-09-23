@@ -1,0 +1,126 @@
+{
+  "id": "minor_sword_9_neuf_depees",
+  "meta": {
+    "deck_id": "chat_coreen_tarot_v1",
+    "card_id": "sword9",
+    "variant_id": "classic_ornate_final",
+    "titles": {
+      "top_main": "NEUF",
+      "bottom_main": "NEUF D'ÉPÉES",
+      "native": "잠 못 드는 밤",
+      "en": "The Sleepless Night",
+      "original_tarot": "NINE OF SWORDS"
+    }
+  },
+  "frame_v3": {
+    "canvas_size": [ 736, 1408 ],
+    "padding_sides": 54,
+    "top_band_height": 184,
+    "bottom_band_height": 276,
+    "illustration_y_range": [ 240, 2100 ],
+    "safe_inset": 24,
+    "colors": {
+      "paper": "#FBF5E8",
+      "band": "#F3EADA",
+      "ink": "#4D3B2A"
+    },
+    "title_mode": "ornate_cartouche",
+    "font_scaling_single": 0.40
+  },
+  "structure": {
+    "number": 9,
+    "roman_numeral": "IX",
+    "arcana": "Minor",
+    "suit": "Swords",
+    "cat_breed": "데본 렉스 (걱정이 많고 예민한 인상)",
+    "hanbok_style": "잠 못 이루고 뒤척인 흔적이 남은 얇은 흰색 잠옷(속적삼)",
+    "color_theme_keywords": [
+      "칠흑 같은 검은색(불안, 악몽)",
+      "창백한 달빛(걱정)",
+      "어두운 나무색(고립된 방)"
+    ],
+    "cat_personality": "최악의 시나리오를 상상하며 극심한 불안과 죄책감에 시달리고 있다. 현실보다 부풀려진 걱정 때문에 스스로를 괴롭히는 예민한 영혼.",
+    "pose_description": "어두운 방 안, 침상(寢牀)에 앉아 두 앞발로 얼굴을 감싸 쥔 채 괴로워하고 있다. 잠들지 못하고 악몽 같은 생각에 시달리는 모습이 역력하다.",
+    "outfit_description": "흐트러진 얇은 흰색 잠옷은 밤새 고통스러운 생각과 씨름하며 뒤척였음을 보여준다.",
+    "prop_description": "침상 머리맡 벽에는 아홉 자루의 붓이 칼처럼 나란히 걸려, 고양이를 억누르는 아홉 가지 걱정거리나 죄책감을 상징한다. 침상의 이불에는 악몽을 상징하는 불길한 무늬가 새겨져 있다. 창밖은 칠흑 같은 밤으로, 외부의 도움 없이 오롯이 혼자 고통을 감내하고 있음을 보여준다.",
+    "background_scene": "창문 하나 없는 어둡고 폐쇄적인 침실. 벽에는 불길한 기운을 내뿜는 붓들이 걸려 있고, 방 안의 모든 것이 고양이를 압박하는 듯한 느낌을 준다.",
+    "color_palette_main": [
+      "#000000",
+      "#2F4F4F",
+      "#8B4513"
+    ],
+    "color_palette_accent": [
+      "#F0E68C",
+      "#FFFFFF"
+    ],
+    "symbol_summary_keywords": [
+      "불안",
+      "악몽",
+      "걱정",
+      "죄책감",
+      "절망"
+    ],
+    "cat_quote": "“가장 어두운 밤은 해가 뜨기 전이 아니라, 내 머릿속에서 시작된다.”"
+  },
+  "content": {
+    "story": {
+      "korean": "깊은 밤, 고양이는 잠들지 못하고 괴로움에 몸부림친다. 벽에 걸린 아홉 자루의 붓은 그의 머릿속을 떠나지 않는 걱정, 후회, 죄책감의 형상이다. 실제로 일어난 일이 아님에도, 꼬리에 꼬리를 무는 부정적인 생각들이 그를 악몽보다 더한 현실의 지옥으로 몰아넣는다. 이 카드는 정신적인 고통의 절정, 즉 불안과 절망으로 인한 불면의 밤을 상징한다.",
+      "english": "In the dead of night, the cat tosses and turns in agony, unable to sleep. The nine brushes hanging on the wall are the embodiment of the worries, regrets, and guilt that haunt its mind. Though nothing has actually happened, a chain of negative thoughts plunges it into a living hell worse than any nightmare. This card symbolizes the peak of mental anguish—a sleepless night caused by anxiety and despair."
+    },
+    "keywords": [
+      "걱정",
+      "불안",
+      "불면증",
+      "죄책감",
+      "정신적 고통",
+      "악몽"
+    ],
+    "core_message": {
+      "upright": "“당신의 고통은 현실이 아닌 생각에서 비롯된다. 최악의 상상이 현실을 잠식하게 두지 마라.”",
+      "reversed": "“칠흑 같던 밤이 지나고 있다. 부풀려진 걱정의 실체를 깨닫고 점차 안정을 되찾고 있다.”"
+    }
+  },
+  "symbols": {
+    "title": "상징 해설",
+    "items": [
+      {
+        "name": "벽에 걸린 아홉 자루의 붓",
+        "meaning": "머릿속을 떠나지 않는 구체적인 걱정거리, 트라우마, 혹은 죄책감을 상징한다. 이 생각들이 실체처럼 느껴지며 자신을 억누르고 있음을 의미한다."
+      },
+      {
+        "name": "얼굴을 감싼 자세",
+        "meaning": "극심한 정신적 고통과 절망감, 그리고 이 상황을 더는 마주하고 싶지 않은 회피의 심리를 동시에 보여준다."
+      },
+      {
+        "name": "어두운 방",
+        "meaning": "외부 세계와 단절된 채 자신의 부정적인 생각 속에 완전히 고립된 상태를 상징한다."
+      },
+      {
+        "name": "이불의 불길한 무늬",
+        "meaning": "불안정한 심리 상태가 투영된 것으로, 편안해야 할 휴식의 공간마저 악몽과 불안으로 가득 차 있음을 나타낸다."
+      }
+    ]
+  },
+  "a11y": {
+    "alt_text_kr": "한 고양이가 침상에 앉아 얼굴을 감싸 쥔 채 괴로워하고 있다. 머리맡 벽에는 붓 아홉 자루가 걸려 있다. 장식적인 테두리 안에 그림이 있다. 카드 상단엔 'NEUF', 하단엔 ‘NEUF D'ÉPÉES’가 적혀 있다.",
+    "alt_text_en": "A cat sits on a bed, covering its face in anguish. Nine brushes hang on the wall above its head, inside a decorative frame. The card shows 'NEUF' at the top and 'NEUF D'ÉPÉES' at the bottom."
+  },
+  "prompts": {
+    "illustration_prompt_en": "Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, 'Neuf d'Épées' (Nine of Swords), is in the style of a clear and crisp antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration features a tormented Devon Rex cat, wearing a thin white nightgown. It is sitting up in a traditional Korean bed (chimsang) in a dark room, covering its face with its paws in despair. On the dark wall behind the bed, nine calligraphy brushes are hung in a menacing row. The bedding is decorated with subtle, unsettling patterns. The overall atmosphere is one of extreme anxiety, nightmares, and mental anguish. -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, a cartouche contains 'NEUF'. At the bottom, a matching cartouche frames 'NEUF D'ÉPÉES'. --ar 736:1408 --v 6.0 --style raw --quality 1",
+    "title": "불안을 위한 질문",
+    "items": [
+      {
+        "id": "on_anxiety",
+        "text": "요즘 당신의 잠을 방해할 정도로 머릿속을 떠나지 않는 가장 큰 걱정은 무엇인가요?"
+      },
+      {
+        "id": "on_reality_check",
+        "text": "그 걱정이 실제로 일어날 가능성은 얼마나 되나요? 당신의 불안이 사실보다 과장된 것은 아닌지 점검해 보세요."
+      }
+    ]
+  },
+  "assets_slots": {
+    "illustration": "minor_sword_09_neuf_v1_ornate_final.png",
+    "symbol_map": null
+  }
+}

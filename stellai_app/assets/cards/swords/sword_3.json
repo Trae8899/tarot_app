@@ -1,0 +1,122 @@
+{
+    "id": "minor_sword_3_trois_depees",
+    "meta": {
+      "deck_id": "chat_coreen_tarot_v1",
+      "card_id": "sword3",
+      "variant_id": "classic_ornate_final",
+      "titles": {
+        "top_main": "TROIS",
+        "bottom_main": "TROIS D'ÉPÉES",
+        "native": "심장에 박힌 붓",
+        "en": "The Pierced Heart Brush",
+        "original_tarot": "THREE OF SWORDS"
+      }
+    },
+    "frame_v3": {
+      "canvas_size": [ 736, 1408 ],
+      "padding_sides": 54,
+      "top_band_height": 184,
+      "bottom_band_height": 276,
+      "illustration_y_range": [ 240, 2100 ],
+      "safe_inset": 24,
+      "colors": {
+        "paper": "#FBF5E8",
+        "band": "#F3EADA",
+        "ink": "#4D3B2A"
+      },
+      "title_mode": "ornate_cartouche",
+      "font_scaling_single": 0.40
+    },
+    "structure": {
+      "number": 3,
+      "roman_numeral": "III",
+      "arcana": "Minor",
+      "suit": "Swords",
+      "cat_breed": "봄베이 (슬픔을 깊이 간직한 듯한 검은 털과 눈빛)",
+      "hanbok_style": "애도를 상징하는 장식 없는 흰색 소복(素服)",
+      "color_theme_keywords": [
+        "붉은색(상처, 심장)",
+        "짙은 회색(비탄, 슬픔)",
+        "검은색(절망)"
+      ],
+      "cat_personality": "고통스러운 진실을 마주하고 깊은 상심에 빠져있다. 모든 말을 잃고, 내리는 비와 함께 자신의 슬픔을 묵묵히 삭이고 있는 모습.",
+      "pose_description": "비 내리는 창가를 등지고 힘없이 앉아 있다. 시선은 바닥을 향하고, 축 처진 어깨와 웅크린 등에서 깊은 슬픔과 상실감이 묻어난다.",
+      "outfit_description": "어떠한 장식도 없는 순백의 소복을 입고 있어, 그의 순수한 마음이 받은 깊은 상처와 현재 느끼는 애도의 감정을 시각적으로 강조한다.",
+      "prop_description": "붉은 심장이 그려진 족자에 세 자루의 붓이 비수처럼 날아와 박혀 있다. 이는 이성적인 말과 글(붓)이 감정적인 마음(심장)에 얼마나 큰 상처를 줄 수 있는지를 상징한다. 창밖으로 내리는 비는 고양이의 눈물과 슬픔을 대변하며, 족자 아래 떨어진 먹물은 흩어진 마음을 나타낸다.",
+      "background_scene": "어둡고 삭막한 방 안. 낡은 창문 밖으로는 차가운 비가 하염없이 내리고 있다. 벽에는 고통의 순간을 담은 족자만이 걸려 있다.",
+      "color_palette_main": [
+        "#B22222",
+        "#696969",
+        "#2F4F4F"
+      ],
+      "color_palette_accent": [
+        "#FFFFFF",
+        "#000000"
+      ],
+      "symbol_summary_keywords": [
+        "슬픔",
+        "상처",
+        "고통스러운 진실",
+        "이별",
+        "비탄"
+      ],
+      "cat_quote": "“가장 아픈 상처는 보이지 않는 칼, 즉 말에서 비롯된다.”"
+    },
+    "content": {
+      "story": {
+        "korean": "차가운 비가 내리는 날, 날카로운 세 자루의 붓이 붉은 심장을 무참히 꿰뚫는다. 이는 피할 수 없는 고통스러운 진실이 마음에 깊은 상처를 남기는 순간이다. 고양이는 그저 자신의 부서진 마음을 바라보며 슬픔에 잠긴다. 이 카드는 이별, 배신, 혹은 냉혹한 현실로 인한 마음의 고통을 상징한다.",
+        "english": "On a cold, rainy day, three sharp brushes mercilessly pierce a red heart. This is the moment when an unavoidable, painful truth leaves a deep wound on the heart. The cat simply gazes at its broken heart, lost in sorrow. This card symbolizes the heartache caused by separation, betrayal, or harsh reality."
+      },
+      "keywords": [
+        "마음의 상처",
+        "슬픔",
+        "고통스러운 진실",
+        "이별",
+        "실연",
+        "배신"
+      ],
+      "core_message": {
+        "upright": "“고통을 피하지 마라. 지금은 슬픔을 온전히 느끼고 흘려보내야 할 시간이다.”",
+        "reversed": "“과거의 상처에 지나치게 매달리고 있다. 슬픔을 과장하지 말고 이제는 놓아주어야 한다.”"
+      }
+    },
+    "symbols": {
+      "title": "상징 해설",
+      "items": [
+        {
+          "name": "심장을 꿰뚫는 세 자루의 붓",
+          "meaning": "이성적인 말, 생각, 정보(붓 세 자루)가 감정의 중심(심장)을 파고들어 만드는 고통과 상처를 상징한다."
+        },
+        {
+          "name": "내리는 비",
+          "meaning": "억제할 수 없는 슬픔과 눈물을 상징한다. 주변 환경 전체가 슬픔의 감정에 동화되었음을 보여준다."
+        },
+        {
+          "name": "붉은 심장이 그려진 족자",
+          "meaning": "순수하고 열정적이었던 마음의 상태를 나타낸다. 이 마음이 외부의 충격(붓)으로 인해 상처받았음을 명확히 보여주는 장치이다."
+        }
+      ]
+    },
+    "a11y": {
+      "alt_text_kr": "슬픔에 잠긴 고양이가 등을 돌리고 앉아 있다. 벽에는 붓 세 자루가 박힌 심장 그림 족자가 걸려 있다. 장식적인 테두리 안에 그림이 있다. 카드 상단엔 'TROIS', 하단엔 ‘TROIS D'ÉPÉES’가 적혀 있다.",
+      "alt_text_en": "A grieving cat sits with its back turned. On the wall hangs a scroll of a heart pierced by three brushes, inside a decorative frame. The card shows 'TROIS' at the top and 'TROIS D'ÉPÉES' at the bottom."
+    },
+    "prompts": {
+      "illustration_prompt_en": "Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, 'Trois d'Épées' (Three of Swords), is in the style of a clear and crisp antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration shows the back of a heartbroken Bombay cat, dressed in simple white mourning clothes (sobok). It sits slumped inside a bleak room. On the wall hangs a scroll with a vivid red heart painted on it, which is pierced by three calligraphy brushes. Outside the window, a cold rain is falling. The overall atmosphere is one of intense sorrow, heartbreak, and despair. -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, a cartouche contains 'TROIS'. At the bottom, a matching cartouche frames 'TROIS D'ÉPÉES'. --ar 736:1408 --v 6.0 --style raw --quality 1",
+      "title": "상처를 위한 질문",
+      "items": [
+        {
+          "id": "on_heartbreak",
+          "text": "최근 당신의 마음에 비수처럼 박힌 말이나 사건은 무엇이었나요?"
+        },
+        {
+          "id": "on_healing",
+          "text": "이 슬픔을 건강하게 흘려보내기 위해 당신에게 지금 가장 필요한 것은 무엇인가요?"
+        }
+      ]
+    },
+    "assets_slots": {
+      "illustration": "minor_sword_03_trois_v1_ornate_final.png",
+      "symbol_map": null
+    }
+  }

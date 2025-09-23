@@ -1,0 +1,122 @@
+{
+    "id": "minor_sword_2_deux_depees",
+    "meta": {
+      "deck_id": "chat_coreen_tarot_v1",
+      "card_id": "sword2",
+      "variant_id": "classic_ornate_final",
+      "titles": {
+        "top_main": "DEUX",
+        "bottom_main": "DEUX D'ÉPÉES",
+        "native": "고뇌하는 선비",
+        "en": "The Contemplating Scholar",
+        "original_tarot": "TWO OF SWORDS"
+      }
+    },
+    "frame_v3": {
+      "canvas_size": [ 736, 1408 ],
+      "padding_sides": 54,
+      "top_band_height": 184,
+      "bottom_band_height": 276,
+      "illustration_y_range": [ 240, 2100 ],
+      "safe_inset": 24,
+      "colors": {
+        "paper": "#FBF5E8",
+        "band": "#F3EADA",
+        "ink": "#4D3B2A"
+      },
+      "title_mode": "ornate_cartouche",
+      "font_scaling_single": 0.40
+    },
+    "structure": {
+      "number": 2,
+      "roman_numeral": "II",
+      "arcana": "Minor",
+      "suit": "Swords",
+      "cat_breed": "샴 (섬세하고 내적인 갈등이 많아 보임)",
+      "hanbok_style": "차분한 옥색 도포와 눈을 가린 흰 천",
+      "color_theme_keywords": [
+        "회색(교착상태)",
+        "청색(고뇌, 내면의 평정)",
+        "백색(진실의 차단)"
+      ],
+      "cat_personality": "외부의 혼란을 차단하고 내면의 목소리에 집중하려는 고요한 고뇌가. 감정과 이성 사이에서 결정을 내리지 못하고 깊은 생각에 잠겨 있다.",
+      "pose_description": "달빛이 비치는 대청마루에 정좌하고 앉아 있다. 흰 천으로 눈을 가린 채, 두 자루의 붓을 가슴 앞에서 X자로 교차시켜 들고 미동도 하지 않는다.",
+      "outfit_description": "몸의 움직임을 드러내지 않는 넉넉하고 차분한 옥색 도포를 입고 있다. 눈을 가린 흰 천은 어떤 외부 정보도 받아들이지 않겠다는 굳은 의지를 상징한다.",
+      "prop_description": "교차된 두 자루의 붓은 두 가지 선택지 혹은 대립하는 두 가지 생각을 상징한다. 눈을 가린 천은 의도적인 진실의 외면 혹은 내적 성찰을 위한 외부 차단을 의미한다. 배경의 잔잔한 호수는 애써 유지하려는 마음의 평정을, 달은 숨겨진 진실과 무의식을 나타낸다.",
+      "background_scene": "고요한 밤, 달빛이 잔잔한 호수 위를 비추고 있다. 고양이는 호숫가에 위치한 대청마루 끝에 앉아 깊은 명상에 잠겨 있다. 주변에는 어떤 소음도 느껴지지 않는다.",
+      "color_palette_main": [
+        "#B0C4DE",
+        "#778899",
+        "#F5F5F5"
+      ],
+      "color_palette_accent": [
+        "#2F4F4F",
+        "#000000"
+      ],
+      "symbol_summary_keywords": [
+        "균형",
+        "교착상태",
+        "결정 보류",
+        "내적 갈등",
+        "평정심"
+      ],
+      "cat_quote": "“때로는 보지 않는 것이 가장 명확한 답을 찾는 길일지도 모른다.”"
+    },
+    "content": {
+      "story": {
+        "korean": "달빛 아래, 선비 고양이가 눈을 가린 채 미동도 하지 않는다. 두 개의 상반된 생각(붓) 사이에서 어떤 것도 선택하지 못한 채, 그는 외부 세계를 차단하고 내면의 평정을 구한다. 이 카드는 어려운 결정 앞에서 오는 교착 상태와, 진실을 외면하거나 혹은 더 깊은 답을 찾기 위해 의도적으로 침묵하는 순간을 상징한다.",
+        "english": "Under the moonlight, a scholar cat sits motionless, blindfolded. Caught between two opposing thoughts (brushes), unable to choose either, it blocks out the external world to seek inner peace. This card symbolizes the stalemate that comes with a difficult decision, and the moment of deliberate silence, either to avoid the truth or to find a deeper answer."
+      },
+      "keywords": [
+        "어려운 결정",
+        "교착 상태",
+        "선택의 기로",
+        "내적 갈등",
+        "중립",
+        "휴전"
+      ],
+      "core_message": {
+        "upright": "“지금은 결정을 내릴 때가 아니다. 외부의 소음을 차단하고 마음의 평정을 유지하라.”",
+        "reversed": "“진실을 외면하는 것은 해결책이 될 수 없다. 혼란스럽더라도 눈을 뜨고 마주해야 한다.”"
+      }
+    },
+    "symbols": {
+      "title": "상징 해설",
+      "items": [
+        {
+          "name": "교차된 두 자루의 붓",
+          "meaning": "대립하는 두 가지 선택지, 생각, 혹은 세력을 상징한다. 어느 쪽으로도 치우치지 않는 팽팽한 균형과 교착 상태를 의미한다."
+        },
+        {
+          "name": "눈가리개",
+          "meaning": "외부의 정보나 불편한 진실을 의도적으로 차단하는 상태를 나타낸다. 이는 회피일 수도, 혹은 깊은 내적 성찰을 위한 집중일 수도 있다."
+        },
+        {
+          "name": "고요한 호수와 달",
+          "meaning": "겉으로 드러난 평온함(호수)과 그 이면에 숨겨진 감정과 무의식(달)을 상징한다. 억지로 유지하고 있는 평정이 언제든 깨질 수 있음을 암시한다."
+        }
+      ]
+    },
+    "a11y": {
+      "alt_text_kr": "눈을 가린 고양이가 대청마루에 앉아 두 개의 붓을 가슴 앞에서 교차해 들고 있다. 장식적인 테두리 안에 그림이 있다. 카드 상단엔 'DEUX', 하단엔 ‘DEUX D'ÉPÉES’가 적혀 있다.",
+      "alt_text_en": "A blindfolded cat sits on a wooden porch, holding two brushes crossed in front of its chest, inside a decorative frame. The card shows 'DEUX' at the top and 'DEUX D'ÉPÉES' at the bottom."
+    },
+    "prompts": {
+      "illustration_prompt_en": "Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, 'Deux d'Épées' (Two of Swords), is in the style of a clear and crisp antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration features a graceful Siamese cat dressed as a scholar in a calm, jade-colored robe (dopo). The cat is blindfolded with a white cloth and sits perfectly still in a meditative pose on the edge of a wooden porch (daecheongmaru). It holds two calligraphy brushes crossed in an 'X' over its chest. The background shows a calm, dark lake reflecting a full moon. The overall atmosphere is silent, tense, and deeply contemplative. -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, a cartouche contains 'DEUX'. At the bottom, a matching cartouche frames 'DEUX D'ÉPÉES'. --ar 736:1408 --v 6.0 --style raw --quality 1",
+      "title": "갈등을 위한 질문",
+      "items": [
+        {
+          "id": "on_indecision",
+          "text": "당신이 현재 선택을 미루고 있는 두 가지 길 혹은 생각은 무엇인가요?"
+        },
+        {
+          "id": "on_avoidance",
+          "text": "외부의 의견과 내면의 목소리 중, 당신이 마음의 평정을 위해 애써 외면하고 있는 것은 무엇인가요?"
+        }
+      ]
+    },
+    "assets_slots": {
+      "illustration": "minor_sword_02_deux_v1_ornate_final.png",
+      "symbol_map": null
+    }
+  }

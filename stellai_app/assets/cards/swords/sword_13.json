@@ -1,0 +1,125 @@
+{
+  "id": "minor_sword_13_reine_depees",
+  "meta": {
+    "deck_id": "chat_coreen_tarot_v1",
+    "card_id": "sword13",
+    "variant_id": "classic_ornate_final",
+    "titles": {
+      "top_main": "REINE",
+      "bottom_main": "REINE D'ÉPÉES",
+      "native": "진실을 가려내는 대비",
+      "en": "The Queen Dowager of Clarity",
+      "original_tarot": "QUEEN OF SWORDS"
+    }
+  },
+  "frame_v3": {
+    "canvas_size": [ 736, 1408 ],
+    "padding_sides": 54,
+    "top_band_height": 184,
+    "bottom_band_height": 276,
+    "illustration_y_range": [ 240, 2100 ],
+    "safe_inset": 24,
+    "colors": {
+      "paper": "#FBF5E8",
+      "band": "#F3EADA",
+      "ink": "#4D3B2A"
+    },
+    "title_mode": "ornate_cartouche",
+    "font_scaling_single": 0.40
+  },
+  "structure": {
+    "number": 13,
+    "roman_numeral": "XIII",
+    "arcana": "Minor",
+    "suit": "Swords",
+    "cat_breed": "터키시 앙고라 (지적이고 독립적이며 우아함)",
+    "hanbok_style": "슬픔을 상징하는 흰색 소복(素服) 위에 권위를 나타내는 옅은 옥색 당의(唐衣)",
+    "color_theme_keywords": [
+      "맑은 회색(지성)",
+      "차가운 흰색(명료함)",
+      "옥색(권위)"
+    ],
+    "cat_personality": "개인적인 슬픔과 경험을 통해 얻은 깊은 통찰력으로 세상을 바라보는 독립적이고 현명한 인물. 감정에 치우치지 않고 오직 진실과 사실에 근거하여 명료한 판단을 내린다.",
+    "pose_description": "높은 용상에 정면을 응시하며 위엄 있게 앉아 있다. 한 손에는 권위를 상징하는 붓을 칼처럼 세워 들고, 다른 한 손은 진실을 가려내려는 듯 앞으로 내밀고 있다. 그녀의 눈빛은 모든 거짓을 꿰뚫어 볼 듯 날카롭고 차갑다.",
+    "outfit_description": "화려한 색이 배제된 흰색과 옥색의 의상은 그녀가 과거에 큰 슬픔(남편인 왕의 죽음 등)을 겪었음을 암시하며, 이로 인해 감정에 초연해지고 이성적인 지혜를 얻었음을 상징한다.",
+    "prop_description": "수직으로 세운 붓은 감정에 휘둘리지 않는 객관적이고 명료한 판단을 상징한다. 용상 뒤의 구름과 바람 병풍은 그녀가 변화무쌍한 상황 속에서도 중심을 잃지 않음을 보여준다. 머리 위를 나는 한 마리의 매는 그녀의 예리한 통찰력과 자유로운 사고를 나타낸다.",
+    "background_scene": "장식이 절제된 궁궐의 편전. 높은 용상에 앉은 그녀의 뒤로는 구름과 바람이 그려진 병풍이 펼쳐져 있다. 주변은 고요하고, 공기는 맑고 차갑다. 그녀의 지성과 권위 외에는 어떤 것도 공간을 압도하지 않는다.",
+    "color_palette_main": [
+      "#D3D3D3",
+      "#FFFFFF",
+      "#B0E0E6"
+    ],
+    "color_palette_accent": [
+      "#2F4F4F",
+      "#000000"
+    ],
+    "symbol_summary_keywords": [
+      "지성",
+      "독립",
+      "명료한 판단",
+      "통찰력",
+      "진실"
+    ],
+    "cat_quote": "“눈물은 마음을 적시지만, 진실은 정신을 벼린다.”"
+  },
+  "content": {
+    "story": {
+      "korean": "큰 슬픔을 겪고 난 대비마마는 더 이상 감정에 흔들리지 않는다. 그녀는 차가운 왕좌에 앉아, 경험으로 얻은 예리한 통찰력으로 모든 거짓과 위선을 꿰뚫어 본다. 그녀의 말(붓)은 감정적인 위로가 아닌, 명료한 진실만을 가리킨다. 이 카드는 독립적인 사고와, 개인적인 경험을 통해 얻은 지혜로 상황을 명확하게 판단하는 힘을 상징한다.",
+      "english": "Having endured great sorrow, the Queen Dowager is no longer swayed by emotion. She sits on her cold throne, seeing through all falsehoods and hypocrisy with the sharp insight gained from experience. Her words (the brush) offer no emotional comfort, only pointing to clear truth. This card symbolizes the power of independent thought and the ability to judge situations clearly with wisdom gained through personal experience."
+    },
+    "keywords": [
+      "명료한 판단",
+      "지적인 독립성",
+      "진실을 말함",
+      "경험에서 나온 지혜",
+      "객관성"
+    ],
+    "core_message": {
+      "upright": "“감정은 잠시 접어두고, 당신의 경험과 지성을 믿고 명료하게 판단하라.”",
+      "reversed": "“지나치게 차갑고 비판적인 태도가 관계를 해칠 수 있다. 때로는 따뜻한 공감도 필요하다.”"
+    }
+  },
+  "symbols": {
+    "title": "상징 해설",
+    "items": [
+      {
+        "name": "수직으로 세운 붓",
+        "meaning": "감정에 치우치지 않는 공정하고 객관적인 판단력, 그리고 진실을 향한 단호한 의지를 상징한다."
+      },
+      {
+        "name": "흰색과 옥색의 의상",
+        "meaning": "과거의 슬픔(흰색)을 딛고 얻은 지혜와 권위(옥색)를 상징한다. 감정적 경험이 어떻게 지적인 힘으로 승화될 수 있는지를 보여준다."
+      },
+      {
+        "name": "높은 용상",
+        "meaning": "그녀의 판단이 사적인 감정이 아닌, 공적인 책임감과 높은 관점에서 비롯됨을 의미한다."
+      },
+      {
+        "name": "한 마리의 매",
+        "meaning": "어떤 것에도 얽매이지 않는 자유로운 사고와, 멀리 넓게 보는 예리한 통찰력을 상징한다."
+      }
+    ]
+  },
+  "a11y": {
+    "alt_text_kr": "대비 고양이가 용상에 앉아 붓을 들고 정면을 응시하고 있다. 장식적인 테두리 안에 그림이 있다. 카드 상단엔 'REINE', 하단엔 ‘REINE D'ÉPÉES’가 적혀 있다.",
+    "alt_text_en": "A Queen Dowager cat sits on a throne, holding a brush and staring forward, inside a decorative frame. The card shows 'REINE' at the top and 'REINE D'ÉPÉES' at the bottom."
+  },
+  "prompts": {
+    "illustration_prompt_en": "Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, 'Reine d'Épées' (Queen of Swords), is in the style of a clear and elegant antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration features a wise and regal Turkish Angora cat, dressed as a Queen Dowager (Daebi). She wears a white mourning robe (sobok) under a pale jade-colored formal jacket (dangui). She sits with perfect posture on a high, imposing throne, holding a calligraphy brush upright like a scepter. Her expression is sharp, intelligent, and discerning. A single hawk is carved into her throne or flies above. The background is a simple, airy hall with a folding screen painted with clouds. The overall atmosphere is one of intellectual authority, clarity, and independence. -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, a cartouche contains 'REINE'. At the bottom, a matching cartouche frames 'REINE D'ÉPÉES'. --ar 736:1408 --v 6.0 --style raw --quality 1",
+    "title": "판단을 위한 질문",
+    "items": [
+      {
+        "id": "on_clarity",
+        "text": "당신이 현재 마주한 문제에서, 모든 감정을 걷어내고 바라본 순수한 진실은 무엇인가요?"
+      },
+      {
+        "id": "on_independence",
+        "text": "타인의 의견이나 감정에 휘둘리지 않고, 당신의 경험과 지성에 근거하여 내려야 할 독립적인 판단은 무엇인가요?"
+      }
+    ]
+  },
+  "assets_slots": {
+    "illustration": "minor_sword_13_reine_v1_ornate_final.png",
+    "symbol_map": null
+  }
+}

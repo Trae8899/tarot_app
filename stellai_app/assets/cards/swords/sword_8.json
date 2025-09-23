@@ -1,0 +1,125 @@
+{
+  "id": "minor_sword_8_huit_depees",
+  "meta": {
+    "deck_id": "chat_coreen_tarot_v1",
+    "card_id": "sword8",
+    "variant_id": "classic_ornate_final",
+    "titles": {
+      "top_main": "HUIT",
+      "bottom_main": "HUIT D'ÉPÉES",
+      "native": "생각의 감옥",
+      "en": "The Prison of Thoughts",
+      "original_tarot": "EIGHT OF SWORDS"
+    }
+  },
+  "frame_v3": {
+    "canvas_size": [ 736, 1408 ],
+    "padding_sides": 54,
+    "top_band_height": 184,
+    "bottom_band_height": 276,
+    "illustration_y_range": [ 240, 2100 ],
+    "safe_inset": 24,
+    "colors": {
+      "paper": "#FBF5E8",
+      "band": "#F3EADA",
+      "ink": "#4D3B2A"
+    },
+    "title_mode": "ornate_cartouche",
+    "font_scaling_single": 0.40
+  },
+  "structure": {
+    "number": 8,
+    "roman_numeral": "VIII",
+    "arcana": "Minor",
+    "suit": "Swords",
+    "cat_breed": "페르시안 (친칠라) (스스로를 고립시키는 듯한 모습)",
+    "hanbok_style": "움직임이 제약된 듯한 겹겹의 흰색 속치마",
+    "color_theme_keywords": [
+      "짙은 회색(속박)",
+      "옅은 안개색(무력감)",
+      "백색(고립)"
+    ],
+    "cat_personality": "부정적인 생각과 편견에 사로잡혀 스스로 움직일 수 없다고 믿는 고립된 존재. 실제 상황보다 더 비관적으로 현실을 인식하고 있다.",
+    "pose_description": "눈이 가려진 채 질퍽한 갯벌 한가운데에 서 있다. 주변에는 여덟 자루의 붓이 감옥 창살처럼 꽂혀 있지만, 자세히 보면 붓들 사이의 간격이 넓어 충분히 빠져나갈 수 있다. 하지만 고양이는 옴짝달싹 못하고 갇혀 있다고 믿는다.",
+    "outfit_description": "몸을 살짝 묶은 듯한 흰색 옷을 입고 있어, 스스로 만든 제약과 속박을 시각적으로 보여준다.",
+    "prop_description": "주변을 둘러싼 여덟 자루의 붓은 자신을 억압하는 부정적인 생각, 편견, 혹은 주변의 비판을 상징한다. 눈가리개는 현실을 직시하지 못하는 상태를, 질퍽한 갯벌은 앞으로 나아가기 힘든 무력한 상황을 의미한다. 멀리 보이는 안개 낀 성은 안전한 곳(해결책)이 있지만 스스로 보지 못하고 있음을 암시한다.",
+    "background_scene": "안개가 자욱하게 낀 갯벌. 사방이 흐릿하여 방향을 가늠하기 어렵다. 멀리 안개 너머로 성의 실루엣이 희미하게 보인다. 전체적으로 축축하고, 차갑고, 외로운 분위기다.",
+    "color_palette_main": [
+      "#778899",
+      "#D3D3D3",
+      "#E0FFFF"
+    ],
+    "color_palette_accent": [
+      "#FFFFFF",
+      "#2F4F4F"
+    ],
+    "symbol_summary_keywords": [
+      "속박",
+      "제한",
+      "무력감",
+      "고립",
+      "자기 억압"
+    ],
+    "cat_quote": "“가장 견고한 감옥은 다른 누구도 아닌, 내 생각으로 만들어진다.”"
+  },
+  "content": {
+    "story": {
+      "korean": "한 고양이가 자신의 생각(붓)으로 만든 감옥에 스스로 갇혔다. 눈을 가린 채, 그는 자신이 완전히 고립되어 빠져나갈 길이 없다고 믿는다. 하지만 사실 감옥은 허술하며, 눈가리개를 벗고 현실을 직시한다면 언제든 벗어날 수 있다. 이 카드는 외부의 제약보다 더 무서운 자기 스스로 만든 한계와 무력감에 빠진 상태를 상징한다.",
+      "english": "A cat is trapped in a prison of its own thoughts (brushes). Blindfolded, it believes it is completely isolated with no way out. But in truth, the prison is flimsy, and it could escape anytime if it just removed the blindfold and faced reality. This card symbolizes a state of powerlessness and being trapped by self-imposed limitations, which are more frightening than external constraints."
+    },
+    "keywords": [
+      "자기 억압",
+      "제한된 생각",
+      "무력감",
+      "고립",
+      "피해자 의식"
+    ],
+    "core_message": {
+      "upright": "“당신을 가두는 것은 상황이 아니라 당신의 생각이다. 눈을 가린 천을 벗고 현실을 직시하라.”",
+      "reversed": "“스스로 만든 감옥에서 벗어나려 하고 있다. 한계를 극복하고 자유를 향해 나아갈 용기가 생기고 있다.”"
+    }
+  },
+  "symbols": {
+    "title": "상징 해설",
+    "items": [
+      {
+        "name": "성긴 감옥 같은 붓들",
+        "meaning": "자신을 억압하는 부정적인 생각이나 믿음. 실제로는 위협적이지 않지만 스스로 극복할 수 없다고 느끼는 심리적 장벽을 상징한다."
+      },
+      {
+        "name": "눈가리개",
+        "meaning": "문제의 본질이나 해결책을 보지 못하게 만드는 편협한 시각과 현실 회피를 상징한다."
+      },
+      {
+        "name": "질퍽한 갯벌",
+        "meaning": "한 발짝도 나아가기 어렵다고 느끼는 무력감과 절망적인 심리 상태를 나타낸다."
+      },
+      {
+        "name": "멀리 보이는 성",
+        "meaning": "해결책, 안전, 혹은 자유를 상징한다. 조금만 시야를 넓히면 도달할 수 있는 희망이 존재함을 암시한다."
+      }
+    ]
+  },
+  "a11y": {
+    "alt_text_kr": "눈을 가린 고양이가 붓들이 창살처럼 둘러싼 갯벌 한가운데에 갇혀 서 있다. 장식적인 테두리 안에 그림이 있다. 카드 상단엔 'HUIT', 하단엔 ‘HUIT D'ÉPÉES’가 적혀 있다.",
+    "alt_text_en": "A blindfolded cat stands trapped in the middle of a mudflat, surrounded by brushes like prison bars, inside a decorative frame. The card shows 'HUIT' at the top and 'HUIT D'ÉPÉES' at the bottom."
+  },
+  "prompts": {
+    "illustration_prompt_en": "Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, 'Huit d'Épées' (Eight of Swords), is in the style of a clear and crisp antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration features a helpless Persian Chinchilla cat, blindfolded and loosely bound in white cloth. It stands stranded in the middle of a wet, foggy mudflat. Eight calligraphy brushes are stuck in the mud around it, forming a loose, escapable 'prison'. In the far, foggy distance, the silhouette of a safe castle is barely visible. The overall atmosphere is one of isolation, helplessness, and self-imposed restriction. -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, a cartouche contains 'HUIT'. At the bottom, a matching cartouche frames 'HUIT D'ÉPÉES'. --ar 736:1408 --v 6.0 --style raw --quality 1",
+    "title": "속박을 위한 질문",
+    "items": [
+      {
+        "id": "on_restriction",
+        "text": "당신이 '어쩔 수 없다'고 느끼는 상황에서, 사실은 당신 스스로가 만든 제약이나 생각은 무엇인가요?"
+      },
+      {
+        "id": "on_empowerment",
+        "text": "그 '생각의 감옥'에서 벗어나기 위해 당신이 지금 당장 벗어 던져야 할 '눈가리개'는 무엇인가요?"
+      }
+    ]
+  },
+  "assets_slots": {
+    "illustration": "minor_sword_08_huit_v1_ornate_final.png",
+    "symbol_map": null
+  }
+}

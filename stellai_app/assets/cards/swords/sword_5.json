@@ -1,0 +1,121 @@
+{
+  "id": "minor_sword_5_cinq_depees",
+  "meta": {
+    "deck_id": "chat_coreen_tarot_v1",
+    "card_id": "sword5",
+    "variant_id": "classic_ornate_final",
+    "titles": {
+      "top_main": "CINQ",
+      "bottom_main": "CINQ D'ÉPÉES",
+      "native": "비정한 승리",
+      "en": "The Bitter Victory",
+      "original_tarot": "FIVE OF SWORDS"
+    }
+  },
+  "frame_v3": {
+    "canvas_size": [ 736, 1408 ],
+    "padding_sides": 54,
+    "top_band_height": 184,
+    "bottom_band_height": 276,
+    "illustration_y_range": [ 240, 2100 ],
+    "safe_inset": 24,
+    "colors": {
+      "paper": "#FBF5E8",
+      "band": "#F3EADA",
+      "ink": "#4D3B2A"
+    },
+    "title_mode": "ornate_cartouche",
+    "font_scaling_single": 0.40
+  },
+  "structure": {
+    "number": 5,
+    "roman_numeral": "V",
+    "arcana": "Minor",
+    "suit": "Swords",
+    "cat_breed": "스핑크스 (날카롭고 논쟁적인 모습)",
+    "hanbok_style": "논쟁으로 흐트러진 관리의 푸른 관복(官服)",
+    "color_theme_keywords": [
+      "탁한 하늘색(비정한 승리)",
+      "흙먼지색(갈등)",
+      "차가운 청색(고립)"
+    ],
+    "cat_personality": "승리를 위해서라면 수단과 방법을 가리지 않는 냉철한 책략가. 논쟁에서는 이겼지만, 그 과정에서 동료를 잃고 결국 혼자가 되었다.",
+    "pose_description": "자신의 붓 두 자루와, 방금 논쟁에서 이겨 빼앗은 다른 고양이들의 붓 세 자루를 한 손에 들고 있다. 그의 얼굴에는 승리자의 미소가 희미하게 걸려 있지만, 시선은 쓸쓸히 퇴장하는 패배자들의 뒷모습을 향해 있어 복잡한 심경을 드러낸다.",
+    "outfit_description": "격렬한 논쟁의 흔적이 남은 듯, 단정해야 할 관리의 푸른 관복이 살짝 흐트러져 있다. 이는 승리를 위해 치른 대가를 암시한다.",
+    "prop_description": "승자가 들고 있는 다섯 자루의 붓은 이긴 자의 전리품이자 동시에 갈등의 상징이다. 멀리 힘없이 걸어가는 두 패배자의 모습은 이 승리가 모두에게 상처를 남겼음을 보여준다. 텅 빈 듯한 어전회의장은 승리 후의 공허함과 고립감을 강조한다.",
+    "background_scene": "치열한 논쟁이 끝난 궁궐의 편전(어전회의장). 탁한 빛이 들어오는 창 아래, 승자 한 명과 패배자 두 명의 모습만이 대조적으로 그려진다. 분위기는 승리의 환희가 아닌, 무겁고 어색한 침묵만이 감돈다.",
+    "color_palette_main": [
+      "#B0C4DE",
+      "#A0522D",
+      "#708090"
+    ],
+    "color_palette_accent": [
+      "#4682B4",
+      "#000000"
+    ],
+    "symbol_summary_keywords": [
+      "갈등",
+      "패배",
+      "비정한 승리",
+      "자기중심",
+      "불명예"
+    ],
+    "cat_quote": "“승리의 대가는 때로 승리 그 자체보다 무겁다.”"
+  },
+  "content": {
+    "story": {
+      "korean": "치열한 논쟁 끝에, 한 고양이가 동료들의 논리(붓)를 모두 꺾고 승리를 쟁취했다. 하지만 그의 주변엔 아무도 남지 않았다. 패배한 이들은 상처 입은 채 등을 돌리고, 승리한 자는 공허한 회의장에 홀로 남았다. 이 카드는 수단과 방법을 가리지 않고 얻은 승리가 얼마나 공허하며, 때로는 이기는 것이 지는 것보다 더 큰 상실을 가져올 수 있음을 상징한다.",
+      "english": "After a fierce debate, one cat has won, defeating the logic (brushes) of its colleagues. But no one remains by its side. The defeated turn their backs, wounded, leaving the victor alone in the empty hall. This card symbolizes how hollow a victory won by any means can be, and how sometimes winning can bring a greater loss than defeat."
+    },
+    "keywords": [
+      "갈등",
+      "이기적인 승리",
+      "불명예",
+      "적대감",
+      "패배를 인정하지 않음"
+    ],
+    "core_message": {
+      "upright": "“승리했지만 많은 것을 잃었다. 당신의 행동이 어떤 결과를 낳았는지 돌아볼 필요가 있다.”",
+      "reversed": "“불필요한 갈등은 모두에게 상처만 남긴다. 때로는 패배를 인정하고 화해하는 것이 더 큰 승리다.”"
+    }
+  },
+  "symbols": {
+    "title": "상징 해설",
+    "items": [
+      {
+        "name": "빼앗은 세 자루의 붓",
+        "meaning": "자신의 주장을 관철하기 위해 꺾어버린 타인의 의견과 그로 인해 파괴된 관계를 상징한다."
+      },
+      {
+        "name": "승자의 고독한 모습",
+        "meaning": "경쟁에서 이기는 것에만 몰두한 나머지, 인간관계의 중요한 가치를 잃어버리고 고립된 상태를 의미한다."
+      },
+      {
+          "name": "패배자의 쓸쓸한 뒷모습",
+          "meaning": "갈등으로 인해 상처받고 떠나가는 사람들을 상징하며, 승리자가 치러야 할 감정적 대가를 시각적으로 보여준다."
+      }
+    ]
+  },
+  "a11y": {
+    "alt_text_kr": "한 고양이가 다른 고양이들의 붓을 빼앗아 들고 서 있고, 패배한 두 고양이는 등을 돌려 걸어가고 있다. 장식적인 테두리 안에 그림이 있다. 카드 상단엔 'CINQ', 하단엔 ‘CINQ D'ÉPÉES’가 적혀 있다.",
+    "alt_text_en": "A cat stands holding confiscated brushes from others, while two defeated cats walk away with their backs turned, inside a decorative frame. The card shows 'CINQ' at the top and 'CINQ D'ÉPÉES' at the bottom."
+  },
+  "prompts": {
+    "illustration_prompt_en": "Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, 'Cinq d'Épées' (Five of Swords), is in the style of a clear and crisp antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration features a cunning Sphynx cat, dressed in a slightly disheveled blue official's robe (gwanbok). It stands with a smirk, holding five calligraphy brushes (two of its own, three taken from others). In the background, two other cats in official robes walk away dejectedly, their backs turned. The setting is a grand but empty royal council hall, with a tense and somber atmosphere under a murky light. The overall mood is one of bitter, hollow victory. -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, a cartouche contains 'CINQ'. At the bottom, a matching cartouche frames 'CINQ D'ÉPÉES'. --ar 736:1408 --v 6.0 --style raw --quality 1",
+    "title": "승리를 위한 질문",
+    "items": [
+      {
+        "id": "on_conflict",
+        "text": "당신이 현재 겪고 있는 갈등에서, '이기는 것' 외에 정작 놓치고 있는 중요한 가치는 무엇인가요?"
+      },
+      {
+        "id": "on_consequences",
+        "text": "당신의 승리가 다른 사람에게 어떤 상처를 남겼는지, 혹은 남길 수 있는지 생각해 본 적 있나요?"
+      }
+    ]
+  },
+  "assets_slots": {
+    "illustration": "minor_sword_05_cinq_v1_ornate_final.png",
+    "symbol_map": null
+  }
+}

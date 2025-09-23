@@ -1,0 +1,125 @@
+{
+  "id": "minor_sword_12_cavalier_depees",
+  "meta": {
+    "deck_id": "chat_coreen_tarot_v1",
+    "card_id": "sword12",
+    "variant_id": "classic_ornate_final",
+    "titles": {
+      "top_main": "CAVALIER",
+      "bottom_main": "CAVALIER D'ÉPÉES",
+      "native": "돌진하는 암행어사",
+      "en": "The Charging Secret Inspector",
+      "original_tarot": "KNIGHT OF SWORDS"
+    }
+  },
+  "frame_v3": {
+    "canvas_size": [ 736, 1408 ],
+    "padding_sides": 54,
+    "top_band_height": 184,
+    "bottom_band_height": 276,
+    "illustration_y_range": [ 240, 2100 ],
+    "safe_inset": 24,
+    "colors": {
+      "paper": "#FBF5E8",
+      "band": "#F3EADA",
+      "ink": "#4D3B2A"
+    },
+    "title_mode": "ornate_cartouche",
+    "font_scaling_single": 0.40
+  },
+  "structure": {
+    "number": 12,
+    "roman_numeral": "XII",
+    "arcana": "Minor",
+    "suit": "Swords",
+    "cat_breed": "벵갈 (저돌적이고 매우 민첩함)",
+    "hanbok_style": "바람에 휘날리는 역동적인 철릭(帖裏)과 갓",
+    "color_theme_keywords": [
+      "날카로운 은색(돌진)",
+      "청회색(급진적인 생각)",
+      "바람의 색(속도)"
+    ],
+    "cat_personality": "한번 목표를 정하면 앞뒤 가리지 않고 돌진하는 명석하고 대담한 행동가. 생각이 너무 빨라 말이 행동을 따라가지 못할 때가 있다.",
+    "pose_description": "성난 듯한 표정으로 질풍처럼 달리는 말 위에 올라타 있다. 마패 대신 진실을 밝힐 상소문을 칼처럼 높이 쳐들고, 오직 목표를 향해 거침없이 돌진하고 있다.",
+    "outfit_description": "무관이 주로 입던 옷이자 활동성이 좋은 철릭이 바람에 격렬하게 흩날리고, 갓끈을 단단히 묶어 빠른 속도감을 극대화한다.",
+    "prop_description": "높이 든 상소문은 그의 행동이 단순한 파괴가 아닌, 진실을 밝히고 정의를 구현하려는 명확한 목표와 논리에 기반하고 있음을 상징한다. 거친 바람과 폭풍우가 몰아치는 하늘은 그의 등장이 가져올 급작스러운 변화와 혼란을 암시한다. 그를 따르는 매는 날카로운 통찰력과 빠른 판단력을 의미한다.",
+    "background_scene": "폭풍우가 몰아치기 직전의 어두운 들판. 거센 바람이 불고 먹구름이 하늘을 뒤덮어, 그의 등장이 평온을 깨고 큰 변화를 몰고 올 것임을 예고한다.",
+    "color_palette_main": [
+      "#778899",
+      "#C0C0C0",
+      "#ADD8E6"
+    ],
+    "color_palette_accent": [
+      "#FFFFFF",
+      "#000000"
+    ],
+    "symbol_summary_keywords": [
+      "돌진",
+      "급진적",
+      "명석함",
+      "행동",
+      "단호함"
+    ],
+    "cat_quote": "“망설일 시간은 없다! 진실은 가장 빠른 칼날로 쟁취하는 것이다!”"
+  },
+  "content": {
+    "story": {
+      "korean": "진실을 손에 쥔 암행어사 고양이가 폭풍 속으로 거침없이 말을 달린다. 그의 목표는 오직 하나, 부정을 파헤치고 정의를 세우는 것이다. 과정의 섬세함이나 타협보다는, 빠른 판단과 단호한 행동으로 모든 것을 단숨에 돌파하려 한다. 이 카드는 명확한 목표를 향해 두려움 없이 돌진하는 지적인 에너지와 때로는 무모할 수 있는 급진적인 행동을 상징한다.",
+      "english": "The secret inspector cat, holding the truth in its hand, charges fearlessly into the storm on its horse. Its goal is singular: to uncover injustice and establish righteousness. Rather than delicate processes or compromise, it seeks to break through everything at once with quick judgment and decisive action. This card symbolizes the intellectual energy that rushes toward a clear goal without fear, and the sometimes reckless, radical action it entails."
+    },
+    "keywords": [
+      "빠른 행동",
+      "결단력",
+      "진실을 향한 돌진",
+      "단호함",
+      "지적인 힘"
+    ],
+    "core_message": {
+      "upright": "“지금은 생각할 때가 아니라 행동할 때다. 당신의 신념을 믿고 거침없이 돌진하라.”",
+      "reversed": "“너무 성급하고 무모한 행동은 일을 그르칠 수 있다. 목표와 과정을 다시 한번 점검하라.”"
+    }
+  },
+  "symbols": {
+    "title": "상징 해설",
+    "items": [
+      {
+        "name": "칼처럼 든 상소문",
+        "meaning": "그의 행동이 감정적인 분노가 아닌, 이성과 진실이라는 명확한 근거 위에 있음을 상징한다."
+      },
+      {
+        "name": "폭풍우 치는 하늘",
+        "meaning": "그의 급진적인 행동이 가져올 급격한 변화와, 그 과정에서 필연적으로 발생하는 혼란과 저항을 상징한다."
+      },
+      {
+        "name": "질주하는 말",
+        "meaning": "생각이 곧바로 행동으로 이어지는 거침없는 실행력과 빠른 속도를 상징한다."
+      },
+      {
+        "name": "기사를 따르는 매",
+        "meaning": "날카로운 지성과 하늘에서 전장을 내려다보는 듯한 뛰어난 통찰력을 상징하는 조력자이다."
+      }
+    ]
+  },
+  "a11y": {
+    "alt_text_kr": "암행어사 고양이가 말을 타고 상소문을 든 채 폭풍 속을 돌진하고 있다. 장식적인 테두리 안에 그림이 있다. 카드 상단엔 'CAVALIER', 하단엔 ‘CAVALIER D'ÉPÉES’가 적혀 있다.",
+    "alt_text_en": "A secret inspector cat is charging through a storm on horseback, holding a scroll, inside a decorative frame. The card shows 'CAVALIER' at the top and 'CAVALIER D'ÉPÉES' at the bottom."
+  },
+  "prompts": {
+    "illustration_prompt_en": "Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, 'Cavalier d'Épées' (Knight of Swords), is in the style of a dynamic and dramatic antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration features an assertive Bengal cat dressed as a secret royal inspector (Amhaeng-eosa) in a wind-whipped robe (cheollik). It is charging forward at full speed on a powerful horse, holding up a scroll (sangsomun) like a sword. The background is a dark, stormy landscape with menacing clouds and wind-swept fields. A sharp-eyed hawk flies alongside. The overall atmosphere is one of unstoppable force, rapid action, and intellectual power. -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, a cartouche contains 'CAVALIER'. At the bottom, a matching cartouche frames 'CAVALIER D'ÉPÉES'. --ar 736:1408 --v 6.0 --style raw --quality 1",
+    "title": "행동을 위한 질문",
+    "items": [
+      {
+        "id": "on_action",
+        "text": "당신이 진실이라고 믿는 것을 위해, 지금 당장 망설임 없이 행동으로 옮겨야 할 일은 무엇인가요?"
+      },
+      {
+        "id": "on_caution",
+        "text": "혹시 당신의 돌진이 주변 상황이나 다른 사람들의 감정을 고려하지 않은 채, 너무 성급하게 이루어지고 있지는 않은가요?"
+      }
+    ]
+  },
+  "assets_slots": {
+    "illustration": "minor_sword_12_cavalier_v1_ornate_final.png",
+    "symbol_map": null
+  }
+}
