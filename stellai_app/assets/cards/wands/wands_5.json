@@ -1,0 +1,121 @@
+{
+  "id": "minor_wand_5_cinq_debatons",
+  "meta": {
+    "deck_id": "chat_coreen_tarot_v1",
+    "card_id": "wand5",
+    "variant_id": "classic_ornate_final",
+    "titles": {
+      "top_main": "CINQ",
+      "bottom_main": "CINQ DE BÂTONS",
+      "native": "소란스러운 실력 겨루기",
+      "en": "The Rowdy Contest of Skills",
+      "original_tarot": "FIVE OF WANDS"
+    }
+  },
+  "frame_v3": {
+    "canvas_size": [ 736, 1408 ],
+    "padding_sides": 54,
+    "top_band_height": 184,
+    "bottom_band_height": 276,
+    "illustration_y_range": [ 240, 2100 ],
+    "safe_inset": 24,
+    "colors": {
+      "paper": "#FBF5E8",
+      "band": "#F3EADA",
+      "ink": "#4D3B2A"
+    },
+    "title_mode": "ornate_cartouche",
+    "font_scaling_single": 0.40
+  },
+  "structure": {
+    "number": 5,
+    "roman_numeral": "V",
+    "arcana": "Minor",
+    "suit": "Wands",
+    "cat_breed": "터키시 밴 (경쟁심 강하고 활발함)",
+    "hanbok_style": "격렬한 움직임으로 흐트러진 각기 다른 색의 풍물패 의상",
+    "color_theme_keywords": [
+      "주황색(충돌, 경쟁)",
+      "짙은 회색(혼돈)",
+      "흙먼지색(다툼)"
+    ],
+    "cat_personality": "자신의 실력을 증명하고 싶어 하며, 타인과의 경쟁을 통해 성장하려는 에너지 넘치는 경쟁자들. 아직은 서로 조화를 이루지 못하고 있다.",
+    "pose_description": "사람들로 붐비는 장터 한가운데서, 다섯 마리의 고양이가 각자 자신의 채(북 채, 장구 채 등)를 휘두르며 실력을 겨루고 있다. 진지한 싸움이라기보다는, 서로의 장단과 기량을 뽐내며 엉망진창으로 부딪히는 놀이 같은 다툼의 모습이다.",
+    "outfit_description": "각기 다른 풍물패 소속임을 암시하듯, 저마다 다른 색깔의 의상을 입고 있으며, 격렬한 움직임으로 옷이 흐트러져 있다.",
+    "prop_description": "허공에서 어지럽게 부딪히는 다섯 개의 채는 조율되지 않은 의견, 충돌하는 자존심, 혹은 건전한 경쟁을 상징한다. 흙먼지가 날리는 장터 바닥은 이 다툼이 혼란스럽지만 심각한 위협은 아님을 보여준다. 주변의 구경꾼들은 이 상황이 흥미로운 볼거리임을 암시한다.",
+    "background_scene": "활기 넘치지만 다소 혼란스러운 시골 장터. 주변에는 다양한 물건을 파는 상점과 구경하는 사람들이 섞여 있어, 이 다툼이 공적인 무대에서 벌어지는 경쟁임을 보여준다.",
+    "color_palette_main": [
+      "#FFA500",
+      "#A9A9A9",
+      "#CD853F"
+    ],
+    "color_palette_accent": [
+      "#DC143C",
+      "#4682B4"
+    ],
+    "symbol_summary_keywords": [
+      "갈등",
+      "경쟁",
+      "혼돈",
+      "다툼",
+      "에너지"
+    ],
+    "cat_quote": "“때로는 가장 시끄러운 장단이, 더 큰 화합을 위한 전주곡이 된다.”"
+  },
+  "content": {
+    "story": {
+      "korean": "평화로운 축제가 끝나고, 풍물패는 새로운 도전에 직면한다. 장터에서 만난 다른 실력자들과의 자존심을 건 실력 겨루기가 시작된 것이다. 혹은, 성공에 도취된 단원들 사이에서 누가 더 뛰어난지 주도권 다툼이 벌어진다. 이들의 채는 더 이상 조화로운 합주를 만들지 못하고 허공에서 어지럽게 부딪힌다. 이 카드는 경쟁, 사소한 다툼, 그리고 목표를 향해 나아가는 과정에서 겪는 의견 충돌을 상징한다.",
+      "english": "After the peaceful festival, the troupe faces a new challenge. A contest of skills, a battle of pride, begins with other talented performers they meet at the marketplace. Or perhaps, drunk on success, a struggle for leadership breaks out among the members over who is more skilled. Their batons no longer create a harmonious ensemble, clashing chaotically in mid-air. This card symbolizes competition, minor squabbles, and the clash of opinions encountered on the path toward a goal."
+    },
+    "keywords": [
+      "경쟁",
+      "의견 충돌",
+      "사소한 다툼",
+      "에너지 넘치는 혼돈",
+      "스포츠맨십"
+    ],
+    "core_message": {
+      "upright": "“건강한 경쟁은 성장의 자양분이 된다. 갈등을 두려워 말고 당신의 의견을 당당히 내세워라.”",
+      "reversed": "“소모적인 다툼은 모두를 지치게 할 뿐이다. 갈등을 피하거나, 화합할 방법을 찾아라.”"
+    }
+  },
+  "symbols": {
+    "title": "상징 해설",
+    "items": [
+      {
+        "name": "어지럽게 부딪히는 다섯 개의 채",
+        "meaning": "서로 다른 의견, 욕구, 자존심의 충돌을 상징한다. 이는 파괴적인 싸움이라기보다는, 더 나은 결과를 찾기 위한 과정에서 발생하는 혼란스러운 에너지의 교환을 의미한다."
+      },
+      {
+        "name": "장터라는 배경",
+        "meaning": "다양한 사람들이 모여 경쟁하고 교류하는 열린 공간을 상징한다. 이 갈등이 사적인 원한이 아닌, 공개적이고 사회적인 차원의 경쟁임을 보여준다."
+      },
+      {
+        "name": "흙먼지",
+        "meaning": "상황이 다소 지저분하고 혼란스러움을 나타내지만, 피를 흘리는 심각한 싸움이 아님을 암시한다. 잠시 시야를 가릴 뿐, 곧 가라앉을 문제임을 의미한다."
+      }
+    ]
+  },
+  "a11y": {
+    "alt_text_kr": "다섯 마리의 고양이가 장터 한가운데서 각자의 채를 휘두르며 서로 겨루고 있다. 장식적인 테두리 안에 그림이 있다. 카드 상단엔 'CINQ', 하단엔 ‘CINQ DE BÂTONS’가 적혀 있다.",
+    "alt_text_en": "Five cats are competing against each other, brandishing their own batons in the middle of a marketplace, inside a decorative frame. The card shows 'CINQ' at the top and 'CINQ DE BÂTONS' at the bottom."
+  },
+  "prompts": {
+    "illustration_prompt_en": "Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, 'Cinq de Bâtons' (Five of Wands), is in the style of a chaotic and energetic antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration depicts five active Turkish Van cats in different colored troupe outfits, engaged in a mock battle in the middle of a bustling marketplace (jangteo). They are playfully but competitively brandishing their various mallets and sticks (representing wands), which are clashing in the center. The scene is full of dynamic movement and dust kicked up from the ground. The overall atmosphere is one of conflict, competition, and chaotic energy, but not serious violence. -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, a cartouche contains 'CINQ'. At the bottom, a matching cartouche frames 'CINQ DE BÂTONS'. --ar 736:1408 --v 6.0 --style raw --quality 1",
+    "title": "경쟁을 위한 질문",
+    "items": [
+      {
+        "id": "on_competition",
+        "text": "당신이 현재 겪고 있는 경쟁이나 의견 충돌의 본질은 무엇인가요? 그것이 당신을 성장시키고 있나요, 아니면 소모시키고 있나요?"
+      },
+      {
+        "id": "on_harmony",
+        "text": "이 혼란스러운 상황에서, 공동의 목표를 위해 어떻게 각자의 목소리를 조화롭게 만들 수 있을까요?"
+      }
+    ]
+  },
+  "assets_slots": {
+    "illustration": "minor_wand_05_cinq_v1_ornate_final.png",
+    "symbol_map": null
+  }
+}

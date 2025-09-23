@@ -1,0 +1,126 @@
+{
+  "id": "minor_wand_6_six_debatons",
+  "meta": {
+    "deck_id": "chat_coreen_tarot_v1",
+    "card_id": "wand6",
+    "variant_id": "classic_ornate_final",
+    "titles": {
+      "top_main": "SIX",
+      "bottom_main": "SIX DE BÂTONS",
+      "native": "개선하는 풍물패",
+      "en": "The Triumphant Troupe",
+      "original_tarot": "SIX OF WANDS"
+    }
+  },
+  "frame_v3": {
+    "canvas_size": [ 736, 1408 ],
+    "padding_sides": 54,
+    "top_band_height": 184,
+    "bottom_band_height": 276,
+    "illustration_y_range": [ 240, 2100 ],
+    "safe_inset": 24,
+    "colors": {
+      "paper": "#FBF5E8",
+      "band": "#F3EADA",
+      "ink": "#4D3B2A"
+    },
+    "title_mode": "ornate_cartouche",
+    "font_scaling_single": 0.40
+  },
+  "structure": {
+    "number": 6,
+    "roman_numeral": "VI",
+    "arcana": "Minor",
+    "suit": "Wands",
+    "cat_breed": "벵갈 (자신감 넘치고 화려함)",
+    "hanbok_style": "승리자의 위풍당당함을 보여주는 화려한 풍물패 의상",
+    "color_theme_keywords": [
+      "금색(승리, 인정)",
+      "자색(명예)",
+      "녹색(성공)"
+    ],
+    "cat_personality": "자신의 노력이 공개적으로 인정받는 것에 큰 자부심을 느끼는 성공한 리더. 동료들과 함께 승리의 기쁨을 만끽한다.",
+    "pose_description": "성공적인 공연을 마치고 돌아온 풍물패의 리더(상쇠)가 말을 타고 위풍당당하게 행진하고 있다. 그의 상모 채에는 승리를 기념하는 월계관(화관)이 걸려 있으며, 주변의 동료들과 마을 사람들은 그를 향해 환호하고 있다.",
+    "outfit_description": "경쟁에서의 승리를 축하하듯, 평소보다 더욱 화려하고 값비싼 천으로 만든 풍물패 의상을 입고 있다. 이는 그의 높아진 지위를 상징한다.",
+    "prop_description": "리더의 채에 걸린 화관은 공개적인 인정과 승리를 상징한다. 그를 따르는 다섯 명의 동료들은 함께 노력하여 얻은 공동의 성공을 의미한다. 길가에서 꽃을 던지며 환호하는 마을 사람들은 사회적인 지지와 인정을 나타낸다.",
+    "background_scene": "화창한 날, 축제 분위기로 가득한 마을의 큰 길. 길 양옆으로 마을 사람들이 늘어서서, 성공을 거두고 돌아오는 풍물패에게 박수와 환호를 보내고 있다.",
+    "color_palette_main": [
+      "#FFD700",
+      "#800080",
+      "#2E8B57"
+    ],
+    "color_palette_accent": [
+      "#FF6347",
+      "#FFFFFF"
+    ],
+    "symbol_summary_keywords": [
+      "승리",
+      "인정",
+      "성공",
+      "명예",
+      "자신감"
+    ],
+    "cat_quote": "“가장 값진 상은, 모두의 환호 속에서 얻는 자부심이다.”"
+  },
+  "content": {
+    "story": {
+      "korean": "치열했던 경쟁은 풍물패의 승리로 끝났다. 그들은 이제 마을 사람들의 열렬한 환호를 받으며 개선장군처럼 당당하게 행진한다. 리더의 채에 걸린 화관은 그들의 노력이 마침내 공개적으로 인정받았음을 의미한다. 혼란을 극복하고 이룬 값진 성공에 대한 자부심과 기쁨이 넘치는 순간이다. 이 카드는 노력 끝에 얻은 승리, 사회적인 인정, 그리고 성공에 대한 자신감을 상징한다.",
+      "english": "The fierce competition ended in the troupe's victory. They now march proudly like triumphant generals, receiving the enthusiastic cheers of the villagers. The floral wreath on the leader's baton signifies that their efforts have finally been publicly recognized. It is a moment overflowing with pride and joy for the hard-won success achieved after overcoming chaos. This card symbolizes victory after effort, social recognition, and confidence in one's success."
+    },
+    "keywords": [
+      "승리",
+      "공개적인 인정",
+      "성공",
+      "자신감",
+      "명예",
+      "환호"
+    ],
+    "core_message": {
+      "upright": "“당신의 노력이 마침내 빛을 발할 때다. 승리를 즐기고 사람들의 인정을 받아들여라.”",
+      "reversed": "“성공이 지연되거나, 다른 사람이 당신의 공로를 가로챌 수 있다. 자만심을 경계하라.”"
+    }
+  },
+  "symbols": {
+    "title": "상징 해설",
+    "items": [
+      {
+        "name": "채에 걸린 화관",
+        "meaning": "경쟁에서의 승리와 그에 따른 공개적인 인정을 상징하는 가장 중요한 상징물이다."
+      },
+      {
+        "name": "말을 탄 리더",
+        "meaning": "성공을 통해 높아진 지위와 리더십을 상징한다. 그는 이제 단순한 공연자가 아닌, 승리자로 존중받는다."
+      },
+      {
+        "name": "함께 행진하는 동료들",
+        "meaning": "이 승리가 리더 혼자만의 것이 아닌, 팀 전체의 노력으로 이루어졌음을 보여준다. 공동의 목표를 향한 성공적인 협력을 의미한다."
+      },
+      {
+        "name": "환호하는 군중",
+        "meaning": "사회적인 지지와 인정을 나타낸다. 개인적인 만족을 넘어, 주변 세계로부터 성공을 축하받고 있음을 보여준다."
+      }
+    ]
+  },
+  "a11y": {
+    "alt_text_kr": "풍물패 리더 고양이가 말을 타고 화관이 걸린 채를 든 채 행진하고, 주변 사람들이 환호하고 있다. 장식적인 테두리 안에 그림이 있다. 카드 상단엔 'SIX', 하단엔 ‘SIX DE BÂTONS’가 적혀 있다.",
+    "alt_text_en": "A troupe leader cat is parading on horseback, holding a baton with a floral wreath, while surrounding people cheer, inside a decorative frame. The card shows 'SIX' at the top and 'SIX DE BÂTONS' at the bottom."
+  },
+  "prompts": {
+    "illustration_prompt_en": "Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, 'Six de Bâtons' (Six of Wands), is in the style of a triumphant and celebratory antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration features a proud Bengal cat, the troupe leader, riding a decorated horse in a victory parade through a village. Its primary mallet (chae) is adorned with a victory wreath of flowers. Fellow troupe members march alongside, and villagers cheer and throw flowers from the sides of the road. The overall atmosphere is one of public recognition, success, and triumph. -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, a cartouche contains 'SIX'. At the bottom, a matching cartouche frames 'SIX DE BÂTONS'. --ar 736:1408 --v 6.0 --style raw --quality 1",
+    "title": "승리를 위한 질문",
+    "items": [
+      {
+        "id": "on_victory",
+        "text": "당신이 최근 거둔 성공이나 승리는 무엇이며, 그 성과를 어떻게 자랑스럽게 기념하고 싶나요?"
+      },
+      {
+        "id": "on_recognition",
+        "text": "당신의 노력을 인정해주고 함께 기뻐해 줄 사람들은 누구인가요? 그들의 지지에 감사함을 표현해 보세요."
+      }
+    ]
+  },
+  "assets_slots": {
+    "illustration": "minor_wand_06_six_v1_ornate_final.png",
+    "symbol_map": null
+  }
+}

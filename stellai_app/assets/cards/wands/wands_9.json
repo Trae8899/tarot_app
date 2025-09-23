@@ -1,0 +1,125 @@
+{
+  "id": "minor_wand_9_neuf_debatons",
+  "meta": {
+    "deck_id": "chat_coreen_tarot_v1",
+    "card_id": "wand9",
+    "variant_id": "classic_ornate_final",
+    "titles": {
+      "top_main": "NEUF",
+      "bottom_main": "NEUF DE BÂTONS",
+      "native": "경계를 늦추지 않는 단원",
+      "en": "The Wary Troupe Member",
+      "original_tarot": "NINE OF WANDS"
+    }
+  },
+  "frame_v3": {
+    "canvas_size": [ 736, 1408 ],
+    "padding_sides": 54,
+    "top_band_height": 184,
+    "bottom_band_height": 276,
+    "illustration_y_range": [ 240, 2100 ],
+    "safe_inset": 24,
+    "colors": {
+      "paper": "#FBF5E8",
+      "band": "#F3EADA",
+      "ink": "#4D3B2A"
+    },
+    "title_mode": "ornate_cartouche",
+    "font_scaling_single": 0.40
+  },
+  "structure": {
+    "number": 9,
+    "roman_numeral": "IX",
+    "arcana": "Minor",
+    "suit": "Wands",
+    "cat_breed": "노르웨이 숲 (강인하고 인내심 강함)",
+    "hanbok_style": "여러 번의 공연과 다툼으로 해지고 상처 입은 풍물패 의상",
+    "color_theme_keywords": [
+      "짙은 갈색(인내, 회복)",
+      "감색(경계)",
+      "회색(피로)"
+    ],
+    "cat_personality": "수많은 시련을 겪어 지쳤지만, 과거의 경험을 바탕으로 마지막까지 경계를 늦추지 않는 강인하고 회복력 있는 베테랑.",
+    "pose_description": "머리에 붕대를 감은 채, 아홉 개의 채를 울타리처럼 등 뒤에 세워두고 꿋꿋하게 서 있다. 그의 표정에는 역경을 거쳐온 피로감과 함께, 어떤 공격이 와도 마지막까지 버텨내겠다는 강한 의지가 서려 있다.",
+    "outfit_description": "오랜 여정과 싸움의 흔적을 보여주듯, 해지고 기운 자국이 있는 풍물패 의상을 입고 있다. 이는 그가 겪어온 시련을 상징한다.",
+    "prop_description": "등 뒤에 세워진 아홉 개의 채는 그가 지금까지 쌓아온 경험과 방어벽을 상징한다. 머리의 붕대는 과거의 싸움에서 입은 상처와 그로 인한 아픔을 의미한다. 그가 딛고 선 단단한 바위는 그의 꺾이지 않는 의지와 강인한 정신력을 나타낸다.",
+    "background_scene": "해가 지기 직전의 황량한 언덕 위. 더 이상 물러설 곳이 없음을 암시하듯, 그의 등 뒤는 낭떠러지이거나 거친 산맥이다. 곧 마지막 시련이 닥칠 듯한 긴장감이 감돈다.",
+    "color_palette_main": [
+      "#8B4513",
+      "#708090",
+      "#A0522D"
+    ],
+    "color_palette_accent": [
+      "#FFFFFF",
+      "#B22222"
+    ],
+    "symbol_summary_keywords": [
+      "인내",
+      "경계",
+      "회복력",
+      "방어",
+      "강인함"
+    ],
+    "cat_quote": "“아홉 번 쓰러져도, 열 번째 싸움을 준비하는 것이 진짜 실력이다.”"
+  },
+  "content": {
+    "story": {
+      "korean": "수많은 공연과 경쟁을 거치며 풍물패 단원은 지칠 대로 지쳤다. 온몸은 상처투성이지만, 그는 마지막 시련을 앞두고 있다. 그는 과거의 경험(아홉 개의 채)을 방어벽 삼아, 결코 포기하지 않고 굳건히 서서 다가올 도전을 기다린다. 이 카드는 거의 다 왔지만 마지막 고비가 남은 상황, 그리고 지쳤음에도 불구하고 끝까지 버텨내는 강인한 인내와 회복력을 상징한다.",
+      "english": "After countless performances and competitions, the troupe member is exhausted. His whole body is covered in wounds, yet he faces one last trial. Using his past experiences (the nine wands) as a defensive wall, he stands firm without giving up, awaiting the coming challenge. This card symbolizes a situation where the goal is near but one final hurdle remains, and the resilient perseverance and strength to endure to the very end despite being weary."
+    },
+    "keywords": [
+      "인내",
+      "마지막 고비",
+      "경계심",
+      "방어적 태세",
+      "회복력"
+    ],
+    "core_message": {
+      "upright": "“거의 다 왔다. 지치고 두렵겠지만, 당신의 경험을 믿고 마지막까지 버텨내라.”",
+      "reversed": "“과거의 상처에 발목 잡혀 나아가지 못하거나, 불필요한 의심으로 벽을 쌓고 있다.”"
+    }
+  },
+  "symbols": {
+    "title": "상징 해설",
+    "items": [
+      {
+        "name": "아홉 개의 채 울타리",
+        "meaning": "지금까지의 싸움을 통해 얻은 경험과 지혜를 상징한다. 이는 외부의 공격으로부터 자신을 보호하는 견고한 방어벽이 된다."
+      },
+      {
+        "name": "머리의 붕대",
+        "meaning": "과거의 싸움에서 얻은 상처와 고통을 상징한다. 이 상처 때문에 그는 더욱 신중하고 경계심이 강해졌음을 의미한다."
+      },
+      {
+        "name": "굳건히 서 있는 자세",
+        "meaning": "육체적, 정신적으로 지쳤음에도 불구하고 포기하지 않는 강인한 의지와 정신력을 나타낸다."
+      },
+      {
+        "name": "황량한 배경",
+        "meaning": "그가 현재 처한 고립되고 힘든 상황을 보여준다. 더 이상 물러설 곳 없이 마지막 싸움을 준비해야 하는 절박함을 상징한다."
+      }
+    ]
+  },
+  "a11y": {
+    "alt_text_kr": "머리에 붕대를 감은 고양이가 아홉 개의 채를 등 뒤에 세워두고 경계하며 서 있다. 장식적인 테두리 안에 그림이 있다. 카드 상단엔 'NEUF', 하단엔 ‘NEUF DE BÂTONS’가 적혀 있다.",
+    "alt_text_en": "A cat with a bandaged head stands warily with nine wands set up behind it like a fence, inside a decorative frame. The card shows 'NEUF' at the top and 'NEUF DE BÂTONS' at the bottom."
+  },
+  "prompts": {
+    "illustration_prompt_en": "Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, 'Neuf de Bâtons' (Nine of Wands), is in the style of a resilient and weary antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration features a tough and tired Norwegian Forest Cat, dressed in a worn-out troupe member's outfit. It has a bandage wrapped around its head. It stands guard resolutely, holding one mallet. Behind it, eight other poles (representing wands) are stuck in the ground, forming a defensive barrier. The background is a barren, rocky landscape at dusk, suggesting a long and hard-fought journey. The cat’s expression is weary but determined. -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, a cartouche contains 'NEUF'. At the bottom, a matching cartouche frames 'NEUF DE BÂTONS'. --ar 736:1408 --v 6.0 --style raw --quality 1",
+    "title": "인내를 위한 질문",
+    "items": [
+      {
+        "id": "on_perseverance",
+        "text": "당신이 거의 완성 단계에 이른 목표는 무엇이며, 그 마지막 고비를 넘기 위해 어떤 마음의 준비가 필요한가요?"
+      },
+      {
+        "id": "on_resilience",
+        "text": "과거의 실패나 상처가 현재 당신을 어떻게 더 강하게 만들어주고 있나요?"
+      }
+    ]
+  },
+  "assets_slots": {
+    "illustration": "minor_wand_09_neuf_v1_ornate_final.png",
+    "symbol_map": null
+  }
+}

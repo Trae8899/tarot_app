@@ -1,0 +1,125 @@
+{
+  "id": "minor_wand_7_sept_debatons",
+  "meta": {
+    "deck_id": "chat_coreen_tarot_v1",
+    "card_id": "wand7",
+    "variant_id": "classic_ornate_final",
+    "titles": {
+      "top_main": "SEPT",
+      "bottom_main": "SEPT DE BÂTONS",
+      "native": "텃세에 맞서는 상쇠",
+      "en": "The Leader Defending His Ground",
+      "original_tarot": "SEVEN OF WANDS"
+    }
+  },
+  "frame_v3": {
+    "canvas_size": [ 736, 1408 ],
+    "padding_sides": 54,
+    "top_band_height": 184,
+    "bottom_band_height": 276,
+    "illustration_y_range": [ 240, 2100 ],
+    "safe_inset": 24,
+    "colors": {
+      "paper": "#FBF5E8",
+      "band": "#F3EADA",
+      "ink": "#4D3B2A"
+    },
+    "title_mode": "ornate_cartouche",
+    "font_scaling_single": 0.40
+  },
+  "structure": {
+    "number": 7,
+    "roman_numeral": "VII",
+    "arcana": "Minor",
+    "suit": "Wands",
+    "cat_breed": "아메리칸 숏헤어 (강단 있고 용감함)",
+    "hanbok_style": "싸움에 편하도록 소매를 걷어붙인 풍물패 의상",
+    "color_theme_keywords": [
+      "진녹색(용기, 신념)",
+      "적갈색(도전)",
+      "회색(어려움)"
+    ],
+    "cat_personality": "불리한 상황에서도 자신의 신념과 자리를 지키기 위해 물러서지 않는 용감하고 독립적인 투사. 다수를 상대로도 기죽지 않는 강한 정신력을 가졌다.",
+    "pose_description": "높은 언덕이나 바위 위에 홀로 서서, 방어적인 자세로 자신의 채를 굳게 쥐고 있다. 아래쪽에서는 여섯 명의 다른 고양이들이 각자의 채를 들고 그를 위협하며 올라오려 하고 있다. 그는 수적으로 불리하지만, 결코 물러서지 않겠다는 결연한 표정이다.",
+    "outfit_description": "격렬한 다툼을 준비하듯, 활동하기 편하게 옷을 정비하고 소매를 걷어붙인 모습에서 그의 결연한 의지가 엿보인다.",
+    "prop_description": "주인공이 선 높은 지형은 그가 도덕적으로나 실력적으로 우위에 있음을 상징한다. 그가 든 하나의 채는 그의 확고한 신념과 입장을, 아래에서 위협하는 여섯 개의 채는 그가 마주한 도전과 반대를 의미한다. 짝짝이 신발은 이 싸움이 갑작스럽게 시작되었으며, 그만큼 어려운 상황임을 암시한다.",
+    "background_scene": "험준한 바위 언덕. 하늘에는 구름이 끼어 있어 상황의 긴박함과 어려움을 보여준다. 평화로운 마을이 아닌, 생존과 경쟁이 벌어지는 거친 자연을 배경으로 한다.",
+    "color_palette_main": [
+      "#006400",
+      "#A52A2A",
+      "#808080"
+    ],
+    "color_palette_accent": [
+      "#F4A460",
+      "#FFFFFF"
+    ],
+    "symbol_summary_keywords": [
+      "방어",
+      "용기",
+      "신념",
+      "도전",
+      "꿋꿋함"
+    ],
+    "cat_quote": "“내 신념이 담긴 이 장단은, 천 개의 북소리에도 흔들리지 않는다.”"
+  },
+  "content": {
+    "story": {
+      "korean": "성공과 명성은 새로운 도전을 불러왔다. 풍물패의 명성을 시기하는 다른 무리들이 그들의 자리를 위협하기 시작한다. 상쇠 고양이는 홀로 높은 곳에 서서, 자신들의 신념과 어렵게 얻은 위치를 지키기 위해 수많은 도전자들과 맞선다. 수적으로 불리하고 힘겨운 싸움이지만, 그는 결코 물러설 생각이 없다. 이 카드는 자신의 신념, 가치, 자리를 지키기 위한 용감한 투쟁을 상징한다.",
+      "english": "Success and fame have brought new challenges. Other groups, envious of the troupe's reputation, begin to threaten their position. The lead player cat stands alone on high ground, facing numerous challengers to defend his beliefs and hard-earned place. It is an outnumbered and arduous fight, but he has no intention of backing down. This card symbolizes the courageous struggle to protect one's beliefs, values, and position."
+    },
+    "keywords": [
+      "자신의 입장을 방어함",
+      "도전에 맞섬",
+      "신념",
+      "용기",
+      "경쟁에서의 우위"
+    ],
+    "core_message": {
+      "upright": "“힘겨운 싸움이겠지만, 당신의 신념을 믿고 끝까지 당신의 자리를 지켜라. 당신은 이길 수 있다.”",
+      "reversed": "“모든 것을 혼자 짊어지려 하지 마라. 압도당하기 전에 타협하거나 도움을 요청할 필요가 있다.”"
+    }
+  },
+  "symbols": {
+    "title": "상징 해설",
+    "items": [
+      {
+        "name": "높은 지형 위 한 명의 고양이",
+        "meaning": "경쟁이나 논쟁에서 유리한 고지를 점하고 있음을 상징한다. 이는 실력, 도덕적 명분, 혹은 전략적 우위를 의미할 수 있다."
+      },
+      {
+        "name": "아래에서 공격하는 여섯 개의 채",
+        "meaning": "주인공이 마주한 압도적인 반대 의견, 경쟁자, 혹은 어려움을 상징한다. 이는 외부의 도전일 수도 있고, 내부의 비판일 수도 있다."
+      },
+      {
+        "name": "결연한 표정",
+        "meaning": "불리한 상황에도 불구하고 자신의 신념을 포기하지 않는 강한 의지와 용기를 나타낸다."
+      },
+      {
+        "name": "짝짝이 신발 (혹은 신발 한 짝만 신은 모습)",
+        "meaning": "전통적인 타로 해석을 차용한 것으로, 갑작스럽고 고르지 못한 지형에서 싸우는 어려움을 상징한다. 준비되지 않은 상태에서 맞이한 힘겨운 싸움을 의미한다."
+      }
+    ]
+  },
+  "a11y": {
+    "alt_text_kr": "한 고양이가 언덕 위에서 채를 들고, 아래에서 올라오는 여섯 명의 다른 고양이들에 맞서고 있다. 장식적인 테두리 안에 그림이 있다. 카드 상단엔 'SEPT', 하단엔 ‘SEPT DE BÂTONS’가 적혀 있다.",
+    "alt_text_en": "A cat stands on a hill holding a baton, confronting six other cats climbing up from below, inside a decorative frame. The card shows 'SEPT' at the top and 'SEPT DE BÂTONS' at the bottom."
+  },
+  "prompts": {
+    "illustration_prompt_en": "Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, 'Sept de Bâtons' (Seven of Wands), is in the style of a determined and courageous antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration features a brave American Shorthair cat, dressed as a troupe member. It stands defiantly on a high, rocky outcrop, holding its own mallet defensively. From below, six other unseen figures are thrusting their own mallets up towards it, challenging its position. The cat wears a determined expression, refusing to back down despite being outnumbered. The sky is overcast, adding to the tense atmosphere. -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, a cartouche contains 'SEPT'. At the bottom, a matching cartouche frames 'SEPT DE BÂTONS'. --ar 736:1408 --v 6.0 --style raw --quality 1",
+    "title": "도전을 위한 질문",
+    "items": [
+      {
+        "id": "on_defense",
+        "text": "당신이 현재 외부의 비판이나 반대로부터 지켜내야 할 당신의 소중한 신념이나 가치는 무엇인가요?"
+      },
+      {
+        "id": "on_courage",
+        "text": "모두가 '아니오'라고 말할 때, 당신 혼자서라도 '예'라고 외칠 수 있는 용기가 있나요?"
+      }
+    ]
+  },
+  "assets_slots": {
+    "illustration": "minor_wand_07_sept_v1_ornate_final.png",
+    "symbol_map": null
+  }
+}

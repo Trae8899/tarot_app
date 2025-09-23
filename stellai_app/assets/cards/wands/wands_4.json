@@ -1,0 +1,125 @@
+{
+  "id": "minor_wand_4_quatre_debatons",
+  "meta": {
+    "deck_id": "chat_coreen_tarot_v1",
+    "card_id": "wand4",
+    "variant_id": "classic_ornate_final",
+    "titles": {
+      "top_main": "QUATRE",
+      "bottom_main": "QUATRE DE BÂTONS",
+      "native": "성황당 아래에서의 잔치",
+      "en": "The Feast under the Sacred Tree",
+      "original_tarot": "FOUR OF WANDS"
+    }
+  },
+  "frame_v3": {
+    "canvas_size": [ 736, 1408 ],
+    "padding_sides": 54,
+    "top_band_height": 184,
+    "bottom_band_height": 276,
+    "illustration_y_range": [ 240, 2100 ],
+    "safe_inset": 24,
+    "colors": {
+      "paper": "#FBF5E8",
+      "band": "#F3EADA",
+      "ink": "#4D3B2A"
+    },
+    "title_mode": "ornate_cartouche",
+    "font_scaling_single": 0.40
+  },
+  "structure": {
+    "number": 4,
+    "roman_numeral": "IV",
+    "arcana": "Minor",
+    "suit": "Wands",
+    "cat_breed": "랙돌 (사교적이고 평화로움)",
+    "hanbok_style": "잔치 분위기에 어울리는 화사한 색의 풍물패 의상",
+    "color_theme_keywords": [
+      "분홍색(축하, 기쁨)",
+      "나무 갈색(안정, 기반)",
+      "금색(성공)"
+    ],
+    "cat_personality": "자신들의 노력이 결실을 맺은 것에 기뻐하며, 주변 사람들과 함께 행복을 나누는 사교적이고 만족스러운 인물들.",
+    "pose_description": "마을을 지키는 거대한 성황당 나무 아래, 두 고양이가 꽃으로 장식된 네 개의 깃대 사이에서 환영의 의미로 화관을 들고 춤을 추고 있다. 배경에서는 다른 풍물패 단원들과 마을 고양이들이 함께 어울려 잔치를 즐기고 있다.",
+    "outfit_description": "성공적인 공연을 축하하는 의미로, 평소보다 더 화려하고 깨끗한 풍물패 의상을 입고 있다.",
+    "prop_description": "꽃으로 장식된 네 개의 깃대(채)는 노력으로 이룬 안정적인 기반과 성공을 기념하는 문을 상징한다. 거대한 성황당 나무는 공동체의 보호와 안정을 의미한다. 풍성하게 차려진 잔치 음식과 웃고 있는 사람들은 조화와 행복, 그리고 노력의 결실을 나타낸다.",
+    "background_scene": "화창한 오후, 마을 어귀의 크고 오래된 성황당 나무 아래. 나무에는 오색 천이 둘러져 있고, 그 아래에서 풍물패와 마을 사람들이 함께 어울려 춤추고 음식을 나누며 즐거운 잔치를 벌이고 있다.",
+    "color_palette_main": [
+      "#FFB6C1",
+      "#8B4513",
+      "#FFD700"
+    ],
+    "color_palette_accent": [
+      "#90EE90",
+      "#FFFFFF"
+    ],
+    "symbol_summary_keywords": [
+      "축하",
+      "안정",
+      "공동체",
+      "행복",
+      "결실"
+    ],
+    "cat_quote": "“진정한 신명은 혼자가 아닌, 함께 나눌 때 완성된다.”"
+  },
+  "content": {
+    "story": {
+      "korean": "긴 여정 끝에 도착한 마을에서 풍물패의 공연은 대성공을 거두었다. 그들은 마을 공동체의 따뜻한 환영 속에서, 자신들의 첫 번째 결실을 축하하는 잔치를 벌인다. 네 개의 깃대는 이제 단순한 채가 아닌, 안정적인 성공의 기반을 상징하는 기둥이 되었다. 이 카드는 노력의 첫 결실, 안정적인 기반의 확립, 그리고 공동체와 함께 나누는 행복과 축하의 순간을 상징한다.",
+      "english": "After a long journey, the troupe's performance in the village they arrived at was a great success. Amidst the warm welcome of the village community, they hold a feast to celebrate their first fruition. The four poles are no longer just batons, but have become pillars symbolizing a stable foundation of success. This card represents the first fruits of labor, the establishment of a stable foundation, and a moment of happiness and celebration shared with the community."
+    },
+    "keywords": [
+      "축하",
+      "결실",
+      "안정적인 기반",
+      "행복한 가정",
+      "공동체의 화합"
+    ],
+    "core_message": {
+      "upright": "“지금은 당신의 노력이 이룬 결실을 마음껏 축하하고 즐길 시간이다.”",
+      "reversed": "“겉으로는 안정돼 보이지만, 내부적인 불화나 불안정함이 있다. 진정한 축하를 위해 기반을 다시 점검하라.”"
+    }
+  },
+  "symbols": {
+    "title": "상징 해설",
+    "items": [
+      {
+        "name": "네 개의 깃대",
+        "meaning": "숫자 4가 상징하는 안정성과 완드의 열정이 결합하여, 노력으로 이룩한 '안정적인 성공의 기반'을 의미한다. 이는 축제를 위한 환영의 문이기도 하다."
+      },
+      {
+        "name": "성황당 나무",
+        "meaning": "마을 공동체의 중심이자 안녕을 기원하는 신성한 장소. 이곳에서의 잔치는 개인의 성공이 공동체의 축복과 안정 속에서 이루어졌음을 상징한다."
+      },
+      {
+        "name": "춤추는 고양이들과 잔치",
+        "meaning": "노력의 결실을 함께 나누는 순수한 기쁨과 조화, 그리고 행복을 상징한다."
+      },
+      {
+        "name": "화관",
+        "meaning": "성공과 승리를 축하하는 상징물로, 공동체가 그들의 노력을 인정하고 환영하고 있음을 나타낸다."
+      }
+    ]
+  },
+  "a11y": {
+    "alt_text_kr": "두 고양이가 성황당 나무 아래, 네 개의 깃대 사이에서 춤을 추고 있다. 배경에는 잔치를 즐기는 다른 고양이들이 보인다. 장식적인 테두리 안에 그림이 있다. 카드 상단엔 'QUATRE', 하단엔 ‘QUATRE DE BÂTONS’가 적혀 있다.",
+    "alt_text_en": "Two cats are dancing between four poles under a sacred village tree, with other cats enjoying a feast in the background, inside a decorative frame. The card shows 'QUATRE' at the top and 'QUATRE DE BÂTONS' at the bottom."
+  },
+  "prompts": {
+    "illustration_prompt_en": "Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, 'Quatre de Bâtons' (Four of Wands), is in the style of a joyful and celebratory antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration depicts a lively village festival under a large, sacred tree (seonangdang) decorated with colorful cloths. Four tall poles (representing wands), adorned with flowers and ribbons, form a ceremonial gateway. In the foreground, two happy Ragdoll cats, part of the troupe, dance and hold up a floral garland. In the background, other cats (villagers and troupe members) are celebrating together, sharing food and music. The overall atmosphere is one of harmony, stability, and joyful celebration. -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, a cartouche contains 'QUATRE'. At the bottom, a matching cartouche frames 'QUATRE DE BÂTONS'. --ar 736:1408 --v 6.0 --style raw --quality 1",
+    "title": "축하를 위한 질문",
+    "items": [
+      {
+        "id": "on_celebration",
+        "text": "당신이 최근 노력하여 이룬 작지만 소중한 성공은 무엇이며, 어떻게 축하하고 싶나요?"
+      },
+      {
+        "id": "on_community",
+        "text": "당신의 성공과 기쁨을 함께 나누고 싶은 소중한 사람들은 누구인가요?"
+      }
+    ]
+  },
+  "assets_slots": {
+    "illustration": "minor_wand_04_quatre_v1_ornate_final.png",
+    "symbol_map": null
+  }
+}

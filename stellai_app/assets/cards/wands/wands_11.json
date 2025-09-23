@@ -1,0 +1,125 @@
+{
+  "id": "minor_wand_11_valet_debatons",
+  "meta": {
+    "deck_id": "chat_coreen_tarot_v1",
+    "card_id": "wand11",
+    "variant_id": "classic_ornate_final",
+    "titles": {
+      "top_main": "VALET",
+      "bottom_main": "VALET DE BÂTONS",
+      "native": "호기심 많은 무동",
+      "en": "The Curious Child Performer",
+      "original_tarot": "PAGE OF WANDS"
+    }
+  },
+  "frame_v3": {
+    "canvas_size": [ 736, 1408 ],
+    "padding_sides": 54,
+    "top_band_height": 184,
+    "bottom_band_height": 276,
+    "illustration_y_range": [ 240, 2100 ],
+    "safe_inset": 24,
+    "colors": {
+      "paper": "#FBF5E8",
+      "band": "#F3EADA",
+      "ink": "#4D3B2A"
+    },
+    "title_mode": "ornate_cartouche",
+    "font_scaling_single": 0.40
+  },
+  "structure": {
+    "number": 11,
+    "roman_numeral": "XI",
+    "arcana": "Minor",
+    "suit": "Wands",
+    "cat_breed": "먼치킨 (호기심 많고 사랑스러움)",
+    "hanbok_style": "어린 무동이 입는 화려한 색동 옷",
+    "color_theme_keywords": [
+      "연두색(호기심, 새로운 시작)",
+      "밝은 노란색(배움, 에너지)",
+      "다채로움(가능성)"
+    ],
+    "cat_personality": "세상 모든 것에 호기심이 넘치고, 새로운 것을 배우려는 열정으로 가득 찬 긍정적인 탐험가. 실패를 두려워하지 않고 무엇이든 시도해 본다.",
+    "pose_description": "넓은 마당에서, 아직은 몸에 조금 큰 상모를 쓰고 어설프게 상모 채를 휘두르고 있다. 넘어질 듯 비틀거리면서도 그의 얼굴에는 웃음과 함께 새로운 기술을 배운다는 순수한 즐거움과 집중력이 가득하다.",
+    "outfit_description": "어린아이의 순수함과 풍물패의 화려함을 동시에 보여주는 색동 한복을 입고 있다.",
+    "prop_description": "어린 고양이가 들고 있는 상모 채는 이제 막 발견한 새로운 열정이나 아이디어를 상징한다. 땅에 떨어진 도토리들은 그의 작은 실수들을 의미하지만, 그는 개의치 않는다. 주변을 맴도는 나비는 그의 순수한 영감과 자유로운 탐험 정신을 나타낸다.",
+    "background_scene": "따스한 햇살이 비치는 평화로운 시골집 마당. 옆에서는 어미 고양이가 흐뭇하게 그를 지켜보고 있다. 실패가 용납되는 안전하고 긍정적인 환경 속에서 새로운 배움이 시작되고 있음을 보여준다.",
+    "color_palette_main": [
+      "#ADFF2F",
+      "#FFFF00",
+      "#F0E68C"
+    ],
+    "color_palette_accent": [
+      "#FF69B4",
+      "#87CEEB"
+    ],
+    "symbol_summary_keywords": [
+      "열정",
+      "탐구",
+      "새소식",
+      "호기심",
+      "자유로운 영혼"
+    ],
+    "cat_quote": "“넘어지는 건 부끄러운 게 아니야! 상모를 돌릴 새로운 방법을 배운 것뿐이라고!”"
+  },
+  "content": {
+    "story": {
+      "korean": "풍물패의 이야기는 새로운 세대로 이어진다. 호기심 많은 무동 고양이가 처음으로 상모 채를 잡았다. 아직은 모든 것이 서툴고 어설프지만, 그의 마음은 새로운 것을 배운다는 열정으로 가득 차 있다. 실패를 두려워하지 않는 그의 순수한 탐험 정신은 주변에 긍정적인 에너지를 퍼뜨린다. 이 카드는 새로운 열정의 발견, 창의적인 아이디어의 탐구, 그리고 즐거운 소식의 시작을 상징한다.",
+      "english": "The story of the troupe continues with a new generation. A curious child performer cat picks up a sangmo baton for the first time. Though still clumsy and awkward, its heart is full of passion for learning something new. Its pure spirit of exploration, unafraid of failure, spreads positive energy all around. This card symbolizes the discovery of a new passion, the exploration of creative ideas, and the beginning of joyful news."
+    },
+    "keywords": [
+      "새로운 아이디어 탐구",
+      "열정적인 시작",
+      "긍정적인 새소식",
+      "호기심",
+      "자유로운 정신"
+    ],
+    "core_message": {
+      "upright": "“새로운 열정이 당신을 부르고 있다. 실패를 두려워 말고 순수한 호기심으로 탐험을 시작하라.”",
+      "reversed": "“열정이 방향을 잃고 산만해지거나, 시작하기도 전에 지레 겁먹고 있다. 하나의 목표에 집중하라.”"
+    }
+  },
+  "symbols": {
+    "title": "상징 해설",
+    "items": [
+      {
+        "name": "상모 채를 든 무동",
+        "meaning": "완드 에너지를 처음 접하는 초심자를 상징한다. 이는 새로운 취미, 열정, 혹은 창의적인 프로젝트의 시작을 의미한다."
+      },
+      {
+        "name": "어설픈 자세",
+        "meaning": "아직 경험이 부족하고 미숙하지만, 실패를 두려워하지 않는 순수한 탐험 정신과 배움의 과정을 나타낸다."
+      },
+      {
+        "name": "나비",
+        "meaning": "자유로운 영감과 창의성, 그리고 긍정적인 소식을 상징한다. 그의 탐험이 즐거운 결과로 이어질 것임을 암시한다."
+      },
+      {
+        "name": "안전한 마당",
+        "meaning": "그의 도전이 안전하게 보호받고 지지받는 환경 속에서 이루어지고 있음을 의미한다. 실수를 해도 괜찮다는 긍정적인 분위기를 나타낸다."
+      }
+    ]
+  },
+  "a11y": {
+    "alt_text_kr": "어린 무동 고양이가 마당에서 상모를 쓰고 즐겁게 상모 돌리기 연습을 하고 있다. 장식적인 테두리 안에 그림이 있다. 카드 상단엔 'VALET', 하단엔 ‘VALET DE BÂTONS’가 적혀 있다.",
+    "alt_text_en": "A young child performer cat is happily practicing spinning a sangmo hat in a yard, inside a decorative frame. The card shows 'VALET' at the top and 'VALET DE BÂTONS' at the bottom."
+  },
+  "prompts": {
+    "illustration_prompt_en": "Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, 'Valet de Bâtons' (Page of Wands), is in the style of a curious and joyful antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration features an adorable Munchkin cat, dressed as a child performer (mudong) in a colorful saekdong outfit. It is in a sunny yard, enthusiastically but clumsily practicing with a sangmo (a hat with a spinning ribbon). Its expression is full of pure joy and concentration, undeterred by its awkwardness. A butterfly flutters nearby. The overall atmosphere is one of youthful energy, curiosity, and the excitement of new discoveries. -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, a cartouche contains 'VALET'. At the bottom, a matching cartouche frames 'VALET DE BÂTONS'. --ar 736:1408 --v 6.0 --style raw --quality 1",
+    "title": "탐험을 위한 질문",
+    "items": [
+      {
+        "id": "on_exploration",
+        "text": "최근 당신의 순수한 호기심을 자극하고, 시간 가는 줄 모르게 만드는 새로운 관심사는 무엇인가요?"
+      },
+      {
+        "id": "on_message",
+        "text": "당신이 다른 사람들에게 전달하고 싶은 흥미롭고 새로운 소식이 있나요?"
+      }
+    ]
+  },
+  "assets_slots": {
+    "illustration": "minor_wand_11_valet_v1_ornate_final.png",
+    "symbol_map": null
+  }
+}

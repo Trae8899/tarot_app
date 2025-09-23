@@ -1,0 +1,125 @@
+{
+  "id": "minor_wand_8_huit_debatons",
+  "meta": {
+    "deck_id": "chat_coreen_tarot_v1",
+    "card_id": "wand8",
+    "variant_id": "classic_ornate_final",
+    "titles": {
+      "top_main": "HUIT",
+      "bottom_main": "HUIT DE BÂTONS",
+      "native": "바람처럼 달리는 전령",
+      "en": "The Messenger Swift as the Wind",
+      "original_tarot": "EIGHT OF WANDS"
+    }
+  },
+  "frame_v3": {
+    "canvas_size": [ 736, 1408 ],
+    "padding_sides": 54,
+    "top_band_height": 184,
+    "bottom_band_height": 276,
+    "illustration_y_range": [ 240, 2100 ],
+    "safe_inset": 24,
+    "colors": {
+      "paper": "#FBF5E8",
+      "band": "#F3EADA",
+      "ink": "#4D3B2A"
+    },
+    "title_mode": "ornate_cartouche",
+    "font_scaling_single": 0.40
+  },
+  "structure": {
+    "number": 8,
+    "roman_numeral": "VIII",
+    "arcana": "Minor",
+    "suit": "Wands",
+    "cat_breed": "오리엔탈 숏헤어 (민첩하고 빠름)",
+    "hanbok_style": "바람의 저항을 덜 받는 간소하고 가벼운 행상복",
+    "color_theme_keywords": [
+      "하늘색(속도, 소통)",
+      "선명한 노란색(움직임, 에너지)",
+      "녹색(진전)"
+    ],
+    "cat_personality": "망설임 없이 목표를 향해 전속력으로 나아가는 빠르고 결단력 있는 행동가. 생각보다 행동이 앞서는 스타일이다.",
+    "pose_description": "중요한 소식이 담긴 두루마리를 입에 문 채, 네 발로 땅을 박차고 전속력으로 달리고 있다. 그의 주변으로 여덟 개의 채가 화살처럼 허공을 가르며 함께 날아가고, 바람에 옷자락과 귀가 격렬하게 휘날려 엄청난 속도감을 보여준다.",
+    "outfit_description": "긴급한 임무 수행에 거추장스럽지 않도록 최대한 간소화된 복장을 하고 있다.",
+    "prop_description": "허공을 나는 여덟 개의 채는 장애물 없이 빠르게 진행되는 상황, 혹은 쏟아지는 소식과 정보를 상징한다. 입에 문 두루마리는 그가 전달해야 할 중요한 메시지나 목표를 의미한다. 맑게 갠 하늘과 평탄한 길은 그의 여정에 방해가 없음을 나타낸다.",
+    "background_scene": "화창한 날의 잘 닦인 평탄한 길. 주변 풍경이 휙휙 지나가는 것처럼 흐릿하게 표현되어 속도감을 강조한다. 멀리 그가 달려가야 할 목적지인 마을이 보인다.",
+    "color_palette_main": [
+      "#87CEEB",
+      "#FFD700",
+      "#32CD32"
+    ],
+    "color_palette_accent": [
+      "#FFA500",
+      "#FFFFFF"
+    ],
+    "symbol_summary_keywords": [
+      "속도",
+      "급한 소식",
+      "진전",
+      "행동",
+      "결말 임박"
+    ],
+    "cat_quote": "“생각은 따라오면 돼. 지금은 달려야 할 때!”"
+  },
+  "content": {
+    "story": {
+      "korean": "방어전이 끝나고 상황은 급변했다. 긍정적이든 부정적이든, 이제는 빠르게 행동해야 할 때다. 전령 고양이는 중요한 소식을 전하기 위해 망설임 없이 달린다. 장애물 없이 허공을 가르는 여덟 개의 채처럼, 모든 일이 신속하게 진행되고 결말을 향해 치닫는다. 이 카드는 빠른 속도, 급작스러운 진전, 그리고 중요한 소식의 도착을 상징한다.",
+      "english": "After the defensive battle, the situation changed rapidly. Whether for better or worse, it is now time to act quickly. The messenger cat runs without hesitation to deliver important news. Like the eight wands cutting through the air without obstacles, everything is progressing swiftly and rushing towards a conclusion. This card symbolizes high speed, sudden progress, and the arrival of important news."
+    },
+    "keywords": [
+      "빠른 속도",
+      "신속한 진행",
+      "급한 소식",
+      "목표를 향한 움직임",
+      "여행"
+    ],
+    "core_message": {
+      "upright": "“망설일 시간이 없다. 지금 모든 것이 빠르게 진행되고 있으니, 이 흐름에 맞춰 신속하게 행동하라.”",
+      "reversed": "“예상치 못한 지연이나 장애물이 발생했다. 성급하게 굴지 말고 잠시 속도를 조절해야 한다.”"
+    }
+  },
+  "symbols": {
+    "title": "상징 해설",
+    "items": [
+      {
+        "name": "허공을 나는 여덟 개의 채",
+        "meaning": "완드의 에너지가 어떠한 저항도 없이 자유롭게 발산되고 있음을 상징한다. 이는 빠른 속도, 명확한 소통, 그리고 신속한 사건의 진행을 의미한다."
+      },
+      {
+        "name": "달리는 전령",
+        "meaning": "생각의 단계를 넘어 즉각적인 행동이 필요한 시점임을 나타낸다. 목표를 향해 모든 에너지를 쏟아붓는 모습을 보여준다."
+      },
+      {
+        "name": "입에 문 두루마리",
+        "meaning": "이 빠른 움직임에 명확한 목적(메시지 전달)이 있음을 보여준다. 단순한 혼돈이 아닌, 목표 지향적인 행동임을 상징한다."
+      },
+      {
+        "name": "평탄한 지형과 맑은 하늘",
+        "meaning": "현재 상황의 진행을 가로막는 장애물이 없음을 시각적으로 보여준다. 모든 것이 순조롭게 풀려나갈 것임을 암시한다."
+      }
+    ]
+  },
+  "a11y": {
+    "alt_text_kr": "전령 고양이가 입에 두루마리를 문 채 달리고 있고, 여덟 개의 채가 허공을 날아가고 있다. 장식적인 테두리 안에 그림이 있다. 카드 상단엔 'HUIT', 하단엔 ‘HUIT DE BÂTONS’가 적혀 있다.",
+    "alt_text_en": "A messenger cat is running with a scroll in its mouth, as eight wands fly through the air, inside a decorative frame. The card shows 'HUIT' at the top and 'HUIT DE BÂTONS' at the bottom."
+  },
+  "prompts": {
+    "illustration_prompt_en": "Full bleed image of a complete tarot card, filling the entire image frame from edge to edge. The card, 'Huit de Bâtons' (Eight of Wands), is in the style of a swift and dynamic antique Korean folk painting (Minhwa), 4K resolution, sharp focus. -- The central illustration features a sleek Oriental Shorthair cat, dressed as a messenger, running at full speed across a landscape. It carries a scroll in its mouth. In the air, eight poles (representing wands) fly parallel to the cat, as if they are arrows shot towards a target. The background is slightly blurred to emphasize the incredible speed. The overall atmosphere is one of rapid movement, swift progress, and imminent news. -- The illustration is enclosed by an elegant, decorative line-art frame on a paper-textured background (#FBF5E8). At the top, a cartouche contains 'HUIT'. At the bottom, a matching cartouche frames 'HUIT DE BÂTONS'. --ar 736:1408 --v 6.0 --style raw --quality 1",
+    "title": "속도를 위한 질문",
+    "items": [
+      {
+        "id": "on_speed",
+        "text": "당신의 삶에서 지금 어떤 일이 빠르게 진행되고 있나요? 이 속도에 어떻게 대응하고 있나요?"
+      },
+      {
+        "id": "on_message",
+        "text": "당신이 지금 당장 다른 사람에게 신속하게 전달해야 할 중요한 메시지나 소식은 무엇인가요?"
+      }
+    ]
+  },
+  "assets_slots": {
+    "illustration": "minor_wand_08_huit_v1_ornate_final.png",
+    "symbol_map": null
+  }
+}
